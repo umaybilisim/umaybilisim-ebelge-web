@@ -1,4 +1,4 @@
-# Umay e-Belge — Statik Web Sitesi
+﻿# Umay e-Belge — Statik Web Sitesi
 
 Türkiye'nin uzman e-belge çözüm ortağı **Umay Tüm Bilişim Ltd. Şti.** için, 11 GİB onaylı e-belge ürününün tanıtım ve satışını yapan modern, SEO uyumlu, **statik web sitesi**.
 
@@ -94,7 +94,7 @@ Platform-agnostik. Tüm path'ler relative.
 | Alan | Değer |
 |---|---|
 | Ünvan | Umay Tüm Bilişim ve Eğitim Danışmanlık Yazılım İth. İhr. San. Tic. Ltd. Şti. |
-| Telefon | 0 264 777 11 45 — 0 850 777 11 45 |
+| Telefon | 0 850 777 11 45 |
 | E-posta | bilgi@umaybilisim.com.tr |
 | Adres | Erenler Mah. 1193 Nolu Sk. No:4/1-213, Meydan54 AVM B1 Blok K:2 D:84, 54200 Erenler / SAKARYA |
 | MERSİS | 0892062544300001 |
