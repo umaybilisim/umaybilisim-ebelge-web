@@ -191,9 +191,12 @@
     const fab = document.querySelector('.fab-whatsapp');
     if (!fab) return;
 
+    // sessionStorage: kullanıcı bu sekmede kapattıysa tekrar gösterme
+    // (yeni sekme açar veya tarayıcı kapatıp tekrar açarsa yine görünür)
     const KEY = 'umay-wa-bubble-dismissed';
-    const dismissed = localStorage.getItem(KEY);
-    if (dismissed && (Date.now() - parseInt(dismissed, 10)) < 24 * 60 * 60 * 1000) return;
+    if (sessionStorage.getItem(KEY)) return;
+    // Eski localStorage kaydını temizle (önceki sürümden kalmış olabilir)
+    try { localStorage.removeItem(KEY); } catch (e) {}
 
     const bubble = document.createElement('a');
     bubble.className = 'fab-whatsapp-bubble';
@@ -212,7 +215,7 @@
       e.preventDefault();
       e.stopPropagation();
       bubble.classList.remove('show');
-      localStorage.setItem(KEY, Date.now().toString());
+      sessionStorage.setItem(KEY, '1');
       setTimeout(function () { bubble.remove(); }, 350);
     });
 
