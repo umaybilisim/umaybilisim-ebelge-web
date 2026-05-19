@@ -1,0 +1,56 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Inject deploy version into HTML
+        run: |
+          set -e
+          SHORT_SHA="${GITHUB_SHA:0:7}"
+          TR_DATE=$(TZ='Europe/Istanbul' date +'%Y-%m-%d %H:%M:%S %:z')
+          NEW_TAG="<!-- v: ${SHORT_SHA} | ${TR_DATE} -->"
+          echo "Injecting: ${NEW_TAG}"
+
+          # Tüm HTML dosyalarındaki mevcut versiyon yorumunu güncelle.
+          # Pipe karakteri sed separator olarak kullanılıyor (URL'lerle çakışmasın).
+          find . -type f -name "*.html" \
+            -not -path "./.git/*" \
+            -not -path "./node_modules/*" \
+            -print0 | xargs -0 sed -i -E "s|<!-- v: [a-f0-9]+ \\| [^>]+ -->|${NEW_TAG}|g"
+
+          # Doğrulama: index.html'deki yorum
+          echo "---"
+          grep -m 1 "<!-- v:" index.html || echo "WARN: index.html'de versiyon yorumu bulunamadi"
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
