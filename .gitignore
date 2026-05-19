@@ -1,0 +1,25 @@
+# OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Local
+*.log
+.cache/
+.tmp/
+
+# Build (statik site olduğu için yok ama ileride eklenirse)
+node_modules/
+dist/
+.parcel-cache/
+
+# Yerel ayarlar
+.claude/settings.local.json
