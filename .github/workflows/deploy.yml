@@ -33,11 +33,11 @@ jobs:
           echo "Injecting: ${NEW_TAG}"
 
           # Tüm HTML dosyalarındaki mevcut versiyon yorumunu güncelle.
-          # Pipe karakteri sed separator olarak kullanılıyor (URL'lerle çakışmasın).
+          # Separator olarak # kullanılıyor (replacement içinde literal | var).
           find . -type f -name "*.html" \
             -not -path "./.git/*" \
             -not -path "./node_modules/*" \
-            -print0 | xargs -0 sed -i -E "s|<!-- v: [a-f0-9]+ \\| [^>]+ -->|${NEW_TAG}|g"
+            -print0 | xargs -0 sed -i -E "s#<!-- v: [a-f0-9]+ \| [^>]+ -->#${NEW_TAG}#g"
 
           # Doğrulama: index.html'deki yorum
           echo "---"
