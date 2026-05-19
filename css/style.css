@@ -983,6 +983,12 @@ html.dark .fab-whatsapp-bubble strong { color: #25D366; }
 }
 .article-content a { color: var(--brand-600); font-weight: 500; }
 .article-content a:hover { text-decoration: underline; }
+/* Buton sınıfları .article-content içinde renk/altçizgi override almasın */
+.article-content a.btn { font-weight: 600; text-decoration: none; }
+.article-content a.btn:hover { text-decoration: none; }
+.article-content a.btn-primary { color: #fff; }
+.article-content a.btn-secondary { color: var(--text); }
+.article-content a.btn-ghost { color: var(--text); }
 .article-content table {
   width: 100%; border-collapse: collapse; margin: 1.5rem 0;
   border: 1px solid var(--border); border-radius: var(--radius); overflow: hidden;
