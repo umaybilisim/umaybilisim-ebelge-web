@@ -144,6 +144,45 @@
     });
   }
 
+  // WhatsApp tanıtım baloncuğu — fab'in yanında 5 saniye sonra çıkar
+  function initWhatsappBubble() {
+    const fab = document.querySelector('.fab-whatsapp');
+    if (!fab) return;
+
+    const KEY = 'umay-wa-bubble-dismissed';
+    const dismissed = localStorage.getItem(KEY);
+    if (dismissed && (Date.now() - parseInt(dismissed, 10)) < 24 * 60 * 60 * 1000) return;
+
+    const bubble = document.createElement('a');
+    bubble.className = 'fab-whatsapp-bubble';
+    bubble.href = fab.href;
+    bubble.target = '_blank';
+    bubble.rel = 'noopener';
+    bubble.setAttribute('aria-label', 'WhatsApp ile mesaj at');
+    bubble.innerHTML =
+      '<button class="fab-whatsapp-bubble-close" type="button" aria-label="Kapat">' +
+        '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M18 6L6 18M6 6l12 12"/></svg>' +
+      '</button>' +
+      '<strong>Merhaba <span aria-hidden="true">👋</span></strong>' +
+      '<span class="fab-whatsapp-bubble-text">Size yardımcı olabilir miyiz? Hemen yazın, anında dönüş yapalım.</span>';
+
+    bubble.querySelector('.fab-whatsapp-bubble-close').addEventListener('click', function (e) {
+      e.preventDefault();
+      e.stopPropagation();
+      bubble.classList.remove('show');
+      localStorage.setItem(KEY, Date.now().toString());
+      setTimeout(function () { bubble.remove(); }, 350);
+    });
+
+    document.body.appendChild(bubble);
+    setTimeout(function () { bubble.classList.add('show'); }, 5000);
+
+    // 30 saniye sonra otomatik gizle (tıklamasalar bile UI'yı kapatma)
+    setTimeout(function () {
+      if (bubble.classList.contains('show')) bubble.classList.remove('show');
+    }, 35000);
+  }
+
   // Mevcut sayfayı navigasyonda işaretle
   function highlightActiveNav() {
     const path = location.pathname.replace(/\\/g, '/');
@@ -167,5 +206,6 @@
     initProductFilter();
     initBlogSearch();
     highlightActiveNav();
+    initWhatsappBubble();
   });
 })();

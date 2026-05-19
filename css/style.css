@@ -687,6 +687,103 @@ html.dark .card .card-link { color: var(--brand-300); }
 .fab-whatsapp:hover { transform: scale(1.08); }
 .fab-whatsapp svg { width: 28px; height: 28px; fill: #fff; }
 
+/* WhatsApp tanıtım baloncuğu */
+.fab-whatsapp-bubble {
+  position: fixed;
+  bottom: 2rem;
+  right: 5.75rem;
+  z-index: 44;
+  display: block;
+  max-width: 270px;
+  padding: 0.875rem 2.25rem 0.875rem 1rem;
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  box-shadow: var(--shadow-lg);
+  font-size: 0.875rem;
+  line-height: 1.45;
+  color: var(--text);
+  text-decoration: none;
+  opacity: 0;
+  transform: translateX(10px) scale(0.96);
+  pointer-events: none;
+  transition: opacity 0.35s ease, transform 0.35s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+.fab-whatsapp-bubble.show {
+  opacity: 1;
+  transform: translateX(0) scale(1);
+  pointer-events: auto;
+  animation: bubble-bounce 1.6s ease 0.35s 2;
+}
+@keyframes bubble-bounce {
+  0%, 100% { transform: translateX(0) scale(1); }
+  50% { transform: translateX(-3px) scale(1.02); }
+}
+.fab-whatsapp-bubble::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: -7px;
+  transform: translateY(-50%);
+  border-style: solid;
+  border-width: 7px 0 7px 8px;
+  border-color: transparent transparent transparent var(--card-bg);
+  filter: drop-shadow(1px 0 0 var(--border));
+}
+.fab-whatsapp-bubble strong {
+  display: block;
+  color: #128C7E;
+  font-weight: 700;
+  font-size: 0.95rem;
+  margin-bottom: 0.125rem;
+}
+html.dark .fab-whatsapp-bubble strong { color: #25D366; }
+.fab-whatsapp-bubble-text {
+  color: var(--text-soft);
+  display: block;
+}
+.fab-whatsapp-bubble:hover {
+  border-color: #25D366;
+  transform: translateX(-2px) scale(1.02);
+  box-shadow: 0 14px 40px -10px rgba(37, 211, 102, 0.35);
+}
+.fab-whatsapp-bubble-close {
+  position: absolute;
+  top: 6px;
+  right: 6px;
+  width: 22px;
+  height: 22px;
+  display: grid;
+  place-items: center;
+  background: transparent;
+  border: 0;
+  cursor: pointer;
+  color: var(--text-mute);
+  border-radius: 50%;
+  padding: 0;
+  transition: all 0.2s;
+}
+.fab-whatsapp-bubble-close:hover {
+  background: var(--bg-muted);
+  color: var(--text);
+}
+@media (max-width: 480px) {
+  .fab-whatsapp-bubble {
+    right: 1.5rem;
+    bottom: 5.5rem;
+    max-width: calc(100vw - 3rem);
+  }
+  .fab-whatsapp-bubble::after {
+    top: auto;
+    right: 24px;
+    bottom: -7px;
+    transform: none;
+    border-width: 8px 7px 0 7px;
+    border-color: var(--card-bg) transparent transparent transparent;
+    filter: drop-shadow(0 1px 0 var(--border));
+  }
+}
+
 /* Scroll-to-top */
 .fab-top {
   position: fixed;
