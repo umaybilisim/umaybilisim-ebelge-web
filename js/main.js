@@ -144,6 +144,48 @@
     });
   }
 
+  // Hafif "pop" sesi (Web Audio API, dosya gerektirmez)
+  function playBubblePop() {
+    try {
+      const Ctx = window.AudioContext || window.webkitAudioContext;
+      if (!Ctx) return;
+      const ctx = new Ctx();
+      // Kullanici etkilesimi olmadan tarayicilar AudioContext'i suspended baslatabilir
+      if (ctx.state === 'suspended' && typeof ctx.resume === 'function') {
+        ctx.resume().catch(function () {});
+      }
+      const t = ctx.currentTime;
+
+      // Iki kisa ton: yumusak 'pop' hissi
+      const osc1 = ctx.createOscillator();
+      const gain1 = ctx.createGain();
+      osc1.type = 'sine';
+      osc1.frequency.setValueAtTime(880, t);
+      osc1.frequency.exponentialRampToValueAtTime(440, t + 0.08);
+      gain1.gain.setValueAtTime(0.0001, t);
+      gain1.gain.exponentialRampToValueAtTime(0.12, t + 0.008);
+      gain1.gain.exponentialRampToValueAtTime(0.0001, t + 0.18);
+      osc1.connect(gain1).connect(ctx.destination);
+      osc1.start(t);
+      osc1.stop(t + 0.2);
+
+      const osc2 = ctx.createOscillator();
+      const gain2 = ctx.createGain();
+      osc2.type = 'sine';
+      osc2.frequency.setValueAtTime(1320, t + 0.05);
+      gain2.gain.setValueAtTime(0.0001, t + 0.05);
+      gain2.gain.exponentialRampToValueAtTime(0.06, t + 0.06);
+      gain2.gain.exponentialRampToValueAtTime(0.0001, t + 0.22);
+      osc2.connect(gain2).connect(ctx.destination);
+      osc2.start(t + 0.05);
+      osc2.stop(t + 0.25);
+
+      setTimeout(function () { ctx.close().catch(function () {}); }, 400);
+    } catch (e) {
+      // Sessizce yoksay (autoplay engeli vb.)
+    }
+  }
+
   // WhatsApp tanıtım baloncuğu — fab'in yanında 5 saniye sonra çıkar
   function initWhatsappBubble() {
     const fab = document.querySelector('.fab-whatsapp');
@@ -175,7 +217,10 @@
     });
 
     document.body.appendChild(bubble);
-    setTimeout(function () { bubble.classList.add('show'); }, 5000);
+    setTimeout(function () {
+      bubble.classList.add('show');
+      playBubblePop();
+    }, 5000);
 
     // 30 saniye sonra otomatik gizle (tıklamasalar bile UI'yı kapatma)
     setTimeout(function () {
