@@ -144,45 +144,63 @@
     });
   }
 
-  // Hafif "pop" sesi (Web Audio API, dosya gerektirmez)
-  function playBubblePop() {
+  // AudioContext — Chrome autoplay policy nedeniyle yalnizca kullanici etkilesim sonrasi olustur
+  let audioCtx = null;
+  let audioUnlocked = false;
+
+  function unlockAudio() {
+    if (audioUnlocked) return;
     try {
       const Ctx = window.AudioContext || window.webkitAudioContext;
       if (!Ctx) return;
-      const ctx = new Ctx();
-      // Kullanici etkilesimi olmadan tarayicilar AudioContext'i suspended baslatabilir
-      if (ctx.state === 'suspended' && typeof ctx.resume === 'function') {
-        ctx.resume().catch(function () {});
+      audioCtx = new Ctx();
+      if (audioCtx.state === 'suspended' && typeof audioCtx.resume === 'function') {
+        audioCtx.resume().catch(function () {});
       }
-      const t = ctx.currentTime;
+      audioUnlocked = true;
+    } catch (e) {
+      audioCtx = null;
+    }
+  }
+  // Ilk kullanici etkilesimini bekle (cesitli giris tipleri icin tek seferlik)
+  ['pointerdown', 'keydown', 'touchstart', 'click'].forEach(function (ev) {
+    document.addEventListener(ev, unlockAudio, { once: true, passive: true, capture: true });
+  });
+
+  // Hafif "pop" sesi — yalnizca audio unlocked ise calar, aksi takdirde sessiz gecer
+  function playBubblePop() {
+    if (!audioUnlocked || !audioCtx) return;
+    try {
+      if (audioCtx.state === 'suspended' && typeof audioCtx.resume === 'function') {
+        audioCtx.resume().catch(function () {});
+      }
+      const t = audioCtx.currentTime;
 
       // Iki kisa ton: yumusak 'pop' hissi
-      const osc1 = ctx.createOscillator();
-      const gain1 = ctx.createGain();
+      const osc1 = audioCtx.createOscillator();
+      const gain1 = audioCtx.createGain();
       osc1.type = 'sine';
       osc1.frequency.setValueAtTime(880, t);
       osc1.frequency.exponentialRampToValueAtTime(440, t + 0.08);
       gain1.gain.setValueAtTime(0.0001, t);
       gain1.gain.exponentialRampToValueAtTime(0.12, t + 0.008);
       gain1.gain.exponentialRampToValueAtTime(0.0001, t + 0.18);
-      osc1.connect(gain1).connect(ctx.destination);
+      osc1.connect(gain1).connect(audioCtx.destination);
       osc1.start(t);
       osc1.stop(t + 0.2);
 
-      const osc2 = ctx.createOscillator();
-      const gain2 = ctx.createGain();
+      const osc2 = audioCtx.createOscillator();
+      const gain2 = audioCtx.createGain();
       osc2.type = 'sine';
       osc2.frequency.setValueAtTime(1320, t + 0.05);
       gain2.gain.setValueAtTime(0.0001, t + 0.05);
       gain2.gain.exponentialRampToValueAtTime(0.06, t + 0.06);
       gain2.gain.exponentialRampToValueAtTime(0.0001, t + 0.22);
-      osc2.connect(gain2).connect(ctx.destination);
+      osc2.connect(gain2).connect(audioCtx.destination);
       osc2.start(t + 0.05);
       osc2.stop(t + 0.25);
-
-      setTimeout(function () { ctx.close().catch(function () {}); }, 400);
     } catch (e) {
-      // Sessizce yoksay (autoplay engeli vb.)
+      // Sessizce yoksay
     }
   }
 
