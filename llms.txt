@@ -58,6 +58,10 @@ Sakarya (merkez ofis), İstanbul, Ankara, İzmir, Bursa, Antalya, Adana, Konya, 
 
 ## Blog & Rehberler
 
+- [e-Fatura Cezaları 2026: Kaçınılması Gereken Hatalar](https://www.e-devlethizmetleri.com/blog/e-fatura-cezalari-2026.html)
+- [Mali Mühür Başvurusu Adım Adım: 2026 Rehber](https://www.e-devlethizmetleri.com/blog/mali-muhur-basvurusu-rehberi.html)
+- [e-Defter ile e-Fatura Arasındaki Bağlantı](https://www.e-devlethizmetleri.com/blog/e-defter-e-fatura-baglantisi.html)
+- [ERP Entegrasyonu Nedir? e-Belge ve Muhasebe Yazılımı Bağlantısı](https://www.e-devlethizmetleri.com/blog/erp-entegrasyonu-nedir.html)
 - [2026 GİB e-Belge Zorunluluk Takvimi](https://www.e-devlethizmetleri.com/blog/2026-gib-e-belge-zorunluluk-takvimi.html)
 - [e-Fatura Nedir? 2026 Tam Geçiş Rehberi](https://www.e-devlethizmetleri.com/blog/e-fatura-nedir-2026-rehberi.html)
 - [e-Arşiv ile e-Fatura Arasındaki Farklar](https://www.e-devlethizmetleri.com/blog/e-arsiv-fatura-ile-e-fatura-farki.html)
