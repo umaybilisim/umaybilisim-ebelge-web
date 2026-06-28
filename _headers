@@ -1,0 +1,8 @@
+/.well-known/api-catalog
+  Content-Type: application/linkset+json
+
+/.well-known/oauth-protected-resource
+  Content-Type: application/json
+
+/auth.md
+  Content-Type: text/markdown; charset=utf-8

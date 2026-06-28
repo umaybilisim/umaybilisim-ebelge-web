@@ -1,0 +1,31 @@
+# Authentication — e-devlethizmetleri.com
+
+This site is operated by **Umay Tüm Bilişim ve Eğitim Danışmanlık Yazılım Ltd. Şti.** and provides publicly accessible information about GIB-approved e-document solutions in Turkey.
+
+## Public Access
+
+All content on this site is publicly available without authentication. AI agents and automated systems may freely access and index all pages in accordance with the permissions specified in [robots.txt](https://www.e-devlethizmetleri.com/robots.txt).
+
+## Content Permissions
+
+- **Reading/indexing content:** Allowed for all agents (see robots.txt for specific bot rules)
+- **Summarization:** Allowed
+- **Training data use:** Subject to Content-Signal directives in robots.txt
+
+## No Protected APIs
+
+This site does not expose protected APIs. There are no OAuth-gated resources. All information is freely accessible via standard HTTP GET requests.
+
+## Contact
+
+For partnership, API integration, or data licensing inquiries:
+
+- **Email:** bilgi@umaybilisim.com.tr
+- **Phone:** 0 850 777 11 45
+- **Contact form:** https://www.e-devlethizmetleri.com/iletisim.html
+
+## Machine-Readable Content
+
+- **llms.txt:** https://www.e-devlethizmetleri.com/llms.txt
+- **Sitemap:** https://www.e-devlethizmetleri.com/sitemap.xml
+- **robots.txt:** https://www.e-devlethizmetleri.com/robots.txt

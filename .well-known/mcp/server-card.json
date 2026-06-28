@@ -1,0 +1,40 @@
+{
+  "serverInfo": {
+    "name": "Umay e-Belge",
+    "version": "1.0.0",
+    "description": "Türkiye'de GİB onaylı 11 farklı e-belge modülü hakkında bilgi ve destek sunan Umay e-Belge platformu. e-Fatura, e-Arşiv, e-İrsaliye, e-Defter ve diğer e-belge çözümleri için rehber ve destek.",
+    "url": "https://www.e-devlethizmetleri.com",
+    "language": "tr"
+  },
+  "transport": {
+    "type": "http",
+    "url": "https://www.e-devlethizmetleri.com"
+  },
+  "capabilities": {
+    "resources": true,
+    "tools": false,
+    "prompts": false
+  },
+  "resources": [
+    {
+      "name": "llms.txt",
+      "description": "Site içeriğinin makine tarafından okunabilir özeti",
+      "url": "https://www.e-devlethizmetleri.com/llms.txt",
+      "mimeType": "text/markdown"
+    },
+    {
+      "name": "sitemap",
+      "description": "Tüm sayfaların listesi",
+      "url": "https://www.e-devlethizmetleri.com/sitemap.xml",
+      "mimeType": "application/xml"
+    }
+  ],
+  "contact": {
+    "email": "bilgi@umaybilisim.com.tr",
+    "url": "https://www.e-devlethizmetleri.com/iletisim.html"
+  },
+  "authentication": {
+    "required": false,
+    "description": "Bu site herkese açık bir bilgi sitesidir, kimlik doğrulama gerekmez."
+  }
+}

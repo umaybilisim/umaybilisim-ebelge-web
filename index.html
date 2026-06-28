@@ -576,5 +576,52 @@
 <script src="js/main.js" defer></script>
 <script src="js/cookie.js" defer></script>
 <script src="js/faq.js" defer></script>
+<script>
+if ('modelContext' in navigator) {
+  navigator.modelContext.provideContext({
+    tools: [
+      {
+        name: 'get_product_info',
+        description: 'Umay e-Belge ürünleri hakkında bilgi al: e-Fatura, e-Arşiv, e-İrsaliye, e-Defter, e-SMM ve diğer GİB onaylı e-belge çözümleri.',
+        inputSchema: {
+          type: 'object',
+          properties: {
+            product: {
+              type: 'string',
+              description: 'Ürün adı (e-fatura, e-arsiv, e-irsaliye, e-defter, e-smm, e-mm, e-adisyon, e-dekont, e-doviz, e-gider-pusulasi, gib-btrans)'
+            }
+          }
+        },
+        execute: async ({ product }) => {
+          const map = {
+            'e-fatura': '/urunler/e-fatura.html',
+            'e-arsiv': '/urunler/e-arsiv-fatura.html',
+            'e-irsaliye': '/urunler/e-irsaliye.html',
+            'e-defter': '/urunler/e-defter.html',
+            'e-smm': '/urunler/e-smm.html',
+            'e-mm': '/urunler/e-mm.html',
+            'e-adisyon': '/urunler/e-adisyon.html',
+            'e-dekont': '/urunler/e-dekont.html',
+            'e-doviz': '/urunler/e-doviz.html',
+            'e-gider-pusulasi': '/urunler/e-gider-pusulasi.html',
+            'gib-btrans': '/urunler/gib-btrans.html'
+          };
+          const path = product && map[product.toLowerCase()];
+          return { url: path ? location.origin + path : location.origin + '/urunler.html' };
+        }
+      },
+      {
+        name: 'get_site_summary',
+        description: 'e-devlethizmetleri.com sitesinin makine tarafından okunabilir özetini al (llms.txt).',
+        inputSchema: { type: 'object', properties: {} },
+        execute: async () => {
+          const r = await fetch('/llms.txt');
+          return { content: await r.text() };
+        }
+      }
+    ]
+  });
+}
+</script>
 </body>
 </html>

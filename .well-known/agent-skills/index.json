@@ -1,0 +1,29 @@
+{
+  "$schema": "https://agentskills.io/schema/index/v0.2.0",
+  "skills": [
+    {
+      "name": "e-belge-rehberi",
+      "type": "information",
+      "description": "Türkiye'de GİB onaylı e-belge sistemleri (e-Fatura, e-Arşiv, e-İrsaliye, e-Defter, e-SMM) hakkında kapsamlı bilgi. Zorunluluk kriterleri, geçiş süreci, cezalar ve entegrasyon rehberleri.",
+      "url": "https://www.e-devlethizmetleri.com/llms.txt"
+    },
+    {
+      "name": "e-fatura-bilgisi",
+      "type": "information",
+      "description": "e-Fatura zorunluluk kriterleri, geçiş adımları, mali mühür, GİB portal kayıt süreci ve entegrasyon seçenekleri hakkında detaylı bilgi.",
+      "url": "https://www.e-devlethizmetleri.com/urunler/e-fatura.html"
+    },
+    {
+      "name": "e-arsiv-bilgisi",
+      "type": "information",
+      "description": "e-Arşiv Fatura ile e-Fatura arasındaki farklar, kimler için zorunlu olduğu ve geçiş süreci.",
+      "url": "https://www.e-devlethizmetleri.com/urunler/e-arsiv-fatura.html"
+    },
+    {
+      "name": "sss",
+      "type": "information",
+      "description": "e-Belge sistemleri hakkında sıkça sorulan 19 soru ve yanıtları.",
+      "url": "https://www.e-devlethizmetleri.com/sss.html"
+    }
+  ]
+}
