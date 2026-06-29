@@ -1,8 +1,8 @@
 {
-  "resource": "https://www.e-devlethizmetleri.com",
+  "resource": "https://e-devlethizmetleri.com",
   "authorization_servers": [],
   "scopes_supported": [],
   "bearer_methods_supported": [],
-  "resource_documentation": "https://www.e-devlethizmetleri.com/auth.md",
+  "resource_documentation": "https://e-devlethizmetleri.com/auth.md",
   "resource_signing_alg_values_supported": []
 }
