@@ -10,7 +10,8 @@ export default {
     const accept = request.headers.get('Accept') || '';
 
     // Markdown negotiation: return llms.txt for text/markdown requests
-    if (accept.includes('text/markdown')) {
+    // Skip negotiation for .md files — serve them directly
+    if (accept.includes('text/markdown') && !url.pathname.endsWith('.md')) {
       const llmsUrl = new URL('/llms.txt', url.origin);
       try {
         const asset = await env.ASSETS.fetch(new Request(llmsUrl));
