@@ -1,4 +1,4 @@
-# auth.md — e-devlethizmetleri.com
+# Agent Authentication
 
 This site is operated by **Umay Tüm Bilişim ve Eğitim Danışmanlık Yazılım Ltd. Şti.** and provides publicly accessible information about GIB-approved e-document solutions in Turkey.
 
