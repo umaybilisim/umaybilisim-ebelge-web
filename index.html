@@ -72,15 +72,17 @@
 }
 </script>
 <style>
-.zorunluluk-bandi{background:linear-gradient(90deg,#92400e,#b45309,#d97706);color:#fff;padding:.7rem 0;font-size:.875rem}
-.bant-inner{display:flex;align-items:center;gap:.85rem 1.25rem;flex-wrap:wrap;justify-content:center}
-.bant-icon{flex-shrink:0;display:flex;align-items:center}
-.bant-text{display:flex;flex-wrap:wrap;align-items:center;gap:.25rem .5rem}
-.bant-text strong{font-weight:700}
-.bant-text span{opacity:.92}
-.bant-cta{display:inline-flex;align-items:center;gap:.35rem;background:rgba(255,255,255,.18);border:1px solid rgba(255,255,255,.4);color:#fff;border-radius:6px;padding:.35rem .8rem;font-weight:600;white-space:nowrap;text-decoration:none;transition:background .2s;flex-shrink:0}
+.zorunluluk-bandi{background:linear-gradient(90deg,#92400e,#b45309,#d97706);color:#fff;padding:.65rem 0;font-size:.875rem;display:flex;align-items:center;overflow:hidden}
+.bant-ticker-wrap{flex:1;overflow:hidden;min-width:0}
+.bant-ticker{display:flex;align-items:center;width:max-content;animation:bant-scroll 30s linear infinite}
+.bant-ticker:hover{animation-play-state:paused}
+.bant-msg{display:inline-flex;align-items:center;gap:.45rem;white-space:nowrap;padding:0 2.5rem}
+.bant-msg svg{width:15px;height:15px;flex-shrink:0;opacity:.9}
+.bant-sep{opacity:.35;flex-shrink:0;padding:0 .5rem}
+@keyframes bant-scroll{0%{transform:translateX(0)}100%{transform:translateX(-50%)}}
+.bant-cta{display:inline-flex;align-items:center;gap:.35rem;background:rgba(255,255,255,.18);border:1px solid rgba(255,255,255,.4);color:#fff;border-radius:6px;padding:.35rem .9rem;font-weight:600;white-space:nowrap;text-decoration:none;transition:background .2s;flex-shrink:0;margin:0 1rem}
 .bant-cta:hover{background:rgba(255,255,255,.28);color:#fff}
-@media(max-width:640px){.bant-inner{flex-direction:column;text-align:center}.bant-icon{display:none}}
+.bant-cta svg{width:14px;height:14px}
 .gecis-grid{display:grid;grid-template-columns:1fr 1fr;gap:2rem;margin-top:2.5rem}
 .gecis-sorun,.gecis-umay{border-radius:1rem;padding:2rem}
 .gecis-sorun{background:var(--surface);border:1px solid var(--border)}
@@ -184,16 +186,19 @@
 
   <!-- ===== ZORUNLULUK BANDI ===== -->
   <div class="zorunluluk-bandi" role="alert">
-    <div class="container">
-      <div class="bant-inner">
-        <span class="bant-icon"><i data-lucide="alert-triangle"></i></span>
-        <span class="bant-text">
-          <strong>2025 cironuz 3 Milyon TL'yi aştıysa:</strong>
-          <span>GİB zorunluluğu gereği 1 Ocak 2026'dan itibaren e-Fatura kullanmak <strong>yasal zorunluluk</strong>.</span>
-        </span>
-        <a href="kampanyalar.html" class="bant-cta">Kampanyaları İncele <i data-lucide="arrow-right"></i></a>
+    <div class="bant-ticker-wrap">
+      <div class="bant-ticker">
+        <span class="bant-msg"><i data-lucide="alert-triangle"></i> <strong>2025 cironuz 3 Milyon TL'yi aştıysa:</strong>&nbsp;GİB zorunluluğu gereği 1 Temmuz 2026'dan itibaren e-Fatura kullanmak <strong>yasal zorunluluk.</strong></span>
+        <span class="bant-sep">◆</span>
+        <span class="bant-msg"><i data-lucide="alert-triangle"></i> <strong>2025 cironuz 10 Milyon TL'yi aştıysa:</strong>&nbsp;GİB zorunluluğu gereği 1 Temmuz 2026'dan itibaren e-İrsaliye kullanmak <strong>yasal zorunluluk.</strong></span>
+        <span class="bant-sep">◆</span>
+        <span class="bant-msg"><i data-lucide="alert-triangle"></i> <strong>2025 cironuz 3 Milyon TL'yi aştıysa:</strong>&nbsp;GİB zorunluluğu gereği 1 Temmuz 2026'dan itibaren e-Fatura kullanmak <strong>yasal zorunluluk.</strong></span>
+        <span class="bant-sep">◆</span>
+        <span class="bant-msg"><i data-lucide="alert-triangle"></i> <strong>2025 cironuz 10 Milyon TL'yi aştıysa:</strong>&nbsp;GİB zorunluluğu gereği 1 Temmuz 2026'dan itibaren e-İrsaliye kullanmak <strong>yasal zorunluluk.</strong></span>
+        <span class="bant-sep">◆</span>
       </div>
     </div>
+    <a href="kampanyalar.html" class="bant-cta">Kampanyaları İncele <i data-lucide="arrow-right"></i></a>
   </div>
 
   <!-- ===== HERO ===== -->
