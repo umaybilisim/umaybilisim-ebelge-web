@@ -1,0 +1,21 @@
+{
+  "name": "e-Devlet Hizmetleri",
+  "description": "GIB onaylı e-belge çözümleri hakkında kamuya açık bilgi sunan Türkiye e-devlet bilgi sitesi.",
+  "url": "https://e-devlethizmetleri.com",
+  "version": "1.0.0",
+  "capabilities": {
+    "streaming": false,
+    "pushNotifications": false
+  },
+  "authentication": {
+    "schemes": []
+  },
+  "skills": [
+    {
+      "id": "public-info",
+      "name": "Kamuya Açık Bilgi",
+      "description": "E-fatura, e-arşiv, e-irsaliye ve diğer GIB onaylı e-belge çözümleri hakkında bilgi sağlar.",
+      "tags": ["e-belge", "e-fatura", "GIB", "e-devlet", "Turkey"]
+    }
+  ]
+}

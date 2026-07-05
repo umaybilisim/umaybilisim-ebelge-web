@@ -10,6 +10,7 @@ const CONTENT_TYPES = {
   '/.well-known/oauth-protected-resource': 'application/json',
   '/.well-known/oauth-authorization-server': 'application/json',
   '/.well-known/api-catalog': 'application/linkset+json',
+  '/.well-known/agent-card.json': 'application/json',
   '/auth.md': 'text/markdown; charset=utf-8',
 };
 
