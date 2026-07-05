@@ -1,0 +1,69 @@
+- generic [ref=f12e2]:
+  - main [ref=f12e5]:
+    - generic [ref=f12e8]:
+      - img [ref=f12e9]
+      - generic [ref=f12e11]: Push blocked because a secret was detected
+      - generic [ref=f12e12]:
+        - generic [ref=f12e14]:
+          - img [ref=f12e15]
+          - generic [ref=f12e17]:
+            - link "Secret scanning" [ref=f12e18] [cursor=pointer]:
+              - /url: https://docs.github.com/code-security/secret-scanning/working-with-secret-scanning-and-push-protection/push-protection-for-users
+            - text: found a Cloudflare User API Token secret in your attempted push.
+        - generic [ref=f12e19]:
+          - text: Allowing this secret risks exposure. Instead,
+          - generic [ref=f12e20]:
+            - text: consider
+            - link "removing the secret from your commit and commit history" [ref=f12e21] [cursor=pointer]:
+              - /url: https://docs.github.com/code-security/secret-scanning/working-with-secret-scanning-and-push-protection/working-with-push-protection-from-the-command-line#resolving-a-blocked-push
+            - text: .
+        - generic [ref=f12e22]:
+          - text: "Exposing this secret can allow someone to:"
+          - list [ref=f12e23]:
+            - listitem [ref=f12e24]: Verify the identity of this Cloudflare User API Token secret
+            - listitem [ref=f12e25]: Know which resources this secret can access
+            - listitem [ref=f12e26]: Act on behalf of the secret's owner
+        - generic [ref=f12e28]:
+          - text: Push protection is enabled for your account. To disable, visit your
+          - link "code security settings" [ref=f12e29] [cursor=pointer]:
+            - /url: /settings/security_analysis
+          - text: .
+        - separator [ref=f12e30]
+        - button "Allow me to expose this secret" [ref=f12e32] [cursor=pointer]:
+          - generic [ref=f12e34]: Allow me to expose this secret
+  - contentinfo [ref=f12e35]:
+    - heading "Footer" [level=2] [ref=f12e36]
+    - generic [ref=f12e37]:
+      - generic [ref=f12e38]:
+        - link "GitHub Homepage" [ref=f12e39] [cursor=pointer]:
+          - /url: https://github.com
+          - img [ref=f12e40]
+        - generic [ref=f12e42]: © 2026 GitHub, Inc.
+      - navigation "Footer" [ref=f12e43]:
+        - heading "Footer navigation" [level=3] [ref=f12e44]
+        - list "Footer navigation" [ref=f12e45]:
+          - listitem [ref=f12e46]:
+            - link "Terms" [ref=f12e47] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/github-terms/github-terms-of-service
+          - listitem [ref=f12e48]:
+            - link "Privacy" [ref=f12e49] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+          - listitem [ref=f12e50]:
+            - link "Security" [ref=f12e51] [cursor=pointer]:
+              - /url: https://github.com/security
+          - listitem [ref=f12e52]:
+            - link "Status" [ref=f12e53] [cursor=pointer]:
+              - /url: https://www.githubstatus.com/
+          - listitem [ref=f12e54]:
+            - link "Community" [ref=f12e55] [cursor=pointer]:
+              - /url: https://github.community/
+          - listitem [ref=f12e56]:
+            - link "Docs" [ref=f12e57] [cursor=pointer]:
+              - /url: https://docs.github.com/
+          - listitem [ref=f12e58]:
+            - link "Contact" [ref=f12e59] [cursor=pointer]:
+              - /url: https://support.github.com?tags=dotcom-footer
+          - listitem [ref=f12e60]:
+            - button "Manage cookies" [ref=f12e62] [cursor=pointer]
+          - listitem [ref=f12e63]:
+            - button "Do not share my personal information" [ref=f12e65] [cursor=pointer]

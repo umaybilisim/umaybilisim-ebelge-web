@@ -1,0 +1,68 @@
+- generic [active] [ref=f13e1]:
+  - banner [ref=f13e2]:
+    - link "PageSpeed Insights logo PageSpeed Insights" [ref=f13e3] [cursor=pointer]:
+      - /url: ./
+      - img "PageSpeed Insights logo" [ref=f13e4]
+      - generic [ref=f13e5]: PageSpeed Insights
+    - generic [ref=f13e6]:
+      - button "Bağlantıyı Kopyala" [ref=f13e8]:
+        - img [ref=f13e11]
+        - generic [ref=f13e14]: Bağlantıyı Kopyala
+      - generic [ref=f13e16]:
+        - generic [ref=f13e18]: Dokümanlar
+        - link "Dokümanlar" [ref=f13e19] [cursor=pointer]:
+          - /url: https://developers.google.com/speed/docs/insights/v5/about
+  - generic [ref=f13e28]:
+    - generic [ref=f13e29]: Analiz çalışıyor
+    - generic [ref=f13e30]:
+      - generic [ref=f13e31]: data loading
+      - progressbar [ref=f13e32]
+  - contentinfo [ref=f13e39]:
+    - generic [ref=f13e40]:
+      - generic [ref=f13e41]:
+        - generic [ref=f13e42]:
+          - generic [ref=f13e43]: PageSpeed Insights hakkında daha fazla bilgi
+          - link "Yenilikler" [ref=f13e45] [cursor=pointer]:
+            - /url: https://developers.google.com/speed/docs/insights/release_notes
+          - link "Dokümanlar" [ref=f13e47] [cursor=pointer]:
+            - /url: https://developers.google.com/speed/docs/insights/v5/about
+          - link "Web Performansı hakkında bilgi edinin" [ref=f13e49] [cursor=pointer]:
+            - /url: https://developers.google.com/speed
+          - link "Stack Overflow hakkında soru sorun" [ref=f13e51] [cursor=pointer]:
+            - /url: https://stackoverflow.com/questions/tagged/pagespeed-insights
+          - link "Posta listesi" [ref=f13e53] [cursor=pointer]:
+            - /url: https://groups.google.com/g/pagespeed-insights-discuss
+        - generic [ref=f13e54]:
+          - generic [ref=f13e55]: Alakalı İçerik
+          - link "Güncellemeler" [ref=f13e57] [cursor=pointer]:
+            - /url: https://developer.chrome.com/blog
+          - link "Web'in Temelleri" [ref=f13e59] [cursor=pointer]:
+            - /url: https://developers.google.com/focus/web-development
+          - link "Örnek Olaylar" [ref=f13e61] [cursor=pointer]:
+            - /url: https://web.dev/case-studies
+          - link "Podcast'ler" [ref=f13e63] [cursor=pointer]:
+            - /url: https://web.dev/shows
+        - generic [ref=f13e64]:
+          - generic [ref=f13e65]: Bağlan
+          - link "Twitter" [ref=f13e67] [cursor=pointer]:
+            - /url: https://twitter.com/ChromiumDev
+          - link "YouTube" [ref=f13e69] [cursor=pointer]:
+            - /url: https://www.youtube.com/user/ChromeDevelopers
+      - generic [ref=f13e70]:
+        - link "Google Developers Logo" [ref=f13e71] [cursor=pointer]:
+          - /url: https://developers.google.com/
+          - img "Google Developers Logo" [ref=f13e72]
+        - link "Chrome" [ref=f13e73] [cursor=pointer]:
+          - /url: https://developer.chrome.com/
+        - link "Firebase" [ref=f13e74] [cursor=pointer]:
+          - /url: https://firebase.google.com/
+        - link "Tüm ürünler" [ref=f13e75] [cursor=pointer]:
+          - /url: https://developers.google.com/products/
+      - generic [ref=f13e76]:
+        - link "Şartlar ve Gizlilik Politikası" [ref=f13e78] [cursor=pointer]:
+          - /url: https://policies.google.com/
+        - generic [ref=f13e79]:
+          - text: Ayrıntılı bilgi için
+          - link "Google Developers Sitesi Politikaları" [ref=f13e80] [cursor=pointer]:
+            - /url: https://developers.google.com/terms/site-policies
+          - text: "'na bakın."

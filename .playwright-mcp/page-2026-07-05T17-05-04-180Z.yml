@@ -1,0 +1,287 @@
+- generic [active] [ref=f188e1]:
+  - navigation [ref=f188e2]:
+    - generic [ref=f188e3]:
+      - link "Mysoft" [ref=f188e5] [cursor=pointer]:
+        - /url: /
+        - img "Mysoft" [ref=f188e6]
+      - generic [ref=f188e7]:
+        - text: 
+        - generic [ref=f188e8]:
+          - list [ref=f188e9]:
+            - listitem [ref=f188e10]:
+              - link "Kurumsal " [ref=f188e11] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f188e12]:
+              - link "Ürünler " [ref=f188e13] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f188e14]:
+              - link "Kampanyalar" [ref=f188e15] [cursor=pointer]:
+                - /url: /kampanyalar
+            - listitem [ref=f188e16]:
+              - link "İş Ortaklığı" [ref=f188e17] [cursor=pointer]:
+                - /url: /is-ortakligi
+            - listitem [ref=f188e18]:
+              - link "Blog" [ref=f188e19] [cursor=pointer]:
+                - /url: /blog
+            - listitem [ref=f188e20]:
+              - link "İletişim" [ref=f188e21] [cursor=pointer]:
+                - /url: /iletisim
+          - text:     
+      - list [ref=f188e23]:
+        - listitem [ref=f188e24]:
+          - link "Portal Giriş" [ref=f188e25] [cursor=pointer]:
+            - /url: https://portal.mysoft.com.tr
+  - generic [ref=f188e26]:
+    - banner [ref=f188e27]:
+      - navigation [ref=f188e28]:
+        - generic [ref=f188e29]:
+          - link "Mysoft" [ref=f188e31] [cursor=pointer]:
+            - /url: /
+            - img "Mysoft" [ref=f188e32]
+          - generic [ref=f188e33]:
+            - text: 
+            - generic [ref=f188e34]:
+              - list [ref=f188e35]:
+                - listitem [ref=f188e36]:
+                  - link "Kurumsal " [ref=f188e37] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=f188e38]:
+                  - link "Ürünler " [ref=f188e39] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=f188e40]:
+                  - link "Kampanyalar" [ref=f188e41] [cursor=pointer]:
+                    - /url: /kampanyalar
+                - listitem [ref=f188e42]:
+                  - link "İş Ortaklığı" [ref=f188e43] [cursor=pointer]:
+                    - /url: /is-ortakligi
+                - listitem [ref=f188e44]:
+                  - link "Blog" [ref=f188e45] [cursor=pointer]:
+                    - /url: /blog
+                - listitem [ref=f188e46]:
+                  - link "İletişim" [ref=f188e47] [cursor=pointer]:
+                    - /url: /iletisim
+              - text:     
+          - list [ref=f188e49]:
+            - listitem [ref=f188e50]:
+              - link "Portal Giriş" [ref=f188e51] [cursor=pointer]:
+                - /url: https://portal.mysoft.com.tr
+    - heading "Mysoft Kampanyalar" [level=1] [ref=f188e56]
+    - generic [ref=f188e59]:
+      - generic [ref=f188e61]:
+        - generic [ref=f188e63]:
+          - group "1 / 2" [ref=f188e64]:
+            - img "Mysoft'tan yeni e-Fatura müşterilerine özel %25 indirim" [ref=f188e65]
+            - heading "Mysoft'tan yeni e-Fatura müşterilerine özel %25 indirim" [level=3] [ref=f188e68]
+          - group "2 / 2" [ref=f188e69]:
+            - img "Mysoft'tan yeni e-Arşiv Fatura müşterilerine özel %25 indirim" [ref=f188e70]
+        - generic:
+          - generic:
+            - button "Previous slide" [disabled]: 
+            - button "Next slide" [ref=f188e72] [cursor=pointer]: 
+          - generic [ref=f188e73]:
+            - button "Go to slide 1" [ref=f188e74] [cursor=pointer]
+            - button "Go to slide 2" [ref=f188e75] [cursor=pointer]
+      - generic [ref=f188e77]:
+        - group "1 / 1" [ref=f188e80]:
+          - img "Mysoft'tan yeni e-İrsaliye müşterilerine özel %25 indirim" [ref=f188e81]
+          - heading "Mysoft'tan yeni e-İrsaliye müşterilerine özel %25 indirim" [level=3] [ref=f188e84]
+        - generic:
+          - generic:  
+      - generic [ref=f188e86]:
+        - group "1 / 1" [ref=f188e89]:
+          - img "Mali Müşavirlere Özel e-Aktarım ÜCRETSİZ" [ref=f188e90]
+          - heading "Mali Müşavirlere Özel e-Aktarım ÜCRETSİZ" [level=3] [ref=f188e93]
+        - generic:
+          - generic:  
+      - generic [ref=f188e95]:
+        - group "1 / 1" [ref=f188e98]:
+          - img "Tüm e-Ticaret Pazaryeri Entegrasyonları ÜCRETSİZ" [ref=f188e99]
+          - heading "Tüm e-Ticaret Pazaryeri Entegrasyonları ÜCRETSİZ" [level=3] [ref=f188e102]
+        - generic:
+          - generic:  
+      - generic [ref=f188e104]:
+        - generic [ref=f188e106]:
+          - group "1 / 2" [ref=f188e107]:
+            - img "Yeni Gelen Veterinerlere Özel Yıllık 1000 Kontör e-SMM ₺3.500+KDV" [ref=f188e108]
+            - heading "Yeni Gelen Veterinerlere Özel Yıllık 1000 Kontör e-SMM ₺3.500+KDV" [level=3] [ref=f188e111]
+          - group "2 / 2" [ref=f188e112]:
+            - img "Yeni Gelen Mimarlara/Mühendislere Özel Yıllık 1000 Kontör e-SMM ₺3.500+KDV" [ref=f188e113]
+        - generic:
+          - generic:
+            - button "Previous slide" [disabled]: 
+            - button "Next slide" [ref=f188e115] [cursor=pointer]: 
+          - generic [ref=f188e116]:
+            - button "Go to slide 1" [ref=f188e117] [cursor=pointer]
+            - button "Go to slide 2" [ref=f188e118] [cursor=pointer]
+      - generic [ref=f188e120]:
+        - generic [ref=f188e122]:
+          - group "1 / 2" [ref=f188e123]:
+            - img "Mali Müşavirlere Özel Yıllık Sınırsız e-SMM ÜCRETSİZ" [ref=f188e124]
+            - heading "Mali Müşavirlere Özel Yıllık Sınırsız e-SMM ÜCRETSİZ" [level=3] [ref=f188e127]
+          - group "2 / 2" [ref=f188e128]:
+            - img "Yeni Gelen Diş Hekimlerine Özel Yıllık 1000 Kontör e-SMM ₺3.500+KDV" [ref=f188e129]
+        - generic:
+          - generic:
+            - button "Previous slide" [disabled]: 
+            - button "Next slide" [ref=f188e131] [cursor=pointer]: 
+          - generic [ref=f188e132]:
+            - button "Go to slide 1" [ref=f188e133] [cursor=pointer]
+            - button "Go to slide 2" [ref=f188e134] [cursor=pointer]
+    - generic [ref=f188e139]:
+      - generic [ref=f188e140]:
+        - heading "Hemen kullanmaya başlayın!" [level=2] [ref=f188e141]
+        - heading "Uzman ekiplerimizle her türlü sorularınızı 7/24 cevaplamaya hazırız." [level=3] [ref=f188e142]
+        - paragraph [ref=f188e143]:
+          - strong [ref=f188e144]: Telefon
+        - paragraph [ref=f188e145]:
+          - link "+90 212 901 02 12" [ref=f188e146] [cursor=pointer]:
+            - /url: tel:+902129010212
+        - paragraph [ref=f188e147]:
+          - strong [ref=f188e148]: E-posta
+        - paragraph [ref=f188e149]:
+          - link "info@mysoft.com.tr" [ref=f188e150] [cursor=pointer]:
+            - /url: mailto:info@mysoft.com.tr
+        - paragraph [ref=f188e151]: KVKK ve ETK bilgilendirme metinleri tarafınıza İYS üzerinden otomatik olarak gönderilecektir.
+      - generic [ref=f188e154]:
+        - generic [ref=f188e156]:
+          - textbox "Adınız Soyadınız * Adınız Soyadınız" [ref=f188e157]:
+            - /placeholder: Adınız Soyadınız
+          - generic: Adınız Soyadınız *
+        - generic [ref=f188e159]:
+          - textbox "Telefon Numaranız * Telefon Numaranız" [ref=f188e160]:
+            - /placeholder: Telefon Numaranız
+          - generic: Telefon Numaranız *
+        - generic [ref=f188e162]:
+          - textbox "Eposta Adresiniz * E-posta Adresiniz" [ref=f188e163]:
+            - /placeholder: Eposta Adresiniz
+          - generic: Eposta Adresiniz *
+        - generic [ref=f188e165]:
+          - textbox "Şirketinizin Adı Şirketinizin Adı" [ref=f188e166]:
+            - /placeholder: Şirketinizin Adı
+          - generic: Şirketinizin Adı
+        - generic [ref=f188e168]:
+          - textbox "Mesajınız Mesajınız" [ref=f188e169]:
+            - /placeholder: Mesajınız
+          - generic: Mesajınız
+        - button "Mesajımı Gönder" [ref=f188e171] [cursor=pointer]
+  - generic [ref=f188e173]:
+    - generic [ref=f188e175]:
+      - heading "Diğer Web Sitelerimiz" [level=2] [ref=f188e176]
+      - heading "Detaylı bilgi için ürün sitelerimizi ziyaret edebilirsiniz." [level=3] [ref=f188e177]
+    - generic [ref=f188e178]:
+      - link "EB e-Fatura, e-İrsaliye, e-Defter Mysoft e-Belge https://mysoftebelge.com" [ref=f188e180] [cursor=pointer]:
+        - /url: https://mysoftebelge.com
+        - generic [ref=f188e181]:
+          - generic [ref=f188e183]: EB
+          - generic [ref=f188e184]:
+            - generic [ref=f188e185]: e-Fatura, e-İrsaliye, e-Defter
+            - heading "Mysoft e-Belge" [level=4] [ref=f188e186]
+            - paragraph [ref=f188e187]: https://mysoftebelge.com
+      - link "CRM Müşteri İlişkileri Yönetimi Mysoft CRM https://mysoftcrm.com" [ref=f188e189] [cursor=pointer]:
+        - /url: https://mysoftcrm.com
+        - generic [ref=f188e190]:
+          - generic [ref=f188e192]: CRM
+          - generic [ref=f188e193]:
+            - generic [ref=f188e194]: Müşteri İlişkileri Yönetimi
+            - heading "Mysoft CRM" [level=4] [ref=f188e195]
+            - paragraph [ref=f188e196]: https://mysoftcrm.com
+      - link "İYS İleti Yönetim Sistemi Mysoft İYS https://iletiyonetimi.com" [ref=f188e198] [cursor=pointer]:
+        - /url: https://iletiyonetimi.com
+        - generic [ref=f188e199]:
+          - generic [ref=f188e201]: İYS
+          - generic [ref=f188e202]:
+            - generic [ref=f188e203]: İleti Yönetim Sistemi
+            - heading "Mysoft İYS" [level=4] [ref=f188e204]
+            - paragraph [ref=f188e205]: https://iletiyonetimi.com
+      - link "ÖM Ön Muhasebe Programı Mysoft Lonca https://mysoftlonca.com" [ref=f188e207] [cursor=pointer]:
+        - /url: https://mysoftlonca.com
+        - generic [ref=f188e208]:
+          - generic [ref=f188e210]: ÖM
+          - generic [ref=f188e211]:
+            - generic [ref=f188e212]: Ön Muhasebe Programı
+            - heading "Mysoft Lonca" [level=4] [ref=f188e213]
+            - paragraph [ref=f188e214]: https://mysoftlonca.com
+      - link "AK Fatura / Banka Aktarımı Mysoft e-Aktarım https://eaktarim.com" [ref=f188e216] [cursor=pointer]:
+        - /url: https://eaktarim.com
+        - generic [ref=f188e217]:
+          - generic [ref=f188e219]: AK
+          - generic [ref=f188e220]:
+            - generic [ref=f188e221]: Fatura / Banka Aktarımı
+            - heading "Mysoft e-Aktarım" [level=4] [ref=f188e222]
+            - paragraph [ref=f188e223]: https://eaktarim.com
+      - link "BT Bilgi Transfer Sistemi Mysoft Btrans https://mysoftbtrans.com" [ref=f188e225] [cursor=pointer]:
+        - /url: https://mysoftbtrans.com
+        - generic [ref=f188e226]:
+          - generic [ref=f188e228]: BT
+          - generic [ref=f188e229]:
+            - generic [ref=f188e230]: Bilgi Transfer Sistemi
+            - heading "Mysoft Btrans" [level=4] [ref=f188e231]
+            - paragraph [ref=f188e232]: https://mysoftbtrans.com
+  - contentinfo [ref=f188e233]:
+    - generic [ref=f188e235]:
+      - generic [ref=f188e237]:
+        - img "Mysoft e-Belge" [ref=f188e238]
+        - paragraph [ref=f188e239]:
+          - link "https://mysoft.com.tr" [ref=f188e240] [cursor=pointer]:
+            - /url: https://mysoft.com.tr
+        - paragraph [ref=f188e241]:
+          - text: © 2026 Mysoft Dijital Dönüşüm A.Ş.
+          - text: Tüm hakları saklıdır.
+        - navigation [ref=f188e242]:
+          - link "facebook" [ref=f188e243] [cursor=pointer]:
+            - /url: https://facebook.com/mysoftdd
+            - generic [ref=f188e244]: 
+          - link "linkedin" [ref=f188e245] [cursor=pointer]:
+            - /url: https://linkedin.com/company/mysoftdd
+            - generic [ref=f188e246]: 
+          - link "instagram" [ref=f188e247] [cursor=pointer]:
+            - /url: https://instagram.com/mysoftdd
+            - generic [ref=f188e248]: 
+          - link "twitter" [ref=f188e249] [cursor=pointer]:
+            - /url: https://twitter.com/mysoftdd
+            - generic [ref=f188e250]: 
+          - link "youtube" [ref=f188e251] [cursor=pointer]:
+            - /url: https://www.youtube.com/@Mysoftdd
+            - generic [ref=f188e252]: 
+      - generic [ref=f188e254]:
+        - heading "Mysoft Dijital Dönüşüm A.Ş." [level=5] [ref=f188e255]
+        - generic [ref=f188e256]: Y.T.Ü. Teknopark Çiftehavuzlar Mah. A1 Blok Kat 1 No 151/1C/110 34220 Esenler İstanbul
+        - list [ref=f188e257]:
+          - listitem [ref=f188e258]:
+            - link "info@mysoft.com.tr" [ref=f188e259] [cursor=pointer]:
+              - /url: mailto:info@mysoft.com.tr
+          - listitem [ref=f188e260]:
+            - link "+90 212 901 02 12" [ref=f188e261] [cursor=pointer]:
+              - /url: tel:+902129010212
+      - generic [ref=f188e263]:
+        - heading "Müşteri Hizmetleri" [level=5] [ref=f188e264]
+        - generic [ref=f188e265]: Gaziosmanpaşa Üni. Taşlıçiftlik Kampüsü Teknopark 60250 Tokat
+        - list [ref=f188e266]:
+          - listitem [ref=f188e267]:
+            - link "destek@mysoft.com.tr" [ref=f188e268] [cursor=pointer]:
+              - /url: mailto:destek@mysoft.com.tr
+          - listitem [ref=f188e269]:
+            - link "+90 850 600 06 61" [ref=f188e270] [cursor=pointer]:
+              - /url: tel:+908506000661
+      - generic [ref=f188e272]:
+        - heading "Kurumsal Linkler" [level=5] [ref=f188e273]
+        - list [ref=f188e274]:
+          - listitem [ref=f188e275]:
+            - link "Bilgi Güvenliği ve KVK Politikası" [ref=f188e276] [cursor=pointer]:
+              - /url: /guvenlik-politikalari#bilgi-guvenligi-politikasi
+          - listitem [ref=f188e277]:
+            - link "Kişisel Verilerin Korunması" [ref=f188e278] [cursor=pointer]:
+              - /url: /guvenlik-politikalari#kisisel-verilerin-korunmasi
+          - listitem [ref=f188e279]:
+            - link "Çerez Politikası" [ref=f188e280] [cursor=pointer]:
+              - /url: /guvenlik-politikalari#cerez-politikasi
+          - listitem [ref=f188e281]:
+            - link "Kullanım Koşulları" [ref=f188e282] [cursor=pointer]:
+              - /url: /guvenlik-politikalari#kullanim-kosullari
+  - text: 
+  - button "Teklif Alın" [ref=f188e284] [cursor=pointer]:
+    - strong [ref=f188e285]: Teklif Alın
+  - link "whatsapp icon WhatsApp" [ref=f188e287] [cursor=pointer]:
+    - /url: https://api.whatsapp.com/send?phone=905533511122
+    - img "whatsapp icon" [ref=f188e288]
+    - text: WhatsApp

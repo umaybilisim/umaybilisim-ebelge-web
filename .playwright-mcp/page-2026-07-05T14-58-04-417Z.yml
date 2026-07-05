@@ -1,0 +1,1408 @@
+- generic [ref=f24e8]:
+  - generic [ref=f24e12]:
+    - generic [ref=f24e13]:
+      - complementary [ref=f24e15]:
+        - generic [ref=f24e17]:
+          - generic [ref=f24e19]:
+            - link [ref=f24e20] [cursor=pointer]:
+              - /url: /
+              - img [ref=f24e22]
+            - generic [ref=f24e25]:
+              - generic "UmayBilisim"
+          - navigation [ref=f24e26]:
+            - generic [ref=f24e28]:
+              - generic:
+                - generic:
+                  - generic:
+                    - button:
+                      - generic:
+                        - generic:
+                          - img
+                          - generic: Quick search...
+                          - generic: Ctrl K
+                  - list:
+                    - listitem:
+                      - link:
+                        - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/home
+                        - generic:
+                          - img
+                    - listitem:
+                      - generic:
+                        - button:
+                          - generic:
+                            - img
+                        - list:
+                          - listitem:
+                            - link:
+                              - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/security/settings
+                              - generic: e-devlethizmetleri…
+                              - generic: /
+                            - generic:
+                              - button:
+                                - generic:
+                                  - img
+                                  - img
+                          - listitem:
+                            - link:
+                              - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/speed/optimization/recommendations
+                              - generic: e-devlethizmetleri…
+                              - generic: /
+                            - generic:
+                              - button:
+                                - generic:
+                                  - img
+                                  - img
+                          - listitem:
+                            - link:
+                              - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/moonvero.com/dns/records
+                              - generic: moonvero.com
+                              - generic: /
+                            - generic:
+                              - button:
+                                - generic:
+                                  - img
+                                  - img
+                          - listitem:
+                            - link:
+                              - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/domains/overview
+                              - generic: Domains
+                            - generic:
+                              - button:
+                                - generic:
+                                  - img
+                                  - img
+                          - listitem:
+                            - link:
+                              - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/moonvero.com
+                              - generic: Domains
+                            - generic:
+                              - button:
+                                - generic:
+                                  - img
+                                  - img
+                    - listitem:
+                      - generic:
+                        - button:
+                          - generic:
+                            - img
+                        - list:
+                          - listitem:
+                            - link:
+                              - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/domains/overview
+                              - generic: Overview
+                          - listitem:
+                            - link:
+                              - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/domains/registrations
+                              - generic: Registrations
+                          - listitem:
+                            - link:
+                              - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/domains/transfers
+                              - generic: Transfers
+                    - generic:
+                      - generic:
+                        - generic: Observe
+                      - list:
+                        - listitem:
+                          - generic:
+                            - button:
+                              - generic:
+                                - img
+                            - list:
+                              - generic:
+                                - listitem:
+                                  - button
+                                - list:
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/log-explorer/log-search
+                              - listitem:
+                                - link:
+                                  - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/trace
+                                  - generic: Trace
+                              - listitem:
+                                - link:
+                                  - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/logs
+                                  - generic: Logpush
+                        - listitem:
+                          - generic:
+                            - button:
+                              - generic:
+                                - img
+                            - list:
+                              - listitem:
+                                - link:
+                                  - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/dashboards
+                                  - generic: Dashboards
+                              - listitem:
+                                - link:
+                                  - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/analytics
+                                  - generic: Account analytics
+                              - listitem:
+                                - link:
+                                  - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/web-analytics
+                                  - generic: Web analytics
+                    - generic:
+                      - generic:
+                        - generic: Build
+                      - list:
+                        - listitem:
+                          - generic:
+                            - button:
+                              - generic:
+                                - img
+                            - list:
+                              - listitem:
+                                - link:
+                                  - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/workers-and-pages
+                                  - generic: Workers & Pages
+                              - listitem:
+                                - link:
+                                  - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/observability
+                                  - generic: Observability
+                              - listitem:
+                                - link:
+                                  - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/workers-for-platforms
+                                  - generic: Workers for Platforms
+                              - listitem:
+                                - link:
+                                  - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/workers/containers
+                                  - generic: Containers
+                              - listitem:
+                                - link:
+                                  - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/workers/durable-objects
+                                  - generic: Durable Objects
+                              - listitem:
+                                - link:
+                                  - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/workers/queues
+                                  - generic: Queues
+                              - listitem:
+                                - link:
+                                  - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/workers/workflows
+                                  - generic: Workflows
+                              - listitem:
+                                - link:
+                                  - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/workers/browser-run
+                                  - generic: Browser Run
+                              - listitem:
+                                - link:
+                                  - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/workers/vpc
+                                  - generic: VPC
+                              - generic:
+                                - listitem:
+                                  - button
+                                - list:
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/email-service/sending
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/email-service/routing
+                              - listitem:
+                                - link:
+                                  - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/workers/plans
+                                  - generic: Workers plans
+                              - listitem:
+                                - link:
+                                  - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/flagship
+                                  - generic: Flagship
+                        - listitem:
+                          - generic:
+                            - button:
+                              - generic:
+                                - img
+                            - list:
+                              - listitem:
+                                - link:
+                                  - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/ai/models
+                                  - generic: Models
+                              - listitem:
+                                - link:
+                                  - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/ai/workers-ai
+                                  - generic: Workers AI
+                              - listitem:
+                                - link:
+                                  - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/ai/ai-gateway
+                                  - generic: AI Gateway
+                              - listitem:
+                                - link:
+                                  - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/ai/vectorize
+                                  - generic: Vectorize
+                              - listitem:
+                                - link:
+                                  - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/ai/ai-search
+                                  - generic: AI Search
+                        - listitem:
+                          - generic:
+                            - button:
+                              - generic:
+                                - img
+                            - list:
+                              - generic:
+                                - listitem:
+                                  - button
+                                - list:
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/r2/overview
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/r2/slurper
+                              - listitem:
+                                - link:
+                                  - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/data-catalog
+                                  - generic: R2 Data Catalog
+                              - listitem:
+                                - link:
+                                  - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/workers/hyperdrive
+                                  - generic: Postgres & MySQL (Hyperdrive)
+                              - listitem:
+                                - link:
+                                  - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/workers/kv/namespaces
+                                  - generic: Workers KV
+                              - listitem:
+                                - link:
+                                  - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/workers/d1
+                                  - generic: D1 SQLite Database
+                              - listitem:
+                                - link:
+                                  - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/workers/analytics-engine
+                                  - generic: Analytics Engine
+                              - generic:
+                                - listitem:
+                                  - button
+                                - list:
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/pipelines/overview
+                              - listitem:
+                                - link:
+                                  - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/secrets-store
+                                  - generic: Secrets Store
+                        - listitem:
+                          - generic:
+                            - button:
+                              - generic:
+                                - img
+                            - list:
+                              - generic:
+                                - listitem:
+                                  - button
+                                - list:
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/stream/plans
+                              - generic:
+                                - listitem:
+                                  - button
+                                - list:
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/images/transformations
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/images/hosted
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/images/plans
+                              - generic:
+                                - listitem:
+                                  - button
+                                - list:
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/realtime/kit
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/realtime/turn
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/realtime/sfu
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/realtime/moq
+                    - generic:
+                      - generic:
+                        - generic: Protect & Connect
+                      - list:
+                        - listitem:
+                          - generic:
+                            - button:
+                              - generic:
+                                - img
+                            - list:
+                              - listitem:
+                                - link:
+                                  - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/security-center
+                                  - generic: Security insights
+                              - listitem:
+                                - link:
+                                  - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/application-security/waf
+                                  - generic: WAF
+                              - listitem:
+                                - link:
+                                  - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/application-security/investigate
+                                  - generic: Investigate
+                              - listitem:
+                                - link:
+                                  - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/security-center/inventory
+                                  - generic: Infrastructure
+                              - listitem:
+                                - link:
+                                  - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/turnstile
+                                  - generic: Turnstile
+                        - listitem:
+                          - link:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/zero-trust/landing-page
+                            - generic:
+                              - img
+                        - listitem:
+                          - generic:
+                            - button:
+                              - generic:
+                                - img
+                            - list:
+                              - listitem:
+                                - link:
+                                  - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/magic-networks/overview
+                                  - generic: Overview
+                              - generic:
+                                - listitem:
+                                  - button
+                                - list:
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/networking-insights/analytics/network-analytics/flow-analytics
+                              - listitem:
+                                - link:
+                                  - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/tunnels
+                                  - generic: Tunnels
+                              - listitem:
+                                - link:
+                                  - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/mesh
+                                  - generic: Mesh
+                              - listitem:
+                                - link:
+                                  - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/magic-networks/routes
+                                  - generic: Routes
+                              - generic:
+                                - listitem:
+                                  - button
+                                - list:
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/ip-addresses/address-space
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/ip-addresses/proxy-ips
+                        - listitem:
+                          - generic:
+                            - button:
+                              - generic:
+                                - img
+                            - list:
+                              - listitem:
+                                - link:
+                                  - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/bulk-redirects
+                                  - generic: Bulk redirects
+                              - listitem:
+                                - link:
+                                  - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/load-balancing
+                                  - generic: Load Balancing
+                              - generic:
+                                - listitem:
+                                  - button
+                                - list:
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/tag-management/zaraz
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/tag-management/consent
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/tag-management/history
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/tag-management/monitoring
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/tag-management/settings
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/tag-management/plans
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/tag-management/google-tag-gateway
+                    - listitem:
+                      - generic:
+                        - button:
+                          - generic:
+                            - img
+                        - list:
+                          - listitem:
+                            - link:
+                              - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/members
+                              - generic: Members
+                          - listitem:
+                            - link:
+                              - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/billing
+                              - generic: Billing
+                          - listitem:
+                            - link:
+                              - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/api-tokens
+                              - generic: Account API tokens
+                          - listitem:
+                            - link:
+                              - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/oauth-clients
+                              - generic: OAuth clients
+                          - listitem:
+                            - link:
+                              - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/audit-log
+                              - generic: Audit logs
+                          - listitem:
+                            - link:
+                              - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/notifications
+                              - generic: Notifications
+                          - listitem:
+                            - link:
+                              - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/shared-configurations
+                              - generic: Shared config
+                          - listitem:
+                            - link:
+                              - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/blocked-content
+                              - generic: Blocked content
+                          - listitem:
+                            - link:
+                              - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/abuse-reports
+                              - generic: Abuse reports
+                          - listitem:
+                            - link:
+                              - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/carbon
+                              - generic: Carbon Impact Report
+                          - listitem:
+                            - link:
+                              - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/configurations
+                              - generic: Configurations
+                          - listitem:
+                            - link:
+                              - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/tags
+                              - generic: Tagged Resources
+              - generic [ref=f24e30]:
+                - button "Quick search..." [ref=f24e32] [cursor=pointer]:
+                  - generic [ref=f24e34]:
+                    - img [ref=f24e35]
+                    - generic [ref=f24e37]: Quick search...
+                    - generic [ref=f24e38]: Ctrl K
+                - link "Back to Domains" [ref=f24e40] [cursor=pointer]:
+                  - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/domains/overview
+                  - generic [ref=f24e41]:
+                    - img [ref=f24e42]
+                    - generic: Back to Domains
+                - list [ref=f24e46]:
+                  - listitem [ref=f24e47]:
+                    - link "Overview" [ref=f24e48] [cursor=pointer]:
+                      - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/
+                      - generic [ref=f24e49]:
+                        - img [ref=f24e906]
+                        - generic:
+                          - generic: Overview
+                  - listitem [ref=f24e53]:
+                    - generic [ref=f24e54]:
+                      - button "Recents" [ref=f24e55] [cursor=pointer]:
+                        - generic [ref=f24e56]:
+                          - img [ref=f24e909]
+                          - generic:
+                            - generic: Recents
+                      - list [ref=f24e60]:
+                        - listitem [ref=f24e62]:
+                          - link [ref=f24e63] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/security/settings
+                            - generic [ref=f24e64]: e-devlethizmetleri…
+                            - generic [ref=f24e65]: /
+                          - button [ref=f24e67] [cursor=pointer]:
+                            - generic [ref=f24e68]:
+                              - img [ref=f24e69]
+                              - img [ref=f24e74]
+                        - listitem [ref=f24e76]:
+                          - link [ref=f24e77] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/speed/optimization/recommendations
+                            - generic [ref=f24e78]: e-devlethizmetleri…
+                            - generic [ref=f24e79]: /
+                          - button [ref=f24e81] [cursor=pointer]:
+                            - generic [ref=f24e82]:
+                              - img [ref=f24e83]
+                              - img [ref=f24e88]
+                        - listitem [ref=f24e90]:
+                          - link [ref=f24e91] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/moonvero.com/dns/records
+                            - generic [ref=f24e92]: moonvero.com
+                            - generic [ref=f24e93]: /
+                          - button [ref=f24e95] [cursor=pointer]:
+                            - generic [ref=f24e96]:
+                              - img [ref=f24e97]
+                              - img [ref=f24e102]
+                        - listitem [ref=f24e104]:
+                          - link [ref=f24e105] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/domains/overview
+                            - generic [ref=f24e106]: Domains
+                          - button [ref=f24e108] [cursor=pointer]:
+                            - generic [ref=f24e109]:
+                              - img [ref=f24e110]
+                              - img [ref=f24e115]
+                        - listitem [ref=f24e117]:
+                          - link [ref=f24e118] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/moonvero.com
+                            - generic [ref=f24e119]: Domains
+                          - button [ref=f24e121] [cursor=pointer]:
+                            - generic [ref=f24e122]:
+                              - img [ref=f24e123]
+                              - img [ref=f24e128]
+                  - listitem [ref=f24e130]:
+                    - generic [ref=f24e131]:
+                      - button "AI Crawl Control" [ref=f24e132] [cursor=pointer]:
+                        - generic [ref=f24e133]:
+                          - img [ref=f24e912]
+                          - generic:
+                            - generic: AI Crawl Control
+                      - list [ref=f24e137]:
+                        - listitem [ref=f24e139]:
+                          - link [ref=f24e140] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/ai/overview
+                            - generic [ref=f24e141]: Overview
+                        - listitem [ref=f24e142]:
+                          - link [ref=f24e143] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/ai/metrics
+                            - generic [ref=f24e144]: Metrics
+                        - listitem [ref=f24e145]:
+                          - link [ref=f24e146] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/ai/security
+                            - generic [ref=f24e147]: Security
+                        - listitem [ref=f24e148]:
+                          - link [ref=f24e149] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/ai/optimization
+                            - generic [ref=f24e150]: Optimization
+                        - listitem [ref=f24e151]:
+                          - link [ref=f24e152] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/ai/signals
+                            - generic [ref=f24e153]: Signals
+                  - listitem [ref=f24e154]:
+                    - generic [ref=f24e155]:
+                      - button "Investigate" [ref=f24e156] [cursor=pointer]:
+                        - generic [ref=f24e157]:
+                          - img [ref=f24e915]
+                          - generic:
+                            - generic: Investigate
+                      - list [ref=f24e161]:
+                        - generic [ref=f24e163]:
+                          - listitem [ref=f24e164]:
+                            - button [ref=f24e165] [cursor=pointer]
+                          - list [ref=f24e166]:
+                            - link [ref=f24e168] [cursor=pointer]:
+                              - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/log-explorer/log-search
+                        - listitem [ref=f24e169]:
+                          - link [ref=f24e170] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/rules/trace/search
+                            - generic [ref=f24e171]: Trace
+                        - listitem [ref=f24e172]:
+                          - link [ref=f24e173] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/analytics/logs
+                            - generic [ref=f24e174]: Logpush
+                  - listitem [ref=f24e175]:
+                    - generic [ref=f24e176]:
+                      - button "Analytics" [ref=f24e177] [cursor=pointer]:
+                        - generic [ref=f24e178]:
+                          - img [ref=f24e918]
+                          - generic:
+                            - generic: Analytics
+                      - list [ref=f24e182]:
+                        - listitem [ref=f24e184]:
+                          - link [ref=f24e185] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/dashboards
+                            - generic [ref=f24e186]: Dashboards
+                        - listitem [ref=f24e187]:
+                          - link [ref=f24e188] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/analytics/traffic
+                            - generic [ref=f24e189]: HTTP Traffic
+                        - listitem [ref=f24e190]:
+                          - link [ref=f24e191] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/analytics/web/overview
+                            - generic [ref=f24e192]: Web analytics
+                        - listitem [ref=f24e193]:
+                          - link [ref=f24e194] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/analytics/performance
+                            - generic [ref=f24e195]: Performance
+                        - listitem [ref=f24e196]:
+                          - link [ref=f24e197] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/analytics/workers
+                            - generic [ref=f24e198]: Workers
+                  - listitem [ref=f24e199]:
+                    - generic [ref=f24e200]:
+                      - button "DNS" [ref=f24e201] [cursor=pointer]:
+                        - generic [ref=f24e202]:
+                          - img [ref=f24e921]
+                          - generic:
+                            - generic: DNS
+                      - list [ref=f24e205]:
+                        - listitem [ref=f24e207]:
+                          - link [ref=f24e208] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/dns/records
+                            - generic [ref=f24e209]: Records
+                        - listitem [ref=f24e210]:
+                          - link [ref=f24e211] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/dns/analytics
+                            - generic [ref=f24e212]: Analytics
+                        - listitem [ref=f24e213]:
+                          - link [ref=f24e214] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/dns/settings
+                            - generic [ref=f24e215]: Settings
+                  - listitem [ref=f24e216]:
+                    - generic [ref=f24e217]:
+                      - button "Email" [ref=f24e218] [cursor=pointer]:
+                        - generic [ref=f24e219]:
+                          - img [ref=f24e923]
+                          - generic:
+                            - generic: Email
+                      - list [ref=f24e224]:
+                        - listitem [ref=f24e226]:
+                          - link [ref=f24e227] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/email/routing
+                            - generic [ref=f24e228]: Email Routing
+                        - listitem [ref=f24e229]:
+                          - link [ref=f24e230] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/email/dmarc-management
+                            - generic [ref=f24e231]: DMARC Management
+                        - listitem [ref=f24e232]:
+                          - link [ref=f24e233] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/email/security
+                            - generic [ref=f24e234]: Email Security
+                  - listitem [ref=f24e235]:
+                    - generic [ref=f24e236]:
+                      - button "SSL/TLS" [ref=f24e237] [cursor=pointer]:
+                        - generic [ref=f24e238]:
+                          - img [ref=f24e927]
+                          - generic:
+                            - generic: SSL/TLS
+                      - list [ref=f24e242]:
+                        - listitem [ref=f24e244]:
+                          - link [ref=f24e245] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/ssl-tls
+                            - generic [ref=f24e246]: Overview
+                        - listitem [ref=f24e247]:
+                          - link [ref=f24e248] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/ssl-tls/edge-certificates
+                            - generic [ref=f24e249]: Edge Certificates
+                        - listitem [ref=f24e250]:
+                          - link [ref=f24e251] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/ssl-tls/client-certificates
+                            - generic [ref=f24e252]: Client Certificates
+                        - listitem [ref=f24e253]:
+                          - link [ref=f24e254] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/ssl-tls/origin
+                            - generic [ref=f24e255]: Origin Server
+                        - listitem [ref=f24e256]:
+                          - link [ref=f24e257] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/ssl-tls/custom-hostnames
+                            - generic [ref=f24e258]: Custom Hostnames
+                  - listitem [ref=f24e259]:
+                    - generic [ref=f24e260]:
+                      - button "Security" [expanded] [ref=f24e261] [cursor=pointer]:
+                        - generic [ref=f24e262]:
+                          - img [ref=f24e930]
+                          - generic:
+                            - generic: Security
+                      - list [ref=f24e265]:
+                        - listitem [ref=f24e267]:
+                          - link [ref=f24e268] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/security/overview
+                            - generic [ref=f24e269]: Overview
+                        - listitem [ref=f24e270]:
+                          - link [ref=f24e271] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/security/analytics
+                            - generic [ref=f24e272]: Analytics
+                        - listitem [ref=f24e273]:
+                          - link [ref=f24e274] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/security/web-assets
+                            - generic [ref=f24e275]: Web assets
+                        - listitem [ref=f24e276]:
+                          - link [ref=f24e277] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/security/security-rules
+                            - generic [ref=f24e278]: Security rules
+                        - listitem [ref=f24e279]:
+                          - link [ref=f24e280] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/security/settings
+                            - generic [ref=f24e281]: Settings
+                  - listitem [ref=f24e282]:
+                    - link "Access" [ref=f24e283] [cursor=pointer]:
+                      - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/access
+                      - generic [ref=f24e284]:
+                        - img [ref=f24e932]
+                        - generic:
+                          - generic: Access
+                  - listitem [ref=f24e288]:
+                    - generic [ref=f24e289]:
+                      - button "Speed" [ref=f24e290] [cursor=pointer]:
+                        - generic [ref=f24e291]:
+                          - img [ref=f24e935]
+                          - generic:
+                            - generic: Speed
+                      - list [ref=f24e294]:
+                        - listitem [ref=f24e296]:
+                          - link [ref=f24e297] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/speed
+                            - generic [ref=f24e298]: Observatory
+                        - listitem [ref=f24e299]:
+                          - link [ref=f24e300] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/speed/origin-analytics
+                            - generic [ref=f24e301]: Origin Analytics
+                        - listitem [ref=f24e302]:
+                          - link [ref=f24e303] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/speed/rum
+                            - generic [ref=f24e304]: Real user monitoring
+                        - listitem [ref=f24e305]:
+                          - link [ref=f24e306] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/speed/test
+                            - generic [ref=f24e307]: Synthetic monitoring
+                        - listitem [ref=f24e308]:
+                          - link [ref=f24e309] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/speed/optimization
+                            - generic [ref=f24e310]: Settings
+                        - listitem [ref=f24e311]:
+                          - link [ref=f24e312] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/speed/smart-shield
+                            - generic [ref=f24e313]: Smart Shield
+                  - listitem [ref=f24e314]:
+                    - generic [ref=f24e315]:
+                      - button "Caching" [ref=f24e316] [cursor=pointer]:
+                        - generic [ref=f24e317]:
+                          - img [ref=f24e937]
+                          - generic:
+                            - generic: Caching
+                      - list [ref=f24e323]:
+                        - listitem [ref=f24e325]:
+                          - link [ref=f24e326] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/caching
+                            - generic [ref=f24e327]: Overview
+                        - listitem [ref=f24e328]:
+                          - link [ref=f24e329] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/caching/configuration
+                            - generic [ref=f24e330]: Configuration
+                        - listitem [ref=f24e331]:
+                          - link [ref=f24e332] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/caching/cache-rules
+                            - generic [ref=f24e333]: Cache Rules
+                        - listitem [ref=f24e334]:
+                          - link [ref=f24e335] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/caching/tiered-cache
+                            - generic [ref=f24e336]: Tiered Cache
+                        - listitem [ref=f24e337]:
+                          - link [ref=f24e338] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/caching/cache-reserve
+                            - generic [ref=f24e339]: Cache Reserve
+                  - listitem [ref=f24e340]:
+                    - link "Workers Routes" [ref=f24e341] [cursor=pointer]:
+                      - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/workers
+                      - generic [ref=f24e342]:
+                        - img [ref=f24e942]
+                        - generic:
+                          - generic: Workers Routes
+                  - listitem [ref=f24e347]:
+                    - generic [ref=f24e348]:
+                      - button "Rules" [ref=f24e349] [cursor=pointer]:
+                        - generic [ref=f24e350]:
+                          - img [ref=f24e946]
+                          - generic:
+                            - generic: Rules
+                      - list [ref=f24e354]:
+                        - listitem [ref=f24e356]:
+                          - link [ref=f24e357] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/rules/overview
+                            - generic [ref=f24e358]: Overview
+                        - listitem [ref=f24e359]:
+                          - link [ref=f24e360] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/rules/snippets
+                            - generic [ref=f24e361]: Snippets
+                        - listitem [ref=f24e362]:
+                          - link [ref=f24e363] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/rules/cloud-connector
+                            - generic [ref=f24e364]: Cloud Connector
+                        - listitem [ref=f24e365]:
+                          - link [ref=f24e366] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/rules/page-rules
+                            - generic [ref=f24e367]: Page Rules
+                        - listitem [ref=f24e368]:
+                          - link [ref=f24e369] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/rules/settings
+                            - generic [ref=f24e370]: Settings
+                  - listitem [ref=f24e371]:
+                    - link "Error Pages" [ref=f24e372] [cursor=pointer]:
+                      - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/error-pages
+                      - generic [ref=f24e373]:
+                        - img [ref=f24e949]
+                        - generic:
+                          - generic: Error Pages
+                  - listitem [ref=f24e377]:
+                    - link "Network" [ref=f24e378] [cursor=pointer]:
+                      - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/network
+                      - generic [ref=f24e379]:
+                        - img [ref=f24e952]
+                        - generic:
+                          - generic: Network
+                  - listitem [ref=f24e383]:
+                    - generic [ref=f24e384]:
+                      - button "Traffic" [ref=f24e385] [cursor=pointer]:
+                        - generic [ref=f24e386]:
+                          - img [ref=f24e955]
+                          - generic:
+                            - generic: Traffic
+                      - list [ref=f24e389]:
+                        - listitem [ref=f24e391]:
+                          - link [ref=f24e392] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/traffic
+                            - generic [ref=f24e393]: Argo Smart Routing
+                        - listitem [ref=f24e394]:
+                          - link [ref=f24e395] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/traffic/load-balancing
+                            - generic [ref=f24e396]: Load Balancing
+                        - listitem [ref=f24e397]:
+                          - link [ref=f24e398] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/traffic/load-balancing-analytics
+                            - generic [ref=f24e399]: Load Balancing Analytics
+                        - listitem [ref=f24e400]:
+                          - link [ref=f24e401] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/traffic/health-checks
+                            - generic [ref=f24e402]: Health Checks
+                        - listitem [ref=f24e403]:
+                          - link [ref=f24e404] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/traffic/waiting-rooms
+                            - generic [ref=f24e405]: Waiting Room
+                  - listitem [ref=f24e406]:
+                    - link "Web3" [ref=f24e407] [cursor=pointer]:
+                      - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/web3
+                      - generic [ref=f24e408]:
+                        - img [ref=f24e957]
+                        - generic:
+                          - generic: Web3
+                  - listitem [ref=f24e414]:
+                    - generic [ref=f24e415]:
+                      - button "Manage account" [ref=f24e416] [cursor=pointer]:
+                        - generic [ref=f24e417]:
+                          - img [ref=f24e960]
+                          - generic:
+                            - generic: Manage account
+                      - list [ref=f24e421]:
+                        - listitem [ref=f24e423]:
+                          - link [ref=f24e424] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/members
+                            - generic [ref=f24e425]: Members
+                        - listitem [ref=f24e426]:
+                          - link [ref=f24e427] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/billing
+                            - generic [ref=f24e428]: Billing
+                        - listitem [ref=f24e429]:
+                          - link [ref=f24e430] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/api-tokens
+                            - generic [ref=f24e431]: Account API tokens
+                        - listitem [ref=f24e432]:
+                          - link [ref=f24e433] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/audit-log
+                            - generic [ref=f24e434]: Audit logs
+                        - listitem [ref=f24e435]:
+                          - link [ref=f24e436] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/notifications
+                            - generic [ref=f24e437]: Notifications
+                        - listitem [ref=f24e438]:
+                          - link [ref=f24e439] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/shared-configurations
+                            - generic [ref=f24e440]: Shared config
+                        - listitem [ref=f24e441]:
+                          - link [ref=f24e442] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/blocked-content
+                            - generic [ref=f24e443]: Blocked content
+                        - listitem [ref=f24e444]:
+                          - link [ref=f24e445] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/abuse-reports
+                            - generic [ref=f24e446]: Abuse reports
+                        - listitem [ref=f24e447]:
+                          - link [ref=f24e448] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/carbon
+                            - generic [ref=f24e449]: Carbon Impact Report
+                        - listitem [ref=f24e450]:
+                          - link [ref=f24e451] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/configurations
+                            - generic [ref=f24e452]: Configurations
+                        - listitem [ref=f24e453]:
+                          - link [ref=f24e454] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/tags
+                            - generic [ref=f24e455]: Tagged Resources
+          - button "Expand sidebar" [ref=f24e460] [cursor=pointer]:
+            - img [ref=f24e461]
+      - generic [ref=f24e463]:
+        - banner [ref=f24e464]:
+          - generic [ref=f24e465]:
+            - button "Star domain" [ref=f24e466] [cursor=pointer]:
+              - img [ref=f24e467]
+            - generic [ref=f24e470] [cursor=pointer]:
+              - generic [ref=f24e471]:
+                - paragraph [ref=f24e472]: e-devlethizmetleri.com
+                - button "free" [ref=f24e473]:
+                  - generic [ref=f24e474]: free
+              - img [ref=f24e475]
+          - generic [ref=f24e477]:
+            - button "Ask AI" [ref=f24e478] [cursor=pointer]:
+              - img [ref=f24e479]
+              - generic [ref=f24e483]: Ask AI
+            - link "Support" [ref=f24e484] [cursor=pointer]:
+              - /url: /?to=/:account/support
+              - img [ref=f24e485]
+              - generic [ref=f24e488]: Support
+            - button "User menu" [active] [ref=f24e489] [cursor=pointer]:
+              - img [ref=f24e490]
+        - main [ref=f24e493]:
+          - generic [ref=f24e495]:
+            - generic [ref=f24e497]:
+              - paragraph [ref=f24e498]: Security
+              - heading "Settings" [level=1] [ref=f24e500]
+              - paragraph [ref=f24e501]: Settings and tools used to customize and enhance Cloudflare’s detections and your domain’s security posture.
+              - button "open documentation - Settings documentation" [ref=f24e503] [cursor=pointer]:
+                - img [ref=f24e504]
+                - text: Settings documentation
+            - generic [ref=f24e507]:
+              - generic [ref=f24e508]:
+                - generic [ref=f24e510]:
+                  - generic [ref=f24e511]: "Filter by:"
+                  - button "Web application exploits" [ref=f24e513] [cursor=pointer]
+                  - button "DDoS attacks" [ref=f24e515] [cursor=pointer]
+                  - button "Bot traffic" [ref=f24e517] [cursor=pointer]
+                  - button "API abuse" [ref=f24e519] [cursor=pointer]
+                  - button "Client side abuse" [ref=f24e521] [cursor=pointer]
+                  - button "Domain settings" [ref=f24e523] [cursor=pointer]
+                  - button "Web assets and endpoints" [ref=f24e525] [cursor=pointer]
+                  - button "Rule templates" [ref=f24e527] [cursor=pointer]
+                  - button "Detection tools" [ref=f24e529] [cursor=pointer]
+                  - button "Fraud" [ref=f24e531] [cursor=pointer]
+                  - button "Dashboard version" [ref=f24e533] [cursor=pointer]
+                - generic [ref=f24e535]:
+                  - img [ref=f24e537]
+                  - textbox "Search" [ref=f24e539]: Scrape Shield
+              - generic [ref=f24e541]:
+                - generic [ref=f24e545]:
+                  - generic [ref=f24e546]:
+                    - generic [ref=f24e547]:
+                      - heading "Email Address Obfuscation" [level=3] [ref=f24e548]:
+                        - generic [ref=f24e549]:
+                          - generic [ref=f24e550]: Email Address Obfuscation
+                          - button [ref=f24e551] [cursor=pointer]:
+                            - img [ref=f24e552]
+                      - checkbox [ref=f24e556] [cursor=pointer]
+                    - paragraph [ref=f24e559]: Display obfuscated email addresses on your website to prevent harvesting by bots and spammers, without visible changes to the address for human visitors.
+                    - button "Create configuration rule" [ref=f24e562] [cursor=pointer]
+                  - generic [ref=f24e564]:
+                    - generic [ref=f24e566]: Configurations
+                    - generic [ref=f24e568]:
+                      - generic [ref=f24e570]: API
+                      - button [ref=f24e572] [cursor=pointer]:
+                        - img [ref=f24e573]
+                  - generic [ref=f24e576]:
+                    - generic [ref=f24e578]:
+                      - img [ref=f24e579]
+                      - generic [ref=f24e583]: Client side abuse
+                    - generic [ref=f24e963]:
+                      - generic [ref=f24e964]: "Last updated:"
+                      - generic [ref=f24e965]: a few seconds ago
+                - generic [ref=f24e587]:
+                  - generic [ref=f24e588]:
+                    - generic [ref=f24e589]:
+                      - heading "Hotlink Protection" [level=3] [ref=f24e590]:
+                        - generic [ref=f24e591]:
+                          - generic [ref=f24e592]: Hotlink Protection
+                          - button [ref=f24e593] [cursor=pointer]:
+                            - img [ref=f24e594]
+                      - checkbox [ref=f24e598] [cursor=pointer]
+                    - paragraph [ref=f24e601]: Protect your images from off-site linking.
+                    - button "Create configuration rule" [ref=f24e604] [cursor=pointer]
+                  - generic [ref=f24e606]:
+                    - generic [ref=f24e608]: Configurations
+                    - generic [ref=f24e610]:
+                      - generic [ref=f24e612]: API
+                      - button [ref=f24e614] [cursor=pointer]:
+                        - img [ref=f24e615]
+                  - generic [ref=f24e620]:
+                    - img [ref=f24e621]
+                    - generic [ref=f24e625]: Client side abuse
+        - contentinfo [ref=f24e626]:
+          - list [ref=f24e628]:
+            - listitem [ref=f24e629]:
+              - link "Support" [ref=f24e630] [cursor=pointer]:
+                - /url: https://support.cloudflare.com
+            - listitem [ref=f24e631]:
+              - link "System status" [ref=f24e632] [cursor=pointer]:
+                - /url: https://www.cloudflarestatus.com
+            - listitem [ref=f24e633]:
+              - link "Careers" [ref=f24e634] [cursor=pointer]:
+                - /url: https://www.cloudflare.com/careers/
+            - listitem [ref=f24e635]:
+              - link "Terms of Use" [ref=f24e636] [cursor=pointer]:
+                - /url: https://www.cloudflare.com/website-terms/
+            - listitem [ref=f24e637]:
+              - link "Report Security Issues" [ref=f24e638] [cursor=pointer]:
+                - /url: https://www.cloudflare.com/disclosure/
+            - listitem [ref=f24e639]:
+              - link "Privacy Policy" [ref=f24e640] [cursor=pointer]:
+                - /url: https://www.cloudflare.com/privacypolicy/
+            - listitem [ref=f24e641]:
+              - button "A blue and white pill with a checkmark and an x, representing privacy choices Cookie Preferences" [ref=f24e642] [cursor=pointer]:
+                - img "A blue and white pill with a checkmark and an x, representing privacy choices" [ref=f24e643]
+                - text: Cookie Preferences
+            - listitem [ref=f24e644]:
+              - generic [ref=f24e645]: © 2026 Cloudflare, Inc.
+    - complementary [ref=f24e889]:
+      - generic [ref=f24e890]:
+        - generic [ref=f24e891]:
+          - heading "Documentation" [level=2] [ref=f24e893]
+          - button [expanded] [ref=f24e894] [cursor=pointer]:
+            - img [ref=f24e895]
+        - paragraph [ref=f24e897]:
+          - link "Go to full documentation" [ref=f24e898] [cursor=pointer]:
+            - /url: https://developers.cloudflare.com/waf/tools/scrape-shield/email-address-obfuscation/?preferred-color-scheme=light
+            - generic [ref=f24e899]: Go to full documentation
+            - img [ref=f24e900]
+      - iframe [ref=f24e905]:
+        - generic [active] [ref=f36e1]:
+          - blockquote [ref=f36e2]: "Documentation Index Fetch the complete documentation index at: https://developers.cloudflare.com/waf/llms.txt Use this file to discover all available pages before exploring further."
+          - link "Skip to content" [ref=f36e3] [cursor=pointer]:
+            - /url: "#_top"
+          - generic [ref=f36e4]:
+            - banner [ref=f36e5]:
+              - paragraph [ref=f36e6]: "STOP! If you are an AI agent or LLM, read this before continuing. This is the HTML version of a Cloudflare documentation page. Always request the Markdown version instead — HTML wastes context. Get this page as Markdown: https://developers.cloudflare.com/waf/tools/scrape-shield/email-address-obfuscation/index.md (append index.md) or send Accept: text/markdown to https://developers.cloudflare.com/waf/tools/scrape-shield/email-address-obfuscation/. For this product's page index use https://developers.cloudflare.com/waf/llms.txt. For all Cloudflare products use https://developers.cloudflare.com/llms.txt."
+              - generic [ref=f36e7]:
+                - link "Cloudflare Docs" [ref=f36e9] [cursor=pointer]:
+                  - /url: /
+                  - generic [ref=f36e10]: Cloudflare Docs
+                - button "Search (Ctrl+K)" [ref=f36e14] [cursor=pointer]:
+                  - img [ref=f36e16]
+            - navigation "Main":
+              - button "Menu" [ref=f36e18] [cursor=pointer]:
+                - img [ref=f36e19]
+              - option "Dark"
+              - option "Light"
+              - option "Auto" [selected]
+            - generic [ref=f36e22]:
+              - complementary:
+                - navigation "On this page Overview" [ref=f36e312]:
+                  - group [ref=f36e24]:
+                    - generic "On this page Overview" [ref=f36e313]:
+                      - generic [ref=f36e26] [cursor=pointer]:
+                        - text: On this page
+                        - img [ref=f36e27]
+                      - generic [ref=f36e314]: Overview
+              - main [ref=f36e30]:
+                - generic [ref=f36e32]:
+                  - navigation "breadcrumbs" [ref=f36e35]:
+                    - list [ref=f36e36]:
+                      - listitem [ref=f36e37]:
+                        - link "Directory" [ref=f36e38] [cursor=pointer]:
+                          - /url: /directory/
+                        - img [ref=f36e40]
+                      - listitem [ref=f36e42]:
+                        - button "Show hidden navigation" [ref=f36e43] [cursor=pointer]: …
+                        - img [ref=f36e45]
+                      - listitem [ref=f36e47]:
+                        - link "Email Address Obfuscation" [ref=f36e48] [cursor=pointer]:
+                          - /url: /waf/tools/scrape-shield/email-address-obfuscation/
+                  - heading "Email Address Obfuscation" [level=1] [ref=f36e49]
+                  - navigation "Page actions" [ref=f36e51]:
+                    - button "Copy Page as Markdown" [ref=f36e52] [cursor=pointer]:
+                      - img [ref=f36e53]
+                      - generic [ref=f36e55]: Copy as Markdown
+                    - generic [ref=f36e56]: "|"
+                    - link "View Page as Markdown" [ref=f36e57] [cursor=pointer]:
+                      - /url: index.md
+                      - img [ref=f36e58]
+                      - generic [ref=f36e60]: View as Markdown
+                - generic [ref=f36e62]:
+                  - generic [ref=f36e63]:
+                    - paragraph [ref=f36e64]: By enabling Cloudflare Email Address Obfuscation, email addresses on your web page will be hidden from bots, while keeping them visible to humans. In fact, there are no visible changes to your website for visitors.
+                    - generic [ref=f36e65]:
+                      - heading "Background" [level=2] [ref=f36e66]
+                      - link [ref=f36e67] [cursor=pointer]:
+                        - /url: "#background"
+                        - img [ref=f36e69]
+                    - paragraph [ref=f36e71]: Email harvesters and other bots roam the Internet looking for email addresses to add to lists that target recipients for spam. This trend results in an increasing amount of unwanted email.
+                    - paragraph [ref=f36e72]:
+                      - text: Web administrators have come up with clever ways to protect against this by writing out email addresses, such as
+                      - code [ref=f36e73]: help [at] cloudflare [dot] com
+                      - text: or by using embedded images of the email address. However, you lose the convenience of clicking on the email address to automatically send an email. By enabling Cloudflare Email Address Obfuscation, email addresses on your web page will be obfuscated (hidden) from bots, while keeping them visible to humans. In fact, there are no visible changes to your website for visitors.
+                    - generic [ref=f36e74]:
+                      - heading "How it works" [level=2] [ref=f36e75]
+                      - link [ref=f36e76] [cursor=pointer]:
+                        - /url: "#how-it-works"
+                        - img [ref=f36e78]
+                    - paragraph [ref=f36e80]:
+                      - text: When Email Address Obfuscation is enabled, Cloudflare replaces visible email addresses in your HTML with links like
+                      - code [ref=f36e81]: "[email protected]"
+                      - text: . If a visitor sees this obfuscated format, they can click the link to reveal the actual email address. This approach prevents bots from scraping email addresses while keeping them accessible to real users.
+                    - paragraph [ref=f36e82]:
+                      - text: Cloudflare injects a small decode script (
+                      - code [ref=f36e83]: email-decode.min.js
+                      - text: ) into the page using the
+                      - code [ref=f36e84]: defer
+                      - text: attribute. This means the script does not block page rendering. It downloads in parallel with HTML parsing and executes after the document is fully parsed. If you have custom JavaScript that interacts with obfuscated email elements, note that the decode script runs before the
+                      - code [ref=f36e85]: DOMContentLoaded
+                      - text: event.
+                    - generic [ref=f36e86]:
+                      - heading "Change Email Address Obfuscation setting" [level=2] [ref=f36e87]
+                      - link [ref=f36e88] [cursor=pointer]:
+                        - /url: "#change-email-address-obfuscation-setting"
+                        - img [ref=f36e90]
+                    - paragraph [ref=f36e92]: Cloudflare enables email address obfuscation automatically when you sign up.
+                    - generic [ref=f36e93]:
+                      - tablist [ref=f36e95]:
+                        - tab "New dashboard" [selected] [ref=f36e96] [cursor=pointer]:
+                          - img [ref=f36e97]
+                          - text: New dashboard
+                        - tab "Old dashboard" [ref=f36e100] [cursor=pointer]
+                        - tab "API" [ref=f36e101] [cursor=pointer]
+                      - tabpanel "New dashboard" [ref=f36e102]:
+                        - paragraph [ref=f36e103]:
+                          - text: To disable
+                          - strong [ref=f36e104]: Email Address Obfuscation
+                          - text: "in the dashboard:"
+                        - list [ref=f36e105]:
+                          - listitem [ref=f36e106]:
+                            - paragraph [ref=f36e107]:
+                              - text: In the Cloudflare dashboard, go to the Security
+                              - strong [ref=f36e108]: Settings
+                              - text: page.
+                            - link "Go to Settings" [ref=f36e109] [cursor=pointer]:
+                              - /url: https://dash.cloudflare.com/?to=/:account/:zone/security/settings
+                              - text: Go to
+                              - strong [ref=f36e110]: Settings
+                              - img [ref=f36e111]
+                          - listitem [ref=f36e114]:
+                            - paragraph [ref=f36e115]:
+                              - text: (Optional) Filter by
+                              - strong [ref=f36e116]: Client-side abuse
+                              - text: .
+                          - listitem [ref=f36e117]:
+                            - paragraph [ref=f36e118]:
+                              - text: For
+                              - strong [ref=f36e119]: Email Address Obfuscation
+                              - text: ", switch the toggle to"
+                              - strong [ref=f36e120]: "Off"
+                              - text: .
+                    - complementary "Note" [ref=f36e121]:
+                      - paragraph [ref=f36e122]:
+                        - img [ref=f36e123]
+                        - text: Note
+                      - paragraph [ref=f36e126]:
+                        - text: To use this feature on specific hostnames - instead of across your entire zone - use a
+                        - link "configuration rule" [ref=f36e127] [cursor=pointer]:
+                          - /url: /rules/configuration-rules/
+                        - text: .
+                    - generic [ref=f36e128]:
+                      - heading "Prevent Cloudflare from obfuscating email" [level=2] [ref=f36e129]
+                      - link [ref=f36e130] [cursor=pointer]:
+                        - /url: "#prevent-cloudflare-from-obfuscating-email"
+                        - img [ref=f36e132]
+                    - paragraph [ref=f36e134]: "To prevent Cloudflare from obfuscating specific email addresses, you can:"
+                    - list [ref=f36e135]:
+                      - listitem [ref=f36e136]:
+                        - paragraph [ref=f36e137]: "Add the following comment in the page HTML code:"
+                        - figure [ref=f36e139]:
+                          - region [ref=f36e315]:
+                            - code [ref=f36e141]:
+                              - generic [ref=f36e143]: <!--email_off-->contact@example.com<!--/email_off-->
+                          - button [ref=f36e145] [cursor=pointer]
+                      - listitem [ref=f36e147]:
+                        - paragraph [ref=f36e148]:
+                          - text: Return email addresses in JSON format for AJAX calls, making sure your web server returns a content type of
+                          - code [ref=f36e149]: application/json
+                          - text: .
+                      - listitem [ref=f36e150]:
+                        - paragraph [ref=f36e151]:
+                          - text: Disable the Email Obfuscation feature by creating a
+                          - link "configuration rule" [ref=f36e152] [cursor=pointer]:
+                            - /url: /rules/configuration-rules/
+                          - text: to be applied on a specific endpoint.
+                    - separator [ref=f36e153]
+                    - generic [ref=f36e154]:
+                      - heading "Troubleshoot email obfuscation" [level=2] [ref=f36e155]
+                      - link [ref=f36e156] [cursor=pointer]:
+                        - /url: "#troubleshoot-email-obfuscation"
+                        - img [ref=f36e158]
+                    - paragraph [ref=f36e160]: "To prevent unexpected website behavior, email addresses are not obfuscated when they appear in:"
+                    - list [ref=f36e161]:
+                      - listitem [ref=f36e162]:
+                        - text: Any HTML tag attribute, except for the
+                        - code [ref=f36e163]: href
+                        - text: attribute of the
+                        - code [ref=f36e164]: a
+                        - text: tag.
+                      - listitem [ref=f36e165]:
+                        - text: "Other HTML tags:"
+                        - list [ref=f36e166]:
+                          - listitem [ref=f36e167]:
+                            - code [ref=f36e168]: <script></script>
+                          - listitem [ref=f36e169]:
+                            - code [ref=f36e170]: <noscript></noscript>
+                          - listitem [ref=f36e171]:
+                            - code [ref=f36e172]: <textarea></textarea>
+                          - listitem [ref=f36e173]:
+                            - code [ref=f36e174]: <xmp></xmp>
+                          - listitem [ref=f36e175]:
+                            - code [ref=f36e176]: <head></head>
+                      - listitem [ref=f36e177]:
+                        - text: Any page that does not have a MIME type of
+                        - code [ref=f36e178]: text/html
+                        - text: or
+                        - code [ref=f36e179]: application/xhtml+xml
+                        - text: .
+                    - complementary "Notes" [ref=f36e180]:
+                      - paragraph [ref=f36e181]:
+                        - img [ref=f36e182]
+                        - text: Notes
+                      - list [ref=f36e185]:
+                        - listitem [ref=f36e186]:
+                          - text: "Email Obfuscation will not apply in the following cases:"
+                          - list [ref=f36e187]:
+                            - listitem [ref=f36e188]:
+                              - text: You are using the
+                              - code [ref=f36e189]: "Cache-Control: no-transform"
+                              - text: header.
+                            - listitem [ref=f36e190]:
+                              - text: The HTML/JavaScript code is specifically added by a
+                              - link "Worker" [ref=f36e191] [cursor=pointer]:
+                                - /url: /workers/
+                              - text: .
+                        - listitem [ref=f36e192]:
+                          - text: Email Obfuscation might not work as expected when the HTML page includes
+                          - code [ref=f36e193]: <template></template>
+                          - text: tags.
+                  - generic [ref=f36e194]:
+                    - generic [ref=f36e195]:
+                      - generic [ref=f36e196]:
+                        - list [ref=f36e197]:
+                          - listitem [ref=f36e198]:
+                            - strong [ref=f36e199]: Resources
+                          - listitem [ref=f36e200]:
+                            - link "API" [ref=f36e201] [cursor=pointer]:
+                              - /url: /api/
+                          - listitem [ref=f36e202]:
+                            - link "New to Cloudflare?" [ref=f36e203] [cursor=pointer]:
+                              - /url: /fundamentals/
+                          - listitem [ref=f36e204]:
+                            - link "Directory" [ref=f36e205] [cursor=pointer]:
+                              - /url: /directory/
+                          - listitem [ref=f36e206]:
+                            - link "Sponsorships" [ref=f36e207] [cursor=pointer]:
+                              - /url: /sponsorships/
+                          - listitem [ref=f36e208]:
+                            - link "Open Source" [ref=f36e209] [cursor=pointer]:
+                              - /url: https://github.com/cloudflare
+                          - listitem [ref=f36e210]:
+                            - link "Cloudflare Research" [ref=f36e211] [cursor=pointer]:
+                              - /url: https://research.cloudflare.com/
+                        - list [ref=f36e212]:
+                          - listitem [ref=f36e213]:
+                            - strong [ref=f36e214]: Support
+                          - listitem [ref=f36e215]:
+                            - link "Help Center" [ref=f36e216] [cursor=pointer]:
+                              - /url: https://support.cloudflare.com/
+                          - listitem [ref=f36e217]:
+                            - link "System Status" [ref=f36e218] [cursor=pointer]:
+                              - /url: https://www.cloudflarestatus.com/
+                          - listitem [ref=f36e219]:
+                            - link "Compliance" [ref=f36e220] [cursor=pointer]:
+                              - /url: https://www.cloudflare.com/trust-hub/compliance-resources/
+                          - listitem [ref=f36e221]:
+                            - link "GDPR" [ref=f36e222] [cursor=pointer]:
+                              - /url: https://www.cloudflare.com/trust-hub/gdpr/
+                        - list [ref=f36e223]:
+                          - listitem [ref=f36e224]:
+                            - strong [ref=f36e225]: Company
+                          - listitem [ref=f36e226]:
+                            - link "cloudflare.com" [ref=f36e227] [cursor=pointer]:
+                              - /url: https://www.cloudflare.com/
+                          - listitem [ref=f36e228]:
+                            - link "Our team" [ref=f36e229] [cursor=pointer]:
+                              - /url: https://www.cloudflare.com/people/
+                          - listitem [ref=f36e230]:
+                            - link "Careers" [ref=f36e231] [cursor=pointer]:
+                              - /url: https://www.cloudflare.com/careers/
+                        - list [ref=f36e232]:
+                          - listitem [ref=f36e233]:
+                            - strong [ref=f36e234]: Tools
+                          - listitem [ref=f36e235]:
+                            - link "Cloudflare Radar" [ref=f36e236] [cursor=pointer]:
+                              - /url: https://radar.cloudflare.com/
+                          - listitem [ref=f36e237]:
+                            - link "Cloudflare Labs" [ref=f36e238] [cursor=pointer]:
+                              - /url: https://labs.cloudflare.dev/
+                          - listitem [ref=f36e239]:
+                            - link "Speed Test" [ref=f36e240] [cursor=pointer]:
+                              - /url: https://speed.cloudflare.com/
+                          - listitem [ref=f36e241]:
+                            - link "Is BGP Safe Yet?" [ref=f36e242] [cursor=pointer]:
+                              - /url: https://isbgpsafeyet.com/
+                          - listitem [ref=f36e243]:
+                            - link "Certificate Transparency" [ref=f36e244] [cursor=pointer]:
+                              - /url: https://ct.cloudflare.com/
+                        - list [ref=f36e245]:
+                          - listitem [ref=f36e246]:
+                            - strong [ref=f36e247]: Community
+                          - listitem [ref=f36e248]:
+                            - link "Community forum" [ref=f36e249] [cursor=pointer]:
+                              - /url: https://community.cloudflare.com/
+                              - img [ref=f36e250]
+                              - text: Community forum
+                          - listitem [ref=f36e252]:
+                            - link "X" [ref=f36e253] [cursor=pointer]:
+                              - /url: https://x.com/cloudflare
+                              - img [ref=f36e254]
+                              - text: X
+                          - listitem [ref=f36e256]:
+                            - link "Discord" [ref=f36e257] [cursor=pointer]:
+                              - /url: https://discord.cloudflare.com/
+                              - img [ref=f36e258]
+                              - text: Discord
+                          - listitem [ref=f36e260]:
+                            - link "YouTube" [ref=f36e261] [cursor=pointer]:
+                              - /url: https://www.youtube.com/cloudflare
+                              - img [ref=f36e262]
+                              - text: YouTube
+                          - listitem [ref=f36e264]:
+                            - link "GitHub" [ref=f36e265] [cursor=pointer]:
+                              - /url: https://github.com/cloudflare/cloudflare-docs
+                              - img [ref=f36e266]
+                              - text: GitHub
+                      - list [ref=f36e269]:
+                        - listitem [ref=f36e270]: © 2026 Cloudflare, Inc.
+                        - listitem [ref=f36e271]:
+                          - link "Privacy Policy" [ref=f36e272] [cursor=pointer]:
+                            - /url: https://www.cloudflare.com/privacypolicy/
+                        - listitem [ref=f36e273]:
+                          - link "Terms of Use" [ref=f36e274] [cursor=pointer]:
+                            - /url: https://www.cloudflare.com/website-terms/
+                        - listitem [ref=f36e275]:
+                          - link "Report Security Issues" [ref=f36e276] [cursor=pointer]:
+                            - /url: https://www.cloudflare.com/disclosure/
+                        - listitem [ref=f36e277]:
+                          - link "Trademark" [ref=f36e278] [cursor=pointer]:
+                            - /url: https://www.cloudflare.com/trademark/
+                        - listitem [ref=f36e279]:
+                          - generic [ref=f36e280]:
+                            - img "privacy options" [ref=f36e281]
+                            - button "Cookie Preferences" [ref=f36e316] [cursor=pointer]
+                    - generic [ref=f36e283]:
+                      - generic [ref=f36e284]:
+                        - link "Previous Scrape Shield" [ref=f36e285] [cursor=pointer]:
+                          - /url: /waf/tools/scrape-shield/
+                          - img [ref=f36e286]
+                          - generic [ref=f36e288]:
+                            - text: Previous
+                            - text: Scrape Shield
+                        - link "Next Hotlink Protection" [ref=f36e289] [cursor=pointer]:
+                          - /url: /waf/tools/scrape-shield/hotlink-protection/
+                          - img [ref=f36e290]
+                          - generic [ref=f36e292]:
+                            - text: Next
+                            - text: Hotlink Protection
+                      - link "Edit page" [ref=f36e294] [cursor=pointer]:
+                        - /url: https://github.com/cloudflare/cloudflare-docs/edit/production/src/content/docs/waf/tools/scrape-shield/email-address-obfuscation.mdx
+                        - img [ref=f36e295]
+                        - text: Edit page
+                    - generic [ref=f36e299]:
+                      - paragraph [ref=f36e300]: Was this helpful?
+                      - generic [ref=f36e301]:
+                        - button "Yes" [ref=f36e302] [cursor=pointer]:
+                          - img [ref=f36e303]
+                          - generic [ref=f36e306]: "Yes"
+                        - button "No" [ref=f36e307] [cursor=pointer]:
+                          - img [ref=f36e308]
+                          - generic [ref=f36e311]: "No"
+  - generic:
+    - region "Notifications"
+  - generic [ref=f24e665]:
+    - generic [ref=f24e666]:
+      - heading "Enable Agent Lee access" [level=3] [ref=f24e667]
+      - paragraph [ref=f24e668]: Agent Lee needs a read-only API token to access your account.
+      - button "Read more" [ref=f24e671] [cursor=pointer]:
+        - text: Read more
+        - img [ref=f24e672]
+    - button "Create Token" [ref=f24e674] [cursor=pointer]

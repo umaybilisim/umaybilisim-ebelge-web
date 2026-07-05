@@ -1,0 +1,306 @@
+- generic [ref=f66e2]:
+  - generic [ref=f66e3]:
+    - link "Skip to content" [ref=f66e4] [cursor=pointer]:
+      - /url: "#start-of-content"
+    - banner "Global navigation menu" [ref=f66e8]:
+      - generic [ref=f66e9]:
+        - generic [ref=f66e10]:
+          - button "Open menu" [ref=f66e12] [cursor=pointer]:
+            - img [ref=f66e13]
+          - link "Homepage (g then d)" [ref=f66e15] [cursor=pointer]:
+            - /url: /
+            - img [ref=f66e16]
+        - generic [ref=f66e18]:
+          - navigation "Breadcrumbs" [ref=f66e19]:
+            - list [ref=f66e20]:
+              - listitem [ref=f66e21]:
+                - link "umaybilisim" [ref=f66e22] [cursor=pointer]:
+                  - /url: /umaybilisim
+                  - generic [ref=f66e23]: umaybilisim
+              - listitem [ref=f66e24]:
+                - link "umaybilisim-ebelge-web" [ref=f66e25] [cursor=pointer]:
+                  - /url: /umaybilisim/umaybilisim-ebelge-web
+                - button "Switch repository (alt shift r)" [ref=f66e26] [cursor=pointer]:
+                  - img [ref=f66e27]
+          - button "Search or jump to…" [ref=f66e31] [cursor=pointer]:
+            - generic [ref=f66e32]:
+              - generic:
+                - img
+              - generic [ref=f66e33]:
+                - generic:
+                  - text: Type
+                  - generic: /
+                  - text: to search
+        - generic [ref=f66e34]:
+          - generic [ref=f66e35]:
+            - generic [ref=f66e38]:
+              - link "Chat with Copilot" [ref=f66e40] [cursor=pointer]:
+                - /url: /copilot
+                - img [ref=f66e41]
+              - button "Open Copilot…" [ref=f66e45] [cursor=pointer]:
+                - generic:
+                  - img
+            - button "Create new..." [ref=f66e47] [cursor=pointer]:
+              - generic [ref=f66e48]:
+                - generic:
+                  - img
+              - generic:
+                - img
+            - generic [ref=f66e49]:
+              - link "All issues" [ref=f66e50] [cursor=pointer]:
+                - /url: /issues
+                - img [ref=f66e51]
+              - link "All pull requests" [ref=f66e54] [cursor=pointer]:
+                - /url: /pulls
+                - img [ref=f66e55]
+              - link "All repositories" [ref=f66e57] [cursor=pointer]:
+                - /url: /repos
+                - img [ref=f66e58]
+          - link "You have unread notifications (g then n)" [ref=f66e60] [cursor=pointer]:
+            - /url: /notifications
+            - img [ref=f66e61]
+          - button "Open user navigation menu" [ref=f66e64] [cursor=pointer]:
+            - img "User avatar" [ref=f66e65]
+      - heading "Repository navigation" [level=2] [ref=f66e66]
+      - navigation "Repository" [ref=f66e67]:
+        - list [ref=f66e68]:
+          - listitem [ref=f66e69]:
+            - link "Code" [ref=f66e70] [cursor=pointer]:
+              - /url: /umaybilisim/umaybilisim-ebelge-web
+              - img [ref=f66e72]
+              - generic [ref=f66e74]: Code
+          - listitem [ref=f66e75]:
+            - link "Issues" [ref=f66e76] [cursor=pointer]:
+              - /url: /umaybilisim/umaybilisim-ebelge-web/issues
+              - img [ref=f66e78]
+              - generic [ref=f66e81]: Issues
+          - listitem [ref=f66e82]:
+            - link "Pull requests (1)" [ref=f66e83] [cursor=pointer]:
+              - /url: /umaybilisim/umaybilisim-ebelge-web/pulls
+              - img [ref=f66e85]
+              - generic [ref=f66e87]: Pull requests
+              - generic [ref=f66e88]:
+                - generic [ref=f66e89]: "1"
+                - generic [ref=f66e90]: (1)
+          - listitem [ref=f66e91]:
+            - link "Actions" [ref=f66e92] [cursor=pointer]:
+              - /url: /umaybilisim/umaybilisim-ebelge-web/actions
+              - img [ref=f66e94]
+              - generic [ref=f66e96]: Actions
+          - listitem [ref=f66e97]:
+            - link "Projects" [ref=f66e98] [cursor=pointer]:
+              - /url: /umaybilisim/umaybilisim-ebelge-web/projects
+              - img [ref=f66e100]
+              - generic [ref=f66e102]: Projects
+          - listitem [ref=f66e103]:
+            - link "Security and quality" [ref=f66e104] [cursor=pointer]:
+              - /url: /umaybilisim/umaybilisim-ebelge-web/security
+              - img [ref=f66e106]
+              - generic [ref=f66e108]: Security and quality
+          - listitem [ref=f66e109]:
+            - link "Insights" [ref=f66e110] [cursor=pointer]:
+              - /url: /umaybilisim/umaybilisim-ebelge-web/pulse
+              - img [ref=f66e112]
+              - generic [ref=f66e114]: Insights
+          - listitem [ref=f66e115]:
+            - link "Settings" [ref=f66e116] [cursor=pointer]:
+              - /url: /umaybilisim/umaybilisim-ebelge-web/settings
+              - img [ref=f66e118]
+              - generic [ref=f66e120]: Settings
+  - main [ref=f66e123]:
+    - generic [ref=f66e125]:
+      - 'heading "Settings: umaybilisim/umaybilisim-ebelge-web" [level=1] [ref=f66e126]'
+      - generic [ref=f66e128]:
+        - navigation "General settings" [ref=f66e131]:
+          - list [ref=f66e133]:
+            - listitem [ref=f66e134]:
+              - link "General" [ref=f66e135] [cursor=pointer]:
+                - /url: /umaybilisim/umaybilisim-ebelge-web/settings
+                - generic:
+                  - img
+                - generic [ref=f66e136]: General
+            - listitem [ref=f66e137]
+            - listitem [ref=f66e138]:
+              - generic [ref=f66e141]:
+                - heading "Access" [level=2] [ref=f66e143]
+                - list "Access" [ref=f66e144]:
+                  - listitem [ref=f66e145]:
+                    - link "Collaborators" [ref=f66e146] [cursor=pointer]:
+                      - /url: /umaybilisim/umaybilisim-ebelge-web/settings/access
+                      - generic:
+                        - img
+                      - generic [ref=f66e147]: Collaborators
+                  - listitem [ref=f66e148]:
+                    - button "Moderation options" [ref=f66e149] [cursor=pointer]:
+                      - generic:
+                        - img
+                      - generic [ref=f66e150]: Moderation options
+                      - generic:
+                        - img
+            - listitem [ref=f66e151]
+            - listitem [ref=f66e152]:
+              - generic [ref=f66e155]:
+                - heading "Code and automation" [level=2] [ref=f66e157]
+                - list "Code and automation" [ref=f66e158]:
+                  - listitem [ref=f66e159]:
+                    - link "Branches" [ref=f66e160] [cursor=pointer]:
+                      - /url: /umaybilisim/umaybilisim-ebelge-web/settings/branches
+                      - generic:
+                        - img
+                      - generic [ref=f66e161]: Branches
+                  - listitem [ref=f66e162]:
+                    - link "Tags" [ref=f66e163] [cursor=pointer]:
+                      - /url: /umaybilisim/umaybilisim-ebelge-web/settings/tag_protection
+                      - generic:
+                        - img
+                      - generic [ref=f66e164]: Tags
+                  - listitem [ref=f66e165]:
+                    - button "Rules" [ref=f66e166] [cursor=pointer]:
+                      - generic:
+                        - img
+                      - generic [ref=f66e167]: Rules
+                      - generic:
+                        - img
+                  - listitem [ref=f66e168]:
+                    - button "Actions" [ref=f66e169] [cursor=pointer]:
+                      - generic:
+                        - img
+                      - generic [ref=f66e170]: Actions
+                      - generic:
+                        - img
+                  - listitem [ref=f66e171]:
+                    - link "Webhooks" [ref=f66e172] [cursor=pointer]:
+                      - /url: /umaybilisim/umaybilisim-ebelge-web/settings/hooks
+                      - generic:
+                        - img
+                      - generic [ref=f66e173]: Webhooks
+                  - listitem [ref=f66e174]:
+                    - button "Copilot" [ref=f66e175] [cursor=pointer]:
+                      - generic:
+                        - img
+                      - generic [ref=f66e176]: Copilot
+                      - generic:
+                        - img
+                  - listitem [ref=f66e177]:
+                    - link "Environments" [ref=f66e178] [cursor=pointer]:
+                      - /url: /umaybilisim/umaybilisim-ebelge-web/settings/environments
+                      - generic:
+                        - img
+                      - generic [ref=f66e179]: Environments
+                  - listitem [ref=f66e180]:
+                    - link "Codespaces" [ref=f66e181] [cursor=pointer]:
+                      - /url: /umaybilisim/umaybilisim-ebelge-web/settings/codespaces
+                      - generic:
+                        - img
+                      - generic [ref=f66e182]: Codespaces
+                  - listitem [ref=f66e183]:
+                    - link "Pages" [ref=f66e184] [cursor=pointer]:
+                      - /url: /umaybilisim/umaybilisim-ebelge-web/settings/pages
+                      - generic:
+                        - img
+                      - generic [ref=f66e185]: Pages
+            - listitem [ref=f66e186]
+            - listitem [ref=f66e187]:
+              - generic [ref=f66e190]:
+                - heading "Security and quality" [level=2] [ref=f66e192]
+                - list "Security and quality" [ref=f66e193]:
+                  - listitem [ref=f66e194]:
+                    - link "Advanced Security" [ref=f66e195] [cursor=pointer]:
+                      - /url: /umaybilisim/umaybilisim-ebelge-web/settings/security_analysis
+                      - generic:
+                        - img
+                      - generic [ref=f66e196]: Advanced Security
+                  - listitem [ref=f66e197]:
+                    - link "Deploy keys" [ref=f66e198] [cursor=pointer]:
+                      - /url: /umaybilisim/umaybilisim-ebelge-web/settings/keys
+                      - generic:
+                        - img
+                      - generic [ref=f66e199]: Deploy keys
+                  - listitem [ref=f66e200]:
+                    - button "Secrets and variables" [expanded] [ref=f66e201] [cursor=pointer]:
+                      - generic:
+                        - img
+                      - generic [ref=f66e202]: Secrets and variables
+                      - generic:
+                        - img
+                    - list "Secrets and variables" [ref=f66e203]:
+                      - listitem [ref=f66e204]:
+                        - link "Actions" [ref=f66e205] [cursor=pointer]:
+                          - /url: /umaybilisim/umaybilisim-ebelge-web/settings/secrets/actions
+                          - generic [ref=f66e206]: Actions
+                      - listitem [ref=f66e207]:
+                        - link "Agents" [ref=f66e208] [cursor=pointer]:
+                          - /url: /umaybilisim/umaybilisim-ebelge-web/settings/secrets/agents
+                          - generic [ref=f66e209]: Agents
+                      - listitem [ref=f66e210]:
+                        - link "Codespaces" [ref=f66e211] [cursor=pointer]:
+                          - /url: /umaybilisim/umaybilisim-ebelge-web/settings/secrets/codespaces
+                          - generic [ref=f66e212]: Codespaces
+                      - listitem [ref=f66e213]:
+                        - link "Dependabot" [ref=f66e214] [cursor=pointer]:
+                          - /url: /umaybilisim/umaybilisim-ebelge-web/settings/secrets/dependabot
+                          - generic [ref=f66e215]: Dependabot
+            - listitem [ref=f66e216]
+            - listitem [ref=f66e217]:
+              - generic [ref=f66e220]:
+                - heading "Integrations" [level=2] [ref=f66e222]
+                - list "Integrations" [ref=f66e223]:
+                  - listitem [ref=f66e224]:
+                    - link "GitHub Apps" [ref=f66e225] [cursor=pointer]:
+                      - /url: /umaybilisim/umaybilisim-ebelge-web/settings/installations
+                      - generic:
+                        - img
+                      - generic [ref=f66e226]: GitHub Apps
+                  - listitem [ref=f66e227]:
+                    - link "Email notifications" [ref=f66e228] [cursor=pointer]:
+                      - /url: /umaybilisim/umaybilisim-ebelge-web/settings/notifications
+                      - generic:
+                        - img
+                      - generic [ref=f66e229]: Email notifications
+        - generic [ref=f66e230]:
+          - heading "Actions secrets / Update secret" [level=2] [ref=f66e232]:
+            - link "Actions secrets" [ref=f66e233] [cursor=pointer]:
+              - /url: /umaybilisim/umaybilisim-ebelge-web/settings/secrets/actions
+            - text: / Update secret
+          - code [ref=f66e234]: CLOUDFLARE_API_TOKEN
+          - generic [ref=f66e235]:
+            - generic [ref=f66e236]:
+              - generic [ref=f66e237]: Value
+              - textbox "Value" [ref=f66e239]
+            - button "Update secret" [ref=f66e241] [cursor=pointer]
+  - contentinfo [ref=f66e242]:
+    - heading "Footer" [level=2] [ref=f66e243]
+    - generic [ref=f66e244]:
+      - generic [ref=f66e245]:
+        - link "GitHub Homepage" [ref=f66e246] [cursor=pointer]:
+          - /url: https://github.com
+          - img [ref=f66e247]
+        - generic [ref=f66e249]: © 2026 GitHub, Inc.
+      - navigation "Footer" [ref=f66e250]:
+        - heading "Footer navigation" [level=3] [ref=f66e251]
+        - list "Footer navigation" [ref=f66e252]:
+          - listitem [ref=f66e253]:
+            - link "Terms" [ref=f66e254] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/github-terms/github-terms-of-service
+          - listitem [ref=f66e255]:
+            - link "Privacy" [ref=f66e256] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+          - listitem [ref=f66e257]:
+            - link "Security" [ref=f66e258] [cursor=pointer]:
+              - /url: https://github.com/security
+          - listitem [ref=f66e259]:
+            - link "Status" [ref=f66e260] [cursor=pointer]:
+              - /url: https://www.githubstatus.com/
+          - listitem [ref=f66e261]:
+            - link "Community" [ref=f66e262] [cursor=pointer]:
+              - /url: https://github.community/
+          - listitem [ref=f66e263]:
+            - link "Docs" [ref=f66e264] [cursor=pointer]:
+              - /url: https://docs.github.com/
+          - listitem [ref=f66e265]:
+            - link "Contact" [ref=f66e266] [cursor=pointer]:
+              - /url: https://support.github.com?tags=dotcom-footer
+          - listitem [ref=f66e267]:
+            - button "Manage cookies" [ref=f66e269] [cursor=pointer]
+          - listitem [ref=f66e270]:
+            - button "Do not share my personal information" [ref=f66e272] [cursor=pointer]

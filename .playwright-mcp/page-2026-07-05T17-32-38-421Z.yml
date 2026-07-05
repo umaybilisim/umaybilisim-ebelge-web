@@ -1,0 +1,23 @@
+- main [ref=f199e2]:
+  - generic [ref=f199e5]:
+    - link "e Umay e-Belge" [ref=f199e6] [cursor=pointer]:
+      - /url: index.html
+      - generic [ref=f199e7]: e
+      - generic [ref=f199e8]: Umay e-Belge
+    - link "İletişim" [ref=f199e10] [cursor=pointer]:
+      - /url: iletisim.html
+  - generic [ref=f199e13]:
+    - generic [ref=f199e14]: "404"
+    - heading "Aradığınız sayfayı bulamadık" [level=1] [ref=f199e15]
+    - paragraph [ref=f199e16]:
+      - text: Sayfa taşınmış, silinmiş veya hiç var olmamış olabilir.
+      - strong [ref=f199e17]: 5 saniye içinde otomatik olarak ana sayfaya yönlendirileceksiniz.
+    - generic [ref=f199e18]:
+      - link "Ana Sayfaya Git" [ref=f199e19] [cursor=pointer]:
+        - /url: index.html
+        - img [ref=f199e20]
+        - text: Ana Sayfaya Git
+      - link "Ürünler" [ref=f199e23] [cursor=pointer]:
+        - /url: urunler.html
+      - link "İletişim" [ref=f199e24] [cursor=pointer]:
+        - /url: iletisim.html

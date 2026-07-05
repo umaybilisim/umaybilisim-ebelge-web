@@ -1,0 +1,467 @@
+- generic [active] [ref=f104e1]:
+  - navigation [ref=f104e2]:
+    - generic [ref=f104e3]:
+      - link "Mysoft e-Belge" [ref=f104e5] [cursor=pointer]:
+        - /url: /
+        - img "Mysoft e-Belge" [ref=f104e6]
+      - generic [ref=f104e7]:
+        - text: 
+        - generic [ref=f104e8]:
+          - list [ref=f104e9]:
+            - listitem [ref=f104e10]:
+              - link "Ürünler " [ref=f104e11] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f104e12]:
+              - link "Kampanyalar" [ref=f104e13] [cursor=pointer]:
+                - /url: /kampanyalar
+            - listitem [ref=f104e14]:
+              - link "Mali Müşavirlere Özel" [ref=f104e15] [cursor=pointer]:
+                - /url: https://eaktarim.com
+            - listitem [ref=f104e16]:
+              - link "İş Ortaklığı" [ref=f104e17] [cursor=pointer]:
+                - /url: /is-ortakligi
+            - listitem [ref=f104e18]:
+              - link "Bizi Tanıyın" [ref=f104e19] [cursor=pointer]:
+                - /url: /bizi-taniyin
+            - listitem [ref=f104e20]:
+              - link "Blog" [ref=f104e21] [cursor=pointer]:
+                - /url: /blog
+            - listitem [ref=f104e22]:
+              - link "İletişim" [ref=f104e23] [cursor=pointer]:
+                - /url: /iletisim
+          - text:     
+      - list [ref=f104e25]:
+        - listitem [ref=f104e26]:
+          - link "Portal Giriş" [ref=f104e27] [cursor=pointer]:
+            - /url: https://portal.mysoft.com.tr
+  - generic [ref=f104e28]:
+    - banner [ref=f104e29]:
+      - navigation [ref=f104e30]:
+        - generic [ref=f104e31]:
+          - link "Mysoft e-Belge" [ref=f104e33] [cursor=pointer]:
+            - /url: /
+            - img "Mysoft e-Belge" [ref=f104e34]
+          - generic [ref=f104e35]:
+            - text: 
+            - generic [ref=f104e36]:
+              - list [ref=f104e37]:
+                - listitem [ref=f104e38]:
+                  - link "Ürünler " [ref=f104e39] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=f104e40]:
+                  - link "Kampanyalar" [ref=f104e41] [cursor=pointer]:
+                    - /url: /kampanyalar
+                - listitem [ref=f104e42]:
+                  - link "Mali Müşavirlere Özel" [ref=f104e43] [cursor=pointer]:
+                    - /url: https://eaktarim.com
+                - listitem [ref=f104e44]:
+                  - link "İş Ortaklığı" [ref=f104e45] [cursor=pointer]:
+                    - /url: /is-ortakligi
+                - listitem [ref=f104e46]:
+                  - link "Bizi Tanıyın" [ref=f104e47] [cursor=pointer]:
+                    - /url: /bizi-taniyin
+                - listitem [ref=f104e48]:
+                  - link "Blog" [ref=f104e49] [cursor=pointer]:
+                    - /url: /blog
+                - listitem [ref=f104e50]:
+                  - link "İletişim" [ref=f104e51] [cursor=pointer]:
+                    - /url: /iletisim
+              - text:     
+          - list [ref=f104e53]:
+            - listitem [ref=f104e54]:
+              - link "Portal Giriş" [ref=f104e55] [cursor=pointer]:
+                - /url: https://portal.mysoft.com.tr
+    - generic [ref=f104e61]:
+      - heading "Mysoft e-Belge taahhütsüz" [level=1] [ref=f104e62]:
+        - text: Mysoft e-Belge
+        - generic [ref=f104e64]: taahhütsüz
+      - generic [ref=f104e65]:
+        - link "Teklif Al" [ref=f104e67] [cursor=pointer]:
+          - /url: "#"
+        - link "İş Ortağı Ol" [ref=f104e69] [cursor=pointer]:
+          - /url: "#"
+    - generic [ref=f104e71]:
+      - heading "e-Belge Ürünlerimiz" [level=2] [ref=f104e74]
+      - generic [ref=f104e75]:
+        - generic [ref=f104e78]:
+          - img [ref=f104e79]
+          - heading "e-Fatura" [level=3] [ref=f104e82]:
+            - link "e-Fatura" [ref=f104e83] [cursor=pointer]:
+              - /url: /e-fatura
+          - paragraph [ref=f104e84]:
+            - text: Mysoft ile
+            - link "e-Fatura" [ref=f104e85] [cursor=pointer]:
+              - /url: /e-fatura
+              - strong [ref=f104e86]: e-Fatura
+            - text: "'ya geçmek çok kolay! Başvuru işlemleri ile vakit kaybetmeyin, alanında uzman ekiplerimiz ile dakikalar içinde"
+            - link "e-Fatura" [ref=f104e87] [cursor=pointer]:
+              - /url: /e-fatura
+              - strong [ref=f104e88]: e-Fatura
+            - text: "'ya geçin."
+          - link "Detaylı Bilgi " [ref=f104e89] [cursor=pointer]:
+            - /url: /e-fatura
+        - generic [ref=f104e92]:
+          - img [ref=f104e93]
+          - heading "e-Arşiv Fatura" [level=3] [ref=f104e99]:
+            - link "e-Arşiv Fatura" [ref=f104e100] [cursor=pointer]:
+              - /url: /e-arsiv-fatura
+          - paragraph [ref=f104e101]:
+            - link "e-Arşiv Fatura" [ref=f104e102] [cursor=pointer]:
+              - /url: /e-arsiv-fatura
+              - strong [ref=f104e103]: e-Arşiv Fatura
+            - text: "'larınızı ister cep telefonunuzdan, isterseniz bilgisayarınızdan hızlı ve kolayca düzenleyin. Uygun fiyat, kolay kullanım, güvenli arşivleme."
+          - link "Detaylı Bilgi " [ref=f104e104] [cursor=pointer]:
+            - /url: e-arsiv-fatura
+        - generic [ref=f104e107]:
+          - img [ref=f104e108]
+          - heading "e-Defter" [level=3] [ref=f104e111]:
+            - link "e-Defter" [ref=f104e112] [cursor=pointer]:
+              - /url: /e-defter
+          - paragraph [ref=f104e113]:
+            - text: Mysoft
+            - link "e-Defter" [ref=f104e114] [cursor=pointer]:
+              - /url: /e-defter
+              - strong [ref=f104e115]: e-Defter
+              - text: ", Gelir İdaresi Başkanlığı standartlarına göre tasarlanmış ve değişen mevzuatlara göre güncellenen yapısı ile işletmenizi dijital dünyaya taşır."
+          - link "e-Defter":
+            - /url: /e-defter
+          - link "Detaylı Bilgi " [ref=f104e116] [cursor=pointer]:
+            - /url: /e-defter
+      - generic [ref=f104e117]:
+        - generic [ref=f104e120]:
+          - img [ref=f104e121]
+          - heading "e-İrsaliye" [level=3] [ref=f104e126]:
+            - link "e-İrsaliye" [ref=f104e127] [cursor=pointer]:
+              - /url: /e-irsaliye
+          - paragraph [ref=f104e128]:
+            - text: Kullanımı zor programlar ile vakit kaybetmeyin, Mysoft'un kullanıcı dostu arayüzü ile
+            - link "e-İrsaliye" [ref=f104e129] [cursor=pointer]:
+              - /url: /e-irsaliye
+              - strong [ref=f104e130]: e-İrsaliye
+            - text: "'ye geçin sevkiyatlarınızı hızlandırın."
+          - link "Detaylı Bilgi " [ref=f104e131] [cursor=pointer]:
+            - /url: /e-irsaliye
+        - generic [ref=f104e134]:
+          - img [ref=f104e135]
+          - heading "e-Serbest Meslek Makbuzu" [level=3] [ref=f104e139]:
+            - link "e-Serbest Meslek Makbuzu" [ref=f104e140] [cursor=pointer]:
+              - /url: /e-serbest-meslek-makbuzu
+          - paragraph [ref=f104e141]:
+            - text: Mysoft
+            - link "e-Serbest Meslek Makbuzu" [ref=f104e142] [cursor=pointer]:
+              - /url: /e-serbest-meslek-makbuzu
+              - strong [ref=f104e143]: e-Serbest Meslek Makbuzu
+            - text: ile ister bilgisayardan ister cep telefonunuzdan hızlı ve kolayca e-SMM kesin! Üstelik saklama garantisiyle. Taahhüt yok, aktivasyon ücreti yok!
+          - link "Detaylı Bilgi " [ref=f104e144] [cursor=pointer]:
+            - /url: /e-serbest-meslek-makbuzu
+        - generic [ref=f104e147]:
+          - img [ref=f104e148]
+          - heading "e-Müstahsil Makbuzu" [level=3] [ref=f104e151]:
+            - link "e-Müstahsil Makbuzu" [ref=f104e152] [cursor=pointer]:
+              - /url: /e-mustahsil-makbuzu
+          - paragraph [ref=f104e153]:
+            - text: Mysoft
+            - link "e-Müstahsil Makbuzu" [ref=f104e154] [cursor=pointer]:
+              - /url: /e-mustahsil-makbuzu
+              - strong [ref=f104e155]: e-Müstahsil Makbuzu
+            - text: ile saniyeler içinde Elektronik Müstahsil Makbuzu düzenleyin, baskı, kargolama ve arşivleme maliyetlerinden kurtulun, emeğinizi üretime harcayın.
+          - link "Detaylı Bilgi " [ref=f104e156] [cursor=pointer]:
+            - /url: /e-mustahsil-makbuzu
+      - generic [ref=f104e157]:
+        - generic [ref=f104e160]:
+          - img [ref=f104e161]
+          - heading "e-Döviz" [level=3] [ref=f104e164]:
+            - link "e-Döviz" [ref=f104e165] [cursor=pointer]:
+              - /url: /e-doviz
+          - paragraph [ref=f104e166]:
+            - text: Mysoft
+            - link "e-Dekont" [ref=f104e167] [cursor=pointer]:
+              - /url: /e-doviz
+              - strong [ref=f104e168]: e-Döviz
+            - text: ile belgeleri elektronik ortamda oluşturun, muhafazası ve ibrazını sağlayın. Mysoft ile e-Döviz ile iş süreçlerinde hız ve verimlilik sağlayın!
+          - link "Detaylı Bilgi " [ref=f104e169] [cursor=pointer]:
+            - /url: /e-doviz
+        - generic [ref=f104e172]:
+          - img [ref=f104e173]
+          - heading "e-Adisyon" [level=3] [ref=f104e176]:
+            - link "e-Adisyon" [ref=f104e177] [cursor=pointer]:
+              - /url: /e-adisyon
+          - paragraph [ref=f104e178]:
+            - text: Mysoft
+            - link "e-Adisyon" [ref=f104e179] [cursor=pointer]:
+              - /url: /e-adisyon
+              - strong [ref=f104e180]: e-Adisyon
+            - text: ile kağıt adisyon maliyetlerinizi kuruşlar seviyesine düşürün, zamandan, kağıttan, baskı, arşivleme ve iş gücünden tasarruf edin.
+          - link "Detaylı Bilgi " [ref=f104e181] [cursor=pointer]:
+            - /url: /e-adisyon
+        - generic [ref=f104e184]:
+          - img [ref=f104e185]
+          - heading "e-Adisyon" [level=3] [ref=f104e190]:
+            - link "e-Adisyon" [ref=f104e191] [cursor=pointer]:
+              - /url: /gib-e-arsiv
+              - text: GİB İVD e-Arşiv Fatura
+          - paragraph [ref=f104e192]: Mysoft Portal aracılığı ile GİB İnteraktif Vergi Dairesi (İVD)'ye e-Arşiv fatura gönderebilir ve gelen faturaları alabilirsiniz.
+          - link "Detaylı Bilgi " [ref=f104e193] [cursor=pointer]:
+            - /url: /gib-e-arsiv
+      - generic [ref=f104e194]:
+        - generic [ref=f104e197]:
+          - img [ref=f104e198]
+          - heading "e-Dekont" [level=4] [ref=f104e201]:
+            - link "e-Dekont" [ref=f104e202] [cursor=pointer]:
+              - /url: /e-dekont
+          - paragraph [ref=f104e203]:
+            - text: Mysoft
+            - link "e-Dekont" [ref=f104e204] [cursor=pointer]:
+              - /url: /e-dekont
+              - strong [ref=f104e205]: e-Dekont
+            - text: ", dekont oluşturma ve alma süreçlerini hızlı, güvenli ve yasal uyumlu hale getiren yenilikçi bir çözümdür. Elektronik imzalama, güvenli gönderim ve saklama işlemlerini eksiksiz şekilde sunar."
+          - link "Detaylı Bilgi " [ref=f104e206] [cursor=pointer]:
+            - /url: /e-dekont
+        - generic [ref=f104e209]:
+          - img [ref=f104e210]
+          - heading "e-İrsaliye" [level=3] [ref=f104e215]:
+            - link "e-İrsaliye" [ref=f104e216] [cursor=pointer]:
+              - /url: /e-gider-pusulasi
+              - text: e-Gider Pusulası
+          - paragraph [ref=f104e217]:
+            - text: Vergiden muaf esnaftan yaptığınız alımları saniyeler içinde elektronik ortamda belgelendirin. Mysoft
+            - link "e-Gider Pusulası" [ref=f104e218] [cursor=pointer]:
+              - /url: /e-gider-pusulasi
+              - strong [ref=f104e219]: e-Gider Pusulası
+            - text: ile süreçlerinizi hem yasalara tam uyumlu hem de minimum eforla yönetin.
+          - link "Detaylı Bilgi " [ref=f104e220] [cursor=pointer]:
+            - /url: /e-gider-pusulasi
+        - generic [ref=f104e223]:
+          - img [ref=f104e224]
+          - heading "e-Fatura" [level=3] [ref=f104e227]:
+            - link "e-Fatura" [ref=f104e228] [cursor=pointer]:
+              - /url: /e-banka
+              - text: e-Banka
+          - paragraph [ref=f104e229]:
+            - text: Mysoft
+            - link "e-Banka" [ref=f104e230] [cursor=pointer]:
+              - /url: /e-banka
+              - strong [ref=f104e231]: e-Banka
+            - text: ", tüm banka hesaplarınızı tek noktadan yönetmenizi sağlar. Anlık hareket takibi, detaylı raporlar ve otomatik finans fişi ile zamandan tasarruf edin."
+          - link "Detaylı Bilgi " [ref=f104e232] [cursor=pointer]:
+            - /url: /e-banka
+    - generic [ref=f104e237]:
+      - generic [ref=f104e238]:
+        - heading "Hemen kullanmaya başlayın!" [level=2] [ref=f104e239]
+        - heading "Uzman ekiplerimizle her türlü sorularınızı 7/24 cevaplamaya hazırız." [level=3] [ref=f104e240]
+        - paragraph [ref=f104e241]:
+          - strong [ref=f104e242]: Telefon
+        - paragraph [ref=f104e243]:
+          - link "+90 212 901 02 12" [ref=f104e244] [cursor=pointer]:
+            - /url: tel:+902129010212
+        - paragraph [ref=f104e245]:
+          - strong [ref=f104e246]: E-posta
+        - paragraph [ref=f104e247]:
+          - link "info@mysoft.com.tr" [ref=f104e248] [cursor=pointer]:
+            - /url: mailto:info@mysoft.com.tr
+        - paragraph [ref=f104e249]: KVKK ve ETK bilgilendirme metinleri tarafınıza İYS üzerinden otomatik olarak gönderilecektir.
+      - generic [ref=f104e252]:
+        - generic [ref=f104e254]:
+          - textbox "Adınız Soyadınız * Adınız Soyadınız" [ref=f104e255]:
+            - /placeholder: Adınız Soyadınız
+          - generic: Adınız Soyadınız *
+        - generic [ref=f104e257]:
+          - textbox "Telefon Numaranız * Telefon Numaranız" [ref=f104e258]:
+            - /placeholder: Telefon Numaranız
+          - generic: Telefon Numaranız *
+        - generic [ref=f104e260]:
+          - textbox "Eposta Adresiniz * E-posta Adresiniz" [ref=f104e261]:
+            - /placeholder: Eposta Adresiniz
+          - generic: Eposta Adresiniz *
+        - generic [ref=f104e263]:
+          - textbox "Şirketinizin Adı Şirketinizin Adı" [ref=f104e264]:
+            - /placeholder: Şirketinizin Adı
+          - generic: Şirketinizin Adı
+        - generic [ref=f104e266]:
+          - textbox "Mesajınız Mesajınız" [ref=f104e267]:
+            - /placeholder: Mesajınız
+          - generic: Mesajınız
+        - button "Mesajımı Gönder" [ref=f104e269] [cursor=pointer]
+  - generic [ref=f104e272]:
+    - generic [ref=f104e274]:
+      - heading "Nedir?" [level=5] [ref=f104e275]
+      - list [ref=f104e276]:
+        - listitem [ref=f104e277]:
+          - link "e-Fatura Nedir?" [ref=f104e278] [cursor=pointer]:
+            - /url: /e-fatura
+        - listitem [ref=f104e279]:
+          - link "e-Arşiv Fatura Nedir?" [ref=f104e280] [cursor=pointer]:
+            - /url: /e-arsiv-fatura
+        - listitem [ref=f104e281]:
+          - link "e-Defter Nedir?" [ref=f104e282] [cursor=pointer]:
+            - /url: /e-defter
+        - listitem [ref=f104e283]:
+          - link "e-İrsaliye Nedir?" [ref=f104e284] [cursor=pointer]:
+            - /url: /e-irsaliye
+        - listitem [ref=f104e285]:
+          - link "e-SMM Nedir?" [ref=f104e286] [cursor=pointer]:
+            - /url: /e-serbest-meslek-makbuzu
+        - listitem [ref=f104e287]:
+          - link "e-Müstahsil Makbuzu Nedir?" [ref=f104e288] [cursor=pointer]:
+            - /url: /e-mustahsil-makbuzu
+        - listitem [ref=f104e289]:
+          - link "e-Döviz Nedir?" [ref=f104e290] [cursor=pointer]:
+            - /url: /e-doviz
+        - listitem [ref=f104e291]:
+          - link "e-Adisyon Nedir?" [ref=f104e292] [cursor=pointer]:
+            - /url: /e-adisyon
+        - listitem [ref=f104e293]:
+          - link "e-Dekont Nedir?" [ref=f104e294] [cursor=pointer]:
+            - /url: /e-dekont
+    - generic [ref=f104e296]:
+      - heading "Zorunluluk" [level=5] [ref=f104e297]
+      - list [ref=f104e298]:
+        - listitem [ref=f104e299]:
+          - link "e-Fatura Zorunluluğu" [ref=f104e300] [cursor=pointer]:
+            - /url: /e-fatura
+        - listitem [ref=f104e301]:
+          - link "e-Arşiv Fatura Zorunluluğu" [ref=f104e302] [cursor=pointer]:
+            - /url: /e-arsiv-fatura
+        - listitem [ref=f104e303]:
+          - link "e-Defter Zorunluluğu" [ref=f104e304] [cursor=pointer]:
+            - /url: /e-defter
+        - listitem [ref=f104e305]:
+          - link "e-İrsaliye Zorunluluğu" [ref=f104e306] [cursor=pointer]:
+            - /url: /e-irsaliye
+        - listitem [ref=f104e307]:
+          - link "e-SMM Zorunluluğu" [ref=f104e308] [cursor=pointer]:
+            - /url: /e-serbest-meslek-makbuzu
+        - listitem [ref=f104e309]:
+          - link "e-Müstahsil Makbuzu Zorunluluğu" [ref=f104e310] [cursor=pointer]:
+            - /url: /e-mustahsil-makbuzu
+        - listitem [ref=f104e311]:
+          - link "e-Döviz Zorunluluğu" [ref=f104e312] [cursor=pointer]:
+            - /url: /e-doviz
+        - listitem [ref=f104e313]:
+          - link "e-Adisyon Zorunluluğu" [ref=f104e314] [cursor=pointer]:
+            - /url: /e-adisyon
+        - listitem [ref=f104e315]:
+          - link "e-Dekont Zorunluluğu" [ref=f104e316] [cursor=pointer]:
+            - /url: /e-dekont
+    - generic [ref=f104e318]:
+      - heading "Sık Sorulan Sorular" [level=5] [ref=f104e319]
+      - list [ref=f104e320]:
+        - listitem [ref=f104e321]:
+          - link "e-Fatura Başvurusu Nasıl Yapılır?" [ref=f104e322] [cursor=pointer]:
+            - /url: /e-fatura
+        - listitem [ref=f104e323]:
+          - link "e-Arşiv Başvurusu Nasıl Yapılır?" [ref=f104e324] [cursor=pointer]:
+            - /url: /e-arsiv-fatura
+        - listitem [ref=f104e325]:
+          - link "e-Defter Başvurusu Nasıl Yapılır?" [ref=f104e326] [cursor=pointer]:
+            - /url: /e-defter
+        - listitem [ref=f104e327]:
+          - link "e-İrsaliye Başvurusu Nasıl Yapılır?" [ref=f104e328] [cursor=pointer]:
+            - /url: /e-irsaliye
+        - listitem [ref=f104e329]:
+          - link "e-Arşiv Sorgulama Nasıl Yapılır?" [ref=f104e330] [cursor=pointer]:
+            - /url: /e-arsiv-fatura
+        - listitem [ref=f104e331]:
+          - link "e-Defter Verme Süreleri Nedir?" [ref=f104e332] [cursor=pointer]:
+            - /url: /e-defter
+    - generic [ref=f104e334]:
+      - heading "Ürünler" [level=5] [ref=f104e335]
+      - list [ref=f104e336]:
+        - listitem [ref=f104e337]:
+          - link "e-Fatura" [ref=f104e338] [cursor=pointer]:
+            - /url: /e-fatura
+        - listitem [ref=f104e339]:
+          - link "e-Arşiv Fatura" [ref=f104e340] [cursor=pointer]:
+            - /url: /e-arsiv-fatura
+        - listitem [ref=f104e341]:
+          - link "e-Defter" [ref=f104e342] [cursor=pointer]:
+            - /url: /e-defter
+        - listitem [ref=f104e343]:
+          - link "e-İrsaliye" [ref=f104e344] [cursor=pointer]:
+            - /url: /e-irsaliye
+        - listitem [ref=f104e345]:
+          - link "e-SMM" [ref=f104e346] [cursor=pointer]:
+            - /url: /e-serbest-meslek-makbuzu
+        - listitem [ref=f104e347]:
+          - link "e-Müstahsil Makbuzu" [ref=f104e348] [cursor=pointer]:
+            - /url: /e-mustahsil-makbuzu
+        - listitem [ref=f104e349]:
+          - link "e-Döviz" [ref=f104e350] [cursor=pointer]:
+            - /url: /e-doviz
+        - listitem [ref=f104e351]:
+          - link "e-Adisyon" [ref=f104e352] [cursor=pointer]:
+            - /url: /e-adisyon
+        - listitem [ref=f104e353]:
+          - link "e-Dekont" [ref=f104e354] [cursor=pointer]:
+            - /url: /e-dekont
+  - contentinfo [ref=f104e355]:
+    - generic [ref=f104e357]:
+      - generic [ref=f104e359]:
+        - img "Mysoft e-Belge" [ref=f104e360]
+        - paragraph [ref=f104e361]:
+          - link "https://mysoft.com.tr" [ref=f104e362] [cursor=pointer]:
+            - /url: https://mysoft.com.tr
+        - paragraph [ref=f104e363]:
+          - text: © 2026 Mysoft Dijital Dönüşüm A.Ş.
+          - text: Tüm hakları saklıdır.
+        - navigation [ref=f104e364]:
+          - link "facebook" [ref=f104e365] [cursor=pointer]:
+            - /url: https://facebook.com/mysoftdd
+            - generic [ref=f104e366]: 
+          - link "linkedin" [ref=f104e367] [cursor=pointer]:
+            - /url: https://linkedin.com/company/mysoftdd
+            - generic [ref=f104e368]: 
+          - link "instagram" [ref=f104e369] [cursor=pointer]:
+            - /url: https://instagram.com/mysoftdd
+            - generic [ref=f104e370]: 
+          - link "twitter" [ref=f104e371] [cursor=pointer]:
+            - /url: https://twitter.com/mysoftdd
+            - generic [ref=f104e372]: 
+          - link "youtube" [ref=f104e373] [cursor=pointer]:
+            - /url: https://www.youtube.com/@Mysoftdd
+            - generic [ref=f104e374]: 
+      - generic [ref=f104e376]:
+        - heading "Mysoft Dijital Dönüşüm A.Ş." [level=5] [ref=f104e377]
+        - generic [ref=f104e378]: Y.T.Ü. Teknopark Çiftehavuzlar Mah. A1 Blok Kat 1 No 151/1C/110 34220 Esenler İstanbul
+        - list [ref=f104e379]:
+          - listitem [ref=f104e380]:
+            - link "info@mysoft.com.tr" [ref=f104e381] [cursor=pointer]:
+              - /url: mailto:info@mysoft.com.tr
+          - listitem [ref=f104e382]:
+            - link "+90 212 901 02 12" [ref=f104e383] [cursor=pointer]:
+              - /url: tel:+902129010212
+      - generic [ref=f104e385]:
+        - heading "Müşteri Hizmetleri" [level=5] [ref=f104e386]
+        - generic [ref=f104e387]: Gaziosmanpaşa Üni. Taşlıçiftlik Kampüsü Teknopark 60250 Tokat
+        - list [ref=f104e388]:
+          - listitem [ref=f104e389]:
+            - link "destek@mysoft.com.tr" [ref=f104e390] [cursor=pointer]:
+              - /url: mailto:destek@mysoft.com.tr
+          - listitem [ref=f104e391]:
+            - link "+90 850 600 06 61" [ref=f104e392] [cursor=pointer]:
+              - /url: tel:+908506000661
+      - generic [ref=f104e394]:
+        - heading "Kurumsal Linkler" [level=5] [ref=f104e395]
+        - list [ref=f104e396]:
+          - listitem [ref=f104e397]:
+            - link "Hakkımızda" [ref=f104e398] [cursor=pointer]:
+              - /url: /bizi-taniyin
+          - listitem [ref=f104e399]:
+            - link "Bilgi Güvenliği ve KVK Politikası" [ref=f104e400] [cursor=pointer]:
+              - /url: /guvenlik-politikalari#bilgi-guvenligi-politikasi
+          - listitem [ref=f104e401]:
+            - link "Kişisel Verilerin Korunması" [ref=f104e402] [cursor=pointer]:
+              - /url: /guvenlik-politikalari#kisisel-verilerin-korunmasi
+          - listitem [ref=f104e403]:
+            - link "Çerez Politikası" [ref=f104e404] [cursor=pointer]:
+              - /url: /guvenlik-politikalari#cerez-politikasi
+          - listitem [ref=f104e405]:
+            - link "Kullanım Koşulları" [ref=f104e406] [cursor=pointer]:
+              - /url: /guvenlik-politikalari#kullanim-kosullari
+  - text: 
+  - button "Teklif Alın" [ref=f104e408] [cursor=pointer]:
+    - strong [ref=f104e409]: Teklif Alın
+  - link "whatsapp icon WhatsApp" [ref=f104e411] [cursor=pointer]:
+    - /url: https://api.whatsapp.com/send?phone=905533511122
+    - img "whatsapp icon" [ref=f104e412]
+    - text: WhatsApp

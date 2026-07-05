@@ -1,0 +1,586 @@
+- generic [active] [ref=f206e1]:
+  - banner [ref=f206e2]:
+    - generic [ref=f206e4]:
+      - link "e Umay e-Belge" [ref=f206e5] [cursor=pointer]:
+        - /url: index.html
+        - generic [ref=f206e6]: e
+        - generic [ref=f206e7]: Umay e-Belge
+      - generic [ref=f206e8]:
+        - link "Ana Sayfa" [ref=f206e9] [cursor=pointer]:
+          - /url: index.html
+        - generic [ref=f206e10]:
+          - link "Ürünler" [ref=f206e11] [cursor=pointer]:
+            - /url: urunler.html
+            - text: Ürünler
+            - img [ref=f206e12]
+          - generic:
+            - link "e-Fatura":
+              - /url: urunler/e-fatura.html
+              - img
+              - text: e-Fatura
+            - link "e-Arşiv Fatura":
+              - /url: urunler/e-arsiv-fatura.html
+              - img
+              - text: e-Arşiv Fatura
+            - link "e-İrsaliye":
+              - /url: urunler/e-irsaliye.html
+              - img
+              - text: e-İrsaliye
+            - link "e-Defter":
+              - /url: urunler/e-defter.html
+              - img
+              - text: e-Defter
+            - link "e-SMM":
+              - /url: urunler/e-smm.html
+              - img
+              - text: e-SMM
+            - link "e-Müstahsil Makbuzu":
+              - /url: urunler/e-mm.html
+              - img
+              - text: e-Müstahsil Makbuzu
+            - link "e-Döviz":
+              - /url: urunler/e-doviz.html
+              - img
+              - text: e-Döviz
+            - link "e-Adisyon":
+              - /url: urunler/e-adisyon.html
+              - img
+              - text: e-Adisyon
+            - link "e-Dekont":
+              - /url: urunler/e-dekont.html
+              - img
+              - text: e-Dekont
+            - link "e-Gider Pusulası":
+              - /url: urunler/e-gider-pusulasi.html
+              - img
+              - text: e-Gider Pusulası
+            - link "GİB Btrans":
+              - /url: urunler/gib-btrans.html
+              - img
+              - text: GİB Btrans
+        - link "Kampanyalar" [ref=f206e14] [cursor=pointer]:
+          - /url: kampanyalar.html
+        - link "Hakkımızda" [ref=f206e15] [cursor=pointer]:
+          - /url: hakkimizda.html
+        - link "Blog" [ref=f206e16] [cursor=pointer]:
+          - /url: blog/index.html
+        - link "SSS" [ref=f206e17] [cursor=pointer]:
+          - /url: sss.html
+        - link "Hizmet Bölgeleri" [ref=f206e18] [cursor=pointer]:
+          - /url: iller/index.html
+        - link "İletişim" [ref=f206e19] [cursor=pointer]:
+          - /url: iletisim.html
+      - button "Tema değiştir" [ref=f206e21] [cursor=pointer]:
+        - img [ref=f206e22]
+  - generic [ref=f206e28]:
+    - generic [ref=f206e29]:
+      - link "e Umay e-Belge" [ref=f206e30] [cursor=pointer]:
+        - /url: index.html
+        - generic [ref=f206e31]: e
+        - generic [ref=f206e32]: Umay e-Belge
+      - button "Kapat" [ref=f206e33] [cursor=pointer]:
+        - img [ref=f206e34]
+    - navigation [ref=f206e37]:
+      - link "Ana Sayfa" [ref=f206e38] [cursor=pointer]:
+        - /url: index.html
+      - group [ref=f206e39]:
+        - generic "Ürünler" [ref=f206e40] [cursor=pointer]:
+          - text: Ürünler
+          - img [ref=f206e41]
+      - link "Kampanyalar" [ref=f206e43] [cursor=pointer]:
+        - /url: kampanyalar.html
+      - link "Hakkımızda" [ref=f206e44] [cursor=pointer]:
+        - /url: hakkimizda.html
+      - link "Blog" [ref=f206e45] [cursor=pointer]:
+        - /url: blog/index.html
+      - link "SSS" [ref=f206e46] [cursor=pointer]:
+        - /url: sss.html
+      - link "İletişim" [ref=f206e47] [cursor=pointer]:
+        - /url: iletisim.html
+      - link "Hizmet Bölgeleri" [ref=f206e48] [cursor=pointer]:
+        - /url: iller/index.html
+      - link "Teklif Al" [ref=f206e49] [cursor=pointer]:
+        - /url: iletisim.html
+  - main [ref=f206e50]:
+    - alert [ref=f206e51]:
+      - generic [ref=f206e53]:
+        - img [ref=f206e55]
+        - generic [ref=f206e57]:
+          - strong [ref=f206e58]: "2025 cironuz 3 Milyon TL'yi aştıysa:"
+          - generic [ref=f206e59]:
+            - text: GİB zorunluluğu gereği 1 Ocak 2026'dan itibaren e-Fatura kullanmak
+            - strong [ref=f206e60]: yasal zorunluluk
+            - text: .
+        - link "Kampanyaları İncele" [ref=f206e61] [cursor=pointer]:
+          - /url: kampanyalar.html
+          - text: Kampanyaları İncele
+          - img [ref=f206e62]
+    - generic [ref=f206e66]:
+      - generic [ref=f206e67]: GİB Onaylı · KVKK Uyumlu
+      - heading "Tüm e-Belge Çözümleriniz Tek Çatı Altında" [level=1] [ref=f206e68]:
+        - text: Tüm e-Belge Çözümleriniz
+        - text: Tek Çatı Altında
+      - paragraph [ref=f206e69]: e-Fatura'dan e-Defter'e, e-İrsaliye'den e-SMM'ye 11 farklı elektronik belge çözümü. GİB onaylı altyapı, kolay entegrasyon, 7/24 uzman destek.
+      - generic [ref=f206e70]:
+        - link "Ücretsiz Demo Talebi" [ref=f206e71] [cursor=pointer]:
+          - /url: iletisim.html
+          - img [ref=f206e72]
+          - text: Ücretsiz Demo Talebi
+        - link "Ürünleri İncele" [ref=f206e77] [cursor=pointer]:
+          - /url: urunler.html
+          - text: Ürünleri İncele
+          - img [ref=f206e78]
+      - generic [ref=f206e80]:
+        - generic [ref=f206e81]:
+          - img [ref=f206e82]
+          - text: GİB Onaylı Altyapı
+        - generic [ref=f206e85]:
+          - img [ref=f206e86]
+          - text: KVKK Uyumlu
+        - generic [ref=f206e89]:
+          - img [ref=f206e90]
+          - text: 7/24 Uzman Destek
+        - generic [ref=f206e92]:
+          - img [ref=f206e93]
+          - text: Hızlı Entegrasyon
+    - generic [ref=f206e96]:
+      - generic [ref=f206e97]:
+        - generic [ref=f206e98]: Neden e-Belge?
+        - heading "Geleceğin dijital muhasebesine bugünden geçin" [level=2] [ref=f206e99]
+        - paragraph [ref=f206e100]: Kağıt belgelerle vakit kaybetmenin sonu. e-Belge çözümleri ile iş süreçlerinizi hızlandırın, maliyetlerinizi düşürün, yasal zorunluluklara kolayca uyum sağlayın.
+      - generic [ref=f206e101]:
+        - article [ref=f206e102]:
+          - img [ref=f206e104]
+          - heading "Maliyet Tasarrufu" [level=3] [ref=f206e107]
+          - paragraph [ref=f206e108]: Kağıt, baskı, arşivleme ve kargo masraflarınızı %90'a varan oranda azaltın. Yüzlerce belge tek tıkla işlenir.
+        - article [ref=f206e109]:
+          - img [ref=f206e111]
+          - heading "Yasal Uyum" [level=3] [ref=f206e115]
+          - paragraph [ref=f206e116]: GİB tarafından zorunlu kılınan tüm e-belge süreçlerine tam uyum. Cezai yaptırımlardan korunun, mevzuata güvenle uyun.
+        - article [ref=f206e117]:
+          - img [ref=f206e119]
+          - heading "Süreç Hızı" [level=3] [ref=f206e124]
+          - paragraph [ref=f206e125]: Fatura kesme, sevkiyat, makbuz düzenleme; her şey saniyeler içinde. Müşterinize anında, dijital olarak ulaşır.
+    - generic [ref=f206e127]:
+      - generic [ref=f206e128]:
+        - generic [ref=f206e129]: Ürünlerimiz
+        - heading "İhtiyacınız olan tüm e-belge çözümleri" [level=2] [ref=f206e130]
+        - paragraph [ref=f206e131]: 11 farklı GİB onaylı modül ile e-fatura ekosisteminin her noktasında yanınızdayız.
+      - generic [ref=f206e132]:
+        - link "e-Fatura GİB sistemine entegre, hızlı ve güvenli elektronik fatura düzenleme. Detayları Gör" [ref=f206e133] [cursor=pointer]:
+          - /url: urunler/e-fatura.html
+          - img [ref=f206e135]
+          - heading "e-Fatura" [level=3] [ref=f206e138]
+          - paragraph [ref=f206e139]: GİB sistemine entegre, hızlı ve güvenli elektronik fatura düzenleme.
+          - generic [ref=f206e140]:
+            - text: Detayları Gör
+            - img [ref=f206e141]
+        - link "e-Arşiv Fatura Mükellef olmayan müşterilerinize elektronik arşiv faturası kesin. Detayları Gör" [ref=f206e143] [cursor=pointer]:
+          - /url: urunler/e-arsiv-fatura.html
+          - img [ref=f206e145]
+          - heading "e-Arşiv Fatura" [level=3] [ref=f206e148]
+          - paragraph [ref=f206e149]: Mükellef olmayan müşterilerinize elektronik arşiv faturası kesin.
+          - generic [ref=f206e150]:
+            - text: Detayları Gör
+            - img [ref=f206e151]
+        - link "e-İrsaliye Sevkiyatlarınızı elektronik irsaliye ile anında belgelendirin. Detayları Gör" [ref=f206e153] [cursor=pointer]:
+          - /url: urunler/e-irsaliye.html
+          - img [ref=f206e155]
+          - heading "e-İrsaliye" [level=3] [ref=f206e160]
+          - paragraph [ref=f206e161]: Sevkiyatlarınızı elektronik irsaliye ile anında belgelendirin.
+          - generic [ref=f206e162]:
+            - text: Detayları Gör
+            - img [ref=f206e163]
+        - link "e-Defter Yevmiye ve büyük defterleri elektronik ortamda saklayın, beraat alın. Detayları Gör" [ref=f206e165] [cursor=pointer]:
+          - /url: urunler/e-defter.html
+          - img [ref=f206e167]
+          - heading "e-Defter" [level=3] [ref=f206e169]
+          - paragraph [ref=f206e170]: Yevmiye ve büyük defterleri elektronik ortamda saklayın, beraat alın.
+          - generic [ref=f206e171]:
+            - text: Detayları Gör
+            - img [ref=f206e172]
+        - link "e-SMM Serbest meslek makbuzlarınızı elektronik ortamda hızla düzenleyin. Detayları Gör" [ref=f206e174] [cursor=pointer]:
+          - /url: urunler/e-smm.html
+          - img [ref=f206e176]
+          - heading "e-SMM" [level=3] [ref=f206e179]
+          - paragraph [ref=f206e180]: Serbest meslek makbuzlarınızı elektronik ortamda hızla düzenleyin.
+          - generic [ref=f206e181]:
+            - text: Detayları Gör
+            - img [ref=f206e182]
+        - link "e-Müstahsil Makbuzu Müstahsil makbuzlarınızı dijital ortamda hatasız ve hızlı kesin. Detayları Gör" [ref=f206e184] [cursor=pointer]:
+          - /url: urunler/e-mm.html
+          - img [ref=f206e186]
+          - heading "e-Müstahsil Makbuzu" [level=3] [ref=f206e189]
+          - paragraph [ref=f206e190]: Müstahsil makbuzlarınızı dijital ortamda hatasız ve hızlı kesin.
+          - generic [ref=f206e191]:
+            - text: Detayları Gör
+            - img [ref=f206e192]
+        - link "e-Döviz Döviz işlemlerinizi yasal zorunluluklara uygun şekilde belgelendirin. Detayları Gör" [ref=f206e194] [cursor=pointer]:
+          - /url: urunler/e-doviz.html
+          - img [ref=f206e196]
+          - heading "e-Döviz" [level=3] [ref=f206e199]
+          - paragraph [ref=f206e200]: Döviz işlemlerinizi yasal zorunluluklara uygun şekilde belgelendirin.
+          - generic [ref=f206e201]:
+            - text: Detayları Gör
+            - img [ref=f206e202]
+        - link "e-Adisyon Restoran ve kafeler için elektronik adisyon sistemi. Detayları Gör" [ref=f206e204] [cursor=pointer]:
+          - /url: urunler/e-adisyon.html
+          - img [ref=f206e206]
+          - heading "e-Adisyon" [level=3] [ref=f206e209]
+          - paragraph [ref=f206e210]: Restoran ve kafeler için elektronik adisyon sistemi.
+          - generic [ref=f206e211]:
+            - text: Detayları Gör
+            - img [ref=f206e212]
+        - link "e-Dekont Bankacılık dekontlarınızı elektronik olarak yönetin ve arşivleyin. Detayları Gör" [ref=f206e214] [cursor=pointer]:
+          - /url: urunler/e-dekont.html
+          - img [ref=f206e216]
+          - heading "e-Dekont" [level=3] [ref=f206e218]
+          - paragraph [ref=f206e219]: Bankacılık dekontlarınızı elektronik olarak yönetin ve arşivleyin.
+          - generic [ref=f206e220]:
+            - text: Detayları Gör
+            - img [ref=f206e221]
+        - link "e-Gider Pusulası Belgesiz alımlarınız için elektronik gider pusulası düzenleyin. Detayları Gör" [ref=f206e223] [cursor=pointer]:
+          - /url: urunler/e-gider-pusulasi.html
+          - img [ref=f206e225]
+          - heading "e-Gider Pusulası" [level=3] [ref=f206e228]
+          - paragraph [ref=f206e229]: Belgesiz alımlarınız için elektronik gider pusulası düzenleyin.
+          - generic [ref=f206e230]:
+            - text: Detayları Gör
+            - img [ref=f206e231]
+        - link "GİB Btrans GİB Bilgi Transfer Sistemi üzerinden toplu belge gönderim çözümü. Detayları Gör" [ref=f206e233] [cursor=pointer]:
+          - /url: urunler/gib-btrans.html
+          - img [ref=f206e235]
+          - heading "GİB Btrans" [level=3] [ref=f206e239]
+          - paragraph [ref=f206e240]: GİB Bilgi Transfer Sistemi üzerinden toplu belge gönderim çözümü.
+          - generic [ref=f206e241]:
+            - text: Detayları Gör
+            - img [ref=f206e242]
+        - link "Tümünü Gör 11 e-belge ürünü" [ref=f206e244] [cursor=pointer]:
+          - /url: urunler.html
+          - generic [ref=f206e245]:
+            - img [ref=f206e246]
+            - heading "Tümünü Gör" [level=3] [ref=f206e250]
+            - paragraph [ref=f206e251]: 11 e-belge ürünü
+    - generic [ref=f206e253]:
+      - generic [ref=f206e254]:
+        - generic [ref=f206e255]: Hizmet Bölgeleri
+        - heading "Türkiye'nin her ilinde yanınızdayız" [level=2] [ref=f206e256]
+        - paragraph [ref=f206e257]: Sakarya merkez ofisimizden Türkiye'nin tüm büyükşehirlerine e-Fatura, e-Defter ve e-belge çözümleri sunuyoruz. Şehrinize özel sayfayı inceleyin.
+      - generic [ref=f206e258]:
+        - link "Sakarya" [ref=f206e259] [cursor=pointer]:
+          - /url: iller/sakarya.html
+        - link "İstanbul" [ref=f206e260] [cursor=pointer]:
+          - /url: iller/istanbul.html
+        - link "Ankara" [ref=f206e261] [cursor=pointer]:
+          - /url: iller/ankara.html
+        - link "İzmir" [ref=f206e262] [cursor=pointer]:
+          - /url: iller/izmir.html
+        - link "Bursa" [ref=f206e263] [cursor=pointer]:
+          - /url: iller/bursa.html
+        - link "Kocaeli" [ref=f206e264] [cursor=pointer]:
+          - /url: iller/kocaeli.html
+        - link "Antalya" [ref=f206e265] [cursor=pointer]:
+          - /url: iller/antalya.html
+        - link "Konya" [ref=f206e266] [cursor=pointer]:
+          - /url: iller/konya.html
+        - link "Gaziantep" [ref=f206e267] [cursor=pointer]:
+          - /url: iller/gaziantep.html
+        - link "Adana" [ref=f206e268] [cursor=pointer]:
+          - /url: iller/adana.html
+        - link "Kayseri" [ref=f206e269] [cursor=pointer]:
+          - /url: iller/kayseri.html
+        - link "Mersin" [ref=f206e270] [cursor=pointer]:
+          - /url: iller/mersin.html
+        - link "Denizli" [ref=f206e271] [cursor=pointer]:
+          - /url: iller/denizli.html
+        - link "Manisa" [ref=f206e272] [cursor=pointer]:
+          - /url: iller/manisa.html
+        - link "Samsun" [ref=f206e273] [cursor=pointer]:
+          - /url: iller/samsun.html
+        - link "Tüm İller →" [ref=f206e274] [cursor=pointer]:
+          - /url: iller/index.html
+    - generic [ref=f206e276]:
+      - generic [ref=f206e277]:
+        - generic [ref=f206e278]: Nasıl Çalışır?
+        - heading "4 adımda e-belge dünyasına geçiş" [level=2] [ref=f206e279]
+        - paragraph [ref=f206e280]: Karmaşık entegrasyon yok, uzun süreli kurulum yok. Sadece talebinizi iletin, gerisini biz halledelim.
+      - generic [ref=f206e281]:
+        - generic [ref=f206e282]:
+          - generic [ref=f206e283]: "1"
+          - heading "Talep & Analiz" [level=3] [ref=f206e284]
+          - paragraph [ref=f206e285]: Bize ulaşın; iş hacminize ve sektörünüze göre size en uygun e-belge paketini öneririz.
+        - generic [ref=f206e286]:
+          - generic [ref=f206e287]: "2"
+          - heading "Kurulum & Entegrasyon" [level=3] [ref=f206e288]
+          - paragraph [ref=f206e289]: Mevcut muhasebe yazılımınızla (Logo, Mikro, Netsis, ETA) hızlı entegrasyon sağlanır.
+        - generic [ref=f206e290]:
+          - generic [ref=f206e291]: "3"
+          - heading "Eğitim" [level=3] [ref=f206e292]
+          - paragraph [ref=f206e293]: Ekibinize çevrimiçi veya yerinde eğitim verilir; süreçleri rahatça yönetebilirsiniz.
+        - generic [ref=f206e294]:
+          - generic [ref=f206e295]: "4"
+          - heading "Canlı Kullanım & Destek" [level=3] [ref=f206e296]
+          - paragraph [ref=f206e297]: 7/24 destek hattımız ve uzman ekibimiz her aşamada yanınızda.
+    - generic [ref=f206e300]:
+      - generic [ref=f206e301]:
+        - generic [ref=f206e302]: "0"
+        - generic [ref=f206e303]: Aktif Müşteri
+      - generic [ref=f206e304]:
+        - generic [ref=f206e305]: "0"
+        - generic [ref=f206e306]: Yıllık Deneyim
+      - generic [ref=f206e307]:
+        - generic [ref=f206e308]: "0"
+        - generic [ref=f206e309]: e-Belge Ürünü
+      - generic [ref=f206e310]:
+        - generic [ref=f206e311]: "0"
+        - generic [ref=f206e312]: Sistem Uptime
+    - generic [ref=f206e314]:
+      - generic [ref=f206e315]:
+        - generic [ref=f206e316]: Müşteri Yorumları
+        - heading "İşletmeler bizi neden tercih ediyor?" [level=2] [ref=f206e317]
+      - generic [ref=f206e318]:
+        - generic [ref=f206e319]:
+          - img "5 yıldız" [ref=f206e320]:
+            - img [ref=f206e321]
+            - img [ref=f206e323]
+            - img [ref=f206e325]
+            - img [ref=f206e327]
+            - img [ref=f206e329]
+          - blockquote [ref=f206e331]: "\"e-Faturaya geçişimizi 2 günde tamamladılar. Eski sisteme göre süreçlerimiz çok daha hızlı ve hatasız.\""
+          - generic [ref=f206e332]:
+            - generic [ref=f206e333]: MA
+            - generic [ref=f206e334]:
+              - generic [ref=f206e335]: Mehmet Aydın
+              - generic [ref=f206e336]: Aydın Tekstil — Mali Müşavir
+        - generic [ref=f206e337]:
+          - img "5 yıldız" [ref=f206e338]:
+            - img [ref=f206e339]
+            - img [ref=f206e341]
+            - img [ref=f206e343]
+            - img [ref=f206e345]
+            - img [ref=f206e347]
+          - blockquote [ref=f206e349]: "\"e-İrsaliye sayesinde sevkiyat süreçlerimiz dijitalleşti. Kağıt israfı bitti, kargo maliyetleri düştü.\""
+          - generic [ref=f206e350]:
+            - generic [ref=f206e351]: DK
+            - generic [ref=f206e352]:
+              - generic [ref=f206e353]: Deniz Kara
+              - generic [ref=f206e354]: Kara Lojistik — Operasyon Md.
+        - generic [ref=f206e355]:
+          - img "5 yıldız" [ref=f206e356]:
+            - img [ref=f206e357]
+            - img [ref=f206e359]
+            - img [ref=f206e361]
+            - img [ref=f206e363]
+            - img [ref=f206e365]
+          - blockquote [ref=f206e367]: "\"Destek ekipleri her saat ulaşılabilir. e-Defter dönüşümünde bizi adım adım yönlendirdiler.\""
+          - generic [ref=f206e368]:
+            - generic [ref=f206e369]: SE
+            - generic [ref=f206e370]:
+              - generic [ref=f206e371]: Selin Erdem
+              - generic [ref=f206e372]: Erdem Yapı — Muhasebe Md.
+    - generic [ref=f206e374]:
+      - generic [ref=f206e375]:
+        - generic [ref=f206e376]: Entegratör Değişikliği
+        - heading "Mevcut e-belge portalınızdan memnun değil misiniz?" [level=2] [ref=f206e377]
+        - paragraph [ref=f206e378]: Yavaş destek, karmaşık arayüz veya artan maliyetler mi? Umay e-Belge'ye geçiş çok kolay — verilerinizi taşıyoruz, geçiş sürecini biz yönetiyoruz.
+      - generic [ref=f206e379]:
+        - generic [ref=f206e380]:
+          - heading "Sık Yaşanan Şikayetler" [level=3] [ref=f206e381]
+          - list [ref=f206e382]:
+            - listitem [ref=f206e383]:
+              - img [ref=f206e384]
+              - text: Destek taleplerinde günlerce bekleme
+            - listitem [ref=f206e388]:
+              - img [ref=f206e389]
+              - text: Portal çökmeleri ve erişim sorunları
+            - listitem [ref=f206e393]:
+              - img [ref=f206e394]
+              - text: Her yıl artan abonelik ücretleri
+            - listitem [ref=f206e398]:
+              - img [ref=f206e399]
+              - text: Kullanımı zor, karmaşık arayüz
+            - listitem [ref=f206e403]:
+              - img [ref=f206e404]
+              - text: Muhasebe programıyla entegrasyon sorunları
+        - generic [ref=f206e408]:
+          - heading "Umay e-Belge'ye Geçince" [level=3] [ref=f206e409]
+          - list [ref=f206e410]:
+            - listitem [ref=f206e411]:
+              - img [ref=f206e412]
+              - text: 7/24 ulaşılabilir uzman destek
+            - listitem [ref=f206e415]:
+              - img [ref=f206e416]
+              - text: "%99.9 uptime garantisi"
+            - listitem [ref=f206e419]:
+              - img [ref=f206e420]
+              - text: Şeffaf ve sabit fiyatlandırma
+            - listitem [ref=f206e423]:
+              - img [ref=f206e424]
+              - text: Sade arayüz — eğitim gerektirmez
+            - listitem [ref=f206e427]:
+              - img [ref=f206e428]
+              - text: Ücretsiz geçiş desteği ve veri aktarımı
+      - link "Ücretsiz Geçiş Danışmanlığı Al" [ref=f206e432] [cursor=pointer]:
+        - /url: iletisim.html
+        - img [ref=f206e433]
+        - text: Ücretsiz Geçiş Danışmanlığı Al
+    - generic [ref=f206e439]:
+      - generic [ref=f206e440]:
+        - generic [ref=f206e441]: Sıkça Sorulan Sorular
+        - heading "Aklınızdaki soruların cevapları" [level=2] [ref=f206e442]
+      - generic [ref=f206e443]:
+        - generic [ref=f206e444]:
+          - button "e-Fatura zorunluluğu kimleri kapsıyor?" [ref=f206e445] [cursor=pointer]:
+            - text: e-Fatura zorunluluğu kimleri kapsıyor?
+            - img [ref=f206e446]
+          - generic [ref=f206e448]: 2026 yılı itibarıyla brüt satış hasılatı 3 milyon TL ve üzerinde olan tüm mükellefler e-Fatura ve e-Arşiv'e geçmek zorundadır. Ayrıca sektörel zorunluluklar (e-ticaret, ihracat, internet reklam aracılığı vb.) ciroya bakılmaksızın geçerlidir.
+        - generic [ref=f206e449]:
+          - button "Mevcut muhasebe programımla entegrasyon mümkün mü?" [ref=f206e450] [cursor=pointer]:
+            - text: Mevcut muhasebe programımla entegrasyon mümkün mü?
+            - img [ref=f206e451]
+          - generic [ref=f206e453]: Evet. Logo, Mikro, Netsis, ETA, SAP gibi Türkiye'de yaygın kullanılan tüm muhasebe ve ERP yazılımlarıyla entegrasyon sağlıyoruz. API ve dosya bazlı entegrasyon seçenekleri mevcuttur.
+        - generic [ref=f206e454]:
+          - button "Geçiş süreci ne kadar sürer?" [ref=f206e455] [cursor=pointer]:
+            - text: Geçiş süreci ne kadar sürer?
+            - img [ref=f206e456]
+          - generic [ref=f206e458]: Standart bir e-Fatura geçişi 1-3 iş günü içinde tamamlanır. Mali mührünüz hazırsa süreç çok daha hızlıdır. Karmaşık ERP entegrasyonlarında ise süre içeriğe göre değişebilir.
+        - generic [ref=f206e459]:
+          - button "Ücretsiz demo nasıl alabilirim?" [ref=f206e460] [cursor=pointer]:
+            - text: Ücretsiz demo nasıl alabilirim?
+            - img [ref=f206e461]
+          - generic [ref=f206e463]: İletişim sayfamızdan ya da WhatsApp/telefon hattımız üzerinden bize ulaşmanız yeterli. Uzman ekibimiz 1 iş günü içinde size dönüş yapıp, kişisel demo planlaması yapacaktır.
+      - link "Tüm Soruları Gör" [ref=f206e465] [cursor=pointer]:
+        - /url: sss.html
+        - text: Tüm Soruları Gör
+        - img [ref=f206e466]
+    - generic [ref=f206e470]:
+      - heading "Hemen başlayın, dijital dönüşümü erteleme" [level=2] [ref=f206e471]
+      - paragraph [ref=f206e472]: Uzman ekibimiz işletmeniz için en uygun e-belge çözümünü ücretsiz olarak planlasın. Tek bir tıkla başlayın.
+      - generic [ref=f206e473]:
+        - link "Demo Talep Et" [ref=f206e474] [cursor=pointer]:
+          - /url: iletisim.html
+          - img [ref=f206e475]
+          - text: Demo Talep Et
+        - link "0 850 777 11 45" [ref=f206e480] [cursor=pointer]:
+          - /url: tel:+908507771145
+          - img [ref=f206e481]
+          - text: 0 850 777 11 45
+  - contentinfo [ref=f206e483]:
+    - generic [ref=f206e484]:
+      - generic [ref=f206e485]:
+        - generic [ref=f206e486]:
+          - link "e Umay e-Belge" [ref=f206e487] [cursor=pointer]:
+            - /url: index.html
+            - generic [ref=f206e488]: e
+            - generic [ref=f206e489]: Umay e-Belge
+          - paragraph [ref=f206e490]: Türkiye'nin uzman e-belge çözüm ortağı. 11 GİB onaylı modül, 7/24 destek, kolay entegrasyon.
+          - generic [ref=f206e491]:
+            - link "Facebook" [ref=f206e492] [cursor=pointer]:
+              - /url: https://www.facebook.com/umaybilisimcom
+              - img [ref=f206e493]
+            - link "LinkedIn" [ref=f206e495] [cursor=pointer]:
+              - /url: https://www.linkedin.com/in/umaybilisimcom
+              - img [ref=f206e496]
+            - link "Instagram" [ref=f206e498] [cursor=pointer]:
+              - /url: https://www.instagram.com/umaybilisim
+              - img [ref=f206e499]
+            - link "X (Twitter)" [ref=f206e501] [cursor=pointer]:
+              - /url: https://x.com/UmayBilisim
+              - img [ref=f206e502]
+        - generic [ref=f206e504]:
+          - heading "Ürünler" [level=3] [ref=f206e505]
+          - list [ref=f206e506]:
+            - listitem [ref=f206e507]:
+              - link "e-Fatura" [ref=f206e508] [cursor=pointer]:
+                - /url: urunler/e-fatura.html
+            - listitem [ref=f206e509]:
+              - link "e-Arşiv Fatura" [ref=f206e510] [cursor=pointer]:
+                - /url: urunler/e-arsiv-fatura.html
+            - listitem [ref=f206e511]:
+              - link "e-İrsaliye" [ref=f206e512] [cursor=pointer]:
+                - /url: urunler/e-irsaliye.html
+            - listitem [ref=f206e513]:
+              - link "e-Defter" [ref=f206e514] [cursor=pointer]:
+                - /url: urunler/e-defter.html
+            - listitem [ref=f206e515]:
+              - link "e-SMM" [ref=f206e516] [cursor=pointer]:
+                - /url: urunler/e-smm.html
+            - listitem [ref=f206e517]:
+              - link "e-Müstahsil Makbuzu" [ref=f206e518] [cursor=pointer]:
+                - /url: urunler/e-mm.html
+            - listitem [ref=f206e519]:
+              - link "Tüm Ürünler" [ref=f206e520] [cursor=pointer]:
+                - /url: urunler.html
+        - generic [ref=f206e521]:
+          - heading "Kurumsal" [level=3] [ref=f206e522]
+          - list [ref=f206e523]:
+            - listitem [ref=f206e524]:
+              - link "Kampanyalar" [ref=f206e525] [cursor=pointer]:
+                - /url: kampanyalar.html
+              - link "Hakkımızda" [ref=f206e526] [cursor=pointer]:
+                - /url: hakkimizda.html
+            - listitem [ref=f206e527]:
+              - link "Hizmet Bölgeleri" [ref=f206e528] [cursor=pointer]:
+                - /url: iller/index.html
+            - listitem [ref=f206e529]:
+              - link "Blog" [ref=f206e530] [cursor=pointer]:
+                - /url: blog/index.html
+            - listitem [ref=f206e531]:
+              - link "SSS" [ref=f206e532] [cursor=pointer]:
+                - /url: sss.html
+            - listitem [ref=f206e533]:
+              - link "İletişim" [ref=f206e534] [cursor=pointer]:
+                - /url: iletisim.html
+            - listitem [ref=f206e535]:
+              - link "KVKK" [ref=f206e536] [cursor=pointer]:
+                - /url: kvkk.html
+            - listitem [ref=f206e537]:
+              - link "Gizlilik Politikası" [ref=f206e538] [cursor=pointer]:
+                - /url: gizlilik-politikasi.html
+        - generic [ref=f206e539]:
+          - heading "İletişim" [level=3] [ref=f206e540]
+          - generic [ref=f206e541]:
+            - generic [ref=f206e542]:
+              - img [ref=f206e543]
+              - generic [ref=f206e546]: Erenler Mah. 1193 Nolu Sk. No:4/1-213 Meydan54 AVM B1 Blok K:2 D:84, 54200 Erenler/SAKARYA
+            - generic [ref=f206e547]:
+              - img [ref=f206e548]
+              - link "0 850 777 11 45" [ref=f206e550] [cursor=pointer]:
+                - /url: tel:+908507771145
+            - generic [ref=f206e551]:
+              - img [ref=f206e552]
+              - link "bilgi@umaybilisim.com.tr" [ref=f206e555] [cursor=pointer]:
+                - /url: mailto:bilgi@umaybilisim.com.tr
+            - generic [ref=f206e556]:
+              - img [ref=f206e557]
+              - generic [ref=f206e560]: Pzt-Cum 09:00 - 18:00
+      - generic [ref=f206e561]:
+        - generic [ref=f206e562]:
+          - text: © 2026
+          - link "Umay Tüm Bilişim ve Eğitim Danışmanlık Yazılım Ltd. Şti." [ref=f206e563] [cursor=pointer]:
+            - /url: https://www.umaybilisim.com.tr
+          - text: — Tüm hakları saklıdır.
+        - generic [ref=f206e564]: "MERSİS: 0892062544300001"
+  - link "WhatsApp'tan yaz" [ref=f206e565] [cursor=pointer]:
+    - /url: https://wa.me/908507771145
+    - img [ref=f206e566]
+  - button "Yukarı çık":
+    - img
+  - region "Çerez bildirimi" [ref=f206e568]:
+    - paragraph [ref=f206e569]:
+      - text: Bu site, deneyiminizi iyileştirmek için çerez kullanır. Detaylar için
+      - link "KVKK" [ref=f206e570] [cursor=pointer]:
+        - /url: kvkk.html
+      - text: ve
+      - link "Gizlilik Politikası" [ref=f206e571] [cursor=pointer]:
+        - /url: gizlilik-politikasi.html
+      - text: sayfalarımızı inceleyebilirsiniz.
+    - generic [ref=f206e572]:
+      - button "Reddet" [ref=f206e573] [cursor=pointer]
+      - button "Kabul Et" [ref=f206e574] [cursor=pointer]
+  - link "WhatsApp ile mesaj at":
+    - /url: https://wa.me/908507771145
+    - button "Kapat":
+      - img
+    - strong: Merhaba 👋
+    - generic: Size yardımcı olabilir miyiz? Hemen yazın, anında dönüş yapalım.

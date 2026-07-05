@@ -1,0 +1,216 @@
+- generic [ref=f11e2]:
+  - generic [ref=f11e3]:
+    - link "Skip to content" [ref=f11e4] [cursor=pointer]:
+      - /url: "#start-of-content"
+    - banner "Global navigation menu" [ref=f11e8]:
+      - generic [ref=f11e9]:
+        - generic [ref=f11e10]:
+          - button "Open menu" [ref=f11e12] [cursor=pointer]:
+            - img [ref=f11e13]
+          - link "Homepage (g then d)" [ref=f11e15] [cursor=pointer]:
+            - /url: /
+            - img [ref=f11e16]
+        - generic [ref=f11e18]:
+          - navigation "Breadcrumbs" [ref=f11e19]:
+            - list [ref=f11e20]:
+              - listitem [ref=f11e21]:
+                - link "umaybilisim" [ref=f11e22] [cursor=pointer]:
+                  - /url: /umaybilisim
+                  - generic [ref=f11e23]: umaybilisim
+              - listitem [ref=f11e24]:
+                - link "umaybilisim-ebelge-web" [ref=f11e25] [cursor=pointer]:
+                  - /url: /umaybilisim/umaybilisim-ebelge-web
+                - button "Switch repository (alt shift r)" [ref=f11e26] [cursor=pointer]:
+                  - img [ref=f11e27]
+          - button "Search or jump to…" [ref=f11e31] [cursor=pointer]:
+            - generic [ref=f11e32]:
+              - generic:
+                - img
+              - generic [ref=f11e33]:
+                - generic:
+                  - text: Type
+                  - generic: /
+                  - text: to search
+        - generic [ref=f11e34]:
+          - generic [ref=f11e35]:
+            - generic [ref=f11e38]:
+              - link "Chat with Copilot" [ref=f11e40] [cursor=pointer]:
+                - /url: /copilot
+                - img [ref=f11e41]
+              - button "Open Copilot…" [ref=f11e45] [cursor=pointer]:
+                - generic:
+                  - img
+            - button "Create new..." [ref=f11e47] [cursor=pointer]:
+              - generic [ref=f11e48]:
+                - generic:
+                  - img
+              - generic:
+                - img
+            - generic [ref=f11e49]:
+              - link "All issues" [ref=f11e50] [cursor=pointer]:
+                - /url: /issues
+                - img [ref=f11e51]
+              - link "All pull requests" [ref=f11e54] [cursor=pointer]:
+                - /url: /pulls
+                - img [ref=f11e55]
+              - link "All repositories" [ref=f11e57] [cursor=pointer]:
+                - /url: /repos
+                - img [ref=f11e58]
+          - link "You have unread notifications (g then n)" [ref=f11e60] [cursor=pointer]:
+            - /url: /notifications
+            - img [ref=f11e61]
+          - button "Open user navigation menu" [ref=f11e64] [cursor=pointer]:
+            - img "User avatar" [ref=f11e65]
+      - heading "Repository navigation" [level=2] [ref=f11e66]
+      - navigation "Repository" [ref=f11e67]:
+        - list [ref=f11e68]:
+          - listitem [ref=f11e69]:
+            - link "Code" [ref=f11e70] [cursor=pointer]:
+              - /url: /umaybilisim/umaybilisim-ebelge-web
+              - img [ref=f11e72]
+              - generic [ref=f11e74]: Code
+          - listitem [ref=f11e75]:
+            - link "Issues" [ref=f11e76] [cursor=pointer]:
+              - /url: /umaybilisim/umaybilisim-ebelge-web/issues
+              - img [ref=f11e78]
+              - generic [ref=f11e81]: Issues
+          - listitem [ref=f11e82]:
+            - link "Pull requests (1)" [ref=f11e83] [cursor=pointer]:
+              - /url: /umaybilisim/umaybilisim-ebelge-web/pulls
+              - img [ref=f11e85]
+              - generic [ref=f11e87]: Pull requests
+              - generic [ref=f11e88]:
+                - generic [ref=f11e89]: "1"
+                - generic [ref=f11e90]: (1)
+          - listitem [ref=f11e91]:
+            - link "Actions" [ref=f11e92] [cursor=pointer]:
+              - /url: /umaybilisim/umaybilisim-ebelge-web/actions
+              - img [ref=f11e94]
+              - generic [ref=f11e96]: Actions
+          - listitem [ref=f11e97]:
+            - link "Projects" [ref=f11e98] [cursor=pointer]:
+              - /url: /umaybilisim/umaybilisim-ebelge-web/projects
+              - img [ref=f11e100]
+              - generic [ref=f11e102]: Projects
+          - listitem [ref=f11e103]:
+            - link "Security and quality" [ref=f11e104] [cursor=pointer]:
+              - /url: /umaybilisim/umaybilisim-ebelge-web/security
+              - img [ref=f11e106]
+              - generic [ref=f11e108]: Security and quality
+          - listitem [ref=f11e109]:
+            - link "Insights" [ref=f11e110] [cursor=pointer]:
+              - /url: /umaybilisim/umaybilisim-ebelge-web/pulse
+              - img [ref=f11e112]
+              - generic [ref=f11e114]: Insights
+          - listitem [ref=f11e115]:
+            - link "Settings" [ref=f11e116] [cursor=pointer]:
+              - /url: /umaybilisim/umaybilisim-ebelge-web/settings
+              - img [ref=f11e118]
+              - generic [ref=f11e120]: Settings
+  - main [ref=f11e123]:
+    - generic [ref=f11e125]:
+      - 'heading "Security: umaybilisim/umaybilisim-ebelge-web" [level=1] [ref=f11e126]'
+      - generic [ref=f11e127]:
+        - navigation "Security and quality" [ref=f11e129]:
+          - heading "Security and quality" [level=2] [ref=f11e130]
+          - list [ref=f11e132]:
+            - listitem [ref=f11e133]:
+              - link "Overview" [ref=f11e134] [cursor=pointer]:
+                - /url: /umaybilisim/umaybilisim-ebelge-web/security
+                - generic:
+                  - img
+                - generic [ref=f11e135]: Overview
+            - listitem [ref=f11e136]
+            - listitem [ref=f11e137]:
+              - generic [ref=f11e140]:
+                - heading "Findings" [level=3] [ref=f11e142]
+                - list "Findings" [ref=f11e143]:
+                  - listitem [ref=f11e144]:
+                    - button "Dependabot" [expanded] [ref=f11e145] [cursor=pointer]:
+                      - generic:
+                        - img
+                      - generic [ref=f11e147]: Dependabot
+                      - generic:
+                        - img
+                    - list "Dependabot" [ref=f11e148]:
+                      - listitem [ref=f11e149]:
+                        - link "Malware" [ref=f11e150] [cursor=pointer]:
+                          - /url: /umaybilisim/umaybilisim-ebelge-web/security/malware
+                          - generic [ref=f11e152]: Malware
+                      - listitem [ref=f11e153]:
+                        - link "Vulnerabilities" [ref=f11e154] [cursor=pointer]:
+                          - /url: /umaybilisim/umaybilisim-ebelge-web/security/dependabot
+                          - generic [ref=f11e156]: Vulnerabilities
+                  - listitem [ref=f11e157]:
+                    - link "Code scanning" [ref=f11e158] [cursor=pointer]:
+                      - /url: /umaybilisim/umaybilisim-ebelge-web/security/code-scanning
+                      - generic:
+                        - img
+                      - generic [ref=f11e160]: Code scanning
+                  - listitem [ref=f11e161]:
+                    - link "Secret scanning" [ref=f11e162] [cursor=pointer]:
+                      - /url: /umaybilisim/umaybilisim-ebelge-web/security/secret-scanning
+                      - generic:
+                        - img
+                      - generic [ref=f11e164]: Secret scanning
+            - listitem [ref=f11e165]
+            - listitem [ref=f11e166]:
+              - generic [ref=f11e169]:
+                - heading "Reporting" [level=3] [ref=f11e171]
+                - list "Reporting" [ref=f11e172]:
+                  - listitem [ref=f11e173]:
+                    - link "Security policy" [ref=f11e174] [cursor=pointer]:
+                      - /url: /umaybilisim/umaybilisim-ebelge-web/security/policy
+                      - generic:
+                        - img
+                      - generic [ref=f11e175]: Security policy
+                  - listitem [ref=f11e176]:
+                    - link "Advisories" [ref=f11e177] [cursor=pointer]:
+                      - /url: /umaybilisim/umaybilisim-ebelge-web/security/advisories
+                      - generic:
+                        - img
+                      - generic [ref=f11e179]: Advisories
+        - generic [ref=f11e184]:
+          - heading "Secret scanning alerts" [level=2] [ref=f11e185]
+          - generic [ref=f11e187]:
+            - img [ref=f11e188]
+            - heading "Secret scanning is not enabled" [level=3] [ref=f11e191]
+            - paragraph [ref=f11e192]: Secret scanning is a security feature that helps detect and prevent the accidental inclusion of sensitive information in your repository. To put it to work, you'll need to enable it in your repository's Advanced Security settings.
+            - link "Enable secret scanning in this repo" [ref=f11e193] [cursor=pointer]:
+              - /url: /umaybilisim/umaybilisim-ebelge-web/settings/security_analysis
+  - contentinfo [ref=f11e194]:
+    - heading "Footer" [level=2] [ref=f11e195]
+    - generic [ref=f11e196]:
+      - generic [ref=f11e197]:
+        - link "GitHub Homepage" [ref=f11e198] [cursor=pointer]:
+          - /url: https://github.com
+          - img [ref=f11e199]
+        - generic [ref=f11e201]: © 2026 GitHub, Inc.
+      - navigation "Footer" [ref=f11e202]:
+        - heading "Footer navigation" [level=3] [ref=f11e203]
+        - list "Footer navigation" [ref=f11e204]:
+          - listitem [ref=f11e205]:
+            - link "Terms" [ref=f11e206] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/github-terms/github-terms-of-service
+          - listitem [ref=f11e207]:
+            - link "Privacy" [ref=f11e208] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+          - listitem [ref=f11e209]:
+            - link "Security" [ref=f11e210] [cursor=pointer]:
+              - /url: https://github.com/security
+          - listitem [ref=f11e211]:
+            - link "Status" [ref=f11e212] [cursor=pointer]:
+              - /url: https://www.githubstatus.com/
+          - listitem [ref=f11e213]:
+            - link "Community" [ref=f11e214] [cursor=pointer]:
+              - /url: https://github.community/
+          - listitem [ref=f11e215]:
+            - link "Docs" [ref=f11e216] [cursor=pointer]:
+              - /url: https://docs.github.com/
+          - listitem [ref=f11e217]:
+            - link "Contact" [ref=f11e218] [cursor=pointer]:
+              - /url: https://support.github.com?tags=dotcom-footer
+          - listitem [ref=f11e219]:
+            - button "Manage cookies" [ref=f11e221] [cursor=pointer]
+          - listitem [ref=f11e222]:
+            - button "Do not share my personal information" [ref=f11e224] [cursor=pointer]

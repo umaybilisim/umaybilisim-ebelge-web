@@ -1,0 +1,619 @@
+- generic [active] [ref=f84e1]:
+  - generic [ref=f84e2]:
+    - text:    
+    - generic [ref=f84e4]:
+      - generic [ref=f84e6] [cursor=pointer]: 
+      - generic [ref=f84e7]:
+        - link "E-Arşiv Fatura Sorgulama E-Arşiv Fatura Sorgulama" [ref=f84e11] [cursor=pointer]:
+          - /url: https://view.edmbilisim.com.tr/fatura/EArchiveStatus
+          - img "E-Arşiv Fatura Sorgulama" [ref=f84e12]
+          - generic [ref=f84e13]: E-Arşiv Fatura Sorgulama
+        - link "E-Fatura Demo Portal Girişi E-Fatura Demo Portal Girişi" [ref=f84e16] [cursor=pointer]:
+          - /url: http://www.edmbilisim.com.tr/PortalDemo
+          - img "E-Fatura Demo Portal Girişi" [ref=f84e17]
+          - generic [ref=f84e18]: E-Fatura Demo Portal Girişi
+        - link "E-Fatura Portal Girişi E-Fatura Portal Girişi" [ref=f84e21] [cursor=pointer]:
+          - /url: https://portal4.edmbilisim.com.tr/EFaturaUI/
+          - img "E-Fatura Portal Girişi" [ref=f84e22]
+          - generic [ref=f84e23]: E-Fatura Portal Girişi
+        - link "E-Mutabakat Portal Girişi E-Mutabakat Portal Girişi" [ref=f84e26] [cursor=pointer]:
+          - /url: https://edmemutabakat.com/Login?returnUrl=%2F
+          - img "E-Mutabakat Portal Girişi" [ref=f84e27]
+          - generic [ref=f84e28]: E-Mutabakat Portal Girişi
+        - link "KEP Portal Girişi KEP Portal Girişi" [ref=f84e31] [cursor=pointer]:
+          - /url: https://edm-kep.com.tr/portal/account/logon
+          - img "KEP Portal Girişi" [ref=f84e32]
+          - generic [ref=f84e33]: KEP Portal Girişi
+    - banner [ref=f84e34]:
+      - generic [ref=f84e36]:
+        - link "EDM, E-Fatura, E-Defter, E-Arşiv Fatura, E-SMM, Kep, E-İmza, E-Döviz":
+          - /url: /
+          - img "EDM, E-Fatura, E-Defter, E-Arşiv Fatura, E-SMM, Kep, E-İmza, E-Döviz" [ref=f84e38] [cursor=pointer]
+        - generic [ref=f84e39]:
+          - navigation [ref=f84e40]:
+            - list [ref=f84e41]:
+              - listitem [ref=f84e42]:
+                - link "Ürünlerimiz " [ref=f84e43] [cursor=pointer]:
+                  - /url: javascript:;
+                  - text: Ürünlerimiz
+                  - generic [ref=f84e44]: 
+              - listitem [ref=f84e45]:
+                - link "Kampanyalar" [ref=f84e46] [cursor=pointer]:
+                  - /url: /kampanyalar/
+              - listitem [ref=f84e47]:
+                - link "Duyurular " [ref=f84e48] [cursor=pointer]:
+                  - /url: /duyurular/
+                  - text: Duyurular
+                  - generic [ref=f84e49]: 
+              - listitem [ref=f84e50]:
+                - link "Bilgi Bankası" [ref=f84e51] [cursor=pointer]:
+                  - /url: /bilgi-bankasi/
+              - listitem [ref=f84e52]:
+                - link "Kurumsal " [ref=f84e53] [cursor=pointer]:
+                  - /url: javascript:;
+                  - text: Kurumsal
+                  - generic [ref=f84e54]: 
+              - listitem [ref=f84e55]:
+                - link "İletişim" [ref=f84e56] [cursor=pointer]:
+                  - /url: /iletisim/
+              - listitem [ref=f84e57]:
+                - link "Blog" [ref=f84e58] [cursor=pointer]:
+                  - /url: /blog/
+          - generic [ref=f84e59]:
+            - link "" [ref=f84e60] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=f84e61]: 
+            - generic [ref=f84e62]: "|"
+            - link " TR" [ref=f84e63] [cursor=pointer]:
+              - /url: ""
+              - generic [ref=f84e64]: 
+              - text: TR
+          - link "MÜŞTERİ GİRİŞİ " [ref=f84e65] [cursor=pointer]:
+            - /url: "#!"
+            - text: MÜŞTERİ GİRİŞİ
+            - generic [ref=f84e66]: 
+    - generic [ref=f84e68]:
+      - button "Previous" [ref=f84e69] [cursor=pointer]: ←Previous
+      - generic [ref=f84e71]:
+        - img [ref=f84e73]
+        - tabpanel [ref=f84e74]:
+          - link "İşiniz de İçini de Rahat!" [ref=f84e75] [cursor=pointer]:
+            - /url: /e-donusum/tanitim-videosu.html
+            - img "İşiniz de İçini de Rahat!" [ref=f84e76]
+        - tabpanel [ref=f84e77]:
+          - link [ref=f84e78] [cursor=pointer]:
+            - /url: /kampanyalar/mali-musavirimize-100-binlerce-lira-migros-harcamasi-hediye.html
+            - img [ref=f84e79]
+        - tabpanel [ref=f84e80]:
+          - link [ref=f84e81] [cursor=pointer]:
+            - /url: /kampanyalar/gib-e-arsiv-faturalarinizi-edm´den-duzenleyin.html
+            - img [ref=f84e82]
+        - tabpanel [ref=f84e83]:
+          - link [ref=f84e84] [cursor=pointer]:
+            - /url: /kampanyalar/edm-e-faturaya-gecenlere-ucretsiz-250-kontor.html
+            - img [ref=f84e85]
+        - tabpanel [ref=f84e86]:
+          - link [ref=f84e87] [cursor=pointer]:
+            - /url: /kampanyalar/edmye-gecenlere-250-kontor-3-yillik-e-imza.html
+            - img [ref=f84e88]
+        - tabpanel [ref=f84e89]:
+          - link [ref=f84e90] [cursor=pointer]:
+            - /url: /kampanyalar/esnaf-e-donusum-basit.html
+            - img [ref=f84e91]
+        - tabpanel [ref=f84e92]:
+          - link [ref=f84e93] [cursor=pointer]:
+            - /url: /kampanyalar/esnaf-e-donusum-isletme.html
+            - img [ref=f84e94]
+        - tabpanel [ref=f84e95]:
+          - link [ref=f84e96] [cursor=pointer]:
+            - /url: /kampanyalar/esnaf-e-donusum-bilanco.html
+            - img [ref=f84e97]
+        - tabpanel [ref=f84e98]:
+          - link [ref=f84e99] [cursor=pointer]:
+            - /url: /e-donusum/edm-teknolojilerini-musterileriyle-bulusturan-guclu-is-ortaklari.html
+            - img [ref=f84e100]
+        - tabpanel [ref=f84e101]:
+          - link [ref=f84e102] [cursor=pointer]:
+            - /url: /kampanyalar/eczacilarimiza-dijital-takviye.html
+            - img [ref=f84e103]
+        - tabpanel [ref=f84e104]:
+          - link [ref=f84e105] [cursor=pointer]:
+            - /url: https://www.edmbilisim.com.tr/kampanyalar/dev-kampanya.html
+            - img [ref=f84e106]
+        - tabpanel [ref=f84e107]:
+          - link [ref=f84e108] [cursor=pointer]:
+            - /url: https://edmbilisim.com.tr/kampanyalar/kep-e-bordro-mahkemelerde-gecerli.html
+            - img [ref=f84e109]
+        - tabpanel [ref=f84e110]:
+          - link [ref=f84e111] [cursor=pointer]:
+            - /url: https://edmbilisim.com.tr/e-donusum/edm%C2%B4den-mali-musavirlere-cok-ozel-hediyeler-1835.html
+            - img [ref=f84e112]
+        - tabpanel [ref=f84e113]:
+          - link [ref=f84e114] [cursor=pointer]:
+            - /url: https://www.youtube.com/watch?v=OJighULgNAY
+            - img [ref=f84e115]
+        - tabpanel [ref=f84e116]:
+          - link [ref=f84e117] [cursor=pointer]:
+            - /url: /e-donusum/dogaya-donusum.html
+            - img [ref=f84e118]
+        - tabpanel [ref=f84e119]:
+          - img [ref=f84e120]
+        - tabpanel [ref=f84e121]:
+          - img [ref=f84e122]
+        - link [ref=f84e124] [cursor=pointer]:
+          - /url: /e-donusum/tanitim-videosu.html
+          - img [ref=f84e125]
+        - link [ref=f84e127] [cursor=pointer]:
+          - /url: /kampanyalar/mali-musavirimize-100-binlerce-lira-migros-harcamasi-hediye.html
+          - img [ref=f84e128]
+        - link [ref=f84e130] [cursor=pointer]:
+          - /url: /kampanyalar/gib-e-arsiv-faturalarinizi-edm´den-duzenleyin.html
+          - img [ref=f84e131]
+        - link [ref=f84e133] [cursor=pointer]:
+          - /url: /kampanyalar/edm-e-faturaya-gecenlere-ucretsiz-250-kontor.html
+          - img [ref=f84e134]
+        - link [ref=f84e136] [cursor=pointer]:
+          - /url: /kampanyalar/edmye-gecenlere-250-kontor-3-yillik-e-imza.html
+          - img [ref=f84e137]
+        - link [ref=f84e139] [cursor=pointer]:
+          - /url: /kampanyalar/esnaf-e-donusum-basit.html
+          - img [ref=f84e140]
+        - link [ref=f84e142] [cursor=pointer]:
+          - /url: /kampanyalar/esnaf-e-donusum-isletme.html
+          - img [ref=f84e143]
+        - link [ref=f84e145] [cursor=pointer]:
+          - /url: /kampanyalar/esnaf-e-donusum-bilanco.html
+          - img [ref=f84e146]
+        - link [ref=f84e148] [cursor=pointer]:
+          - /url: /e-donusum/edm-teknolojilerini-musterileriyle-bulusturan-guclu-is-ortaklari.html
+          - img [ref=f84e149]
+        - link [ref=f84e151] [cursor=pointer]:
+          - /url: /kampanyalar/eczacilarimiza-dijital-takviye.html
+          - img [ref=f84e152]
+        - link [ref=f84e154] [cursor=pointer]:
+          - /url: https://www.edmbilisim.com.tr/kampanyalar/dev-kampanya.html
+          - img [ref=f84e155]
+        - link [ref=f84e157] [cursor=pointer]:
+          - /url: https://edmbilisim.com.tr/kampanyalar/kep-e-bordro-mahkemelerde-gecerli.html
+          - img [ref=f84e158]
+        - link [ref=f84e160] [cursor=pointer]:
+          - /url: https://edmbilisim.com.tr/e-donusum/edm%C2%B4den-mali-musavirlere-cok-ozel-hediyeler-1835.html
+          - img [ref=f84e161]
+        - link [ref=f84e163] [cursor=pointer]:
+          - /url: https://www.youtube.com/watch?v=OJighULgNAY
+          - img [ref=f84e164]
+        - link [ref=f84e166] [cursor=pointer]:
+          - /url: /e-donusum/dogaya-donusum.html
+          - img [ref=f84e167]
+        - img [ref=f84e169]
+        - img [ref=f84e171]
+      - button "Next" [ref=f84e172] [cursor=pointer]: →Next
+      - tablist [ref=f84e173]:
+        - tab "1 of 17" [selected] [ref=f84e174] [cursor=pointer]: • 1
+        - tab "2 of 17" [ref=f84e175] [cursor=pointer]: • 2
+        - tab "3 of 17" [ref=f84e176] [cursor=pointer]: • 3
+        - tab "4 of 17" [ref=f84e177] [cursor=pointer]: • 4
+        - tab "5 of 17" [ref=f84e178] [cursor=pointer]: • 5
+        - tab "6 of 17" [ref=f84e179] [cursor=pointer]: • 6
+        - tab "7 of 17" [ref=f84e180] [cursor=pointer]: • 7
+        - tab "8 of 17" [ref=f84e181] [cursor=pointer]: • 8
+        - tab "9 of 17" [ref=f84e182] [cursor=pointer]: • 9
+        - tab "10 of 17" [ref=f84e183] [cursor=pointer]: • 10
+        - tab "11 of 17" [ref=f84e184] [cursor=pointer]: • 11
+        - tab "12 of 17" [ref=f84e185] [cursor=pointer]: • 12
+        - tab "13 of 17" [ref=f84e186] [cursor=pointer]: • 13
+        - tab "14 of 17" [ref=f84e187] [cursor=pointer]: • 14
+        - tab "15 of 17" [ref=f84e188] [cursor=pointer]: • 15
+        - tab "16 of 17" [ref=f84e189] [cursor=pointer]: • 16
+        - tab "17 of 17" [ref=f84e190] [cursor=pointer]: • 17
+    - generic [ref=f84e192]:
+      - paragraph [ref=f84e193]:
+        - link "Müşteri Başvuru & Demo" [ref=f84e194] [cursor=pointer]:
+          - /url: /basvuru-demo/
+        - link "İş Ortağı Başvuru Formu" [ref=f84e195] [cursor=pointer]:
+          - /url: /is-ortagi-basvuru-formu/
+      - generic [ref=f84e196]:
+        - heading "E-DÖNÜŞÜM’DE EDM FARKI!" [level=1] [ref=f84e197]
+        - generic [ref=f84e198]:
+          - generic [ref=f84e200]:
+            - img "Sizin programınıza uyar!" [ref=f84e202]
+            - generic [ref=f84e203]:
+              - generic [ref=f84e204]: Sizin programınıza uyar!
+              - paragraph [ref=f84e205]: 750+ ERP ve muhasebe programı ile anlaşmalı olan EDM ayrıcalığıyla ERP sistemi ve muhasebe programı içinden oluşturduğunuz faturalar, irsaliyeler, makbuzlar ve biletler otomatik olarak muhatabına gönderilir. Gelen faturalarınız ise ERP ve Muhasebe Programınızın cari ve stoklarına otomatik işlenerek müşavirinizin programına otomatik olarak aktarılır.
+          - generic [ref=f84e207]:
+            - img "Gerçek ücretlerle tanışın!" [ref=f84e209]
+            - generic [ref=f84e210]:
+              - generic [ref=f84e211]: Gerçek ücretlerle tanışın!
+              - paragraph [ref=f84e212]: EDM, aylık sabit, yıllık sabit, güncelleme, kota aşımı gibi her ne ad altında olursa olsun etik olmayan aldatıcı ve gizli tarifeler uygulamaz! Kalan kontörünüz ay sonu ve yıl sonu gibi bahanelerle yanmaz, 5 yıl boyunca devreder. e-Fatura portal aktivasyonları ücretsizdir.
+          - generic [ref=f84e214]:
+            - img "Hızlı kurulum ve eğitim yerli yerinde!" [ref=f84e216]
+            - generic [ref=f84e217]:
+              - generic [ref=f84e218]: Hızlı kurulum ve eğitim yerli yerinde!
+              - paragraph [ref=f84e219]: Siz, e-Dönüşüm için EDM ile çalışmaya karar verdikten sonra gereken tüm işlemler, EDM saha temsilciniz tarafından eksiksiz yerine getirilir. Kayıtlı Elektronik Posta (KEP) ve Elektronik İmza servisleri (e-imza) ve bu servislere dayalı verilen Elektronik Bordro, Ücret Pusulası ve Zaman Çizelgesi, Elektronik Mutabakat, Elektronik Tebligat, Elektronik İhtar hizmetleri için de tüm başvuru, aktivasyon, kurulum ve eğitim işlemleri EDM saha temsilciniz tarafından kendi yerinizde uygulanır.
+          - generic [ref=f84e221]:
+            - img "Verileriniz emin ellerde!" [ref=f84e223]
+            - generic [ref=f84e224]:
+              - generic [ref=f84e225]: Verileriniz emin ellerde!
+              - paragraph [ref=f84e226]: e-Faturalarınız, e-İrsaliyeleriniz, e-Defterleriniz, e-Makbuzlarınız, e-Biletleriniz, bordrolarınız, ücret pusulalarınız, zaman çizelgeleriniz, tebligatlarınız, ihtarlarınız ve mutabakatlarınız EDM sistemlerinde 10 yıl boyunca 4 yedeklemeli ve 3DS şifreleme teknolojisiyle en güvenli şekilde saklanır. Faturalarınıza dilediğiniz an çevrimiçi erişebilir, tek tek ya da toplu olarak tekrar gönderme, görüntüleme ve PDF baskı alma gibi işlemleri yapabilirsiniz.
+          - generic [ref=f84e228]:
+            - img "İlgi 7/24 sizin üzerinizde!" [ref=f84e230]
+            - generic [ref=f84e231]:
+              - generic [ref=f84e232]: İlgi 7/24 sizin üzerinizde!
+              - paragraph [ref=f84e233]: Türkiye’nin her ili ve ilçesinde sizlere özel atanan satış ve servis saha temsilciliğinin yanı sıra, EDM merkezde, 7/24 arayabileceğiniz bir asıl bir de yedek olmak üzere tüm e-Dönüşüm hizmetlerinde uzman müşteri temsilciniz bulunmaktadır. Dilediğiniz zaman temsilcilerinize cep telefonu ve e-Postayla ulaşarak anında hizmet alır, hatta gece ve resmi tatiller dahil, bu iletişim noktaları üzerinden teknik nöbet merkezimize otomatik aktarılırsınız.
+          - generic [ref=f84e235]:
+            - img "Rakipsiz, üstün özellikli, kullanıcıya dost!" [ref=f84e237]
+            - generic [ref=f84e238]:
+              - generic [ref=f84e239]: Rakipsiz, üstün özellikli, kullanıcıya dost!
+              - paragraph [ref=f84e240]: EDM, Türkiye’nin tüm internet tarayıcıları ve yazılımlarıyla java bağımsız çalışabilen, Devlet Elektronik Yazışma Protokolü ile tam uyumlu olan ilk ve tek teknolojisine sahiptir. EDM hizmetleri; depo arşivi, süreç yönetimi, toplu fatura tekrarlama, tam metin arama, akıllı VKN kontrolü, tek platformdan tüm bağlı mükellefleri/servisleri yönetme, grup şirket ve şube yönetimi gibi yüzlerce yeteneği ile üstün özellikli ve kullanıcı dostudur.
+    - generic [ref=f84e242]:
+      - heading "ÜRÜNLER" [level=2] [ref=f84e243]
+      - generic [ref=f84e244]:
+        - generic [ref=f84e245]:
+          - link "01" [ref=f84e246] [cursor=pointer]:
+            - /url: "#!"
+          - link "02" [ref=f84e247] [cursor=pointer]:
+            - /url: "#!"
+          - link "03" [ref=f84e248] [cursor=pointer]:
+            - /url: "#!"
+          - link "04" [ref=f84e249] [cursor=pointer]:
+            - /url: "#!"
+        - generic [ref=f84e251]:
+          - generic [ref=f84e252]:
+            - link "E-Fatura" [ref=f84e253] [cursor=pointer]:
+              - /url: "#!"
+              - img [ref=f84e254]
+              - text: E-Fatura
+            - link "İnteraktif E-Arşiv Fatura" [ref=f84e259] [cursor=pointer]:
+              - /url: "#!"
+              - img [ref=f84e260]
+              - text: İnteraktif E-Arşiv Fatura
+            - link "E-Arşiv Fatura" [ref=f84e265] [cursor=pointer]:
+              - /url: "#!"
+              - img [ref=f84e266]
+              - text: E-Arşiv Fatura
+            - link "E-İrsaliye" [ref=f84e271] [cursor=pointer]:
+              - /url: "#!"
+              - img [ref=f84e272]
+              - text: E-İrsaliye
+            - link "E-Müstahsil" [ref=f84e277] [cursor=pointer]:
+              - /url: "#!"
+              - img [ref=f84e278]
+              - text: E-Müstahsil
+            - link "E-SMM" [ref=f84e283] [cursor=pointer]:
+              - /url: "#!"
+              - img [ref=f84e284]
+              - text: E-SMM
+            - link "E-Kıymetli Maden" [ref=f84e289] [cursor=pointer]:
+              - /url: "#!"
+              - img [ref=f84e290]
+              - text: E-Kıymetli Maden
+            - link "E-Döviz" [ref=f84e295] [cursor=pointer]:
+              - /url: "#!"
+              - img [ref=f84e296]
+              - text: E-Döviz
+            - link "E-Bilet" [ref=f84e301] [cursor=pointer]:
+              - /url: "#!"
+              - img [ref=f84e302]
+              - text: E-Bilet
+            - link "E-Adisyon" [ref=f84e307] [cursor=pointer]:
+              - /url: "#!"
+              - img [ref=f84e308]
+              - text: E-Adisyon
+            - link "E-Kasa" [ref=f84e313] [cursor=pointer]:
+              - /url: "#!"
+              - img [ref=f84e314]
+              - text: E-Kasa
+            - link "Gider Pusulası" [ref=f84e319] [cursor=pointer]:
+              - /url: "#!"
+              - img [ref=f84e320]
+              - text: Gider Pusulası
+            - link "E-Sigorta Komisyon Gider Belgesi" [ref=f84e325] [cursor=pointer]:
+              - /url: "#!"
+              - img [ref=f84e326]
+              - text: E-Sigorta Komisyon Gider Belgesi
+            - link "E-Dekont" [ref=f84e331] [cursor=pointer]:
+              - /url: "#!"
+              - img [ref=f84e332]
+              - text: E-Dekont
+          - generic [ref=f84e339]:
+            - img "E-Fatura" [ref=f84e341]
+            - generic [ref=f84e342]:
+              - paragraph [ref=f84e343]:
+                - text: Elektronik faturaya geçen firmaların birbirlerine
+                - link "e-fatura" [ref=f84e344] [cursor=pointer]:
+                  - /url: /e-fatura/
+                - text: sistemi üzerinden gönderdikleri ve aldıkları, kağıt fatura ile aynı hukuki niteliklere sahip ve 10 yıl boyunca elektronik ortamda çevrimiçi erişime açık saklanan elektronik belgedir.
+              - link "ÜRÜNLER" [ref=f84e345] [cursor=pointer]:
+                - /url: /e-fatura/
+                - text: ÜRÜNLER
+                - img [ref=f84e346]
+    - generic [ref=f84e349]:
+      - generic [ref=f84e350]:
+        - img "DÖNÜŞÜM BAŞLASIN" [ref=f84e351]
+        - img "DÖNÜŞÜM BAŞLASIN" [ref=f84e352]
+      - generic [ref=f84e354]:
+        - link "DÖNÜŞÜM BAŞLASIN" [ref=f84e356] [cursor=pointer]:
+          - /url: https://www.youtube.com/embed/63S-3kMKaCE
+          - img "DÖNÜŞÜM BAŞLASIN" [ref=f84e357]
+        - generic [ref=f84e358]:
+          - heading "DÖNÜŞÜM BAŞLASIN" [level=3] [ref=f84e359]
+          - paragraph [ref=f84e360]: Dönüşümü başlatmak için hemen iletişime geçin.
+          - link "Teklif Al" [ref=f84e361] [cursor=pointer]:
+            - /url: /teklif-alma-formu/
+          - generic [ref=f84e362]:
+            - generic [ref=f84e363]: 2010 yılından bu yana, güçlü sermaye yapısı, uzman kadrosu, İstanbul ve Ankara’da iki ayrı yedekli veri merkezli alt yapısı, bilgi güvenliği, iş sürekliliği ve kalite standartları ile yasal düzenlemelere uygun e-dönüşüm hizmetleri vermekteyiz. Türkiye genelinde 300+ e-dönüşüm merkezi ve teknik servisimizle, Türkiye’nin önde gelen e-dönüşüm uzmanıyız.
+            - link "EDM Kurumsal " [ref=f84e365] [cursor=pointer]:
+              - /url: /kurumsal/hakkimizda.html
+              - text: EDM Kurumsal
+              - generic [ref=f84e366]: 
+    - generic [ref=f84e368]:
+      - heading "E-DÖNÜŞÜM AVANTAJLARI!" [level=4] [ref=f84e369]
+      - generic [ref=f84e370]:
+        - generic [ref=f84e372]:
+          - img "Maliyetlerinizi en aza indirir" [ref=f84e374]
+          - generic [ref=f84e375]:
+            - generic [ref=f84e376]: Maliyetlerinizi en aza indirir
+            - paragraph [ref=f84e377]: e-Fatura, e-Defter, e-İrsaliye, e-Bilet, e-Serbest Meslek Makbuzu, e-Müstahsil Makbuzu, KEP, e-İmza, e-Bordro, Ücret Pusulası, Zaman Çizelgesi, e-Tebligat, e-İhtar ve EBYS gibi hizmetleriyle kağıt, baskı, toner, kargo, arşivleme gibi zaman ve para maliyetlerinizi minimum seviyelere düşürürsünüz.
+        - generic [ref=f84e379]:
+          - img "Yasal geçerli/güvenli saklama ve online erişim olanağı verir" [ref=f84e381]
+          - generic [ref=f84e382]:
+            - generic [ref=f84e383]: Yasal geçerli/güvenli saklama ve online erişim olanağı verir
+            - paragraph [ref=f84e384]: Faturalarınız, EDM sistemlerinde 10 yıl boyunca 4 yedeklemeli ve 3DS şifreleme teknolojisiyle en güvenli şekilde saklanır. Faturalarınıza yıl boyunca dilediğiniz an çevrimiçi erişebilir, tek tek ya da toplu olarak tekrar gönderme, görüntüleme ve PDF/baskı alma gibi işlemleri yapabilirsiniz.
+        - generic [ref=f84e386]:
+          - img "Operasyonunuzu hızlandırır ve verimliliği arttırır" [ref=f84e388]
+          - generic [ref=f84e389]:
+            - generic [ref=f84e390]: Operasyonunuzu hızlandırır ve verimliliği arttırır
+            - paragraph [ref=f84e391]: Çalışanlarınızın operasyon süreçlerini azaltarak, personelinizin daha verimli alanlarda faaliyet göstermesine olanak tanır, manuel işlemlerden kaynaklı hataları sıfırlar ve firmanızın verimliliğini arttırırsınız.
+        - generic [ref=f84e393]:
+          - img "Doğayı korur" [ref=f84e395]
+          - generic [ref=f84e396]:
+            - generic [ref=f84e397]: Doğayı korur
+            - paragraph [ref=f84e398]: Her yıl uğruna milyonlarca ağaç kesilen kağıtlar yerine, fatura ve diğer belgelerinizi elektronik ortama taşıyarak, doğanın korunması adına da büyük katkıda bulunmuş olursunuz.
+        - generic [ref=f84e400]:
+          - img "Anında ve güvenilir belge akışı sağlar" [ref=f84e402]
+          - generic [ref=f84e403]:
+            - generic [ref=f84e404]: Anında ve güvenilir belge akışı sağlar
+            - paragraph [ref=f84e405]: Tüm belgeleriniz, ERP ve muhasebe programınız içinden ve EDM üzerinden elektronik imzalanmış şekilde tam ve eksiksiz olarak anında muhataplarına ulaşır. Gönderici, belgenin muhatabı tarafından tam eksiksiz alındığına dair yasal olarak birinci derece geçerli teyidini alır. Alıcı ise aldığı faturaların tam eksiksiz ve %100 gerçek olduğundan emin olur.
+        - generic [ref=f84e407]:
+          - img "İmajınızı yükseltir" [ref=f84e409]
+          - generic [ref=f84e410]:
+            - generic [ref=f84e411]: İmajınızı yükseltir
+            - paragraph [ref=f84e412]: e-Fatura başta olmak üzere e-Dönüşüm servislerine geçme olgusu, tüm müşterileriniz ve iş ortaklarınız nezdinde; teknolojiyi kullanan, modern yönetilen, şeffaf ve kanunlara uygun iş yapan sağlam güvenilir firma imajınızı pekiştirir.
+        - generic [ref=f84e414]:
+          - img "Ayrıca;" [ref=f84e416]
+          - generic [ref=f84e417]:
+            - generic [ref=f84e418]: Ayrıca;
+            - paragraph [ref=f84e419]: Hızlı mutabakat, hızlı nakit akışı, hızlı uyuşmazlık çözümü, uluslararası standartlara uyum, elektronik iç ve dış denetim için uygun altyapı gibi daha sayısız faydalara kavuşursunuz.
+    - generic [ref=f84e421]:
+      - generic [ref=f84e422]:
+        - generic [ref=f84e423]:
+          - heading "370 BİN + MUTLU MÜŞTERİ" [level=5] [ref=f84e424]:
+            - text: 370 BİN +
+            - text: MUTLU MÜŞTERİ
+          - generic [ref=f84e425]:
+            - paragraph [ref=f84e427]: Müşteri memnuniyetine odaklı, müşterilerimizin ihtiyaç ve taleplerine en kısa zamanda ve en doğru şekilde cevap vermeye çalışan bir anlayışla hareket ederiz.
+            - paragraph [ref=f84e429]:
+              - text: Hizmetlerimizi zamanında ve söz verdiğimiz şartlarda sunar, saygı, onur, adalet, eşitlik ve nezaket kuralları çerçevesinde yaklaşırız.
+              - link "Müşteri Memnuniyeti Videoları" [ref=f84e430] [cursor=pointer]:
+                - /url: /musteri_memnuniyeti/musteri-memnuniyeti-1604.html
+        - generic [ref=f84e432]:
+          - generic [ref=f84e433]:
+            - generic [ref=f84e434]:
+              - img "Müşteri Yorumları" [ref=f84e435]
+              - text: EDM Bilişim’in E-Fatura ve E-Arşiv sistemlerini kullanmaktayız . EDM sistemlerinden oldukça memnunuz . Kullandığımız Voyage ve Panaroma programlarıyla entegre olarak çalışması işimizi oldukça kolaylaştırdı. Tek...
+            - generic [ref=f84e436]: Emre Baş
+            - generic [ref=f84e437]: Danışmaz Gıda - Düzce Cola Bayisi
+          - generic:
+            - img "Emre Baş" [ref=f84e439] [cursor=pointer]
+            - img "Ali Kaya" [ref=f84e441] [cursor=pointer]
+            - img "Cüneyt Bağdu" [ref=f84e443] [cursor=pointer]
+            - img "Ayşenur Aydik" [ref=f84e445] [cursor=pointer]
+            - img "Kürşat Türker" [ref=f84e447] [cursor=pointer]
+      - generic [ref=f84e450]:
+        - img "Horoz Lojistik" [ref=f84e463]
+        - img "Vakıf Yatırım" [ref=f84e466]
+        - img [ref=f84e470]
+        - img [ref=f84e475]
+        - img [ref=f84e477]
+        - img [ref=f84e480]
+        - img [ref=f84e506]
+        - img [ref=f84e508]
+        - img [ref=f84e510]
+        - img [ref=f84e512]
+        - img [ref=f84e514]
+        - img [ref=f84e516]
+        - img [ref=f84e518]
+        - img [ref=f84e520]
+        - img [ref=f84e522]
+        - img [ref=f84e698]
+        - img [ref=f84e701]
+        - img [ref=f84e705]
+        - img [ref=f84e710]
+        - img [ref=f84e712]
+        - img [ref=f84e715]
+        - img [ref=f84e741]
+        - img [ref=f84e743]
+        - img [ref=f84e745]
+        - img [ref=f84e747]
+        - img [ref=f84e749]
+        - img [ref=f84e751]
+        - img [ref=f84e753]
+        - img [ref=f84e755]
+        - img [ref=f84e757]
+      - generic [ref=f84e927]:
+        - img [ref=f84e929] [cursor=pointer]
+        - img [ref=f84e933] [cursor=pointer]
+        - link "Referanslarımız" [ref=f84e936] [cursor=pointer]:
+          - /url: /kurumsal/referanslarimiz.html
+    - generic [ref=f84e941] [cursor=pointer]:
+      - text: Biliyor muydunuz?
+      - generic [ref=f84e942]: 
+      - text: 
+    - contentinfo [ref=f84e943]:
+      - generic [ref=f84e946]:
+        - link "EDM, E-Fatura, E-Defter, E-Arşiv Fatura, E-SMM, Kep, E-İmza, E-Döviz" [ref=f84e948] [cursor=pointer]:
+          - /url: /
+          - img "EDM, E-Fatura, E-Defter, E-Arşiv Fatura, E-SMM, Kep, E-İmza, E-Döviz" [ref=f84e949]
+        - link "0(850) 723 63 36" [ref=f84e951] [cursor=pointer]:
+          - /url: tel:08507236336
+        - link "Hizmet Merkezlerimiz" [ref=f84e953] [cursor=pointer]:
+          - /url: /hizmet-merkezlerimiz/
+        - generic [ref=f84e955]:
+          - textbox "E-Bülten" [ref=f84e956]
+          - button "Kayıt Ol " [ref=f84e957] [cursor=pointer]:
+            - text: Kayıt Ol
+            - generic [ref=f84e958]: 
+        - generic [ref=f84e959]:
+          - link "" [ref=f84e960] [cursor=pointer]:
+            - /url: https://www.facebook.com/edmbilisim
+            - generic [ref=f84e961]: 
+          - link "" [ref=f84e962] [cursor=pointer]:
+            - /url: https://www.instagram.com/edmbilisimm
+            - generic [ref=f84e963]: 
+          - link "" [ref=f84e964] [cursor=pointer]:
+            - /url: https://twitter.com/edmbilisim
+            - generic [ref=f84e965]: 
+          - link "" [ref=f84e966] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/edm-bili%C5%9Fim-sistemleri-ve-dan%C4%B1%C5%9Fmanl%C4%B1k-hizmetleri-a-%C5%9F-?
+            - generic [ref=f84e967]: 
+          - link "" [ref=f84e968] [cursor=pointer]:
+            - /url: https://www.youtube.com/c/EDMBilişimAS
+            - generic [ref=f84e969]: 
+      - generic [ref=f84e972]:
+        - generic [ref=f84e973]:
+          - generic [ref=f84e974]: ÜRÜNLERİMİZ
+          - list [ref=f84e975]:
+            - listitem [ref=f84e976]:
+              - link "UETS" [ref=f84e977] [cursor=pointer]:
+                - /url: /uets/
+            - listitem [ref=f84e978]:
+              - link "E-Fatura" [ref=f84e979] [cursor=pointer]:
+                - /url: /e-fatura/
+            - listitem [ref=f84e980]:
+              - link "E-Arşiv Fatura" [ref=f84e981] [cursor=pointer]:
+                - /url: /e-arsiv-fatura/
+            - listitem [ref=f84e982]:
+              - link "İnteraktif E-Arşiv Fatura" [ref=f84e983] [cursor=pointer]:
+                - /url: /interaktif-e-arsiv-fatura/
+            - listitem [ref=f84e984]:
+              - link "E-İrsaliye" [ref=f84e985] [cursor=pointer]:
+                - /url: /e-irsaliye/
+            - listitem [ref=f84e986]:
+              - link "E-Müstahsil" [ref=f84e987] [cursor=pointer]:
+                - /url: /e-mustahsil/
+            - listitem [ref=f84e988]:
+              - link "E-SMM" [ref=f84e989] [cursor=pointer]:
+                - /url: /e-smm/
+            - listitem [ref=f84e990]:
+              - link "E-Kıymetli Maden" [ref=f84e991] [cursor=pointer]:
+                - /url: /e-kiymetli-maden/
+            - listitem [ref=f84e992]:
+              - link "E-Döviz" [ref=f84e993] [cursor=pointer]:
+                - /url: /e-doviz/
+            - listitem [ref=f84e994]:
+              - link "E-Bilet" [ref=f84e995] [cursor=pointer]:
+                - /url: /e-bilet/
+            - listitem [ref=f84e996]:
+              - link "E-Adisyon" [ref=f84e997] [cursor=pointer]:
+                - /url: /e-adisyon/
+            - listitem [ref=f84e998]:
+              - link "E-Kasa" [ref=f84e999] [cursor=pointer]:
+                - /url: /e-kasa/
+            - listitem [ref=f84e1000]:
+              - link "E-Sigorta Komisyon Gider Belgesi" [ref=f84e1001] [cursor=pointer]:
+                - /url: /e-sigorta-komisyon-gider-belgesi/
+            - listitem [ref=f84e1002]:
+              - link "Gider Pusulası" [ref=f84e1003] [cursor=pointer]:
+                - /url: /gider-pusulasi/
+            - listitem [ref=f84e1004]:
+              - link "E-Defter" [ref=f84e1005] [cursor=pointer]:
+                - /url: /e-defter/
+            - listitem [ref=f84e1006]:
+              - link "E-Dekont" [ref=f84e1007] [cursor=pointer]:
+                - /url: /e-dekont/
+            - listitem [ref=f84e1008]:
+              - link "E-Beyanname" [ref=f84e1009] [cursor=pointer]:
+                - /url: /e-beyanname/
+            - listitem [ref=f84e1010]:
+              - link "E-Mutabakat" [ref=f84e1011] [cursor=pointer]:
+                - /url: /e-mutabakat/
+            - listitem [ref=f84e1012]:
+              - link "Mali Mühür" [ref=f84e1013] [cursor=pointer]:
+                - /url: /mali-muhur/
+            - listitem [ref=f84e1014]:
+              - link "E-İmza" [ref=f84e1015] [cursor=pointer]:
+                - /url: /e-imza/
+            - listitem [ref=f84e1016]:
+              - link "Kep İK" [ref=f84e1017] [cursor=pointer]:
+                - /url: /kep-ik/
+            - listitem [ref=f84e1018]:
+              - link "KEP" [ref=f84e1019] [cursor=pointer]:
+                - /url: /kep/
+            - listitem [ref=f84e1020]:
+              - link "Personel Teşvik Sistemi" [ref=f84e1021] [cursor=pointer]:
+                - /url: /personel-tesvik-sistemi/
+            - listitem [ref=f84e1022]:
+              - link "Zaman Damgası" [ref=f84e1023] [cursor=pointer]:
+                - /url: /zaman-damgasi/
+            - listitem [ref=f84e1024]:
+              - link "EBYS" [ref=f84e1025] [cursor=pointer]:
+                - /url: /ebys/
+            - listitem [ref=f84e1026]:
+              - link "Bulut Yedekleme" [ref=f84e1027] [cursor=pointer]:
+                - /url: /bulut-yedekleme/
+            - listitem [ref=f84e1028]:
+              - link "Sektörel Çözümler" [ref=f84e1029] [cursor=pointer]:
+                - /url: /sektorel-cozumler/
+        - generic [ref=f84e1030]:
+          - generic [ref=f84e1031]: EDM BİLİŞİM
+          - list [ref=f84e1032]:
+            - listitem [ref=f84e1033]:
+              - link "Hakkımızda" [ref=f84e1034] [cursor=pointer]:
+                - /url: /kurumsal/hakkimizda.html
+            - listitem [ref=f84e1035]:
+              - link "E-Dönüşümde EDM Farkı" [ref=f84e1036] [cursor=pointer]:
+                - /url: /e-donusumde-edm-farki/
+            - listitem [ref=f84e1037]:
+              - link "Vizyonumuz ve Misyonumuz" [ref=f84e1038] [cursor=pointer]:
+                - /url: /kurumsal/vizyonumuz-ve-misyonumuz.html
+            - listitem [ref=f84e1039]:
+              - link "Kurumsal Politikalarımız" [ref=f84e1040] [cursor=pointer]:
+                - /url: /kurumsal-politikalarimiz/
+            - listitem [ref=f84e1041]:
+              - link "İnsan Kaynakları" [ref=f84e1042] [cursor=pointer]:
+                - /url: /kurumsal/insan-kaynaklari.html
+            - listitem [ref=f84e1043]:
+              - link "Sertifika ve Yetki Belgeleri" [ref=f84e1044] [cursor=pointer]:
+                - /url: /sertifika-ve-yetki-belgeleri/
+            - listitem [ref=f84e1045]:
+              - link "Banka Hesap Bilgilerimiz" [ref=f84e1046] [cursor=pointer]:
+                - /url: /kurumsal/banka-hesap-bilgilerimiz.html
+            - listitem [ref=f84e1047]:
+              - link "Referanslarımız" [ref=f84e1048] [cursor=pointer]:
+                - /url: /kurumsal/referanslarimiz.html
+            - listitem [ref=f84e1049]:
+              - link "Hizmet Merkezlerimiz" [ref=f84e1050] [cursor=pointer]:
+                - /url: /hizmet-merkezlerimiz/
+            - listitem [ref=f84e1051]:
+              - link "Kişisel Veri Aydınlatma Metni" [ref=f84e1052] [cursor=pointer]:
+                - /url: /kisisel-veri-aydinlatma-metni-16/kisisel-veri-aydinlatma-metni.html
+        - generic [ref=f84e1053]:
+          - generic [ref=f84e1054]: BİZE ULAŞIN
+          - list [ref=f84e1055]:
+            - listitem [ref=f84e1056]: EDM Bilişim Sis.ve Dan. Hiz. A.Ş.
+            - listitem [ref=f84e1057]: "Bomonti Business Center Cumhuriyet Mah. Yeni Yol 1 Sok. No:8 Kat: 7&9 Şişli/İstanbul"
+            - link "İş Ortağı Başvuru Formu" [ref=f84e1058] [cursor=pointer]:
+              - /url: /is-ortagi-basvuru-formu/
+      - generic [ref=f84e1060]:
+        - list
+        - list [ref=f84e1061]:
+          - listitem [ref=f84e1062]:
+            - link "Mobil Uygulamalarımız" [ref=f84e1063] [cursor=pointer]:
+              - /url: /e-donusum/uygulamalarimiz.html
+              - img "Mobil Uygulamalarımız" [ref=f84e1064]
+  - generic [ref=f84e1066]:
+    - text: edmbilisim.com.tr yi harika kılmak için çerezler kullanıyoruz. Sitemizi kullanarak çerez politikamızı kabul etmiş olursunuz. Gizlilik politikamızda daha fazla ayrıntıyı okuyabilirisiniz.
+    - link "Gizlilik Politikası" [ref=f84e1067] [cursor=pointer]:
+      - /url: /kisisel-veri-aydinlatma-metni-16/kisisel-veri-aydinlatma-metni.html
+    - text: .
+    - button "Okudum" [ref=f84e1068]

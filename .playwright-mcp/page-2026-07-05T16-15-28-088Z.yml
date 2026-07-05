@@ -1,0 +1,505 @@
+- generic [active] [ref=f73e1]:
+  - navigation [ref=f73e2]:
+    - generic [ref=f73e3]:
+      - link "Mysoft" [ref=f73e5] [cursor=pointer]:
+        - /url: /
+        - img "Mysoft" [ref=f73e6]
+      - generic [ref=f73e7]:
+        - text: 
+        - generic [ref=f73e8]:
+          - list [ref=f73e9]:
+            - listitem [ref=f73e10]:
+              - link "Kurumsal " [ref=f73e11] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f73e12]:
+              - link "Ürünler " [ref=f73e13] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f73e14]:
+              - link "Kampanyalar" [ref=f73e15] [cursor=pointer]:
+                - /url: /kampanyalar
+            - listitem [ref=f73e16]:
+              - link "İş Ortaklığı" [ref=f73e17] [cursor=pointer]:
+                - /url: /is-ortakligi
+            - listitem [ref=f73e18]:
+              - link "Blog" [ref=f73e19] [cursor=pointer]:
+                - /url: /blog
+            - listitem [ref=f73e20]:
+              - link "İletişim" [ref=f73e21] [cursor=pointer]:
+                - /url: /iletisim
+          - text:     
+      - list [ref=f73e23]:
+        - listitem [ref=f73e24]:
+          - link "Portal Giriş" [ref=f73e25] [cursor=pointer]:
+            - /url: https://portal.mysoft.com.tr
+  - generic [ref=f73e26]:
+    - banner [ref=f73e27]:
+      - navigation [ref=f73e28]:
+        - generic [ref=f73e29]:
+          - link "Mysoft" [ref=f73e31] [cursor=pointer]:
+            - /url: /
+            - img "Mysoft" [ref=f73e32]
+          - generic [ref=f73e33]:
+            - text: 
+            - generic [ref=f73e34]:
+              - list [ref=f73e35]:
+                - listitem [ref=f73e36]:
+                  - link "Kurumsal " [ref=f73e37] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=f73e38]:
+                  - link "Ürünler " [ref=f73e39] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=f73e40]:
+                  - link "Kampanyalar" [ref=f73e41] [cursor=pointer]:
+                    - /url: /kampanyalar
+                - listitem [ref=f73e42]:
+                  - link "İş Ortaklığı" [ref=f73e43] [cursor=pointer]:
+                    - /url: /is-ortakligi
+                - listitem [ref=f73e44]:
+                  - link "Blog" [ref=f73e45] [cursor=pointer]:
+                    - /url: /blog
+                - listitem [ref=f73e46]:
+                  - link "İletişim" [ref=f73e47] [cursor=pointer]:
+                    - /url: /iletisim
+              - text:     
+          - list [ref=f73e49]:
+            - listitem [ref=f73e50]:
+              - link "Portal Giriş" [ref=f73e51] [cursor=pointer]:
+                - /url: https://portal.mysoft.com.tr
+    - generic [ref=f73e53]:
+      - generic [ref=f73e55]:
+        - group "1 / 4" [ref=f73e56]:
+          - generic [ref=f73e59]:
+            - heading "Mysoft ile e-Belge ihtiyaçlarınızı uçtan uca yönetin!" [level=1] [ref=f73e60]
+            - paragraph [ref=f73e61]: İster webden, ister cepten kullanın. Uygun fiyat, kolay kullanım, sınırsız destek.
+            - link "Hemen İnceleyin" [ref=f73e63] [cursor=pointer]:
+              - /url: https://mysoftebelge.com
+            - paragraph [ref=f73e64]: Mysoft, Gelir İdaresi Başkanlığınca yetkilendirilmiş özel entegratördür.
+        - group "2 / 4" [ref=f73e65]
+        - group "3 / 4" [ref=f73e69]
+        - group "4 / 4" [ref=f73e73]
+      - generic:
+        - generic:
+          - button "Previous slide" [disabled]: 
+          - button "Next slide" [ref=f73e77] [cursor=pointer]: 
+        - generic [ref=f73e78]:
+          - button "Go to slide 1" [ref=f73e79] [cursor=pointer]
+          - button "Go to slide 2" [ref=f73e80] [cursor=pointer]
+          - button "Go to slide 3" [ref=f73e81] [cursor=pointer]
+          - button "Go to slide 4" [ref=f73e82] [cursor=pointer]
+    - generic [ref=f73e84]:
+      - generic [ref=f73e86]:
+        - heading "BİZ NE YAPIYORUZ?" [level=2] [ref=f73e87]
+        - heading "Yenilikçi ürünlerimizle iş süreçlerinizi kolaylaştırın." [level=3] [ref=f73e88]
+      - generic [ref=f73e89]:
+        - generic [ref=f73e90]:
+          - generic:
+            - generic: 
+          - heading "Mysoft e-Belge" [level=4] [ref=f73e91]
+          - paragraph [ref=f73e92]: Mysoft e-Belge ürünleri, işletmenizin tüm e-Dönüşüm süreçlerini dijital ortamda hızlı ve güvenli bir şekilde yönetmenizi sağlar. Zamandan ve maliyetten tasarruf ederek, kağıt kullanımını azaltırken, vergi uyumluluğunuzu da kolayca sağlarsınız.
+          - link "Detaylı bilgi " [ref=f73e93] [cursor=pointer]:
+            - /url: https://mysoftebelge.com
+        - generic [ref=f73e94]:
+          - generic:
+            - generic: 
+          - heading "Mysoft CRM" [level=4] [ref=f73e95]
+          - paragraph [ref=f73e96]: Mysoft CRM, müşteri ilişkilerini etkin bir şekilde yönetmenizi sağlayarak satış süreçlerinizi optimize eder. Kullanıcı dostu arayüzü ve güçlü entegrasyon yetenekleriyle iş verimliliğinizi artırır, müşteri memnuniyetini en üst seviyeye taşır.
+          - link "Detaylı bilgi " [ref=f73e97] [cursor=pointer]:
+            - /url: https://mysoftcrm.com
+        - generic [ref=f73e98]:
+          - generic:
+            - generic: 
+          - heading "Mysoft İYS" [level=4] [ref=f73e99]
+          - paragraph [ref=f73e100]: Mysoft İleti Yönetim Sistemi, iletişim süreçlerinizi etkin bir şekilde yönetmenizi sağlar ve veri güvenliğini en üst düzeye çıkarır. ISO 27701 standartlarına uygun yapısı ve API entegrasyonları ile iş süreçlerinizi kolaylaştırarak verimliliğinizi artırır.
+          - link "Detaylı bilgi " [ref=f73e101] [cursor=pointer]:
+            - /url: https://iletiyonetimi.com
+        - generic [ref=f73e102]:
+          - generic:
+            - generic: 
+          - heading "Lonca Ön Muhasebe" [level=4] [ref=f73e103]
+          - paragraph [ref=f73e104]: Bulut tabanlı Mysoft Lonca Ön Muhasebe Programı, mobil ve web platformları üzerinden erişim imkanı sunarak e-Belge uygulamalarınızı tek bir arayüzde birleştirir. Böylece iş süreçlerinizi kolaylaştıran entegre çözümlerle verimliliğinizi artırır.
+          - link "Detaylı bilgi " [ref=f73e105] [cursor=pointer]:
+            - /url: https://mysoftlonca.com
+        - generic [ref=f73e106]:
+          - generic:
+            - generic: 
+          - heading "e-Aktarım" [level=4] [ref=f73e107]
+          - paragraph [ref=f73e108]: e-Aktarım, farklı entegratörlerin portallerindeki e-Fatura, e-Arşiv, e-SMM ve e-MM'leri muhasebe fişine çevirerek mali müşavir yazılımına dakikalar içinde aktarmanızı sağlar! Üstelik 10+ bankadaki hesap hareketlerinizi de online olarak aktarabilirsiniz.
+          - link "Detaylı bilgi " [ref=f73e109] [cursor=pointer]:
+            - /url: https://eaktarim.com
+        - generic [ref=f73e110]:
+          - generic:
+            - generic: 
+          - heading "Mysoft Btrans" [level=4] [ref=f73e111]
+          - paragraph [ref=f73e112]: Türkiye'nin en çok veri transferi gerçekleştiren Btrans çözümü olan Mysoft Btrans ile verilerinizi güvenle aktarın! 2013 yılından bu yana milyonlarca veriyi, mevzuatlara uygun formatta Gelir İdaresi Başkanlığı'na ileten Mysoft Btrans, Türkiye'nin ilk Btrans çözümüdür.
+          - link "Detaylı bilgi " [ref=f73e113] [cursor=pointer]:
+            - /url: https://mysoftbtrans.com
+    - generic [ref=f73e115]:
+      - heading "İŞİNİZİ İSTER WEBDEN, İSTER CEPTEN YÖNETİN?" [level=2] [ref=f73e118]
+      - generic [ref=f73e119]:
+        - generic [ref=f73e120]:
+          - heading "Mysoft e-Belge ile Süreçlerinizi Otomatikleştirin!" [level=3] [ref=f73e121]
+          - heading "e-Belge süreçleriniz artık daha zahmetsiz, daha hızlı!" [level=4] [ref=f73e122]
+        - link "e-Belge Ürünlerimizi İnceleyin" [ref=f73e124] [cursor=pointer]:
+          - /url: https://mysoftebelge.com
+      - generic [ref=f73e126]:
+        - tablist [ref=f73e127]:
+          - tab "e-Fatura" [selected] [ref=f73e128] [cursor=pointer]
+          - tab "e-Arşiv Fatura" [ref=f73e129] [cursor=pointer]
+          - tab "e-İrsaliye" [ref=f73e130] [cursor=pointer]
+          - tab "e-Defter" [ref=f73e131] [cursor=pointer]
+          - tab "e-SMM" [ref=f73e132] [cursor=pointer]
+          - tab "e-MM" [ref=f73e133] [cursor=pointer]
+          - tab "e-Döviz" [ref=f73e134] [cursor=pointer]
+          - tab "e-Adisyon" [ref=f73e135] [cursor=pointer]
+          - tab "e-Dekont" [ref=f73e136] [cursor=pointer]
+          - tab "e-Gider Pusulası" [ref=f73e137] [cursor=pointer]
+          - tab "GİB Btrans" [ref=f73e138] [cursor=pointer]
+        - generic [ref=f73e139]:
+          - tabpanel [ref=f73e140]:
+            - list [ref=f73e141]:
+              - listitem [ref=f73e142]:
+                - generic [ref=f73e143]: 
+                - generic [ref=f73e144]:
+                  - text: 2026 yılında hangi firmalar
+                  - link "e-Fatura" [ref=f73e145] [cursor=pointer]:
+                    - /url: https://mysoftebelge.com/e-fatura
+                    - strong [ref=f73e146]: e-Fatura
+                  - text: ya zorunlu olarak geçiş yapacak?
+              - listitem [ref=f73e147]:
+                - generic [ref=f73e148]: 
+                - generic [ref=f73e149]:
+                  - link "e-Fatura" [ref=f73e150] [cursor=pointer]:
+                    - /url: https://mysoftebelge.com/e-fatura
+                    - strong [ref=f73e151]: e-Fatura
+                  - text: ya nasıl geçiş yapılır? Başvuru işlemleri nasıldır?
+              - listitem [ref=f73e152]:
+                - generic [ref=f73e153]: 
+                - generic [ref=f73e154]:
+                  - link "e-Fatura" [ref=f73e155] [cursor=pointer]:
+                    - /url: https://mysoftebelge.com/e-fatura
+                    - strong [ref=f73e156]: e-Fatura
+                  - text: ya geçmeme ve düzenlememe cezası nedir?
+              - listitem [ref=f73e157]:
+                - generic [ref=f73e158]: 
+                - generic [ref=f73e159]:
+                  - link "e-Fatura" [ref=f73e160] [cursor=pointer]:
+                    - /url: https://mysoftebelge.com/e-fatura
+                    - strong [ref=f73e161]: e-Fatura
+                  - text: FİYAT ve KAMPANYALARI
+            - link "Detaylı Bilgi" [ref=f73e162] [cursor=pointer]:
+              - /url: https://mysoftebelge.com/e-fatura
+          - text:                                        
+    - generic [ref=f73e165]:
+      - generic [ref=f73e167]:
+        - figure [ref=f73e169]:
+          - img "Mysoft CRM"
+        - figure [ref=f73e171]:
+          - img "Mysoft CRM"
+        - figure [ref=f73e173]:
+          - img "Mysoft CRM"
+      - generic [ref=f73e174]:
+        - heading "AR-GE 250 ARAŞTIRMASINDA YENİLİKÇİ 10 PROJE ARASINDAYIZ" [level=2] [ref=f73e175]
+        - heading "Mysoft CRM ile farklı ekipler, tek platform, uyumlu etkileşim" [level=3] [ref=f73e176]
+        - generic [ref=f73e177]:
+          - generic [ref=f73e179]:
+            - img [ref=f73e181]
+            - generic [ref=f73e185]:
+              - heading "Satış Yönetimi" [level=4] [ref=f73e186]:
+                - link "Satış Yönetimi" [ref=f73e187] [cursor=pointer]:
+                  - /url: https://mysoftcrm.com/satis-yonetimi
+              - paragraph [ref=f73e188]: Satış süreçlerinizi sizin için planlayalım, satışlarınızı ve karlılığınızı arttıralım, tüm satış süreçlerinizin size özel bir CRM programı ile yönetilmesini sağlayalım.
+          - generic [ref=f73e190]:
+            - img [ref=f73e192]
+            - generic [ref=f73e202]:
+              - heading "Pazarlama Yönetimi" [level=4] [ref=f73e203]:
+                - link "Pazarlama Yönetimi" [ref=f73e204] [cursor=pointer]:
+                  - /url: https://mysoftcrm.com/pazarlama-yonetimi
+              - paragraph [ref=f73e205]: Potansiyel ve mevcut müşterilerinize, CRM uygulaması ile kolay ulaşmanızı sağlayalım, hedef müşteriler ile temasa geçmenin en etkin yolunu beraber oluşturalım.
+          - generic [ref=f73e207]:
+            - img [ref=f73e209]
+            - generic [ref=f73e213]:
+              - heading "Çağrı Merkezi Yönetimi" [level=4] [ref=f73e214]:
+                - link "Çağrı Merkezi Yönetimi" [ref=f73e215] [cursor=pointer]:
+                  - /url: https://mysoftcrm.com/cagri-merkezi-yonetimi
+              - paragraph [ref=f73e216]: Tüm iletişim kanallarından gelen talepleri tek platformda toplayın; hızlı, izlenebilir ve standart süreçlerle hizmet kalitenizi artırın.
+          - link "Hemen İnceleyin" [ref=f73e219] [cursor=pointer]:
+            - /url: https://mysoftcrm.com
+    - generic [ref=f73e222]:
+      - generic [ref=f73e223]:
+        - heading "İYS VE İYS VİA İLK İŞ ORTAĞIYIZ" [level=2] [ref=f73e224]
+        - heading "Mysoft İleti Yönetimi ile KVKK ve ETK izinlerinizi kusursuz yönetin" [level=3] [ref=f73e225]
+        - generic [ref=f73e226]:
+          - generic [ref=f73e228]:
+            - img [ref=f73e230]
+            - generic [ref=f73e233]:
+              - heading "İleti Yönetim Sistemi (İYS) Nedir?" [level=4] [ref=f73e234]:
+                - link "İleti Yönetim Sistemi (İYS) Nedir?" [ref=f73e235] [cursor=pointer]:
+                  - /url: https://iletiyonetimi.com/
+              - paragraph [ref=f73e236]: İleti Yönetim Sistemi (İYS), tüm hizmet sağlayıcıların güncel ticari elektronik ileti onaylarını kaydettikleri ulusal veri tabanı sistemidir.
+          - generic [ref=f73e238]:
+            - img [ref=f73e240]
+            - generic [ref=f73e246]:
+              - heading "İYS VİA Nedir?" [level=4] [ref=f73e247]:
+                - link "İYS VİA Nedir?" [ref=f73e248] [cursor=pointer]:
+                  - /url: https://iletiyonetimi.com/
+              - paragraph [ref=f73e249]: İYS tarafından uygulamaya alınan VİA servisi ile KVKK ve ETK izinlerinizi alabilirsiniz. 30998 sayılı yönetmelik hükümlerine göre VİA ile alınan ETK izinlerinde ispat yükümlülüğü bulunmamaktadır.
+          - generic [ref=f73e251]:
+            - img [ref=f73e253]
+            - generic [ref=f73e256]:
+              - heading "İYS API Entegrasyonu Nasıl Yapılır?" [level=4] [ref=f73e257]:
+                - link "İYS API Entegrasyonu Nasıl Yapılır?" [ref=f73e258] [cursor=pointer]:
+                  - /url: https://iletiyonetimi.com/
+              - paragraph [ref=f73e259]: Mysoft tarafından sağlanan API entegrasyonu ile tüm uygulamalarınızı İYS ile çift yönlü entegre edebilirsiniz.
+          - link "Hemen İnceleyin" [ref=f73e262] [cursor=pointer]:
+            - /url: https://iletiyonetimi.com
+      - generic [ref=f73e264]:
+        - figure [ref=f73e266]:
+          - img "İleti Yönetim Sistemi"
+        - figure [ref=f73e268]:
+          - img "İleti Yönetim Sistemi"
+        - figure [ref=f73e270]:
+          - img "İleti Yönetim Sistemi"
+    - generic [ref=f73e273]:
+      - figure [ref=f73e277]:
+        - img "Ön Muhasebe Programı Nedir?"
+      - generic [ref=f73e278]:
+        - heading "Ön Muhasebe Programı Nedir?" [level=2] [ref=f73e279]
+        - heading "Lonca Ön Muhasebe Programı Nedir?" [level=3] [ref=f73e280]
+        - paragraph [ref=f73e281]:
+          - text: Küçük ve orta ölçekli işletmelerin finansal süreçlerini daha etkin yönetebilmelerini sağlayan Lonca
+          - strong [ref=f73e282]: Ön Muhasebe Programı
+          - text: ", temel muhasebe özelliklerini içinde barındıran"
+          - strong [ref=f73e283]: bulut tabanlı ön muhasebe
+          - text: yazılımıdır.
+        - paragraph [ref=f73e284]:
+          - text: Cari hesap yönetimi, gelir gider takibi, stok takibi, çek senet takibi, kasa ve banka hareketleri ile tüm
+          - link "e-Belge" [ref=f73e285] [cursor=pointer]:
+            - /url: https://mysoftebelge.com
+            - strong [ref=f73e286]: e-Belge
+          - text: uygulamalarını içeren Lonca, finansal kontrol paneli niteliği taşıyan kullanıcı dostu muhasebe yazılımdır.
+        - button " e-Ticaret Pazaryeri Entegrasyonları" [expanded] [ref=f73e290] [cursor=pointer]
+        - button " Online Banka Entegrasyonları" [expanded] [ref=f73e294] [cursor=pointer]
+        - link "Hemen İnceleyin" [ref=f73e297] [cursor=pointer]:
+          - /url: https://mysoftlonca.com
+    - generic [ref=f73e299]:
+      - generic [ref=f73e301]:
+        - heading "Neden Mysoft?" [level=2] [ref=f73e302]
+        - heading "Ürünlerimiz, işlerinizi kolaylaştırırken maliyetlerinizi düşürür. Size zaman kazandıran yenilikçi çözümlerle rekabette öne geçin!" [level=3] [ref=f73e303]
+      - generic [ref=f73e304]:
+        - generic [ref=f73e306]:
+          - img [ref=f73e308]
+          - generic [ref=f73e313]:
+            - heading "Kullanıcı Dostu Arayüz" [level=4] [ref=f73e314]
+            - paragraph [ref=f73e315]: Ürünlerimiz kullanıcı dostu arayüzleri sayesinde hızlı öğrenme ve etkin kullanım sağlar. Basit tasarımı ile tüm ekiplerin rahatlıkla adapte olabileceği çözümler sunar.
+        - generic [ref=f73e317]:
+          - img [ref=f73e319]
+          - generic [ref=f73e326]:
+            - heading "Esneklik ve Özelleştirme" [level=4] [ref=f73e327]
+            - paragraph [ref=f73e328]: Ürünlerimiz ihtiyaçlarınıza göre esnek yapısıyla özelleştirilebilir çözümler sunar. Farklı sektörlere uyarlanabilirlik, işletmenizin özel gereksinimlerine cevap verir.
+        - generic [ref=f73e330]:
+          - img [ref=f73e332]
+          - generic [ref=f73e338]:
+            - heading "Güvenilir Kesintisiz Hizmet" [level=4] [ref=f73e339]
+            - paragraph [ref=f73e340]: Güçlü teknik altyapımız sayesinde hız problemleri yaşamadan güvenli bir şekilde kesintisiz kullanın.
+        - generic [ref=f73e342]:
+          - img [ref=f73e344]
+          - generic [ref=f73e349]:
+            - heading "7/24 Hızlı ve Tam Destek" [level=4] [ref=f73e350]
+            - paragraph [ref=f73e351]: İhtiyacınız olduğunda, beklemeden uzman ekiplerimizden 7/24 ücretsiz destek alın.
+        - generic [ref=f73e353]:
+          - img [ref=f73e355]
+          - generic [ref=f73e358]:
+            - heading "Taahhütsüz Kullanım" [level=4] [ref=f73e359]
+            - paragraph [ref=f73e360]: Hesap açma, kapama, cayma bedeli olmadan taahhütsüz olarak kullanın.
+        - generic [ref=f73e362]:
+          - img [ref=f73e364]
+          - generic [ref=f73e374]:
+            - heading "Mevzuata Uygunluk" [level=4] [ref=f73e375]
+            - paragraph [ref=f73e376]: Ürünlerimiz sürekli yayınlanan mevzuatlara uygun olarak hızlıca güncellenir.
+        - generic [ref=f73e378]:
+          - img [ref=f73e380]
+          - generic [ref=f73e385]:
+            - heading "Güvenli Veri Saklama" [level=4] [ref=f73e386]
+            - paragraph [ref=f73e387]: Verilerinizi ülkemiz sınırları içerisinde bulut ortamında güvenli bir şekilde saklarız.
+        - generic [ref=f73e389]:
+          - img [ref=f73e391]
+          - generic [ref=f73e401]:
+            - heading "Hızlı ve Kolay Entegrasyon" [level=4] [ref=f73e402]
+            - paragraph [ref=f73e403]: Ürünlerimiz kolay entegrasyon yeteneği ile tüm yazılımlara sorunsuz bir şekilde kolayca entegre edilir.
+        - generic [ref=f73e405]:
+          - img [ref=f73e407]
+          - generic [ref=f73e412]:
+            - heading "Müşteri Memnuniyeti" [level=4] [ref=f73e413]
+            - paragraph [ref=f73e414]: Ürünlerimizi kullanarak müşteri memnuniyetini artırabilir, iş süreçlerini geliştirebilir ve müşterilerinizle daha sağlam bir ilişki kurabilirsiniz.
+    - generic [ref=f73e416]:
+      - generic [ref=f73e418]:
+        - heading "İş süreçlerinizi optimize edin, müşteri ilişkilerinde mükemmelliğe ulaşın!" [level=2] [ref=f73e419]
+        - heading "Binlerce memnun müşterimizden biri olun, kaliteli hizmeti keşfedin!" [level=3] [ref=f73e420]
+      - generic [ref=f73e423]:
+        - generic [ref=f73e424]:
+          - heading "45.000+" [level=3] [ref=f73e425]
+          - paragraph [ref=f73e426]: Mutlu Kullanıcı
+        - generic [ref=f73e427]:
+          - heading "45+" [level=3] [ref=f73e428]
+          - paragraph [ref=f73e429]: Sektör
+        - generic [ref=f73e430]:
+          - heading "97%" [level=3] [ref=f73e431]
+          - paragraph [ref=f73e432]: Memnuniyet
+    - generic [ref=f73e437]:
+      - generic [ref=f73e438]:
+        - heading "Hemen kullanmaya başlayın!" [level=2] [ref=f73e439]
+        - heading "Uzman ekiplerimizle her türlü sorularınızı 7/24 cevaplamaya hazırız." [level=3] [ref=f73e440]
+        - paragraph [ref=f73e441]:
+          - strong [ref=f73e442]: Telefon
+        - paragraph [ref=f73e443]:
+          - link "+90 212 901 02 12" [ref=f73e444] [cursor=pointer]:
+            - /url: tel:+902129010212
+        - paragraph [ref=f73e445]:
+          - strong [ref=f73e446]: E-posta
+        - paragraph [ref=f73e447]:
+          - link "info@mysoft.com.tr" [ref=f73e448] [cursor=pointer]:
+            - /url: mailto:info@mysoft.com.tr
+        - paragraph [ref=f73e449]: KVKK ve ETK bilgilendirme metinleri tarafınıza İYS üzerinden otomatik olarak gönderilecektir.
+      - generic [ref=f73e452]:
+        - generic [ref=f73e454]:
+          - textbox "Adınız Soyadınız * Adınız Soyadınız" [ref=f73e455]:
+            - /placeholder: Adınız Soyadınız
+          - generic: Adınız Soyadınız *
+        - generic [ref=f73e457]:
+          - textbox "Telefon Numaranız * Telefon Numaranız" [ref=f73e458]:
+            - /placeholder: Telefon Numaranız
+          - generic: Telefon Numaranız *
+        - generic [ref=f73e460]:
+          - textbox "Eposta Adresiniz * E-posta Adresiniz" [ref=f73e461]:
+            - /placeholder: Eposta Adresiniz
+          - generic: Eposta Adresiniz *
+        - generic [ref=f73e463]:
+          - textbox "Şirketinizin Adı Şirketinizin Adı" [ref=f73e464]:
+            - /placeholder: Şirketinizin Adı
+          - generic: Şirketinizin Adı
+        - generic [ref=f73e466]:
+          - textbox "Mesajınız Mesajınız" [ref=f73e467]:
+            - /placeholder: Mesajınız
+          - generic: Mesajınız
+        - button "Mesajımı Gönder" [ref=f73e469] [cursor=pointer]
+  - generic [ref=f73e471]:
+    - generic [ref=f73e473]:
+      - heading "Diğer Web Sitelerimiz" [level=2] [ref=f73e474]
+      - heading "Detaylı bilgi için ürün sitelerimizi ziyaret edebilirsiniz." [level=3] [ref=f73e475]
+    - generic [ref=f73e476]:
+      - link "EB e-Fatura, e-İrsaliye, e-Defter Mysoft e-Belge https://mysoftebelge.com" [ref=f73e478] [cursor=pointer]:
+        - /url: https://mysoftebelge.com
+        - generic [ref=f73e479]:
+          - generic [ref=f73e481]: EB
+          - generic [ref=f73e482]:
+            - generic [ref=f73e483]: e-Fatura, e-İrsaliye, e-Defter
+            - heading "Mysoft e-Belge" [level=4] [ref=f73e484]
+            - paragraph [ref=f73e485]: https://mysoftebelge.com
+      - link "CRM Müşteri İlişkileri Yönetimi Mysoft CRM https://mysoftcrm.com" [ref=f73e487] [cursor=pointer]:
+        - /url: https://mysoftcrm.com
+        - generic [ref=f73e488]:
+          - generic [ref=f73e490]: CRM
+          - generic [ref=f73e491]:
+            - generic [ref=f73e492]: Müşteri İlişkileri Yönetimi
+            - heading "Mysoft CRM" [level=4] [ref=f73e493]
+            - paragraph [ref=f73e494]: https://mysoftcrm.com
+      - link "İYS İleti Yönetim Sistemi Mysoft İYS https://iletiyonetimi.com" [ref=f73e496] [cursor=pointer]:
+        - /url: https://iletiyonetimi.com
+        - generic [ref=f73e497]:
+          - generic [ref=f73e499]: İYS
+          - generic [ref=f73e500]:
+            - generic [ref=f73e501]: İleti Yönetim Sistemi
+            - heading "Mysoft İYS" [level=4] [ref=f73e502]
+            - paragraph [ref=f73e503]: https://iletiyonetimi.com
+      - link "ÖM Ön Muhasebe Programı Mysoft Lonca https://mysoftlonca.com" [ref=f73e505] [cursor=pointer]:
+        - /url: https://mysoftlonca.com
+        - generic [ref=f73e506]:
+          - generic [ref=f73e508]: ÖM
+          - generic [ref=f73e509]:
+            - generic [ref=f73e510]: Ön Muhasebe Programı
+            - heading "Mysoft Lonca" [level=4] [ref=f73e511]
+            - paragraph [ref=f73e512]: https://mysoftlonca.com
+      - link "AK Fatura / Banka Aktarımı Mysoft e-Aktarım https://eaktarim.com" [ref=f73e514] [cursor=pointer]:
+        - /url: https://eaktarim.com
+        - generic [ref=f73e515]:
+          - generic [ref=f73e517]: AK
+          - generic [ref=f73e518]:
+            - generic [ref=f73e519]: Fatura / Banka Aktarımı
+            - heading "Mysoft e-Aktarım" [level=4] [ref=f73e520]
+            - paragraph [ref=f73e521]: https://eaktarim.com
+      - link "BT Bilgi Transfer Sistemi Mysoft Btrans https://mysoftbtrans.com" [ref=f73e523] [cursor=pointer]:
+        - /url: https://mysoftbtrans.com
+        - generic [ref=f73e524]:
+          - generic [ref=f73e526]: BT
+          - generic [ref=f73e527]:
+            - generic [ref=f73e528]: Bilgi Transfer Sistemi
+            - heading "Mysoft Btrans" [level=4] [ref=f73e529]
+            - paragraph [ref=f73e530]: https://mysoftbtrans.com
+  - contentinfo [ref=f73e531]:
+    - generic [ref=f73e533]:
+      - generic [ref=f73e535]:
+        - img "Mysoft e-Belge" [ref=f73e536]
+        - paragraph [ref=f73e537]:
+          - link "https://mysoft.com.tr" [ref=f73e538] [cursor=pointer]:
+            - /url: https://mysoft.com.tr
+        - paragraph [ref=f73e539]:
+          - text: © 2026 Mysoft Dijital Dönüşüm A.Ş.
+          - text: Tüm hakları saklıdır.
+        - navigation [ref=f73e540]:
+          - link "facebook" [ref=f73e541] [cursor=pointer]:
+            - /url: https://facebook.com/mysoftdd
+            - generic [ref=f73e542]: 
+          - link "linkedin" [ref=f73e543] [cursor=pointer]:
+            - /url: https://linkedin.com/company/mysoftdd
+            - generic [ref=f73e544]: 
+          - link "instagram" [ref=f73e545] [cursor=pointer]:
+            - /url: https://instagram.com/mysoftdd
+            - generic [ref=f73e546]: 
+          - link "twitter" [ref=f73e547] [cursor=pointer]:
+            - /url: https://twitter.com/mysoftdd
+            - generic [ref=f73e548]: 
+          - link "youtube" [ref=f73e549] [cursor=pointer]:
+            - /url: https://www.youtube.com/@Mysoftdd
+            - generic [ref=f73e550]: 
+      - generic [ref=f73e552]:
+        - heading "Mysoft Dijital Dönüşüm A.Ş." [level=5] [ref=f73e553]
+        - generic [ref=f73e554]: Y.T.Ü. Teknopark Çiftehavuzlar Mah. A1 Blok Kat 1 No 151/1C/110 34220 Esenler İstanbul
+        - list [ref=f73e555]:
+          - listitem [ref=f73e556]:
+            - link "info@mysoft.com.tr" [ref=f73e557] [cursor=pointer]:
+              - /url: mailto:info@mysoft.com.tr
+          - listitem [ref=f73e558]:
+            - link "+90 212 901 02 12" [ref=f73e559] [cursor=pointer]:
+              - /url: tel:+902129010212
+      - generic [ref=f73e561]:
+        - heading "Müşteri Hizmetleri" [level=5] [ref=f73e562]
+        - generic [ref=f73e563]: Gaziosmanpaşa Üni. Taşlıçiftlik Kampüsü Teknopark 60250 Tokat
+        - list [ref=f73e564]:
+          - listitem [ref=f73e565]:
+            - link "destek@mysoft.com.tr" [ref=f73e566] [cursor=pointer]:
+              - /url: mailto:destek@mysoft.com.tr
+          - listitem [ref=f73e567]:
+            - link "+90 850 600 06 61" [ref=f73e568] [cursor=pointer]:
+              - /url: tel:+908506000661
+      - generic [ref=f73e570]:
+        - heading "Kurumsal Linkler" [level=5] [ref=f73e571]
+        - list [ref=f73e572]:
+          - listitem [ref=f73e573]:
+            - link "Bilgi Güvenliği ve KVK Politikası" [ref=f73e574] [cursor=pointer]:
+              - /url: /guvenlik-politikalari#bilgi-guvenligi-politikasi
+          - listitem [ref=f73e575]:
+            - link "Kişisel Verilerin Korunması" [ref=f73e576] [cursor=pointer]:
+              - /url: /guvenlik-politikalari#kisisel-verilerin-korunmasi
+          - listitem [ref=f73e577]:
+            - link "Çerez Politikası" [ref=f73e578] [cursor=pointer]:
+              - /url: /guvenlik-politikalari#cerez-politikasi
+          - listitem [ref=f73e579]:
+            - link "Kullanım Koşulları" [ref=f73e580] [cursor=pointer]:
+              - /url: /guvenlik-politikalari#kullanim-kosullari
+  - text: 
+  - button "Teklif Alın" [ref=f73e582] [cursor=pointer]:
+    - strong [ref=f73e583]: Teklif Alın
+  - link "whatsapp icon WhatsApp" [ref=f73e585] [cursor=pointer]:
+    - /url: https://api.whatsapp.com/send?phone=905533511122
+    - img "whatsapp icon" [ref=f73e586]
+    - text: WhatsApp
