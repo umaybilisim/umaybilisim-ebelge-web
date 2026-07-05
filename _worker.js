@@ -8,6 +8,7 @@ const CONTENT_TYPES = {
   '/.well-known/openid-configuration': 'application/json',
   '/.well-known/jwks.json': 'application/json',
   '/.well-known/oauth-protected-resource': 'application/json',
+  '/.well-known/oauth-authorization-server': 'application/json',
   '/.well-known/api-catalog': 'application/linkset+json',
   '/auth.md': 'text/markdown; charset=utf-8',
 };
