@@ -4,6 +4,14 @@ const LINK_HEADER = [
   '</.well-known/agent-skills/index.json>; rel="service-doc"',
 ].join(', ');
 
+const CONTENT_TYPES = {
+  '/.well-known/openid-configuration': 'application/json',
+  '/.well-known/jwks.json': 'application/json',
+  '/.well-known/oauth-protected-resource': 'application/json',
+  '/.well-known/api-catalog': 'application/linkset+json',
+  '/auth.md': 'text/markdown; charset=utf-8',
+};
+
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
@@ -34,6 +42,8 @@ export default {
     const newHeaders = new Headers(response.headers);
     newHeaders.set('Link', LINK_HEADER);
     newHeaders.set('Vary', 'Accept');
+    const ct = CONTENT_TYPES[url.pathname];
+    if (ct) newHeaders.set('Content-Type', ct);
 
     return new Response(response.body, {
       status: response.status,
