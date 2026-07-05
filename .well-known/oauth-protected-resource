@@ -2,7 +2,7 @@
   "resource": "https://e-devlethizmetleri.com",
   "authorization_servers": ["https://e-devlethizmetleri.com"],
   "scopes_supported": ["public"],
-  "bearer_methods_supported": [],
+  "bearer_methods_supported": ["header"],
   "resource_documentation": "https://e-devlethizmetleri.com/auth.md",
   "resource_signing_alg_values_supported": []
 }
