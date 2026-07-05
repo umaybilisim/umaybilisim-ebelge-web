@@ -7,7 +7,7 @@
   "scopes_supported": ["public"],
   "response_types_supported": ["none"],
   "agent_auth": {
-    "register_uri": null,
+    "register_uri": "https://e-devlethizmetleri.com/auth.md",
     "supported_identity_types": ["public"],
     "credential_types": [],
     "claim_uri": null,

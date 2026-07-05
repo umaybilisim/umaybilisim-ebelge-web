@@ -45,7 +45,7 @@ Per `robots.txt` Content-Signals:
 ## Agent Auth Block
 
 ```yaml
-register_uri: null
+register_uri: https://e-devlethizmetleri.com/auth.md
 oauth_protected_resource: https://e-devlethizmetleri.com/.well-known/oauth-protected-resource
 oauth_authorization_server: https://e-devlethizmetleri.com/.well-known/oauth-authorization-server
 supported_identity_types:
