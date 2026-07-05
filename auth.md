@@ -30,6 +30,9 @@ All content is served at `https://e-devlethizmetleri.com`. Machine-readable reso
 | API Catalog | `/.well-known/api-catalog` | Linkset of available endpoints |
 | MCP Server Card | `/.well-known/mcp/server-card.json` | MCP integration info |
 | Agent Skills | `/.well-known/agent-skills/index.json` | Available agent skills |
+| OAuth Protected Resource | `/.well-known/oauth-protected-resource` | RFC 9728 resource metadata |
+| OAuth Authorization Server | `/.well-known/oauth-authorization-server` | Agent auth metadata (no registration required) |
+| OpenID Configuration | `/.well-known/openid-configuration` | OIDC discovery (public access) |
 | Sitemap | `/sitemap.xml` | All site URLs |
 | robots.txt | `/robots.txt` | Bot access rules and Content-Signals |
 
