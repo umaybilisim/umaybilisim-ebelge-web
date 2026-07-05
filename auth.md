@@ -42,6 +42,17 @@ Per `robots.txt` Content-Signals:
 - **Indexing / summarization:** Allowed (`Search: yes`)
 - **Training data use:** Not allowed (`AI-Train: no`)
 
+## Agent Auth Block
+
+```yaml
+register_uri: null
+oauth_protected_resource: https://e-devlethizmetleri.com/.well-known/oauth-protected-resource
+oauth_authorization_server: https://e-devlethizmetleri.com/.well-known/oauth-authorization-server
+supported_identity_types:
+  - public
+credential_types: []
+```
+
 ## Operator
 
 **Umay Tüm Bilişim ve Eğitim Danışmanlık Yazılım Ltd. Şti.**
