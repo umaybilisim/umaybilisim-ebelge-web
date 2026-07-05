@@ -1,0 +1,10 @@
+/index.html / 301
+/iletisim/ /iletisim.html 301
+/cozumler/e-fatura-sakarya/ /urunler/e-fatura.html 301
+/cozumler/e-irsaliye-sakarya/ /urunler/e-irsaliye.html 301
+/cozumler/e-arsiv-sakarya/ /urunler/e-arsiv-fatura.html 301
+/cozumler/e-defter-sakarya/ /urunler/e-defter.html 301
+/cozumler/e-mutabakat-sakarya/ / 301
+/cozumler/e-yedekleme-sakarya/ / 301
+/cozumler/kep-sakarya/ / 301
+/cozumler/* / 301
