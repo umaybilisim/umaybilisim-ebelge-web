@@ -1,0 +1,460 @@
+- generic [ref=e1]:
+  - banner [ref=e2]:
+    - link "PageSpeed Insights logo PageSpeed Insights" [ref=e3] [cursor=pointer]:
+      - /url: ./
+      - img "PageSpeed Insights logo" [ref=e4]
+      - generic [ref=e5]: PageSpeed Insights
+    - generic [ref=e6]:
+      - button "Bağlantıyı Kopyala" [ref=e8]:
+        - img [ref=e11]
+        - generic [ref=e14]: Bağlantıyı Kopyala
+      - generic [ref=e16]:
+        - generic [ref=e18]: Dokümanlar
+        - link "Dokümanlar" [ref=e19] [cursor=pointer]:
+          - /url: https://developers.google.com/speed/docs/insights/v5/about
+  - generic [ref=e26]:
+    - generic [ref=e27]:
+      - generic [ref=e28]: Bu site, hizmetlerini sunmak ve trafiği analiz etmek için Google çerezlerinden yararlanıyor.
+      - generic [ref=e29]:
+        - generic [ref=e31]:
+          - generic [ref=e33]: Daha Fazla Bilgi.
+          - link "Daha Fazla Bilgi." [ref=e34] [cursor=pointer]:
+            - /url: https://policies.google.com/technologies/cookies
+        - button "Tamam, Anladım." [ref=e36]:
+          - generic [ref=e39]: Tamam, Anladım.
+    - generic [ref=e94]: 28 Haz 2026 15:38:47 tarihinden başlayan rapor
+    - generic [ref=e95]:
+      - generic [ref=e96]:
+        - textbox [ref=e98]:
+          - /placeholder: Web sayfası URL'si girin
+          - text: https://e-devlethizmetleri.com/
+        - paragraph [ref=e100]: Geçerli bir URL girin
+      - button "Analiz et" [ref=e102]:
+        - generic [ref=e105]: Analiz et
+    - generic [ref=e108]:
+      - tablist [ref=e109]:
+        - generic [ref=e112]:
+          - tab "Mobil" [ref=e113] [cursor=pointer]:
+            - generic:
+              - generic: smartphone
+              - generic: Mobil
+          - tab "Masaüstü" [active] [selected] [ref=e115] [cursor=pointer]:
+            - generic:
+              - generic: computer
+              - generic: Masaüstü
+      - text: — — — — —
+      - tabpanel "Masaüstü" [ref=e630]:
+        - generic [ref=e632]:
+          - generic [ref=e633]:
+            - generic [ref=e634]:
+              - generic [ref=e635]: "URL için sonuçlar gösteriliyor:"
+              - text: https://www.e-devlethizmetleri.com/
+            - text: Orijinal URL ile çalıştır
+          - generic [ref=e637]:
+            - generic [ref=e638]:
+              - generic [ref=e639]: Gerçek kullanıcılarınızın nelerle karşılaştığını görün
+              - generic [ref=e641]:
+                - button "button" [ref=e643] [cursor=pointer]:
+                  - img [ref=e645]
+                - generic [ref=e647]: Veri Yok
+            - separator [ref=e648]
+          - generic [ref=e649]:
+            - generic [ref=e652]: Performans sorunlarını teşhis edin
+            - article [ref=e656]:
+              - generic [ref=e657]:
+                - generic [ref=e662]:
+                  - link "99 Performans" [ref=e663] [cursor=pointer]:
+                    - /url: "#performance"
+                    - img [ref=e665]
+                    - generic [ref=e668]: "99"
+                    - generic [ref=e669]: Performans
+                  - link "94 Erişilebilirlik" [ref=e670] [cursor=pointer]:
+                    - /url: "#accessibility"
+                    - img [ref=e672]
+                    - generic [ref=e675]: "94"
+                    - generic [ref=e676]: Erişilebilirlik
+                  - link "100 En İyi Uygulamalar" [ref=e677] [cursor=pointer]:
+                    - /url: "#best-practices"
+                    - img [ref=e679]
+                    - generic [ref=e682]: "100"
+                    - generic [ref=e683]: En İyi Uygulamalar
+                  - link "100 SEO" [ref=e684] [cursor=pointer]:
+                    - /url: "#seo"
+                    - img [ref=e686]
+                    - generic [ref=e689]: "100"
+                    - generic [ref=e690]: SEO
+                  - link "2/3 Ajan Tabanlı Tarama" [ref=e691] [cursor=pointer]:
+                    - /url: "#agentic-browsing"
+                    - generic [ref=e695]: 2/3
+                    - generic [ref=e696]: Ajan Tabanlı Tarama
+                - generic [ref=e698]:
+                  - generic [ref=e700]:
+                    - generic [ref=e701]:
+                      - generic [ref=e702]:
+                        - img [ref=e706]:
+                          - generic [ref=e711]: "99"
+                          - generic [ref=e712]:
+                            - generic:
+                              - generic: FCP
+                              - generic: "+10"
+                            - generic:
+                              - generic: LCP
+                              - generic: "+25"
+                            - generic:
+                              - generic: TBT
+                              - generic: "+30"
+                            - generic:
+                              - generic: CLS
+                              - generic: "+25"
+                            - generic:
+                              - generic: SI
+                              - generic: "+10"
+                          - generic [ref=e714]: Performans
+                        - generic [ref=e716]:
+                          - generic [ref=e717]:
+                            - text: Değerler tahminidir ve değişiklik gösterebilir.
+                            - link "Performance skorunun hesaplanması" [ref=e718] [cursor=pointer]:
+                              - /url: https://developer.chrome.com/docs/lighthouse/performance/performance-scoring/?utm_source=lighthouse&utm_medium=lr
+                            - text: ", doğrudan bu metriklerle yapılır."
+                          - link "Hesap makinesini göster." [ref=e719] [cursor=pointer]:
+                            - /url: https://googlechrome.github.io/lighthouse/scorecalc/#FCP=734&LCP=734&TBT=0&CLS=0&SI=907&TTI=734&device=desktop&version=13.4.0
+                        - generic [ref=e721]:
+                          - generic [ref=e722]: 0–49
+                          - generic [ref=e723]: 50–89
+                          - generic [ref=e724]: 90–100
+                      - img "Final Screenshot" [ref=e727]
+                    - generic [ref=e728]:
+                      - checkbox "Toggle the display of metric descriptions" [ref=e729]
+                      - generic [ref=e730]:
+                        - generic [ref=e731]: Metrikler
+                        - generic [ref=e732] [cursor=pointer]: Görünümü genişlet
+                      - generic [ref=e733]:
+                        - generic [ref=e735]:
+                          - generic [ref=e737]: First Contentful Paint
+                          - generic [ref=e738]: 0,7 sn.
+                        - generic [ref=e740]:
+                          - generic [ref=e742]: Largest Contentful Paint
+                          - generic [ref=e743]: 0,7 sn.
+                        - generic [ref=e745]:
+                          - generic [ref=e747]: Total Blocking Time
+                          - generic [ref=e748]: 0 ms.
+                        - generic [ref=e750]:
+                          - generic [ref=e752]: Cumulative Layout Shift
+                          - generic [ref=e753]: "0.003"
+                        - generic [ref=e755]:
+                          - generic [ref=e757]: Speed Index
+                          - generic [ref=e758]: 0,9 sn.
+                      - list [ref=e759]:
+                        - listitem [ref=e760]: Captured at 28 Haz 2026 15:38 GMT+3
+                        - listitem [ref=e761]: Emülasyonlu Masaüstü with Lighthouse 13.4.0
+                        - listitem [ref=e762]: Tek sayfalık oturum
+                        - listitem [ref=e763]: İlk sayfa yükleme
+                        - listitem [ref=e764]: Özel kısıtlamalar
+                        - listitem [ref=e765]: Using HeadlessChromium 146.0.7680.177 with lr
+                      - button "Ağaç grafiği göster" [ref=e767] [cursor=pointer]
+                    - generic [ref=e769]:
+                      - img "Screenshot" [ref=e771]
+                      - img "Screenshot" [ref=e773]
+                      - img "Screenshot" [ref=e775]
+                      - img "Screenshot" [ref=e777]
+                      - img "Screenshot" [ref=e779]
+                      - img "Screenshot" [ref=e781]
+                      - img "Screenshot" [ref=e783]
+                      - img "Screenshot" [ref=e785]
+                    - generic [ref=e786]:
+                      - generic [ref=e787]:
+                        - generic [ref=e788]: "Şunlarla alakalı denetimleri göster:"
+                        - radio "All" [checked] [ref=e789]
+                        - generic [ref=e790] [cursor=pointer]: All
+                        - radio "FCP" [ref=e791]
+                        - generic "First Contentful Paint" [ref=e792] [cursor=pointer]: FCP
+                        - radio "LCP" [ref=e793]
+                        - generic "Largest Contentful Paint" [ref=e794] [cursor=pointer]: LCP
+                        - radio "TBT" [ref=e795]
+                        - generic "Total Blocking Time" [ref=e796] [cursor=pointer]: TBT
+                        - radio "CLS" [ref=e797]
+                        - generic "Cumulative Layout Shift" [ref=e798] [cursor=pointer]: CLS
+                      - generic [ref=e799]:
+                        - generic [ref=e800]: Analizler
+                        - group [ref=e802]:
+                          - generic "Ağ bağımlılık ağacı" [ref=e803] [cursor=pointer]:
+                            - generic [ref=e804]:
+                              - generic [ref=e807]: Ağ bağımlılık ağacı
+                              - img [ref=e809]
+                        - group [ref=e814]:
+                          - 'generic "Verimli önbellek sürelerini kullanın —Tahmini tasarruf: 12 KiB" [ref=e815] [cursor=pointer]':
+                            - generic [ref=e816]:
+                              - generic [ref=e818]:
+                                - generic [ref=e819]: Verimli önbellek sürelerini kullanın
+                                - text: "—Tahmini tasarruf: 12 KiB"
+                              - img [ref=e821]
+                        - group [ref=e826]:
+                          - generic "Oluşturma engelleme istekleri" [ref=e827] [cursor=pointer]:
+                            - generic [ref=e828]:
+                              - generic [ref=e831]: Oluşturma engelleme istekleri
+                              - img [ref=e833]
+                        - group [ref=e838]:
+                          - generic "Düzen kayması sorununun nedenleri" [ref=e839] [cursor=pointer]:
+                            - generic [ref=e840]:
+                              - generic [ref=e843]: Düzen kayması sorununun nedenleri
+                              - img [ref=e845]
+                        - group [ref=e850]:
+                          - generic "DOM boyutunu optimize edin" [ref=e851] [cursor=pointer]:
+                            - generic [ref=e852]:
+                              - generic [ref=e855]: DOM boyutunu optimize edin
+                              - img [ref=e857]
+                        - group [ref=e862]:
+                          - generic "LCP dökümü" [ref=e863] [cursor=pointer]:
+                            - generic [ref=e864]:
+                              - generic [ref=e867]: LCP dökümü
+                              - img [ref=e869]
+                        - group [ref=e874]:
+                          - generic "3. taraflar" [ref=e875] [cursor=pointer]:
+                            - generic [ref=e876]:
+                              - generic [ref=e879]: 3. taraflar
+                              - img [ref=e881]
+                        - generic [ref=e885]:
+                          - text: Bu analizler Chrome Geliştirici Araçları Performans Paneli'nde de mevcuttur. Daha ayrıntılı bilgi görüntülemek için
+                          - link "izleme kaydı oluşturun" [ref=e886] [cursor=pointer]:
+                            - /url: https://developer.chrome.com/docs/devtools/performance/reference?utm_source=lighthouse&utm_medium=lr
+                          - text: .
+                      - generic [ref=e887]:
+                        - generic [ref=e888]: Teşhis
+                        - group [ref=e890]:
+                          - generic "Uzun ana ileti dizisi görevlerinden kaçının —2 uzun görev bulundu" [ref=e891] [cursor=pointer]:
+                            - generic [ref=e892]:
+                              - generic [ref=e894]:
+                                - generic [ref=e895]: Uzun ana ileti dizisi görevlerinden kaçının
+                                - text: —2 uzun görev bulundu
+                              - img [ref=e897]
+                        - generic [ref=e901]:
+                          - text: Uygulamanızın performansı hakkında daha fazla bilgi. Bu sayılar Performan skoruna
+                          - link "doğrudan etki" [ref=e902] [cursor=pointer]:
+                            - /url: https://developer.chrome.com/docs/lighthouse/performance/performance-scoring/?utm_source=lighthouse&utm_medium=lr
+                          - text: etmezler.
+                      - group [ref=e904]:
+                        - generic "Başarılı denetimler (19) Göster" [ref=e905] [cursor=pointer]:
+                          - generic [ref=e906]:
+                            - generic [ref=e907]: Başarılı denetimler (19)
+                            - generic [ref=e908]: Göster
+                        - text: — — —
+                  - generic [ref=e910]:
+                    - generic [ref=e911]:
+                      - heading "94 Erişilebilirlik" [level=2] [ref=e912]:
+                        - generic [ref=e913]:
+                          - img [ref=e915]
+                          - generic [ref=e918]: "94"
+                          - generic [ref=e919]: Erişilebilirlik
+                      - generic [ref=e921]:
+                        - text: Bu kontroller,
+                        - link "web uygulamanızın erişilebilirliğini iyileştirme" [ref=e922] [cursor=pointer]:
+                          - /url: https://developer.chrome.com/docs/lighthouse/accessibility/?utm_source=lighthouse&utm_medium=lr
+                        - text: fırsatlarını öne çıkarır. Otomatik algılama, sorunların yalnızca bir alt kümesini algılayabilir ve web uygulamanızın erişilebilirliğini garanti etmez. Bu nedenle,
+                        - link "manuel test" [ref=e923] [cursor=pointer]:
+                          - /url: https://web.dev/articles/how-to-review?utm_source=lighthouse&utm_medium=lr
+                        - text: yapmanız da önerilir.
+                    - generic [ref=e924]:
+                      - generic [ref=e925]:
+                        - generic [ref=e926]: ARIA
+                        - group [ref=e928]:
+                          - generic "Öğeler, yasaklanmış ARIA özelliklerini kullanıyor" [ref=e929] [cursor=pointer]:
+                            - generic [ref=e930]:
+                              - generic [ref=e933]: Öğeler, yasaklanmış ARIA özelliklerini kullanıyor
+                              - img [ref=e935]
+                        - generic [ref=e939]: Bu fırsatlar, uygulamanızda ARIA kullanımının iyileştirilmesine olanak tanır. Bu da ekran okuyucu gibi yardımcı teknolojilerin kullanıcılarına daha iyi bir deneyim sunulmasını sağlayabilir.
+                      - generic [ref=e940]:
+                        - generic [ref=e941]: Gezinme
+                        - group [ref=e943]:
+                          - generic "Başlık öğeleri sırayla azalan düzende sıralı değil" [ref=e944] [cursor=pointer]:
+                            - generic [ref=e945]:
+                              - generic [ref=e948]: Başlık öğeleri sırayla azalan düzende sıralı değil
+                              - img [ref=e950]
+                        - generic [ref=e954]: Bu fırsatlar, uygulamanızda klavyeyle gezinmeyi kolaylaştırır.
+                    - generic [ref=e955]:
+                      - group [ref=e956]:
+                        - generic "Manuel olarak kontrol edilecek ek öğeler (10) Göster" [ref=e957] [cursor=pointer]:
+                          - generic [ref=e958]:
+                            - generic [ref=e959]: Manuel olarak kontrol edilecek ek öğeler (10)
+                            - generic [ref=e960]: Göster
+                      - generic [ref=e961]:
+                        - text: Bu öğeler, otomatik test aracının kapsamında yer almayan alanları ele alır.
+                        - link "Erişilebilirlik incelemesi gerçekleştirme" [ref=e962] [cursor=pointer]:
+                          - /url: https://web.dev/articles/how-to-review?utm_source=lighthouse&utm_medium=lr
+                        - text: hakkında daha fazla bilgiyi rehberimizde bulabilirsiniz.
+                    - group [ref=e964]:
+                      - generic "Başarılı denetimler (21) Göster" [ref=e965] [cursor=pointer]:
+                        - generic [ref=e966]:
+                          - generic [ref=e967]: Başarılı denetimler (21)
+                          - generic [ref=e968]: Göster
+                    - group [ref=e970]:
+                      - generic "Geçerli değil (40) Göster" [ref=e971] [cursor=pointer]:
+                        - generic [ref=e972]:
+                          - generic [ref=e973]: Geçerli değil (40)
+                          - generic [ref=e974]: Göster
+                  - generic [ref=e976]:
+                    - heading "100 En İyi Uygulamalar" [level=2] [ref=e978]:
+                      - generic [ref=e979]:
+                        - img [ref=e981]
+                        - generic [ref=e984]: "100"
+                        - generic [ref=e985]: En İyi Uygulamalar
+                    - generic [ref=e986]:
+                      - generic [ref=e987]:
+                        - generic [ref=e988]: Politika Değerlendirme
+                        - group [ref=e990]:
+                          - generic "XSS saldırıları karşısında CSP'nin etkinliğini sınayın" [ref=e991] [cursor=pointer]:
+                            - generic [ref=e992]:
+                              - generic [ref=e995]: XSS saldırıları karşısında CSP'nin etkinliğini sınayın
+                              - img [ref=e997]
+                        - group [ref=e1002]:
+                          - generic "Güçlü bir HSTS politikası kullanın" [ref=e1003] [cursor=pointer]:
+                            - generic [ref=e1004]:
+                              - generic [ref=e1007]: Güçlü bir HSTS politikası kullanın
+                              - img [ref=e1009]
+                        - group [ref=e1014]:
+                          - generic "COOP ile uygun kaynak izolasyonunu sağlayın" [ref=e1015] [cursor=pointer]:
+                            - generic [ref=e1016]:
+                              - generic [ref=e1019]: COOP ile uygun kaynak izolasyonunu sağlayın
+                              - img [ref=e1021]
+                        - group [ref=e1026]:
+                          - generic "XFO veya CSP ile clickjacking'i azaltma" [ref=e1027] [cursor=pointer]:
+                            - generic [ref=e1028]:
+                              - generic [ref=e1031]: XFO veya CSP ile clickjacking'i azaltma
+                              - img [ref=e1033]
+                        - group [ref=e1038]:
+                          - generic "Trusted Types ile DOM tabanlı XSS'yi azaltın" [ref=e1039] [cursor=pointer]:
+                            - generic [ref=e1040]:
+                              - generic [ref=e1043]: Trusted Types ile DOM tabanlı XSS'yi azaltın
+                              - img [ref=e1045]
+                      - generic [ref=e1049]:
+                        - generic [ref=e1050]: Tarayıcı Uyumluluğu
+                        - group [ref=e1052]:
+                          - generic "Baseline Özellikleri" [ref=e1053] [cursor=pointer]:
+                            - generic [ref=e1054]:
+                              - generic [ref=e1057]: Baseline Özellikleri
+                              - img [ref=e1059]
+                    - group [ref=e1064]:
+                      - generic "Başarılı denetimler (13) Göster" [ref=e1065] [cursor=pointer]:
+                        - generic [ref=e1066]:
+                          - generic [ref=e1067]: Başarılı denetimler (13)
+                          - generic [ref=e1068]: Göster
+                    - group [ref=e1070]:
+                      - generic "Geçerli değil (2) Göster" [ref=e1071] [cursor=pointer]:
+                        - generic [ref=e1072]:
+                          - generic [ref=e1073]: Geçerli değil (2)
+                          - generic [ref=e1074]: Göster
+                  - generic [ref=e1076]:
+                    - generic [ref=e1077]:
+                      - heading "100 SEO" [level=2] [ref=e1078]:
+                        - generic [ref=e1079]:
+                          - img [ref=e1081]
+                          - generic [ref=e1084]: "100"
+                          - generic [ref=e1085]: SEO
+                      - generic [ref=e1087]:
+                        - text: Bu kontroller, sayfanızın temel arama motoru optimizasyonu tavsiyesine uymasını sağlar. Burada Lighthouse'un puan vermediği ve
+                        - link "Önemli Web Verileri" [ref=e1088] [cursor=pointer]:
+                          - /url: https://web.dev/explore/vitals?utm_source=lighthouse&utm_medium=lr
+                        - text: "'ndeki performansınız da dahil arama sıralamanızı etkileyebilecek birçok ek faktör vardır."
+                        - link "Google Arama'nın Temel Özellikleri hakkında daha fazla bilgi edinin" [ref=e1089] [cursor=pointer]:
+                          - /url: https://support.google.com/webmasters/answer/35769
+                        - text: .
+                    - generic [ref=e1090]:
+                      - group [ref=e1091]:
+                        - generic "Manuel olarak kontrol edilecek ek öğeler (1) Gizle" [ref=e1092] [cursor=pointer]:
+                          - generic [ref=e1093]:
+                            - generic [ref=e1094]: Manuel olarak kontrol edilecek ek öğeler (1)
+                            - generic [ref=e1096]: Gizle
+                        - group [ref=e1098]:
+                          - generic "Yapılandırılmış veriler geçerli" [ref=e1099] [cursor=pointer]:
+                            - generic [ref=e1100]:
+                              - generic [ref=e1103]: Yapılandırılmış veriler geçerli
+                              - img [ref=e1105]
+                      - generic [ref=e1109]: SEO ile ilgili diğer en iyi uygulamaları kontrol etmek için sitenizde bu ek doğrulayıcıları çalıştırın.
+                    - group [ref=e1111]:
+                      - generic "Başarılı denetimler (9) Göster" [ref=e1112] [cursor=pointer]:
+                        - generic [ref=e1113]:
+                          - generic [ref=e1114]: Başarılı denetimler (9)
+                          - generic [ref=e1115]: Göster
+                    - group [ref=e1117]:
+                      - generic "Geçerli değil (1) Göster" [ref=e1118] [cursor=pointer]:
+                        - generic [ref=e1119]:
+                          - generic [ref=e1120]: Geçerli değil (1)
+                          - generic [ref=e1121]: Göster
+                  - generic [ref=e1123]:
+                    - generic [ref=e1124]:
+                      - heading "2/3 Ajan Tabanlı Tarama" [level=2] [ref=e1125]:
+                        - generic [ref=e1126]:
+                          - generic [ref=e1130]: 2/3
+                          - generic [ref=e1131]: Ajan Tabanlı Tarama
+                      - generic [ref=e1133]:
+                        - text: Bu kontroller,
+                        - link "yapay zeka ajanları için yüksek kaliteli, göz atılabilir web siteleri" [ref=e1134] [cursor=pointer]:
+                          - /url: https://goo.gle/lighthouse-agentic-web
+                        - text: sağlar ve WebMCP entegrasyonlarının doğruluğunu onaylar. Bu kategori hâlâ geliştirme aşamasında olduğundan değişebilir.
+                    - generic [ref=e1136]:
+                      - generic [ref=e1137]: Ajan Erişilebilirliği
+                      - group [ref=e1139]:
+                        - generic "Erişilebilirlik ağacı düzgün biçimlendirilmemiş" [ref=e1140] [cursor=pointer]:
+                          - generic [ref=e1141]:
+                            - generic [ref=e1144]: Erişilebilirlik ağacı düzgün biçimlendirilmemiş
+                            - img [ref=e1146]
+                      - generic [ref=e1150]: Bu denetimler, yapay zeka ajanları için web sitesi erişilebilirliğini artırmaya yönelik en iyi uygulamaları öne çıkarır.
+                    - group [ref=e1152]:
+                      - generic "Başarılı denetimler (2) Göster" [ref=e1153] [cursor=pointer]:
+                        - generic [ref=e1154]:
+                          - generic [ref=e1155]: Başarılı denetimler (2)
+                          - generic [ref=e1156]: Göster
+                      - text: —
+                    - group [ref=e1158]:
+                      - generic "Geçerli değil (3) Göster" [ref=e1159] [cursor=pointer]:
+                        - generic [ref=e1160]:
+                          - generic [ref=e1161]: Geçerli değil (3)
+                          - generic [ref=e1162]: Göster
+  - contentinfo [ref=e52]:
+    - generic [ref=e53]:
+      - generic [ref=e54]:
+        - generic [ref=e55]:
+          - generic [ref=e56]: PageSpeed Insights hakkında daha fazla bilgi
+          - link "Yenilikler" [ref=e58] [cursor=pointer]:
+            - /url: https://developers.google.com/speed/docs/insights/release_notes
+          - link "Dokümanlar" [ref=e60] [cursor=pointer]:
+            - /url: https://developers.google.com/speed/docs/insights/v5/about
+          - link "Web Performansı hakkında bilgi edinin" [ref=e62] [cursor=pointer]:
+            - /url: https://developers.google.com/speed
+          - link "Stack Overflow hakkında soru sorun" [ref=e64] [cursor=pointer]:
+            - /url: https://stackoverflow.com/questions/tagged/pagespeed-insights
+          - link "Posta listesi" [ref=e66] [cursor=pointer]:
+            - /url: https://groups.google.com/g/pagespeed-insights-discuss
+        - generic [ref=e67]:
+          - generic [ref=e68]: Alakalı İçerik
+          - link "Güncellemeler" [ref=e70] [cursor=pointer]:
+            - /url: https://developer.chrome.com/blog
+          - link "Web'in Temelleri" [ref=e72] [cursor=pointer]:
+            - /url: https://developers.google.com/focus/web-development
+          - link "Örnek Olaylar" [ref=e74] [cursor=pointer]:
+            - /url: https://web.dev/case-studies
+          - link "Podcast'ler" [ref=e76] [cursor=pointer]:
+            - /url: https://web.dev/shows
+        - generic [ref=e77]:
+          - generic [ref=e78]: Bağlan
+          - link "Twitter" [ref=e80] [cursor=pointer]:
+            - /url: https://twitter.com/ChromiumDev
+          - link "YouTube" [ref=e82] [cursor=pointer]:
+            - /url: https://www.youtube.com/user/ChromeDevelopers
+      - generic [ref=e83]:
+        - link "Google Developers Logo" [ref=e84] [cursor=pointer]:
+          - /url: https://developers.google.com/
+          - img "Google Developers Logo" [ref=e85]
+        - link "Chrome" [ref=e86] [cursor=pointer]:
+          - /url: https://developer.chrome.com/
+        - link "Firebase" [ref=e87] [cursor=pointer]:
+          - /url: https://firebase.google.com/
+        - link "Tüm ürünler" [ref=e88] [cursor=pointer]:
+          - /url: https://developers.google.com/products/
+      - generic [ref=e89]:
+        - link "Şartlar ve Gizlilik Politikası" [ref=e91] [cursor=pointer]:
+          - /url: https://policies.google.com/
+        - generic [ref=e92]:
+          - text: Ayrıntılı bilgi için
+          - link "Google Developers Sitesi Politikaları" [ref=e93] [cursor=pointer]:
+            - /url: https://developers.google.com/terms/site-policies
+          - text: "'na bakın."

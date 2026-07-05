@@ -1,0 +1,4 @@
+5. [POST] https://isitagentready.com/api/scan => [200] 
+6. [POST] https://isitagentready.com/api/scan => [200] 
+
+Note: 4 static requests not shown, run with "static" option to see them.

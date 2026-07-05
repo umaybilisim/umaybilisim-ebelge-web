@@ -1,0 +1,123 @@
+- generic [ref=f2e1]:
+  - banner [ref=f2e2]:
+    - link "Cloudflare" [ref=f2e3] [cursor=pointer]:
+      - /url: /
+      - img "Cloudflare" [ref=f2e4]
+      - generic: Is Your Site Agent-Ready?
+    - generic [ref=f2e5]:
+      - link "Learn more about Agents" [ref=f2e6] [cursor=pointer]:
+        - /url: https://agents.cloudflare.com/
+        - generic [ref=f2e7]: Learn more about Agents
+        - img [ref=f2e8]
+      - button "System mode — click for light" [ref=f2e10] [cursor=pointer]:
+        - img [ref=f2e11]
+  - main [ref=f2e13]:
+    - generic [ref=f2e14]:
+      - heading "Is Your Site Agent-Ready?" [level=1] [ref=f2e15]
+      - paragraph [ref=f2e16]:
+        - text: Scan your website to see how ready it is for AI agents. We check multiple emerging standards — from robots.txt and
+        - link "Markdown negotiation" [ref=f2e17] [cursor=pointer]:
+          - /url: https://developers.cloudflare.com/fundamentals/reference/markdown-for-agents/
+        - text: to
+        - link "MCP" [ref=f2e18] [cursor=pointer]:
+          - /url: https://modelcontextprotocol.io/
+        - text: ", OAuth,"
+        - link "Agent Skills" [ref=f2e19] [cursor=pointer]:
+          - /url: https://agentskills.io/home
+        - text: and agentic commerce.
+    - generic [ref=f2e21]:
+      - generic [ref=f2e22]:
+        - generic [ref=f2e23]: Website URL
+        - textbox "Website URL" [active] [ref=f2e24]:
+          - /placeholder: https://example.com
+        - button "Scan" [ref=f2e25] [cursor=pointer]:
+          - generic [ref=f2e26]: Scan
+      - button "Customize scan" [ref=f2e27] [cursor=pointer]:
+        - img [ref=f2e28]
+        - generic [ref=f2e30]: Customize scan
+        - img [ref=f2e31]
+    - generic [ref=f2e33]:
+      - generic [ref=f2e34]:
+        - button "What do we check?" [ref=f2e35] [cursor=pointer]:
+          - generic [ref=f2e36]: What do we check?
+          - img [ref=f2e38]
+        - region:
+          - generic [ref=f2e40]:
+            - paragraph [ref=f2e41]: "Multiple checks across 5 categories:"
+            - list [ref=f2e42]:
+              - listitem [ref=f2e43]:
+                - strong [ref=f2e44]: Discoverability
+                - text: — robots.txt, Sitemap, Link response headers, DNS for AI Discovery (DNS-AID)
+              - listitem [ref=f2e45]:
+                - strong [ref=f2e46]: Content Accessibility
+                - text: —
+                - link "Markdown content negotiation" [ref=f2e47] [cursor=pointer]:
+                  - /url: https://developers.cloudflare.com/fundamentals/reference/markdown-for-agents/
+              - listitem [ref=f2e48]:
+                - strong [ref=f2e49]: Bot Access Control
+                - text: — AI bot rules in robots.txt,
+                - link "Content Signals" [ref=f2e50] [cursor=pointer]:
+                  - /url: https://blog.cloudflare.com/content-signals/
+                - text: ","
+                - link "Web Bot Auth" [ref=f2e51] [cursor=pointer]:
+                  - /url: https://blog.cloudflare.com/web-bot-auth/
+              - listitem [ref=f2e52]:
+                - strong [ref=f2e53]: Protocol Discovery
+                - text: —
+                - link "MCP" [ref=f2e54] [cursor=pointer]:
+                  - /url: https://modelcontextprotocol.io/
+                - text: Server Card, Agent Skills,
+                - link "WebMCP" [ref=f2e55] [cursor=pointer]:
+                  - /url: https://webmcp.org/
+                - text: ", API Catalog, OAuth discovery,"
+                - link "OAuth Protected Resource" [ref=f2e56] [cursor=pointer]:
+                  - /url: https://datatracker.ietf.org/doc/html/rfc9728
+              - listitem [ref=f2e57]:
+                - strong [ref=f2e58]: Commerce
+                - text: —
+                - link "x402" [ref=f2e59] [cursor=pointer]:
+                  - /url: https://www.x402.org/
+                - text: ","
+                - link "MPP" [ref=f2e60] [cursor=pointer]:
+                  - /url: https://mpp.dev
+                - text: ","
+                - link "UCP" [ref=f2e61] [cursor=pointer]:
+                  - /url: https://ucp.dev/
+                - text: ","
+                - link "ACP" [ref=f2e62] [cursor=pointer]:
+                  - /url: https://agenticcommerce.dev
+      - generic [ref=f2e63]:
+        - button "What's the easiest way to improve my score?" [ref=f2e64] [cursor=pointer]:
+          - generic [ref=f2e65]: What's the easiest way to improve my score?
+          - img [ref=f2e67]
+        - region:
+          - paragraph [ref=f2e70]:
+            - text: "Start with the easy wins: publish a valid"
+            - code [ref=f2e71]: robots.txt
+            - text: with AI bot rules and sitemap directives, and make sure your homepage exposes useful discovery headers or metadata.
+      - generic [ref=f2e72]:
+        - button "Where can I learn more?" [ref=f2e73] [cursor=pointer]:
+          - generic [ref=f2e74]: Where can I learn more?
+          - img [ref=f2e76]
+        - region:
+          - paragraph [ref=f2e79]:
+            - text: Check out the
+            - link "Cloudflare Agents documentation" [ref=f2e80] [cursor=pointer]:
+              - /url: https://developers.cloudflare.com/agents/
+            - text: to learn how to build and deploy AI agents that can browse, interact, and transact on the web.
+  - paragraph [ref=f2e81]: These are AI-generated recommendations. AI can make mistakes. Please use your professional judgment when implementing these tips, as they are provided "as-is" and Cloudflare assumes no liability for any actions taken or outcomes based on this automated content.
+  - contentinfo [ref=f2e82]:
+    - generic [ref=f2e83]:
+      - paragraph [ref=f2e84]:
+        - text: © 2026
+        - link "Cloudflare, Inc." [ref=f2e85] [cursor=pointer]:
+          - /url: https://cloudflare.com
+      - navigation [ref=f2e86]:
+        - link "Privacy Policy" [ref=f2e87] [cursor=pointer]:
+          - /url: https://www.cloudflare.com/privacypolicy/
+        - generic [ref=f2e88]: "|"
+        - link "Terms of Use" [ref=f2e89] [cursor=pointer]:
+          - /url: https://www.cloudflare.com/website-terms/
+        - generic [ref=f2e90]: "|"
+        - link "Docs" [ref=f2e91] [cursor=pointer]:
+          - /url: https://developers.cloudflare.com

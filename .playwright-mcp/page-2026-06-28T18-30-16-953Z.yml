@@ -1,0 +1,1426 @@
+- generic [active] [ref=e8]:
+  - generic [ref=e13]:
+    - complementary [ref=e15]:
+      - generic [ref=e17]:
+        - generic [ref=e19]:
+          - link [ref=e20] [cursor=pointer]:
+            - /url: /
+            - img [ref=e22]
+          - generic "UmayBilisim" [ref=e27]
+        - navigation [ref=e28]:
+          - generic [ref=e30]:
+            - generic:
+              - generic:
+                - generic:
+                  - button:
+                    - generic:
+                      - generic:
+                        - img
+                        - generic: Quick search...
+                        - generic: Ctrl K
+                - list:
+                  - listitem:
+                    - link:
+                      - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/home
+                      - generic:
+                        - img
+                        - generic:
+                          - generic: Account home
+                  - listitem:
+                    - generic:
+                      - button:
+                        - generic:
+                          - img
+                          - generic:
+                            - generic: Recents
+                            - img
+                      - list:
+                        - listitem:
+                          - link:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/rules/overview
+                            - generic:
+                              - generic: Overview
+                              - generic:
+                                - generic: e-devlethizmetleri…
+                                - generic: /
+                                - generic: Rules
+                          - generic:
+                            - button:
+                              - generic:
+                                - img
+                                - img
+                        - listitem:
+                          - link:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-imzasatinal.com.tr
+                            - generic:
+                              - generic: e-imzasatinal.com.tr
+                              - generic:
+                                - generic: Domains
+                          - generic:
+                            - button:
+                              - generic:
+                                - img
+                                - img
+                        - listitem:
+                          - link:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/domains/overview
+                            - generic:
+                              - generic: Overview
+                              - generic:
+                                - generic: Domains
+                          - generic:
+                            - button:
+                              - generic:
+                                - img
+                                - img
+                        - listitem:
+                          - link:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/eimzasatinal.com.tr/analytics/traffic
+                            - generic:
+                              - generic: HTTP Traffic
+                              - generic:
+                                - generic: eimzasatinal.com.t…
+                                - generic: /
+                                - generic: Analytics
+                          - generic:
+                            - button:
+                              - generic:
+                                - img
+                                - img
+                        - listitem:
+                          - link:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/eimzasatinal.com.tr/dashboards
+                            - generic:
+                              - generic: Dashboards
+                              - generic:
+                                - generic: eimzasatinal.com.t…
+                                - generic: /
+                                - generic: Analytics
+                          - generic:
+                            - button:
+                              - generic:
+                                - img
+                                - img
+                  - listitem:
+                    - generic:
+                      - button:
+                        - generic:
+                          - img
+                          - generic:
+                            - generic: Domains
+                            - img
+                      - list:
+                        - listitem:
+                          - link:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/domains/overview
+                            - generic:
+                              - generic: Overview
+                        - listitem:
+                          - link:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/domains/registrations
+                            - generic:
+                              - generic: Registrations
+                        - listitem:
+                          - link:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/domains/transfers
+                            - generic:
+                              - generic: Transfers
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: Observe
+                    - list:
+                      - listitem:
+                        - generic:
+                          - button:
+                            - generic:
+                              - img
+                              - generic:
+                                - generic: Investigate
+                                - img
+                          - list:
+                            - generic:
+                              - listitem:
+                                - button:
+                                  - generic:
+                                    - generic: Log Explorer
+                                    - img
+                              - list:
+                                - listitem:
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/log-explorer/log-search
+                                    - generic:
+                                      - generic: Log search
+                            - listitem:
+                              - link:
+                                - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/trace
+                                - generic:
+                                  - generic: Trace
+                                  - generic:
+                                    - generic: Beta
+                            - listitem:
+                              - link:
+                                - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/logs
+                                - generic:
+                                  - generic: Logpush
+                      - listitem:
+                        - generic:
+                          - button:
+                            - generic:
+                              - img
+                              - generic:
+                                - generic: Analytics
+                                - img
+                          - list:
+                            - listitem:
+                              - link:
+                                - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/dashboards
+                                - generic:
+                                  - generic: Dashboards
+                                  - generic:
+                                    - generic: New
+                            - listitem:
+                              - link:
+                                - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/analytics
+                                - generic:
+                                  - generic: Account analytics
+                            - listitem:
+                              - link:
+                                - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/web-analytics
+                                - generic:
+                                  - generic: Web analytics
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: Build
+                    - list:
+                      - listitem:
+                        - generic:
+                          - button:
+                            - generic:
+                              - img
+                              - generic:
+                                - generic: Compute
+                                - img
+                          - list:
+                            - listitem:
+                              - link:
+                                - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/workers-and-pages
+                                - generic:
+                                  - generic: Workers & Pages
+                            - listitem:
+                              - link:
+                                - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/observability
+                                - generic:
+                                  - generic: Observability
+                            - listitem:
+                              - link:
+                                - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/workers-for-platforms
+                                - generic:
+                                  - generic: Workers for Platforms
+                            - listitem:
+                              - link:
+                                - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/workers/containers
+                                - generic:
+                                  - generic: Containers
+                            - listitem:
+                              - link:
+                                - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/workers/durable-objects
+                                - generic:
+                                  - generic: Durable Objects
+                            - listitem:
+                              - link:
+                                - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/workers/queues
+                                - generic:
+                                  - generic: Queues
+                            - listitem:
+                              - link:
+                                - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/workers/workflows
+                                - generic:
+                                  - generic: Workflows
+                            - listitem:
+                              - link:
+                                - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/workers/browser-run
+                                - generic:
+                                  - generic: Browser Run
+                            - listitem:
+                              - link:
+                                - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/workers/vpc
+                                - generic:
+                                  - generic: VPC
+                                  - generic:
+                                    - generic: Beta
+                            - generic:
+                              - listitem:
+                                - button:
+                                  - generic:
+                                    - generic: Email Service
+                                    - img
+                              - list:
+                                - listitem:
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/email-service/sending
+                                    - generic:
+                                      - generic: Email Sending
+                                      - generic:
+                                        - generic: Beta
+                                - listitem:
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/email-service/routing
+                                    - generic:
+                                      - generic: Email Routing
+                            - listitem:
+                              - link:
+                                - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/workers/plans
+                                - generic:
+                                  - generic: Workers plans
+                            - listitem:
+                              - link:
+                                - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/flagship
+                                - generic:
+                                  - generic: Flagship
+                                  - generic:
+                                    - generic: Beta
+                      - listitem:
+                        - generic:
+                          - button:
+                            - generic:
+                              - img
+                              - generic:
+                                - generic: AI
+                                - img
+                          - list:
+                            - listitem:
+                              - link:
+                                - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/ai/models
+                                - generic:
+                                  - generic: Models
+                            - listitem:
+                              - link:
+                                - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/ai/workers-ai
+                                - generic:
+                                  - generic: Workers AI
+                            - listitem:
+                              - link:
+                                - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/ai/ai-gateway
+                                - generic:
+                                  - generic: AI Gateway
+                            - listitem:
+                              - link:
+                                - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/ai/vectorize
+                                - generic:
+                                  - generic: Vectorize
+                            - listitem:
+                              - link:
+                                - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/ai/ai-search
+                                - generic:
+                                  - generic: AI Search
+                                  - generic:
+                                    - generic: Beta
+                      - listitem:
+                        - generic:
+                          - button:
+                            - generic:
+                              - img
+                              - generic:
+                                - generic: Storage & databases
+                                - img
+                          - list:
+                            - generic:
+                              - listitem:
+                                - button:
+                                  - generic:
+                                    - generic: R2 Object Storage
+                                    - img
+                              - list:
+                                - listitem:
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/r2/overview
+                                    - generic:
+                                      - generic: Overview
+                                - listitem:
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/r2/slurper
+                                    - generic:
+                                      - generic: Data migration
+                            - listitem:
+                              - link:
+                                - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/data-catalog
+                                - generic:
+                                  - generic: R2 Data Catalog
+                                  - generic:
+                                    - generic: Beta
+                            - listitem:
+                              - link:
+                                - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/workers/hyperdrive
+                                - generic:
+                                  - generic: Postgres & MySQL (Hyperdrive)
+                            - listitem:
+                              - link:
+                                - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/workers/kv/namespaces
+                                - generic:
+                                  - generic: Workers KV
+                            - listitem:
+                              - link:
+                                - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/workers/d1
+                                - generic:
+                                  - generic: D1 SQLite Database
+                            - listitem:
+                              - link:
+                                - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/workers/analytics-engine
+                                - generic:
+                                  - generic: Analytics Engine
+                            - generic:
+                              - listitem:
+                                - button:
+                                  - generic:
+                                    - generic: Pipelines
+                                    - generic:
+                                      - generic: Beta
+                                    - img
+                              - list:
+                                - listitem:
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/pipelines/overview
+                                    - generic:
+                                      - generic: Pipelines
+                            - listitem:
+                              - link:
+                                - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/secrets-store
+                                - generic:
+                                  - generic: Secrets Store
+                                  - generic:
+                                    - generic: New
+                      - listitem:
+                        - generic:
+                          - button:
+                            - generic:
+                              - img
+                              - generic:
+                                - generic: Media
+                                - img
+                          - list:
+                            - generic:
+                              - listitem:
+                                - button:
+                                  - generic:
+                                    - generic: Stream
+                                    - img
+                              - list:
+                                - listitem:
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/stream/plans
+                                    - generic:
+                                      - generic: Plans
+                            - generic:
+                              - listitem:
+                                - button:
+                                  - generic:
+                                    - generic: Images
+                                    - img
+                              - list:
+                                - listitem:
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/images/transformations
+                                    - generic:
+                                      - generic: Transformations
+                                - listitem:
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/images/hosted
+                                    - generic:
+                                      - generic: Hosted images
+                                - listitem:
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/images/plans
+                                    - generic:
+                                      - generic: Plans
+                            - generic:
+                              - listitem:
+                                - button:
+                                  - generic:
+                                    - generic: Realtime
+                                    - img
+                              - list:
+                                - listitem:
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/realtime/kit
+                                    - generic:
+                                      - generic: RealtimeKit
+                                      - generic:
+                                        - generic: Beta
+                                - listitem:
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/realtime/turn
+                                    - generic:
+                                      - generic: TURN Server
+                                - listitem:
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/realtime/sfu
+                                    - generic:
+                                      - generic: Serverless SFU
+                                - listitem:
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/realtime/moq
+                                    - generic:
+                                      - generic: MoQ Relay
+                                      - generic:
+                                        - generic: Beta
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: Protect & Connect
+                    - list:
+                      - listitem:
+                        - generic:
+                          - button:
+                            - generic:
+                              - img
+                              - generic:
+                                - generic: Application security
+                                - img
+                          - list:
+                            - listitem:
+                              - link:
+                                - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/security-center
+                                - generic:
+                                  - generic: Security insights
+                            - listitem:
+                              - link:
+                                - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/application-security/waf
+                                - generic:
+                                  - generic: WAF
+                            - listitem:
+                              - link:
+                                - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/application-security/investigate
+                                - generic:
+                                  - generic: Investigate
+                            - listitem:
+                              - link:
+                                - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/security-center/inventory
+                                - generic:
+                                  - generic: Infrastructure
+                            - listitem:
+                              - link:
+                                - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/turnstile
+                                - generic:
+                                  - generic: Turnstile
+                      - listitem:
+                        - link:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/zero-trust/landing-page
+                          - generic:
+                            - img
+                            - generic:
+                              - generic: Zero Trust
+                      - listitem:
+                        - generic:
+                          - button:
+                            - generic:
+                              - img
+                              - generic:
+                                - generic: Networking
+                                - img
+                          - list:
+                            - listitem:
+                              - link:
+                                - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/magic-networks/overview
+                                - generic:
+                                  - generic: Overview
+                                  - generic:
+                                    - generic: New
+                            - generic:
+                              - listitem:
+                                - button:
+                                  - generic:
+                                    - generic: Insights
+                                    - img
+                              - list:
+                                - listitem:
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/networking-insights/analytics/network-analytics/flow-analytics
+                                    - generic:
+                                      - generic: Network flow
+                            - listitem:
+                              - link:
+                                - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/tunnels
+                                - generic:
+                                  - generic: Tunnels
+                                  - generic:
+                                    - generic: New
+                            - listitem:
+                              - link:
+                                - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/mesh
+                                - generic:
+                                  - generic: Mesh
+                                  - generic:
+                                    - generic: Beta
+                            - listitem:
+                              - link:
+                                - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/magic-networks/routes
+                                - generic:
+                                  - generic: Routes
+                            - generic:
+                              - listitem:
+                                - button:
+                                  - generic:
+                                    - generic: IP addresses
+                                    - img
+                              - list:
+                                - listitem:
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/ip-addresses/address-space
+                                    - generic:
+                                      - generic: Address space
+                                - listitem:
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/ip-addresses/proxy-ips
+                                    - generic:
+                                      - generic: Address maps
+                      - listitem:
+                        - generic:
+                          - button:
+                            - generic:
+                              - img
+                              - generic:
+                                - generic: Delivery & performance
+                                - img
+                          - list:
+                            - listitem:
+                              - link:
+                                - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/bulk-redirects
+                                - generic:
+                                  - generic: Bulk redirects
+                            - listitem:
+                              - link:
+                                - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/load-balancing
+                                - generic:
+                                  - generic: Load Balancing
+                            - generic:
+                              - listitem:
+                                - button:
+                                  - generic:
+                                    - generic: Web tag management
+                                    - img
+                              - list:
+                                - listitem:
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/tag-management/zaraz
+                                    - generic:
+                                      - generic: Tag setup
+                                - listitem:
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/tag-management/consent
+                                    - generic:
+                                      - generic: Consent
+                                - listitem:
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/tag-management/history
+                                    - generic:
+                                      - generic: History
+                                - listitem:
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/tag-management/monitoring
+                                    - generic:
+                                      - generic: Monitoring
+                                - listitem:
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/tag-management/settings
+                                    - generic:
+                                      - generic: Settings
+                                - listitem:
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/tag-management/plans
+                                    - generic:
+                                      - generic: Zaraz plans
+                                - listitem:
+                                  - link:
+                                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/tag-management/google-tag-gateway
+                                    - generic:
+                                      - generic: Google Tag Gateway
+                  - listitem:
+                    - generic:
+                      - button:
+                        - generic:
+                          - img
+                          - generic:
+                            - generic: Manage account
+                            - img
+                      - list:
+                        - listitem:
+                          - link:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/members
+                            - generic:
+                              - generic: Members
+                        - listitem:
+                          - link:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/billing
+                            - generic:
+                              - generic: Billing
+                        - listitem:
+                          - link:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/api-tokens
+                            - generic:
+                              - generic: Account API tokens
+                        - listitem:
+                          - link:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/oauth-clients
+                            - generic:
+                              - generic: OAuth clients
+                        - listitem:
+                          - link:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/audit-log
+                            - generic:
+                              - generic: Audit logs
+                        - listitem:
+                          - link:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/notifications
+                            - generic:
+                              - generic: Notifications
+                        - listitem:
+                          - link:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/shared-configurations
+                            - generic:
+                              - generic: Shared config
+                              - generic:
+                                - generic: Alpha
+                        - listitem:
+                          - link:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/blocked-content
+                            - generic:
+                              - generic: Blocked content
+                        - listitem:
+                          - link:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/abuse-reports
+                            - generic:
+                              - generic: Abuse reports
+                              - generic:
+                                - generic: Beta
+                        - listitem:
+                          - link:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/carbon
+                            - generic:
+                              - generic: Carbon Impact Report
+                        - listitem:
+                          - link:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/configurations
+                            - generic:
+                              - generic: Configurations
+                        - listitem:
+                          - link:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/tags
+                            - generic:
+                              - generic: Tagged Resources
+                              - generic:
+                                - generic: Beta
+            - generic [ref=e32]:
+              - button "Quick search..." [ref=e34] [cursor=pointer]:
+                - generic [ref=e36]:
+                  - img [ref=e37]
+                  - generic [ref=e39]: Quick search...
+                  - generic [ref=e40]: Ctrl K
+              - link "Back to Domains" [ref=e42] [cursor=pointer]:
+                - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/domains/overview
+                - generic [ref=e43]:
+                  - img [ref=e44]
+                  - generic [ref=e46]: Back to Domains
+              - list [ref=e49]:
+                - listitem [ref=e50]:
+                  - link "Overview" [ref=e51] [cursor=pointer]:
+                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/
+                    - generic [ref=e52]:
+                      - img [ref=e53]
+                      - generic [ref=e57]: Overview
+                - listitem [ref=e58]:
+                  - generic [ref=e59]:
+                    - button "Recents" [ref=e60] [cursor=pointer]:
+                      - generic [ref=e61]:
+                        - img [ref=e62]
+                        - generic [ref=e65]:
+                          - generic [ref=e66]: Recents
+                          - img [ref=e67]
+                    - list [ref=e69]:
+                      - listitem [ref=e71]:
+                        - link [ref=e72] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/rules/overview
+                          - generic [ref=e73]:
+                            - generic [ref=e74]: Overview
+                            - generic [ref=e75]:
+                              - generic [ref=e76]: e-devlethizmetleri…
+                              - generic [ref=e77]: /
+                              - generic [ref=e78]: Rules
+                        - button [ref=e80] [cursor=pointer]:
+                          - generic [ref=e81]:
+                            - img [ref=e82]
+                            - img [ref=e87]
+                      - listitem [ref=e89]:
+                        - link [ref=e90] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-imzasatinal.com.tr
+                          - generic [ref=e91]:
+                            - generic [ref=e92]: e-imzasatinal.com.tr
+                            - generic [ref=e94]: Domains
+                        - button [ref=e96] [cursor=pointer]:
+                          - generic [ref=e97]:
+                            - img [ref=e98]
+                            - img [ref=e103]
+                      - listitem [ref=e105]:
+                        - link [ref=e106] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/domains/overview
+                          - generic [ref=e107]:
+                            - generic [ref=e108]: Overview
+                            - generic [ref=e110]: Domains
+                        - button [ref=e112] [cursor=pointer]:
+                          - generic [ref=e113]:
+                            - img [ref=e114]
+                            - img [ref=e119]
+                      - listitem [ref=e121]:
+                        - link [ref=e122] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/eimzasatinal.com.tr/analytics/traffic
+                          - generic [ref=e123]:
+                            - generic [ref=e124]: HTTP Traffic
+                            - generic [ref=e125]:
+                              - generic [ref=e126]: eimzasatinal.com.t…
+                              - generic [ref=e127]: /
+                              - generic [ref=e128]: Analytics
+                        - button [ref=e130] [cursor=pointer]:
+                          - generic [ref=e131]:
+                            - img [ref=e132]
+                            - img [ref=e137]
+                      - listitem [ref=e139]:
+                        - link [ref=e140] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/eimzasatinal.com.tr/dashboards
+                          - generic [ref=e141]:
+                            - generic [ref=e142]: Dashboards
+                            - generic [ref=e143]:
+                              - generic [ref=e144]: eimzasatinal.com.t…
+                              - generic [ref=e145]: /
+                              - generic [ref=e146]: Analytics
+                        - button [ref=e148] [cursor=pointer]:
+                          - generic [ref=e149]:
+                            - img [ref=e150]
+                            - img [ref=e155]
+                - listitem [ref=e157]:
+                  - generic [ref=e158]:
+                    - button "AI Crawl Control" [ref=e159] [cursor=pointer]:
+                      - generic [ref=e160]:
+                        - img [ref=e161]
+                        - generic [ref=e164]:
+                          - generic [ref=e165]: AI Crawl Control
+                          - img [ref=e166]
+                    - list [ref=e168]:
+                      - listitem [ref=e170]:
+                        - link [ref=e171] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/ai/overview
+                          - generic [ref=e173]: Overview
+                      - listitem [ref=e174]:
+                        - link [ref=e175] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/ai/metrics
+                          - generic [ref=e177]: Metrics
+                      - listitem [ref=e178]:
+                        - link [ref=e179] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/ai/security
+                          - generic [ref=e181]: Security
+                      - listitem [ref=e182]:
+                        - link [ref=e183] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/ai/optimization
+                          - generic [ref=e184]:
+                            - generic [ref=e185]: Optimization
+                            - generic [ref=e187]: New
+                      - listitem [ref=e188]:
+                        - link [ref=e189] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/ai/signals
+                          - generic [ref=e191]: Signals
+                - listitem [ref=e192]:
+                  - generic [ref=e193]:
+                    - button "Investigate" [expanded] [ref=e194] [cursor=pointer]:
+                      - generic [ref=e195]:
+                        - img [ref=e196]
+                        - generic [ref=e199]:
+                          - generic [ref=e200]: Investigate
+                          - img [ref=e201]
+                    - region [ref=e203]:
+                      - list [ref=e205]:
+                        - generic [ref=e207]:
+                          - listitem [ref=e208]:
+                            - button "Log Explorer" [ref=e209] [cursor=pointer]:
+                              - generic [ref=e210]:
+                                - generic [ref=e211]: Log Explorer
+                                - img [ref=e212]
+                          - list [ref=e214]:
+                            - listitem [ref=e216]:
+                              - link [ref=e217] [cursor=pointer]:
+                                - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/log-explorer/log-search
+                                - generic [ref=e219]: Log search
+                        - listitem [ref=e220]:
+                          - link "Trace Beta" [ref=e221] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/rules/trace/search
+                            - generic [ref=e222]:
+                              - generic [ref=e223]: Trace
+                              - generic [ref=e225]: Beta
+                        - listitem [ref=e226]:
+                          - link "Logpush" [ref=e227] [cursor=pointer]:
+                            - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/analytics/logs
+                            - generic [ref=e229]: Logpush
+                - listitem [ref=e230]:
+                  - generic [ref=e231]:
+                    - button "Analytics" [ref=e232] [cursor=pointer]:
+                      - generic [ref=e233]:
+                        - img [ref=e234]
+                        - generic [ref=e237]:
+                          - generic [ref=e238]: Analytics
+                          - img [ref=e239]
+                    - list [ref=e241]:
+                      - listitem [ref=e243]:
+                        - link [ref=e244] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/dashboards
+                          - generic [ref=e245]:
+                            - generic [ref=e246]: Dashboards
+                            - generic [ref=e248]: New
+                      - listitem [ref=e249]:
+                        - link [ref=e250] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/analytics/traffic
+                          - generic [ref=e252]: HTTP Traffic
+                      - listitem [ref=e253]:
+                        - link [ref=e254] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/analytics/performance
+                          - generic [ref=e256]: Performance
+                      - listitem [ref=e257]:
+                        - link [ref=e258] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/analytics/workers
+                          - generic [ref=e260]: Workers
+                - listitem [ref=e261]:
+                  - generic [ref=e262]:
+                    - button "DNS" [ref=e263] [cursor=pointer]:
+                      - generic [ref=e264]:
+                        - img [ref=e265]
+                        - generic [ref=e267]:
+                          - generic [ref=e268]: DNS
+                          - img [ref=e269]
+                    - list [ref=e271]:
+                      - listitem [ref=e273]:
+                        - link [ref=e274] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/dns/records
+                          - generic [ref=e276]: Records
+                      - listitem [ref=e277]:
+                        - link [ref=e278] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/dns/analytics
+                          - generic [ref=e280]: Analytics
+                      - listitem [ref=e281]:
+                        - link [ref=e282] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/dns/settings
+                          - generic [ref=e284]: Settings
+                - listitem [ref=e285]:
+                  - generic [ref=e286]:
+                    - button "Email" [ref=e287] [cursor=pointer]:
+                      - generic [ref=e288]:
+                        - img [ref=e289]
+                        - generic [ref=e293]:
+                          - generic [ref=e294]: Email
+                          - img [ref=e295]
+                    - list [ref=e297]:
+                      - listitem [ref=e299]:
+                        - link [ref=e300] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/email/routing
+                          - generic [ref=e302]: Email Routing
+                      - listitem [ref=e303]:
+                        - link [ref=e304] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/email/dmarc-management
+                          - generic [ref=e306]: DMARC Management
+                      - listitem [ref=e307]:
+                        - link [ref=e308] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/email/security
+                          - generic [ref=e310]: Email Security
+                - listitem [ref=e311]:
+                  - generic [ref=e312]:
+                    - button "SSL/TLS" [ref=e313] [cursor=pointer]:
+                      - generic [ref=e314]:
+                        - img [ref=e315]
+                        - generic [ref=e318]:
+                          - generic [ref=e319]: SSL/TLS
+                          - img [ref=e320]
+                    - list [ref=e322]:
+                      - listitem [ref=e324]:
+                        - link [ref=e325] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/ssl-tls
+                          - generic [ref=e327]: Overview
+                      - listitem [ref=e328]:
+                        - link [ref=e329] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/ssl-tls/edge-certificates
+                          - generic [ref=e331]: Edge Certificates
+                      - listitem [ref=e332]:
+                        - link [ref=e333] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/ssl-tls/client-certificates
+                          - generic [ref=e335]: Client Certificates
+                      - listitem [ref=e336]:
+                        - link [ref=e337] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/ssl-tls/origin
+                          - generic [ref=e339]: Origin Server
+                      - listitem [ref=e340]:
+                        - link [ref=e341] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/ssl-tls/custom-hostnames
+                          - generic [ref=e343]: Custom Hostnames
+                - listitem [ref=e344]:
+                  - generic [ref=e345]:
+                    - button "Security" [ref=e346] [cursor=pointer]:
+                      - generic [ref=e347]:
+                        - img [ref=e348]
+                        - generic [ref=e350]:
+                          - generic [ref=e351]: Security
+                          - img [ref=e352]
+                    - list [ref=e354]:
+                      - listitem [ref=e356]:
+                        - link [ref=e357] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/security/overview
+                          - generic [ref=e359]: Overview
+                      - listitem [ref=e360]:
+                        - link [ref=e361] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/security/analytics
+                          - generic [ref=e363]: Analytics
+                      - listitem [ref=e364]:
+                        - link [ref=e365] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/security/web-assets
+                          - generic [ref=e367]: Web assets
+                      - listitem [ref=e368]:
+                        - link [ref=e369] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/security/security-rules
+                          - generic [ref=e371]: Security rules
+                      - listitem [ref=e372]:
+                        - link [ref=e373] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/security/settings
+                          - generic [ref=e375]: Settings
+                - listitem [ref=e376]:
+                  - link "Access" [ref=e377] [cursor=pointer]:
+                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/access
+                    - generic [ref=e378]:
+                      - img [ref=e379]
+                      - generic [ref=e383]: Access
+                - listitem [ref=e384]:
+                  - generic [ref=e385]:
+                    - button "Speed" [ref=e386] [cursor=pointer]:
+                      - generic [ref=e387]:
+                        - img [ref=e388]
+                        - generic [ref=e390]:
+                          - generic [ref=e391]: Speed
+                          - img [ref=e392]
+                    - list [ref=e394]:
+                      - listitem [ref=e396]:
+                        - link [ref=e397] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/speed
+                          - generic [ref=e398]:
+                            - generic [ref=e399]: Observatory
+                            - generic [ref=e401]: Beta
+                      - listitem [ref=e402]:
+                        - link [ref=e403] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/speed/origin-analytics
+                          - generic [ref=e405]: Origin Analytics
+                      - listitem [ref=e406]:
+                        - link [ref=e407] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/speed/test
+                          - generic [ref=e408]:
+                            - generic [ref=e409]: Synthetic monitoring
+                            - generic [ref=e411]: Beta
+                      - listitem [ref=e412]:
+                        - link [ref=e413] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/speed/optimization
+                          - generic [ref=e415]: Settings
+                      - listitem [ref=e416]:
+                        - link [ref=e417] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/speed/smart-shield
+                          - generic [ref=e419]: Smart Shield
+                - listitem [ref=e420]:
+                  - generic [ref=e421]:
+                    - button "Caching" [ref=e422] [cursor=pointer]:
+                      - generic [ref=e423]:
+                        - img [ref=e424]
+                        - generic [ref=e429]:
+                          - generic [ref=e430]: Caching
+                          - img [ref=e431]
+                    - list [ref=e433]:
+                      - listitem [ref=e435]:
+                        - link [ref=e436] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/caching
+                          - generic [ref=e438]: Overview
+                      - listitem [ref=e439]:
+                        - link [ref=e440] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/caching/configuration
+                          - generic [ref=e442]: Configuration
+                      - listitem [ref=e443]:
+                        - link [ref=e444] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/caching/cache-rules
+                          - generic [ref=e446]: Cache Rules
+                      - listitem [ref=e447]:
+                        - link [ref=e448] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/caching/tiered-cache
+                          - generic [ref=e450]: Tiered Cache
+                      - listitem [ref=e451]:
+                        - link [ref=e452] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/caching/cache-reserve
+                          - generic [ref=e454]: Cache Reserve
+                - listitem [ref=e455]:
+                  - link "Workers Routes" [ref=e456] [cursor=pointer]:
+                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/workers
+                    - generic [ref=e457]:
+                      - img [ref=e458]
+                      - generic [ref=e463]: Workers Routes
+                - listitem [ref=e464]:
+                  - generic [ref=e465]:
+                    - button "Rules" [ref=e466] [cursor=pointer]:
+                      - generic [ref=e467]:
+                        - img [ref=e468]
+                        - generic [ref=e471]:
+                          - generic [ref=e472]: Rules
+                          - img [ref=e473]
+                    - list [ref=e475]:
+                      - listitem [ref=e477]:
+                        - link [ref=e478] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/rules/overview
+                          - generic [ref=e480]: Overview
+                      - listitem [ref=e481]:
+                        - link [ref=e482] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/rules/snippets
+                          - generic [ref=e484]: Snippets
+                      - listitem [ref=e485]:
+                        - link [ref=e486] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/rules/cloud-connector
+                          - generic [ref=e487]:
+                            - generic [ref=e488]: Cloud Connector
+                            - generic [ref=e490]: Beta
+                      - listitem [ref=e491]:
+                        - link [ref=e492] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/rules/page-rules
+                          - generic [ref=e494]: Page Rules
+                      - listitem [ref=e495]:
+                        - link [ref=e496] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/rules/settings
+                          - generic [ref=e498]: Settings
+                - listitem [ref=e499]:
+                  - link "Error Pages New" [ref=e500] [cursor=pointer]:
+                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/error-pages
+                    - generic [ref=e501]:
+                      - img [ref=e502]
+                      - generic [ref=e505]:
+                        - generic [ref=e506]: Error Pages
+                        - generic [ref=e508]: New
+                - listitem [ref=e509]:
+                  - link "Network" [ref=e510] [cursor=pointer]:
+                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/network
+                    - generic [ref=e511]:
+                      - img [ref=e512]
+                      - generic [ref=e516]: Network
+                - listitem [ref=e517]:
+                  - generic [ref=e518]:
+                    - button "Traffic" [ref=e519] [cursor=pointer]:
+                      - generic [ref=e520]:
+                        - img [ref=e521]
+                        - generic [ref=e523]:
+                          - generic [ref=e524]: Traffic
+                          - img [ref=e525]
+                    - list [ref=e527]:
+                      - listitem [ref=e529]:
+                        - link [ref=e530] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/traffic
+                          - generic [ref=e532]: Argo Smart Routing
+                      - listitem [ref=e533]:
+                        - link [ref=e534] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/traffic/load-balancing
+                          - generic [ref=e536]: Load Balancing
+                      - listitem [ref=e537]:
+                        - link [ref=e538] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/traffic/load-balancing-analytics
+                          - generic [ref=e540]: Load Balancing Analytics
+                      - listitem [ref=e541]:
+                        - link [ref=e542] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/traffic/health-checks
+                          - generic [ref=e544]: Health Checks
+                      - listitem [ref=e545]:
+                        - link [ref=e546] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/traffic/waiting-rooms
+                          - generic [ref=e548]: Waiting Room
+                - listitem [ref=e549]:
+                  - link "Web3" [ref=e550] [cursor=pointer]:
+                    - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/e-devlethizmetleri.com/web3
+                    - generic [ref=e551]:
+                      - img [ref=e552]
+                      - generic [ref=e556]: Web3
+                - listitem [ref=e559]:
+                  - generic [ref=e560]:
+                    - button "Manage account" [ref=e561] [cursor=pointer]:
+                      - generic [ref=e562]:
+                        - img [ref=e563]
+                        - generic [ref=e566]:
+                          - generic [ref=e567]: Manage account
+                          - img [ref=e568]
+                    - list [ref=e570]:
+                      - listitem [ref=e572]:
+                        - link [ref=e573] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/members
+                          - generic [ref=e575]: Members
+                      - listitem [ref=e576]:
+                        - link [ref=e577] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/billing
+                          - generic [ref=e579]: Billing
+                      - listitem [ref=e580]:
+                        - link [ref=e581] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/api-tokens
+                          - generic [ref=e583]: Account API tokens
+                      - listitem [ref=e584]:
+                        - link [ref=e585] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/audit-log
+                          - generic [ref=e587]: Audit logs
+                      - listitem [ref=e588]:
+                        - link [ref=e589] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/notifications
+                          - generic [ref=e591]: Notifications
+                      - listitem [ref=e592]:
+                        - link [ref=e593] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/shared-configurations
+                          - generic [ref=e594]:
+                            - generic [ref=e595]: Shared config
+                            - generic [ref=e597]: Alpha
+                      - listitem [ref=e598]:
+                        - link [ref=e599] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/blocked-content
+                          - generic [ref=e601]: Blocked content
+                      - listitem [ref=e602]:
+                        - link [ref=e603] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/abuse-reports
+                          - generic [ref=e604]:
+                            - generic [ref=e605]: Abuse reports
+                            - generic [ref=e607]: Beta
+                      - listitem [ref=e608]:
+                        - link [ref=e609] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/carbon
+                          - generic [ref=e611]: Carbon Impact Report
+                      - listitem [ref=e612]:
+                        - link [ref=e613] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/configurations
+                          - generic [ref=e615]: Configurations
+                      - listitem [ref=e616]:
+                        - link [ref=e617] [cursor=pointer]:
+                          - /url: /ffa3e1b3ce538ddb28f23dfaf7b28175/tags
+                          - generic [ref=e618]:
+                            - generic [ref=e619]: Tagged Resources
+                            - generic [ref=e621]: Beta
+        - button "Collapse sidebar" [expanded] [ref=e626] [cursor=pointer]:
+          - img [ref=e627]
+    - generic [ref=e629]:
+      - banner [ref=e630]:
+        - generic [ref=e631]:
+          - button "Star domain" [ref=e632] [cursor=pointer]:
+            - img [ref=e633]
+          - generic [ref=e636] [cursor=pointer]:
+            - generic [ref=e637]:
+              - paragraph [ref=e638]: e-devlethizmetleri.com
+              - button "free" [ref=e639]:
+                - generic [ref=e640]: free
+            - img [ref=e641]
+        - generic [ref=e643]:
+          - button "Ask AI" [ref=e644] [cursor=pointer]:
+            - img [ref=e645]
+            - generic [ref=e648]: Ask AI
+          - link "Support" [ref=e649] [cursor=pointer]:
+            - /url: /?to=/:account/support
+            - img [ref=e650]
+            - generic [ref=e652]: Support
+          - button "User menu" [ref=e653] [cursor=pointer]:
+            - img [ref=e654]
+      - main [ref=e656]:
+        - generic [ref=e658]:
+          - generic [ref=e660]:
+            - paragraph [ref=e661]:
+              - generic [ref=e663]: Investigate
+            - generic [ref=e664]:
+              - heading "Trace" [level=1] [ref=e665]
+              - generic [ref=e667]: Beta
+            - paragraph [ref=e668]: Simulate an HTTP request to understand the impact of your Cloudflare configurations.
+            - button "open documentation" [ref=e669] [cursor=pointer]:
+              - button "open documentation" [ref=e670]:
+                - img [ref=e671]
+                - text: Trace documentation
+          - generic [ref=e674]:
+            - generic [ref=e675]:
+              - img [ref=e677] [cursor=pointer]
+              - generic [ref=e680]:
+                - generic [ref=e681]:
+                  - heading "How to use Cloudflare Trace" [level=3] [ref=e682]
+                  - paragraph [ref=e683]:
+                    - text: Follow an HTTP/S request through Cloudflare's reverse proxy to your origin. Results will show matches for all active rules and configurations, both at the account level or for a specific domain or subdomain. If the hostname is not
+                    - link "proxied by Cloudflare" [ref=e684] [cursor=pointer]:
+                      - /url: "https://developers.cloudflare.com/dns/manage-dns-records/reference/proxied-dns-records/#proxied-records "
+                      - generic [ref=e685]: proxied by Cloudflare
+                      - img [ref=e686]
+                    - text: ", Trace will still return all the configurations that Cloudflare would have applied to the request."
+                - generic [ref=e690]:
+                  - generic [ref=e691]:
+                    - img [ref=e694]
+                    - paragraph [ref=e696]: Tune your configuration
+                    - paragraph [ref=e697]: Select a hostname that belongs to your Cloudflare account and tune its configurations.
+                  - generic [ref=e698]:
+                    - img [ref=e701]
+                    - paragraph [ref=e704]: Build a trace
+                    - paragraph [ref=e705]: Enter a URL and select options to simulate the conditions of a real HTTP/S request.
+                  - generic [ref=e706]:
+                    - img [ref=e709]
+                    - paragraph [ref=e712]: Assess results
+                    - paragraph [ref=e713]: Review the matches to assess if your configurations are evaluated and executed as intended, and re-tune as needed.
+            - generic [ref=e714]:
+              - generic [ref=e715]:
+                - generic [ref=e716]:
+                  - generic [ref=e717]:
+                    - heading "URL" [level=3] [ref=e718]
+                    - paragraph [ref=e719]: (Required)
+                  - generic [ref=e720]: Enter a URL that belongs to your account you wish to run a trace against.
+                  - textbox "Country" [ref=e722]:
+                    - /placeholder: e.g. https://example.com/test
+                - generic [ref=e723]:
+                  - generic [ref=e724]:
+                    - heading "HTTP Method" [level=3] [ref=e725]
+                    - paragraph [ref=e726]: (Required)
+                  - generic [ref=e727]: Select the HTTP method (for example, GET, POST, PUT) for the request you want to trace.
+                  - generic [ref=e733]:
+                    - generic [ref=e734]:
+                      - generic [ref=e735]: GET
+                      - combobox "Country" [ref=e737]
+                    - img [ref=e740]
+                - generic [ref=e744]:
+                  - generic [ref=e745]:
+                    - generic [ref=e746]:
+                      - heading "Protocol" [level=3] [ref=e747]
+                      - paragraph [ref=e748]: (Optional)
+                    - button "Add setting" [ref=e750] [cursor=pointer]:
+                      - img [ref=e751]
+                      - generic [ref=e753]: Add setting
+                    - paragraph [ref=e754]: Select the HTTP protocol version (for example, HTTP/1.0, HTTP/1.1, HTTP/2.0, HTTP/3.0) for the request you want to trace.
+                  - generic [ref=e762]:
+                    - generic [ref=e763]: Select
+                    - combobox "Country" [ref=e765]
+                - generic [ref=e769]:
+                  - generic [ref=e770]:
+                    - generic [ref=e771]:
+                      - heading "User Agent and Request Headers" [level=3] [ref=e772]
+                      - paragraph [ref=e773]: (Optional)
+                    - button "Add setting" [ref=e775] [cursor=pointer]:
+                      - img [ref=e776]
+                      - generic [ref=e778]: Add setting
+                    - paragraph [ref=e779]: Customize User Agent and HTTP request headers for your trace.
+                  - button "Header key" [ref=e782] [cursor=pointer]:
+                    - img [ref=e783]
+                    - generic [ref=e785]: Header key
+                - generic [ref=e786]:
+                  - generic [ref=e787]:
+                    - generic [ref=e788]:
+                      - heading "Cookies" [level=3] [ref=e789]
+                      - paragraph [ref=e790]: (Optional)
+                    - button "Add setting" [ref=e792] [cursor=pointer]:
+                      - img [ref=e793]
+                      - generic [ref=e795]: Add setting
+                    - paragraph [ref=e796]: Enter any specific request cookies associated with the URL you are tracing.
+                  - button "Set new cookies" [ref=e799] [cursor=pointer]:
+                    - img [ref=e800]
+                    - generic [ref=e802]: Set new cookies
+                - generic [ref=e803]:
+                  - generic [ref=e804]:
+                    - generic [ref=e805]:
+                      - heading "Geolocation" [level=3] [ref=e806]
+                      - paragraph [ref=e807]: (Optional)
+                    - button "Add setting" [ref=e809] [cursor=pointer]:
+                      - img [ref=e810]
+                      - generic [ref=e812]: Add setting
+                    - paragraph [ref=e813]: Specify the geographical location details for your trace, including country, region and city.
+                  - generic [ref=e814]:
+                    - generic [ref=e815]:
+                      - generic [ref=e816]: Country
+                      - generic [ref=e822]:
+                        - generic [ref=e823]: Enter a country
+                        - combobox "Country" [ref=e825]
+                    - generic [ref=e829]:
+                      - generic [ref=e830]: Region
+                      - textbox "Region" [ref=e831]:
+                        - /placeholder: Enter a region code
+                    - generic [ref=e832]:
+                      - generic [ref=e833]: City
+                      - textbox "City" [ref=e834]:
+                        - /placeholder: Enter a city
+                - generic [ref=e835]:
+                  - generic [ref=e836]:
+                    - generic [ref=e837]:
+                      - heading "Bot Score" [level=3] [ref=e838]
+                      - paragraph [ref=e839]: (Optional)
+                    - button "Add setting" [ref=e841] [cursor=pointer]:
+                      - img [ref=e842]
+                      - generic [ref=e844]: Add setting
+                    - paragraph [ref=e845]: Set the bot score for your trace. A lower score suggests automated traffic.
+                  - spinbutton [ref=e848]
+                - generic [ref=e849]:
+                  - generic [ref=e850]:
+                    - generic [ref=e851]:
+                      - heading "Request Body" [level=3] [ref=e852]
+                      - paragraph [ref=e853]: (Optional)
+                    - button "Add setting" [ref=e855] [cursor=pointer]:
+                      - img [ref=e856]
+                      - generic [ref=e858]: Add setting
+                    - paragraph [ref=e859]: Enter the content of the request body if applicable. This can include data or information you want to include with the request.
+                  - generic [ref=e863]:
+                    - generic [ref=e864]: Select a body definition
+                    - generic [ref=e867] [cursor=pointer]:
+                      - generic [ref=e869]:
+                        - option [selected]
+                      - combobox
+                - generic [ref=e870]:
+                  - generic [ref=e871]:
+                    - generic [ref=e872]:
+                      - heading "Skip Challenge" [level=3] [ref=e873]
+                      - paragraph [ref=e874]: (Optional)
+                    - button "Add setting" [ref=e876] [cursor=pointer]:
+                      - img [ref=e877]
+                      - generic [ref=e879]: Add setting
+                    - paragraph [ref=e880]: When enabled, bypasses any security challenges posed by Cloudflare security products and allows the trace to continue.
+                  - checkbox [ref=e882] [cursor=pointer]
+                - button "Send Trace" [ref=e883] [cursor=pointer]:
+                  - generic [ref=e884]: Send Trace
+              - generic [ref=e885]:
+                - heading "Request JSON" [level=3] [ref=e886]
+                - paragraph [ref=e887]: As you build your trace the details of your request will appear below
+                - code [ref=e888]:
+                  - button "Click to copy" [ref=e890] [cursor=pointer]:
+                    - img [ref=e891]
+                    - text: Click to copy
+                  - text: curl \
+                  - text: "--url \"https://api.cloudflare.com/client/v4/accounts/ffa3e1b3ce538ddb28f23dfaf7b28175/request-tracer/tracer\" \\"
+                  - text: "--header 'Content-Type: application/json' \\"
+                  - text: "--header \"Authorization: Bearer $CF_AUTH_TOKEN\" \\"
+                  - text: "--data '{ \"url\": \"\", \"method\": \"GET\" }'"
+      - contentinfo [ref=e894]:
+        - list [ref=e896]:
+          - listitem [ref=e897]:
+            - link "Support" [ref=e898] [cursor=pointer]:
+              - /url: https://support.cloudflare.com
+          - listitem [ref=e899]:
+            - link "System status" [ref=e900] [cursor=pointer]:
+              - /url: https://www.cloudflarestatus.com
+          - listitem [ref=e901]:
+            - link "Careers" [ref=e902] [cursor=pointer]:
+              - /url: https://www.cloudflare.com/careers/
+          - listitem [ref=e903]:
+            - link "Terms of Use" [ref=e904] [cursor=pointer]:
+              - /url: https://www.cloudflare.com/website-terms/
+          - listitem [ref=e905]:
+            - link "Report Security Issues" [ref=e906] [cursor=pointer]:
+              - /url: https://www.cloudflare.com/disclosure/
+          - listitem [ref=e907]:
+            - link "Privacy Policy" [ref=e908] [cursor=pointer]:
+              - /url: https://www.cloudflare.com/privacypolicy/
+          - listitem [ref=e909]:
+            - button "A blue and white pill with a checkmark and an x, representing privacy choices Cookie Preferences" [ref=e910] [cursor=pointer]:
+              - img "A blue and white pill with a checkmark and an x, representing privacy choices" [ref=e911]
+              - text: Cookie Preferences
+          - listitem [ref=e912]:
+            - generic [ref=e913]: © 2026 Cloudflare, Inc.
+  - generic:
+    - region "Notifications"
+  - generic [ref=e933]:
+    - generic [ref=e934]:
+      - heading "Enable Agent Lee access" [level=3] [ref=e935]
+      - paragraph [ref=e936]: Agent Lee needs a read-only API token to access your account.
+      - button "Read more" [ref=e939] [cursor=pointer]:
+        - text: Read more
+        - img [ref=e940]
+    - button "Create Token" [ref=e942] [cursor=pointer]

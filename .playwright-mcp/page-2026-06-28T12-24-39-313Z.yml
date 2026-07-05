@@ -1,0 +1,226 @@
+- generic [ref=e2]:
+  - banner [ref=e4]:
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - button [ref=e571] [cursor=pointer]:
+          - img [ref=e8]
+        - link [ref=e572] [cursor=pointer]:
+          - /url: ./search-console?resource_id=sc-domain%3Ae-devlethizmetleri.com
+          - img [ref=e13]
+      - generic [ref=e14]:
+        - search [ref=e16]:
+          - generic [ref=e22]:
+            - textbox [disabled] [ref=e23]: "\"e-devlethizmetleri.com\" içindeki tüm URL'leri denetleyin"
+            - combobox [ref=e573]
+          - button [ref=e574] [cursor=pointer]:
+            - img [ref=e26]
+        - generic [ref=e29]:
+          - generic [ref=e31]:
+            - button [ref=e575] [cursor=pointer]:
+              - generic [ref=e36]: 
+            - button [ref=e576] [cursor=pointer]:
+              - img [ref=e41]
+          - button [ref=e577] [cursor=pointer]:
+            - generic [ref=e47]:
+              - generic [ref=e48]: 
+              - generic [ref=e50]: "2"
+      - generic [ref=e52]:
+        - button [ref=e578] [cursor=pointer]:
+          - img [ref=e57]
+        - button [ref=e579] [cursor=pointer]:
+          - img [ref=e64]
+  - dialog [ref=e580]:
+    - navigation [ref=e581]:
+      - button [ref=e582] [cursor=pointer]:
+        - img [ref=e583]
+        - combobox [ref=e584]: e-devlethizmetleri.com
+        - generic [ref=e85]: 
+      - generic [ref=e86]:
+        - generic [ref=e87]:
+          - generic [ref=e88]:
+            - link [ref=e585] [cursor=pointer]:
+              - /url: ./search-console?resource_id=sc-domain%3Ae-devlethizmetleri.com
+              - generic [ref=e92]: home
+              - generic [ref=e94]: Genel Bakış
+            - link [ref=e586] [cursor=pointer]:
+              - /url: ./search-console/performance/insights?resource_id=sc-domain%3Ae-devlethizmetleri.com
+              - generic [ref=e99]: lightbulb_2
+              - generic [ref=e101]: Analizler
+            - link [ref=e587] [cursor=pointer]:
+              - /url: ./search-console/performance/search-analytics?resource_id=sc-domain%3Ae-devlethizmetleri.com
+              - generic [ref=e106]: trending_up
+              - generic [ref=e108]: Performans
+            - button [ref=e588] [cursor=pointer]:
+              - generic [ref=e113]: search
+              - generic [ref=e115]: URL denetimi
+          - generic [ref=e119]:
+            - generic [ref=e121]:
+              - generic [ref=e124]: Dizin oluşturma
+              - button [expanded] [ref=e589] [cursor=pointer]:
+                - generic [ref=e128]: keyboard_arrow_up
+            - generic [ref=e132]:
+              - link [ref=e590] [cursor=pointer]:
+                - /url: ./search-console/index?resource_id=sc-domain%3Ae-devlethizmetleri.com
+                - generic [ref=e136]: file_copy
+                - generic [ref=e138]: Sayfa sayısı
+              - link [ref=e591] [cursor=pointer]:
+                - /url: ./search-console/sitemaps?resource_id=sc-domain%3Ae-devlethizmetleri.com
+                - generic [ref=e143]: account_tree
+                - generic [ref=e145]: Site Haritaları
+              - link [ref=e592] [cursor=pointer]:
+                - /url: ./search-console/removals?resource_id=sc-domain%3Ae-devlethizmetleri.com
+                - generic [ref=e150]: visibility_off
+                - generic [ref=e152]: URL Kaldırma
+          - generic [ref=e156]:
+            - generic [ref=e158]:
+              - generic [ref=e161]: Deneyim
+              - button [expanded] [ref=e593] [cursor=pointer]:
+                - generic [ref=e165]: keyboard_arrow_up
+            - generic [ref=e169]:
+              - link [ref=e594] [cursor=pointer]:
+                - /url: ./search-console/core-web-vitals?resource_id=sc-domain%3Ae-devlethizmetleri.com
+                - generic [ref=e173]: speed
+                - generic [ref=e175]: Önemli Web Verileri
+              - link [ref=e595] [cursor=pointer]:
+                - /url: ./search-console/https?resource_id=sc-domain%3Ae-devlethizmetleri.com
+                - generic [ref=e180]: lock
+                - generic [ref=e182]: HTTPS
+          - generic [ref=e186]:
+            - generic [ref=e188]:
+              - generic [ref=e191]: Geliştirmeler
+              - button [expanded] [ref=e596] [cursor=pointer]:
+                - generic [ref=e195]: keyboard_arrow_up
+            - link [ref=e597] [cursor=pointer]:
+              - /url: ./search-console/r/breadcrumbs?resource_id=sc-domain%3Ae-devlethizmetleri.com
+              - generic [ref=e203]: layers
+              - generic [ref=e205]: İçerik haritaları
+          - generic [ref=e211]:
+            - generic [ref=e214]: Güvenlik ve Manuel İşlemler
+            - button [ref=e598] [cursor=pointer]:
+              - generic [ref=e218]: keyboard_arrow_down
+          - generic [ref=e219]:
+            - link [ref=e599] [cursor=pointer]:
+              - /url: ./search-console/links?resource_id=sc-domain%3Ae-devlethizmetleri.com
+              - generic [ref=e223]: link_2
+              - generic [ref=e225]: Bağlantılar
+            - link [ref=e600] [cursor=pointer]:
+              - /url: ./search-console/achievements?resource_id=sc-domain%3Ae-devlethizmetleri.com
+              - generic [ref=e230]: trophy
+              - generic [ref=e232]: Başarılar
+            - link [ref=e601] [cursor=pointer]:
+              - /url: ./search-console/settings?resource_id=sc-domain%3Ae-devlethizmetleri.com
+              - generic [ref=e237]: settings
+              - generic [ref=e239]: Ayarlar
+        - generic [ref=e241]:
+          - generic [ref=e243]:
+            - button [ref=e602] [cursor=pointer]:
+              - generic [ref=e247]: feedback
+              - generic [ref=e249]: Geri bildirim gönder
+            - button [ref=e603] [cursor=pointer]:
+              - generic [ref=e254]: info
+              - generic [ref=e256]: Search Console hakkında
+          - generic [ref=e260]:
+            - link [ref=e604] [cursor=pointer]:
+              - /url: https://myaccount.google.com/privacypolicy?hl=tr
+              - text: Gizlilik
+            - link [ref=e605] [cursor=pointer]:
+              - /url: https://myaccount.google.com/termsofservice?hl=tr
+              - text: Şartlar
+  - generic [ref=e460]:
+    - navigation [ref=e606]:
+      - heading [level=1] [ref=e607]: URL Kaldırma
+    - main [ref=e472]:
+      - generic [ref=e474]:
+        - tablist [ref=e475]:
+          - tab [selected] [ref=e608] [cursor=pointer]:
+            - generic [ref=e477]: Geçici olarak kaldırmalar
+          - tab [ref=e609] [cursor=pointer]:
+            - generic [ref=e480]: Eski içerik
+          - tab [ref=e610] [cursor=pointer]:
+            - generic [ref=e482]: Güvenli Arama filtrelemesi
+        - tabpanel [ref=e484]:
+          - generic [ref=e487]:
+            - generic [ref=e489]:
+              - generic [ref=e490]: Google Arama’dan acilen içerik kaldırmanız mı gerekiyor?
+              - button [ref=e611] [cursor=pointer]:
+                - generic [ref=e495]: Yeni İstek
+            - generic [ref=e496]:
+              - heading [level=1] [ref=e612]:
+                - generic [ref=e498]:
+                  - text: Gönderilen istekler
+                  - button [ref=e613] [cursor=pointer]:
+                    - generic [ref=e502]: 
+              - button [ref=e614] [cursor=pointer]:
+                - generic [ref=e508]: 
+            - table [ref=e510]:
+              - rowgroup [ref=e511]:
+                - row [ref=e615]:
+                  - columnheader [ref=e616]:
+                    - text: URL
+                    - img [ref=e515] [cursor=pointer]
+                  - columnheader [ref=e617]:
+                    - generic [ref=e519]:
+                      - text: Tür
+                      - button [ref=e618] [cursor=pointer]:
+                        - generic [ref=e523]: 
+                    - img [ref=e525] [cursor=pointer]
+                  - columnheader [ref=e619]:
+                    - text: İstendi
+                    - img [ref=e529] [cursor=pointer]
+                  - columnheader [ref=e620]:
+                    - text: Durum
+                    - img [ref=e533] [cursor=pointer]
+              - rowgroup [ref=e535]:
+                - row [ref=e621]:
+                  - cell [ref=e622]: https://e-devlethizmetleri.com/cozumler/e-arsiv-sakarya/
+                  - cell [ref=e623]:
+                    - generic [ref=e540]: URL'yi geçici olarak kaldırma
+                  - cell [ref=e624]:
+                    - generic [ref=e543]: 28 Haz 2026
+                  - cell [ref=e625]:
+                    - generic [ref=e546]:
+                      - generic [ref=e547]: İstek gerçekleştiriliyor
+                      - button [ref=e550] [cursor=pointer]:
+                        - generic [ref=e553]: 
+            - generic [ref=e556]:
+              - generic [ref=e558]:
+                - generic [ref=e559]: "Sayfa başına satır sayısı:"
+                - listbox [ref=e626] [cursor=pointer]:
+                  - text: "5"
+                  - option [selected] [ref=e627]: "10"
+                  - text: 25 50 100 250 500
+              - generic [ref=e562]:
+                - generic [ref=e564]: 1-1 / 1
+                - generic [ref=e565]:
+                  - generic [ref=e567]: 
+                  - generic [ref=e569]: 
+  - dialog "Yeni İstek" [ref=e630]:
+    - heading "Yeni İstek" [level=1] [ref=e632]
+    - generic [ref=e635]:
+      - tablist [ref=e636]:
+        - tab "URL'yi geçici olarak kaldırma" [selected] [ref=e637] [cursor=pointer]:
+          - generic [ref=e638]: URL'yi geçici olarak kaldırma
+        - tab "Snippet'i temizleyin" [ref=e640] [cursor=pointer]:
+          - generic [ref=e641]: Snippet'i temizleyin
+      - tabpanel [ref=e643]:
+        - generic [ref=e644]:
+          - text: URL'lerin yaklaşık altı ay boyunca Google Arama sonuçlarında görünmesi engellenir ve Google bir sonraki sefer sayfayı yeniden dizine eklediğinde snippet temizlenir. Kalıcı bir şekilde kaldırmak için sayfaların dizine eklenmesini engelleyin veya siteden kaldırın.
+          - link "Daha fazla bilgi" [ref=e645] [cursor=pointer]:
+            - /url: https://support.google.com/webmasters/answer/9689846?hl=tr#make_permanent
+        - generic [ref=e646]:
+          - textbox [ref=e648]:
+            - /placeholder: URL'yi girin
+          - paragraph [ref=e650]: Tüm URL varyasyonları (www olan/www olmayan ve http/https) etkilenecektir
+        - radiogroup [ref=e651]:
+          - generic [ref=e652]:
+            - radio [checked] [ref=e653] [cursor=pointer]
+            - text: Sadece bu URL'yi kaldır
+          - generic [ref=e657]:
+            - radio [ref=e658] [cursor=pointer]
+            - text: Bu ön ekle başlayan tüm URL'leri kaldır
+        - generic [ref=e661]: Bu içeriğe yönlendiren diğer URL’lerin kaldırılması ayrı olarak talep edilmelidir
+    - generic [ref=e662]:
+      - button "iptal" [active] [ref=e663] [cursor=pointer]:
+        - generic [ref=e666]: iptal
+      - button "İleri" [disabled] [ref=e667]:
+        - generic [ref=e670]: İleri

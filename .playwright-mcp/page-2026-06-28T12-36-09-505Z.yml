@@ -1,0 +1,311 @@
+- generic [ref=e2]:
+  - banner [ref=e4]:
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - button "Ana menü" [ref=e7] [cursor=pointer]:
+          - img [ref=e8]
+        - link "Google Search Console" [ref=e12] [cursor=pointer]:
+          - /url: ./search-console?resource_id=sc-domain%3Ae-devlethizmetleri.com
+          - img [ref=e13]
+      - generic [ref=e14]:
+        - search [ref=e16]:
+          - generic [ref=e22]:
+            - textbox [disabled] [ref=e23]: "\"e-devlethizmetleri.com\" içindeki tüm URL'leri denetleyin"
+            - combobox "e-devlethizmetleri.com adresindeki tüm URL'leri inceleyin" [ref=e24]
+          - button "Arama" [ref=e25] [cursor=pointer]:
+            - img [ref=e26]
+        - generic [ref=e29]:
+          - generic [ref=e31]:
+            - button "Yardım" [ref=e33] [cursor=pointer]:
+              - generic [ref=e36]: 
+            - button "Kullanıcı ayarları" [ref=e38] [cursor=pointer]:
+              - img [ref=e41]
+          - 'button "Okunmamış mesaj sayısı: 2" [ref=e45] [cursor=pointer]':
+            - generic [ref=e47]:
+              - generic [ref=e48]: 
+              - generic [ref=e50]: "2"
+      - generic [ref=e52]:
+        - button "Google uygulamaları" [ref=e56] [cursor=pointer]:
+          - img [ref=e57]
+        - 'button "Google Hesabı: Aycan Firtin (aycan.firtin@gmail.com)" [ref=e62] [cursor=pointer]':
+          - img [ref=e64]
+  - dialog "navigational drawer" [ref=e68]:
+    - navigation "Birincil" [ref=e71]:
+      - button "Arama özelliği" [ref=e75] [cursor=pointer]:
+        - img "site simgesi" [ref=e77]
+        - combobox "e-devlethizmetleri.com" [ref=e84]
+        - generic [ref=e85]: 
+      - generic [ref=e86]:
+        - generic [ref=e87]:
+          - generic [ref=e88]:
+            - link "Genel Bakış" [ref=e90] [cursor=pointer]:
+              - /url: ./search-console?resource_id=sc-domain%3Ae-devlethizmetleri.com
+              - generic [ref=e92]: home
+              - generic [ref=e94]: Genel Bakış
+            - link "Analizler" [ref=e97] [cursor=pointer]:
+              - /url: ./search-console/performance/insights?resource_id=sc-domain%3Ae-devlethizmetleri.com
+              - generic [ref=e99]: lightbulb_2
+              - generic [ref=e101]: Analizler
+            - link "Performans" [ref=e104] [cursor=pointer]:
+              - /url: ./search-console/performance/search-analytics?resource_id=sc-domain%3Ae-devlethizmetleri.com
+              - generic [ref=e106]: trending_up
+              - generic [ref=e108]: Performans
+            - button "URL denetimi" [ref=e111] [cursor=pointer]:
+              - generic [ref=e113]: search
+              - generic [ref=e115]: URL denetimi
+          - generic [ref=e119]:
+            - generic [ref=e121]:
+              - generic [ref=e124]: Dizin oluşturma
+              - button "Dizin oluşturma rapor bölümü" [expanded] [ref=e126] [cursor=pointer]:
+                - generic [ref=e128]: keyboard_arrow_up
+            - generic [ref=e132]:
+              - link "Sayfa sayısı" [ref=e134] [cursor=pointer]:
+                - /url: ./search-console/index?resource_id=sc-domain%3Ae-devlethizmetleri.com
+                - generic [ref=e136]: file_copy
+                - generic [ref=e138]: Sayfa sayısı
+              - link "Site Haritaları" [ref=e141] [cursor=pointer]:
+                - /url: ./search-console/sitemaps?resource_id=sc-domain%3Ae-devlethizmetleri.com
+                - generic [ref=e143]: account_tree
+                - generic [ref=e145]: Site Haritaları
+              - link "URL Kaldırma" [ref=e148] [cursor=pointer]:
+                - /url: ./search-console/removals?resource_id=sc-domain%3Ae-devlethizmetleri.com
+                - generic [ref=e150]: visibility_off
+                - generic [ref=e152]: URL Kaldırma
+          - generic [ref=e156]:
+            - generic [ref=e158]:
+              - generic [ref=e161]: Deneyim
+              - button "Deneyim rapor bölümü" [expanded] [ref=e163] [cursor=pointer]:
+                - generic [ref=e165]: keyboard_arrow_up
+            - generic [ref=e169]:
+              - link "Önemli Web Verileri" [ref=e171] [cursor=pointer]:
+                - /url: ./search-console/core-web-vitals?resource_id=sc-domain%3Ae-devlethizmetleri.com
+                - generic [ref=e173]: speed
+                - generic [ref=e175]: Önemli Web Verileri
+              - link "HTTPS" [ref=e178] [cursor=pointer]:
+                - /url: ./search-console/https?resource_id=sc-domain%3Ae-devlethizmetleri.com
+                - generic [ref=e180]: lock
+                - generic [ref=e182]: HTTPS
+          - generic [ref=e186]:
+            - generic [ref=e188]:
+              - generic [ref=e191]: Geliştirmeler
+              - button "Geliştirmeler rapor bölümü" [expanded] [ref=e193] [cursor=pointer]:
+                - generic [ref=e195]: keyboard_arrow_up
+            - link "İçerik haritaları" [ref=e201] [cursor=pointer]:
+              - /url: ./search-console/r/breadcrumbs?resource_id=sc-domain%3Ae-devlethizmetleri.com
+              - generic [ref=e203]: layers
+              - generic [ref=e205]: İçerik haritaları
+          - generic [ref=e211]:
+            - generic [ref=e214]: Güvenlik ve Manuel İşlemler
+            - button "Güvenlik ve Manuel İşlemler rapor bölümü" [ref=e216] [cursor=pointer]:
+              - generic [ref=e218]: keyboard_arrow_down
+          - generic [ref=e219]:
+            - link "Bağlantı raporu" [ref=e221] [cursor=pointer]:
+              - /url: ./search-console/links?resource_id=sc-domain%3Ae-devlethizmetleri.com
+              - generic [ref=e223]: link_2
+              - generic [ref=e225]: Bağlantılar
+            - link "Başarılar" [ref=e228] [cursor=pointer]:
+              - /url: ./search-console/achievements?resource_id=sc-domain%3Ae-devlethizmetleri.com
+              - generic [ref=e230]: trophy
+              - generic [ref=e232]: Başarılar
+            - link "Ayarlar" [ref=e235] [cursor=pointer]:
+              - /url: ./search-console/settings?resource_id=sc-domain%3Ae-devlethizmetleri.com
+              - generic [ref=e237]: settings
+              - generic [ref=e239]: Ayarlar
+        - generic [ref=e241]:
+          - generic [ref=e243]:
+            - button "Geri bildirim gönder" [ref=e245] [cursor=pointer]:
+              - generic [ref=e247]: feedback
+              - generic [ref=e249]: Geri bildirim gönder
+            - button "Search Console hakkında" [ref=e252] [cursor=pointer]:
+              - generic [ref=e254]: info
+              - generic [ref=e256]: Search Console hakkında
+          - generic [ref=e260]:
+            - link "Gizlilik" [ref=e261] [cursor=pointer]:
+              - /url: https://myaccount.google.com/privacypolicy?hl=tr
+            - link "Şartlar" [ref=e262] [cursor=pointer]:
+              - /url: https://myaccount.google.com/termsofservice?hl=tr
+  - generic [ref=e265]:
+    - generic [ref=e266]:
+      - generic [ref=e268]:
+        - navigation "İçerik haritaları" [ref=e270]:
+          - heading "Performans" [level=1] [ref=e273]
+        - button "DIŞA AKTAR" [ref=e277] [cursor=pointer]:
+          - generic [ref=e280]:
+            - generic [ref=e281]: 
+            - generic [ref=e282]: DIŞA AKTAR
+      - generic [ref=e285]:
+        - generic [ref=e286]:
+          - generic [ref=e287]:
+            - radiogroup "Select time range" [ref=e288]:
+              - generic [ref=e290]:
+                - radio "24 saat" [ref=e291] [cursor=pointer]:
+                  - generic [ref=e292]:
+                    - generic [ref=e294]: 24 saat
+                    - img [ref=e296]
+                - radio "7 gün" [ref=e299] [cursor=pointer]:
+                  - generic [ref=e300]:
+                    - generic [ref=e302]: 7 gün
+                    - img [ref=e304]
+                - radio "28 gün" [ref=e307] [cursor=pointer]:
+                  - generic [ref=e308]:
+                    - generic [ref=e310]: 28 gün
+                    - img [ref=e312]
+                - radio "3 ay" [checked] [ref=e315] [cursor=pointer]:
+                  - generic [ref=e316]:
+                    - generic [ref=e318]: 3 ay
+                    - img [ref=e320]
+            - button "More time ranges" [ref=e325] [cursor=pointer]:
+              - generic [ref=e327]: Diğer
+              - generic [ref=e329]: arrow_drop_down
+          - list [ref=e330]:
+            - generic [ref=e331]:
+              - generic [ref=e335]:
+                - 'button "Arama türü: Web" [ref=e337] [cursor=pointer]':
+                  - generic [ref=e339]: "Arama türü: Web"
+                  - generic [ref=e341]: arrow_drop_down
+                - tooltip [ref=e342]: "Arama türü: Web"
+              - generic [ref=e347]:
+                - button "Filtre ekle" [ref=e349] [cursor=pointer]:
+                  - generic [ref=e352]: add
+                  - generic [ref=e353]: Filtre ekle
+                - tooltip [ref=e354]: Filtre ekle
+              - generic [ref=e357]:
+                - button "Yapay zekayı kullanarak performans raporunuzu özelleştirin" [ref=e358] [cursor=pointer]:
+                  - generic [ref=e360]: filter_list_spark
+                - tooltip [ref=e362]: Yapay zekayı kullanarak performans raporunuzu özelleştirin
+        - generic [ref=e363]: "Son güncelleme: 3,5 saat önce"
+    - main [ref=e371]:
+      - generic [ref=e374]:
+        - generic [ref=e375]:
+          - generic [ref=e376]:
+            - generic [ref=e377] [cursor=pointer]:
+              - button "Toplam tıklama sayısı 0" [ref=e378]:
+                - generic [ref=e382]:
+                  - generic "Toplam tıklama sayısı" [ref=e383]:
+                    - generic [ref=e384]: 
+                    - generic [ref=e385]: Toplam tıklama sayısı
+                  - generic "0" [ref=e386]
+              - button "null" [ref=e389]:
+                - generic [ref=e390]: 
+            - generic [ref=e391] [cursor=pointer]:
+              - button "Toplam gösterim sayısı 7" [ref=e392]:
+                - generic [ref=e396]:
+                  - generic "Toplam gösterim sayısı" [ref=e397]:
+                    - generic [ref=e398]: 
+                    - generic [ref=e399]: Toplam gösterim sayısı
+                  - generic "7" [ref=e400]
+              - button "null" [ref=e403]:
+                - generic [ref=e404]: 
+            - generic [ref=e405] [cursor=pointer]:
+              - button "Ortalama TO %0" [ref=e406]:
+                - generic [ref=e410]:
+                  - generic "Ortalama TO" [ref=e411]:
+                    - generic [ref=e413]: Ortalama TO
+                  - generic "%0" [ref=e414]
+              - button "null" [ref=e417]:
+                - generic [ref=e418]: 
+            - generic [ref=e419] [cursor=pointer]:
+              - button "Ortalama konum 10,7" [ref=e420]:
+                - generic [ref=e424]:
+                  - generic "Ortalama konum" [ref=e425]:
+                    - generic [ref=e427]: Ortalama konum
+                  - generic "10,7" [ref=e428]
+              - button "null" [ref=e431]:
+                - generic [ref=e432]: 
+          - 'button "Seçilen Zaman Ayrıntı Düzeyi: Günlük" [ref=e437] [cursor=pointer]':
+            - generic [ref=e439]: Günlük
+            - img [ref=e441]
+        - generic [ref=e444]:
+          - generic [ref=e445]:
+            - generic [ref=e447]: Tıklamalar
+            - generic [ref=e449]: Gösterimler
+          - application "chart" [ref=e451]:
+            - img [ref=e452]:
+              - generic [ref=e453]:
+                - generic [ref=e454]:
+                  - generic [ref=e456]: 18.06.2026
+                  - generic [ref=e458]: 19.06.2026
+                  - generic [ref=e460]: 20.06.2026
+                  - generic [ref=e462]: 21.06.2026
+                  - generic [ref=e464]: 22.06.2026
+                  - generic [ref=e466]: 23.06.2026
+                  - generic [ref=e468]: 24.06.2026
+                  - generic [ref=e470]: 25.06.2026
+                  - generic [ref=e472]: 26.06.2026
+                - generic [ref=e473]:
+                  - generic [ref=e475]: "3"
+                  - generic [ref=e477]: "2"
+                  - generic [ref=e479]: "1"
+                  - generic [ref=e481]: "0"
+                - generic [ref=e482]:
+                  - generic [ref=e484]: "6"
+                  - generic [ref=e486]: "4"
+                  - generic [ref=e488]: "2"
+                  - generic [ref=e490]: "0"
+            - generic [ref=e498]: 18 Haziran 2026 ile 26 Haziran 2026 arasındaki Toplam tıklama sayısı, Toplam gösterim sayısı, Ortalama TO ve Ortalama konum sayılarını içeren Grafik
+      - generic [ref=e501]:
+        - tablist [ref=e503]:
+          - tab "Sorgular" [selected] [ref=e504] [cursor=pointer]:
+            - generic [ref=e506]: Sorgular
+          - tab "Sayfa sayısı" [ref=e508] [cursor=pointer]:
+            - generic [ref=e510]: Sayfa sayısı
+          - tab "Ülkeler" [ref=e511] [cursor=pointer]:
+            - generic [ref=e513]: Ülkeler
+          - tab "Cihazlar" [ref=e514] [cursor=pointer]:
+            - generic [ref=e516]: Cihazlar
+          - tab "Arama görünümü" [ref=e517] [cursor=pointer]:
+            - generic [ref=e519]: Arama görünümü
+          - tab "Gün" [ref=e520] [cursor=pointer]:
+            - generic [ref=e522]: Gün
+        - tabpanel [ref=e525]:
+          - generic [ref=e529]:
+            - button "Tablo satırlarını filtrele" [ref=e536] [cursor=pointer]:
+              - generic [ref=e539]: 
+            - table [ref=e543]:
+              - rowgroup [ref=e544]:
+                - row "En çok yapılan sorgular Sort En çok yapılan sorgular Sort Tıklamalar Tıklamalar Sort Gösterimler Gösterimler" [ref=e545]:
+                  - columnheader "En çok yapılan sorgular Sort En çok yapılan sorgular" [ref=e546]:
+                    - generic [ref=e547]:
+                      - generic [ref=e549]: En çok yapılan sorgular
+                      - button "Sort En çok yapılan sorgular" [ref=e550] [cursor=pointer]:
+                        - img [ref=e552]
+                  - columnheader "Sort Tıklamalar Tıklamalar" [ref=e554]:
+                    - generic [ref=e555]:
+                      - button "Sort Tıklamalar" [ref=e556] [cursor=pointer]:
+                        - img [ref=e558]
+                      - generic [ref=e561]: Tıklamalar
+                  - columnheader "Sort Gösterimler Gösterimler" [ref=e562]:
+                    - generic [ref=e563]:
+                      - button "Sort Gösterimler" [ref=e564] [cursor=pointer]:
+                        - img [ref=e566]
+                      - generic [ref=e569]: Gösterimler
+              - rowgroup [ref=e570]:
+                - row "e imza sakarya 0 1" [ref=e571]:
+                  - cell "e imza sakarya" [ref=e572]:
+                    - generic [ref=e574]: e imza sakarya
+                  - cell "0" [ref=e575]:
+                    - generic [ref=e577]: "0"
+                  - cell "1" [ref=e578]:
+                    - generic [ref=e580]: "1"
+            - generic [ref=e583]:
+              - generic [ref=e585]:
+                - generic [ref=e586]: "Sayfa başına satır sayısı:"
+                - listbox "Sayfa başına satır sayısı" [ref=e587] [cursor=pointer]:
+                  - option "5"
+                  - option "10" [selected] [ref=e588]
+                  - option "25"
+                  - option "50"
+                  - option "100"
+                  - option "250"
+                  - option "500"
+              - generic [ref=e589]:
+                - generic [ref=e590]: 1-1 / 1
+                - generic [ref=e591]:
+                  - generic [ref=e593]:
+                    - button "Previous page" [disabled] [ref=e594]:
+                      - img [ref=e597]
+                    - tooltip [ref=e599]: Previous page
+                  - generic [ref=e601]:
+                    - button "Next page" [disabled] [ref=e602]:
+                      - img [ref=e605]
+                    - tooltip [ref=e607]: Next page

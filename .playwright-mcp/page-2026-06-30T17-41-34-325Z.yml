@@ -1,0 +1,855 @@
+- generic [active] [ref=f79e1]:
+  - button "Web Sitesini Ekran Okuyucu Modunda Kullan" [ref=f79e301]
+  - link "Erişilebilirlik Ekran Okuyucu Kılavuzu, Geri Bildirim ve Sorun Bildirme | Yeni pencere" [ref=f79e302] [cursor=pointer]:
+    - /url: https://accessibe.com/blog/knowledgebase/screen-reader-guide
+  - generic:
+    - generic:
+      - region "Bağlantıları Atla":
+        - generic:
+          - link "İçeriğe Atla":
+            - /url: "#acsbContent"
+            - text: İçeriğe Atla
+            - generic:
+              - generic: ↵
+              - text: ENTER
+  - dialog [ref=f79e303]:
+    - generic [ref=f79e304]:
+      - img [ref=f79e305]
+      - text: Metni basitleştir
+    - button [ref=f79e307] [cursor=pointer]:
+      - img [ref=f79e308]
+  - button "Erişilebilirlik seçeneklerini, bildirimi ve yardımı aç" [ref=f79e311] [cursor=pointer]:
+    - generic:
+      - img [ref=f79e312]
+      - img
+      - img
+  - generic [ref=f79e2]:
+    - navigation [ref=f79e3]:
+      - generic [ref=f79e6]:
+        - generic [ref=f79e7]:
+          - text: Müşteri Hizmetleri
+          - link "0 (212) 213 1 213":
+            - /url: "#"
+        - list [ref=f79e8]:
+          - listitem [ref=f79e9]:
+            - link "Destek" [ref=f79e10] [cursor=pointer]:
+              - /url: /hemendestek
+          - listitem [ref=f79e11]:
+            - link "Kampanyalar" [ref=f79e12] [cursor=pointer]:
+              - /url: /kampanyalar
+          - listitem [ref=f79e13]:
+            - link "İK" [ref=f79e14] [cursor=pointer]:
+              - /url: /ik/
+          - listitem [ref=f79e15]:
+            - link "Blog" [ref=f79e16] [cursor=pointer]:
+              - /url: /blog/
+          - listitem [ref=f79e17]:
+            - text: Para Birimi
+            - generic [ref=f79e20] [cursor=pointer]:
+              - generic [ref=f79e21]: US $
+              - generic [ref=f79e22]: TL ₺
+          - listitem [ref=f79e24]: 1$ = 46,66 TL
+      - generic [ref=f79e25]:
+        - text:   
+        - link "Natro Web Hosting" [ref=f79e27] [cursor=pointer]:
+          - /url: https://www.natro.com
+          - img "Natro Web Hosting" [ref=f79e28]
+        - generic [ref=f79e29]:
+          - list [ref=f79e30]:
+            - listitem [ref=f79e31]:
+              - link "Domain" [expanded] [ref=f79e32] [cursor=pointer]:
+                - /url: https://www.natro.com/domain-sorgulama
+              - text: ₺ $ ₺ $ ₺ $ ₺ $      
+            - listitem [ref=f79e33]:
+              - link "Yapay Zeka ikonu Web Sitesi Yapay Zeka" [expanded] [ref=f79e34] [cursor=pointer]:
+                - /url: /websitesi-tasarimi-araci
+                - img "Yapay Zeka ikonu" [ref=f79e35]
+                - text: Web Sitesi
+                - generic [ref=f79e36]: Yapay Zeka
+              - text:    ₺ $ ₺ $
+            - listitem [ref=f79e37]:
+              - link "Hosting" [expanded] [ref=f79e38] [cursor=pointer]:
+                - /url: /hosting
+              - text: ₺ $ ₺ $     ₺ $
+            - listitem [ref=f79e39]:
+              - link "E-Mail" [expanded] [ref=f79e40] [cursor=pointer]:
+                - /url: /hosting/mail-hosting
+              - text:    ₺ $
+            - listitem [ref=f79e41]:
+              - link "Sunucu" [expanded] [ref=f79e42] [cursor=pointer]:
+                - /url: /sunucu-kiralama
+              - text: /ay ₺ /ay $ /ay ₺ /ay $ /ay ₺ /ay $ /ay ₺ /ay $    
+            - listitem [ref=f79e43]:
+              - link "SSL" [expanded] [ref=f79e44] [cursor=pointer]:
+                - /url: /ssl/ssl-sertifikasi
+              - text: ₺ $    
+            - listitem [ref=f79e45]:
+              - link "Marka" [ref=f79e46] [cursor=pointer]:
+                - /url: /marka-tescil-sorgulama
+            - listitem [ref=f79e47]:
+              - link "Yapay Zeka" [ref=f79e48] [cursor=pointer]:
+                - /url: /web-sitesi/yapay-zeka-site-olusturucu
+                - img [ref=f79e50]
+                - generic [ref=f79e51]: Yapay Zeka
+          - list [ref=f79e52]:
+            - listitem [ref=f79e53]:
+              - generic [ref=f79e54]:
+                - link " Hesabım  UMAY TÜM BİLİŞİM ..." [ref=f79e55] [cursor=pointer]:
+                  - /url: /musteri
+                  - generic [ref=f79e56]: 
+                  - generic [ref=f79e57]: Hesabım
+                  - generic [ref=f79e58]: 
+                  - generic [ref=f79e59]: UMAY TÜM BİLİŞİM ...
+                - text:           
+            - listitem [ref=f79e60]:
+              - link "Sepetim" [ref=f79e61] [cursor=pointer]:
+                - /url: /sepet
+                - generic [ref=f79e62]: 
+    - text:  /ay ₺ /ay $ /ay ₺ /ay $    
+    - generic [ref=f79e63]:
+      - generic [ref=f79e67]:
+        - link "Destek /" [ref=f79e68] [cursor=pointer]:
+          - /url: /hemendestek
+        - link "Destek Talebi /" [ref=f79e69] [cursor=pointer]:
+          - /url: /hemendestek/Taleplerim.asp
+        - text: Yeni Destek Talebi
+      - generic [ref=f79e70]:
+        - heading "Yeni Destek Talebi" [level=1] [ref=f79e73]
+        - generic [ref=f79e77]:
+          - generic [ref=f79e79]:
+            - generic [ref=f79e80]: Ürün / Hizmet
+            - generic [ref=f79e82]:
+              - combobox [ref=f79e83]:
+                - option "Seçiniz"
+                - option "Alan Adı" [selected]
+                - option "E-Posta Hosting"
+                - option "Web Hosting"
+                - option "WordPress - JetPress Hosting"
+                - option "Natro.Site"
+                - option "WordPress - WPMax"
+                - option "Natro Jetsite"
+                - option "E-ticaret Hosting"
+                - option "Bayi Hosting"
+                - option "Sunucu"
+                - option "Veritabanı"
+                - option "SSL Sertifikası"
+                - option "Muhasebe"
+                - option "Marka Tescili"
+                - option "Müşteri Hesabı İşlemleri"
+              - text: 
+          - generic [ref=f79e85]:
+            - generic [ref=f79e86]: Talep Konusu
+            - generic [ref=f79e88]:
+              - combobox [ref=f79e315]:
+                - option "Seçiniz" [disabled]
+                - option "Dns İşlemleri" [selected]
+                - option "Whois İşlemleri"
+                - option "Alan Adı Yönetimi"
+                - option "Alan Adı Yönetimi > Backorder"
+                - option "Transfer"
+                - option "Belge gerektiren .tr uzantılı alan adı işlemleri"
+                - option "2.El alan adları"
+              - text: 
+        - generic [ref=f79e316]:
+          - generic [ref=f79e317]:
+            - heading "Bu konular probleminizi çözebilir." [level=3] [ref=f79e318]
+            - generic:
+              - link " Name Server Adresleriniz Nelerdir? Natro üzerinden satın almış olduğunuz tüm hosting paketleri için aşağıdaki nameserverları yazmanız gerekmektedir. ns1.natrohost.com , ns2.natrohost.com  117312  2309" [ref=f79e319] [cursor=pointer]:
+                - /url: /hemendestek/bilgibankasi/name-server-adresleriniz-nelerdir
+                - generic [ref=f79e320]:
+                  - generic [ref=f79e321]:
+                    - heading " Name Server Adresleriniz Nelerdir?" [level=3] [ref=f79e323]:
+                      - generic [ref=f79e324]: 
+                      - text: Name Server Adresleriniz Nelerdir?
+                    - generic [ref=f79e325]: Natro üzerinden satın almış olduğunuz tüm hosting paketleri için aşağıdaki nameserverları yazmanız gerekmektedir. ns1.natrohost.com , ns2.natrohost.com
+                  - generic [ref=f79e326]:
+                    - generic [ref=f79e327]:
+                      - generic [ref=f79e328]: 
+                      - generic [ref=f79e329]: "117312"
+                    - generic [ref=f79e331]:
+                      - generic [ref=f79e332]: 
+                      - generic [ref=f79e333]: "2309"
+              - link " Alan adı yaşam periyodu nedir? Bir alan adının kayıt edilmesi ile başlayan süreç Alan Adı Yaşam Periyodudur. Alan adı yaşam periyodundaki adımlar aşağıdaki gibidir. Süreler .com uzantısı için örnek olarak verilmiştir.  9446  87" [ref=f79e334] [cursor=pointer]:
+                - /url: /hemendestek/bilgibankasi/alan-adi-yasam-periyodu-nedir
+                - generic [ref=f79e335]:
+                  - generic [ref=f79e336]:
+                    - heading " Alan adı yaşam periyodu nedir?" [level=3] [ref=f79e338]:
+                      - generic [ref=f79e339]: 
+                      - text: Alan adı yaşam periyodu nedir?
+                    - generic [ref=f79e340]: Bir alan adının kayıt edilmesi ile başlayan süreç Alan Adı Yaşam Periyodudur. Alan adı yaşam periyodundaki adımlar aşağıdaki gibidir. Süreler .com uzantısı için örnek olarak verilmiştir.
+                  - generic [ref=f79e341]:
+                    - generic [ref=f79e342]:
+                      - generic [ref=f79e343]: 
+                      - generic [ref=f79e344]: "9446"
+                    - generic [ref=f79e346]:
+                      - generic [ref=f79e347]: 
+                      - generic [ref=f79e348]: "87"
+              - link " Alan adımın transfer koduna nasıl ulaşabilirim? Alan adınızın transfer koduna şu şekilde ulaşılabilir; Natro.com adresindeki müşteri panelinizdeki alan adı yönetimi altındaki alan adınızı seçip detaylara tıklayınız.  21703  283" [ref=f79e349] [cursor=pointer]:
+                - /url: /hemendestek/bilgibankasi/alan-adimin-transfer-koduna-nasil-ulasabilirim
+                - generic [ref=f79e350]:
+                  - generic [ref=f79e351]:
+                    - heading " Alan adımın transfer koduna nasıl ulaşabilirim?" [level=3] [ref=f79e353]:
+                      - generic [ref=f79e354]: 
+                      - text: Alan adımın transfer koduna nasıl ulaşabilirim?
+                    - generic [ref=f79e355]: Alan adınızın transfer koduna şu şekilde ulaşılabilir; Natro.com adresindeki müşteri panelinizdeki alan adı yönetimi altındaki alan adınızı seçip detaylara tıklayınız.
+                  - generic [ref=f79e356]:
+                    - generic [ref=f79e357]:
+                      - generic [ref=f79e358]: 
+                      - generic [ref=f79e359]: "21703"
+                    - generic [ref=f79e361]:
+                      - generic [ref=f79e362]: 
+                      - generic [ref=f79e363]: "283"
+              - link " İkinci El Alan Adı Platformunda Hangi Alan Adı Uzantıları Satışa Çıkartılabilir? Yalnızca Natro üzerinde kayıtlı olan .COM, .NET ve .ORG uzantılı alan adları ikinci el olarak satışa çıkartılabilir.  7899  40" [ref=f79e364] [cursor=pointer]:
+                - /url: /hemendestek/bilgibankasi/ikinci-el-alan-adi-platformunda-hangi-alan-adi-uzantilari-satisa-cikartilabilir
+                - generic [ref=f79e365]:
+                  - generic [ref=f79e366]:
+                    - heading " İkinci El Alan Adı Platformunda Hangi Alan Adı Uzantıları Satışa Çıkartılabilir?" [level=3] [ref=f79e368]:
+                      - generic [ref=f79e369]: 
+                      - text: İkinci El Alan Adı Platformunda Hangi Alan Adı Uzantıları Satışa Çıkartılabilir?
+                    - generic [ref=f79e370]: Yalnızca Natro üzerinde kayıtlı olan .COM, .NET ve .ORG uzantılı alan adları ikinci el olarak satışa çıkartılabilir.
+                  - generic [ref=f79e371]:
+                    - generic [ref=f79e372]:
+                      - generic [ref=f79e373]: 
+                      - generic [ref=f79e374]: "7899"
+                    - generic [ref=f79e376]:
+                      - generic [ref=f79e377]: 
+                      - generic [ref=f79e378]: "40"
+              - link " Hangi alan adları satışa çıkartılamaz? .com, .net, .org uzantıları dışındaki ve süre bitimine 45 günden az kalmış alan adları satışa çıkartılamaz. Satışta olması durumunda ise, işlem durdurulur. Alan adı sahibi uzatma işlemi yaptıktan sonra ilgili alan adını tekrar satışa çıkartabilir.  5604  17" [ref=f79e379] [cursor=pointer]:
+                - /url: /hemendestek/bilgibankasi/hangi-alan-adlari-satisa-cikartilamaz
+                - generic [ref=f79e380]:
+                  - generic [ref=f79e381]:
+                    - heading " Hangi alan adları satışa çıkartılamaz?" [level=3] [ref=f79e383]:
+                      - generic [ref=f79e384]: 
+                      - text: Hangi alan adları satışa çıkartılamaz?
+                    - generic [ref=f79e385]: .com, .net, .org uzantıları dışındaki ve süre bitimine 45 günden az kalmış alan adları satışa çıkartılamaz. Satışta olması durumunda ise, işlem durdurulur. Alan adı sahibi uzatma işlemi yaptıktan sonra ilgili alan adını tekrar satışa çıkartabilir.
+                  - generic [ref=f79e386]:
+                    - generic [ref=f79e387]:
+                      - generic [ref=f79e388]: 
+                      - generic [ref=f79e389]: "5604"
+                    - generic [ref=f79e391]:
+                      - generic [ref=f79e392]: 
+                      - generic [ref=f79e393]: "17"
+              - link " Alan adı listeleme Fiyatı Nasıl Belirlenir? Satışa çıkartılan tüm alan adları için, satıcının belirlediği fiyata +5$ alıcı komisyonu eklenir.  6556  13" [ref=f79e394] [cursor=pointer]:
+                - /url: /hemendestek/bilgibankasi/alan-adi-listeleme-fiyati-nasil-belirlenir
+                - generic [ref=f79e395]:
+                  - generic [ref=f79e396]:
+                    - heading " Alan adı listeleme Fiyatı Nasıl Belirlenir?" [level=3] [ref=f79e398]:
+                      - generic [ref=f79e399]: 
+                      - text: Alan adı listeleme Fiyatı Nasıl Belirlenir?
+                    - generic [ref=f79e400]: Satışa çıkartılan tüm alan adları için, satıcının belirlediği fiyata +5$ alıcı komisyonu eklenir.
+                  - generic [ref=f79e401]:
+                    - generic [ref=f79e402]:
+                      - generic [ref=f79e403]: 
+                      - generic [ref=f79e404]: "6556"
+                    - generic [ref=f79e406]:
+                      - generic [ref=f79e407]: 
+                      - generic [ref=f79e408]: "13"
+              - link " Satış Komisyonu Nedir? Başarılı olarak tamamlanan tüm alan adı satışlarından %5 işlem komisyonu alınır.  7559  18" [ref=f79e409] [cursor=pointer]:
+                - /url: /hemendestek/bilgibankasi/satis-komisyonu-nedir
+                - generic [ref=f79e410]:
+                  - generic [ref=f79e411]:
+                    - heading " Satış Komisyonu Nedir?" [level=3] [ref=f79e413]:
+                      - generic [ref=f79e414]: 
+                      - text: Satış Komisyonu Nedir?
+                    - generic [ref=f79e415]: Başarılı olarak tamamlanan tüm alan adı satışlarından %5 işlem komisyonu alınır.
+                  - generic [ref=f79e416]:
+                    - generic [ref=f79e417]:
+                      - generic [ref=f79e418]: 
+                      - generic [ref=f79e419]: "7559"
+                    - generic [ref=f79e421]:
+                      - generic [ref=f79e422]: 
+                      - generic [ref=f79e423]: "18"
+              - link " Satışı Gerçekleşen Alan Adının Ödemesi Satıcıya Ne Zaman Aktarılır? Başarılı olarak tamamlanan ikinci el alan adı satışı sonrası, satıcının onay verdiği tarihi takiben, 45 gün sonra ilgili ödeme satıcıya aktarılır.  5028  13" [ref=f79e424] [cursor=pointer]:
+                - /url: /hemendestek/bilgibankasi/satisi-gerceklesen-alan-adinin-odemesi-saticiya-ne-zaman-aktarilir
+                - generic [ref=f79e425]:
+                  - generic [ref=f79e426]:
+                    - heading " Satışı Gerçekleşen Alan Adının Ödemesi Satıcıya Ne Zaman Aktarılır?" [level=3] [ref=f79e428]:
+                      - generic [ref=f79e429]: 
+                      - text: Satışı Gerçekleşen Alan Adının Ödemesi Satıcıya Ne Zaman Aktarılır?
+                    - generic [ref=f79e430]: Başarılı olarak tamamlanan ikinci el alan adı satışı sonrası, satıcının onay verdiği tarihi takiben, 45 gün sonra ilgili ödeme satıcıya aktarılır.
+                  - generic [ref=f79e431]:
+                    - generic [ref=f79e432]:
+                      - generic [ref=f79e433]: 
+                      - generic [ref=f79e434]: "5028"
+                    - generic [ref=f79e436]:
+                      - generic [ref=f79e437]: 
+                      - generic [ref=f79e438]: "13"
+              - link " .k12.tr Uzantılı Alan Adı İçin Gerekli Evraklar Nelerdir? .k12.tr uzantılı alan adı tahsisi için aşağıda belirtilen evrakları iletmeniz gerekmektedir.  14546  35" [ref=f79e439] [cursor=pointer]:
+                - /url: /hemendestek/bilgibankasi/-k12-tr-uzantili-alan-adi-icin-gerekli-evraklar-nelerdir
+                - generic [ref=f79e440]:
+                  - generic [ref=f79e441]:
+                    - heading " .k12.tr Uzantılı Alan Adı İçin Gerekli Evraklar Nelerdir?" [level=3] [ref=f79e443]:
+                      - generic [ref=f79e444]: 
+                      - text: .k12.tr Uzantılı Alan Adı İçin Gerekli Evraklar Nelerdir?
+                    - generic [ref=f79e445]: .k12.tr uzantılı alan adı tahsisi için aşağıda belirtilen evrakları iletmeniz gerekmektedir.
+                  - generic [ref=f79e446]:
+                    - generic [ref=f79e447]:
+                      - generic [ref=f79e448]: 
+                      - generic [ref=f79e449]: "14546"
+                    - generic [ref=f79e451]:
+                      - generic [ref=f79e452]: 
+                      - generic [ref=f79e453]: "35"
+              - link " Alan adımı neden 1000 $ üzeri fiyata satamıyorum? 1000 $ üzerindeki domainlerin değerlerine domain ekspertizleri karar vermektedir ve bu kararı domainin yaşı, uzunluğu, içerik ile uygunluğu gibi kriterlere göre vermektedir.  5448  14" [ref=f79e454] [cursor=pointer]:
+                - /url: /hemendestek/bilgibankasi/alan-adimi-neden-1000-$-uzeri-fiyata-satamiyorum
+                - generic [ref=f79e455]:
+                  - generic [ref=f79e456]:
+                    - heading " Alan adımı neden 1000 $ üzeri fiyata satamıyorum?" [level=3] [ref=f79e458]:
+                      - generic [ref=f79e459]: 
+                      - text: Alan adımı neden 1000 $ üzeri fiyata satamıyorum?
+                    - generic [ref=f79e460]: 1000 $ üzerindeki domainlerin değerlerine domain ekspertizleri karar vermektedir ve bu kararı domainin yaşı, uzunluğu, içerik ile uygunluğu gibi kriterlere göre vermektedir.
+                  - generic [ref=f79e461]:
+                    - generic [ref=f79e462]:
+                      - generic [ref=f79e463]: 
+                      - generic [ref=f79e464]: "5448"
+                    - generic [ref=f79e466]:
+                      - generic [ref=f79e467]: 
+                      - generic [ref=f79e468]: "14"
+              - link " Hangi alan adı uzantıları için backorder yapılabilir? Natro Backorder ile yalnızca silinme periyoduna giren. com ve. net uzantılı domainler için sipariş verebilirsiniz.  5305  6" [ref=f79e469] [cursor=pointer]:
+                - /url: /hemendestek/bilgibankasi/hangi-alan-adi-uzantilari-icin-backorder-yapilabilir
+                - generic [ref=f79e470]:
+                  - generic [ref=f79e471]:
+                    - heading " Hangi alan adı uzantıları için backorder yapılabilir?" [level=3] [ref=f79e473]:
+                      - generic [ref=f79e474]: 
+                      - text: Hangi alan adı uzantıları için backorder yapılabilir?
+                    - generic [ref=f79e475]: Natro Backorder ile yalnızca silinme periyoduna giren. com ve. net uzantılı domainler için sipariş verebilirsiniz.
+                  - generic [ref=f79e476]:
+                    - generic [ref=f79e477]:
+                      - generic [ref=f79e478]: 
+                      - generic [ref=f79e479]: "5305"
+                    - generic [ref=f79e481]:
+                      - generic [ref=f79e482]: 
+                      - generic [ref=f79e483]: "6"
+              - link " Backorder başarısız olursa, ücret iadesi sağlanacak mıdır? Backorder siparişi başarısız olursa, yani alan adınız farklı bir kurum tarafından kayıt edilirse ücret iadeniz sağlanacaktır.  10399  29" [ref=f79e484] [cursor=pointer]:
+                - /url: /hemendestek/bilgibankasi/backorder-basarisiz-olursa-ucret-iadesi-saglanacak-midir
+                - generic [ref=f79e485]:
+                  - generic [ref=f79e486]:
+                    - heading " Backorder başarısız olursa, ücret iadesi sağlanacak mıdır?" [level=3] [ref=f79e488]:
+                      - generic [ref=f79e489]: 
+                      - text: Backorder başarısız olursa, ücret iadesi sağlanacak mıdır?
+                    - generic [ref=f79e490]: Backorder siparişi başarısız olursa, yani alan adınız farklı bir kurum tarafından kayıt edilirse ücret iadeniz sağlanacaktır.
+                  - generic [ref=f79e491]:
+                    - generic [ref=f79e492]:
+                      - generic [ref=f79e493]: 
+                      - generic [ref=f79e494]: "10399"
+                    - generic [ref=f79e496]:
+                      - generic [ref=f79e497]: 
+                      - generic [ref=f79e498]: "29"
+              - link " Alan adına ait dns kayıtlarını nasıl düzenleyebilirim? Firmamızda sadece alan adınız varsa öncelikle profesyonel dns hizmeti satın almanız gerekmektedir. Pro Dns hizmeti hosting ve mail hosting hizmetlerinin satın alınması ile ücretsiz sunulan bir hizmettir. Pro Dns hizmetini aktif ederek a , mx cname vb dns kaydı düzenleme işlemlerini yapabilirsiniz.  38000  117" [ref=f79e499] [cursor=pointer]:
+                - /url: /hemendestek/bilgibankasi/alan-adina-ait-dns-kayitlarini-nasil-duzenleyebilirim
+                - generic [ref=f79e500]:
+                  - generic [ref=f79e501]:
+                    - heading " Alan adına ait dns kayıtlarını nasıl düzenleyebilirim?" [level=3] [ref=f79e503]:
+                      - generic [ref=f79e504]: 
+                      - text: Alan adına ait dns kayıtlarını nasıl düzenleyebilirim?
+                    - generic [ref=f79e505]: Firmamızda sadece alan adınız varsa öncelikle profesyonel dns hizmeti satın almanız gerekmektedir. Pro Dns hizmeti hosting ve mail hosting hizmetlerinin satın alınması ile ücretsiz sunulan bir hizmettir. Pro Dns hizmetini aktif ederek a , mx cname vb dns kaydı düzenleme işlemlerini yapabilirsiniz.
+                  - generic [ref=f79e506]:
+                    - generic [ref=f79e507]:
+                      - generic [ref=f79e508]: 
+                      - generic [ref=f79e509]: "38000"
+                    - generic [ref=f79e511]:
+                      - generic [ref=f79e512]: 
+                      - generic [ref=f79e513]: "117"
+              - link " Silinme sürecinde olan TR uzantılı bir alan adı için backorder yapabilir miyim? Otuz (30) günlük silinme periyodu esnasında alan adının yenilenmesine, kurtarılmasına ve backorder yapılmasına kesinlikle izin verilmez.  4101  17" [ref=f79e514] [cursor=pointer]:
+                - /url: /hemendestek/bilgibankasi/silinme-surecinde-olan-tr-uzantili-bir-alan-adi-icin-backorder-yapabilir-miyim
+                - generic [ref=f79e515]:
+                  - generic [ref=f79e516]:
+                    - heading " Silinme sürecinde olan TR uzantılı bir alan adı için backorder yapabilir miyim?" [level=3] [ref=f79e518]:
+                      - generic [ref=f79e519]: 
+                      - text: Silinme sürecinde olan TR uzantılı bir alan adı için backorder yapabilir miyim?
+                    - generic [ref=f79e520]: Otuz (30) günlük silinme periyodu esnasında alan adının yenilenmesine, kurtarılmasına ve backorder yapılmasına kesinlikle izin verilmez.
+                  - generic [ref=f79e521]:
+                    - generic [ref=f79e522]:
+                      - generic [ref=f79e523]: 
+                      - generic [ref=f79e524]: "4101"
+                    - generic [ref=f79e526]:
+                      - generic [ref=f79e527]: 
+                      - generic [ref=f79e528]: "17"
+              - link " TR uzantılı bir alan adının transfer işlemi nasıl gerçekleşir? TR uzantılı alan adlarının transferi aşağıdaki şekilde gerçekleşmektedir.  7336  15" [ref=f79e529] [cursor=pointer]:
+                - /url: /hemendestek/bilgibankasi/tr-uzantili-bir-alan-adinin-transfer-islemi-nasil-gerceklesir
+                - generic [ref=f79e530]:
+                  - generic [ref=f79e531]:
+                    - heading " TR uzantılı bir alan adının transfer işlemi nasıl gerçekleşir?" [level=3] [ref=f79e533]:
+                      - generic [ref=f79e534]: 
+                      - text: TR uzantılı bir alan adının transfer işlemi nasıl gerçekleşir?
+                    - generic [ref=f79e535]: TR uzantılı alan adlarının transferi aşağıdaki şekilde gerçekleşmektedir.
+                  - generic [ref=f79e536]:
+                    - generic [ref=f79e537]:
+                      - generic [ref=f79e538]: 
+                      - generic [ref=f79e539]: "7336"
+                    - generic [ref=f79e541]:
+                      - generic [ref=f79e542]: 
+                      - generic [ref=f79e543]: "15"
+              - link " TR uzantılı alan adımın transfer kodunu nasıl alabilirim? Transfer Kodu, yetki kodu, EPP Code veya AuthCode olarakta bilinir. TR uzantılı alan adınızın transfer kodunu Natro müşteri hesabınızda aşağıdaki adımları takip ederek alabilirsiniz.  4528  1" [ref=f79e544] [cursor=pointer]:
+                - /url: /hemendestek/bilgibankasi/tr-uzantili-alan-adimin-transfer-kodunu-nasil-alabilirim
+                - generic [ref=f79e545]:
+                  - generic [ref=f79e546]:
+                    - heading " TR uzantılı alan adımın transfer kodunu nasıl alabilirim?" [level=3] [ref=f79e548]:
+                      - generic [ref=f79e549]: 
+                      - text: TR uzantılı alan adımın transfer kodunu nasıl alabilirim?
+                    - generic [ref=f79e550]: Transfer Kodu, yetki kodu, EPP Code veya AuthCode olarakta bilinir. TR uzantılı alan adınızın transfer kodunu Natro müşteri hesabınızda aşağıdaki adımları takip ederek alabilirsiniz.
+                  - generic [ref=f79e551]:
+                    - generic [ref=f79e552]:
+                      - generic [ref=f79e553]: 
+                      - generic [ref=f79e554]: "4528"
+                    - generic [ref=f79e556]:
+                      - generic [ref=f79e557]: 
+                      - generic [ref=f79e558]: "1"
+              - link " TR uzantılı alan adlarında transfer şartları nelerdir? Aşağıdaki şartların sağlanması durumunda tr uzantılı alan adı transfer edilebilir.  2830  4" [ref=f79e559] [cursor=pointer]:
+                - /url: /hemendestek/bilgibankasi/tr-uzantili-alan-adlarinda-transfer-sartlari-nelerdir
+                - generic [ref=f79e560]:
+                  - generic [ref=f79e561]:
+                    - heading " TR uzantılı alan adlarında transfer şartları nelerdir?" [level=3] [ref=f79e563]:
+                      - generic [ref=f79e564]: 
+                      - text: TR uzantılı alan adlarında transfer şartları nelerdir?
+                    - generic [ref=f79e565]: Aşağıdaki şartların sağlanması durumunda tr uzantılı alan adı transfer edilebilir.
+                  - generic [ref=f79e566]:
+                    - generic [ref=f79e567]:
+                      - generic [ref=f79e568]: 
+                      - generic [ref=f79e569]: "2830"
+                    - generic [ref=f79e571]:
+                      - generic [ref=f79e572]: 
+                      - generic [ref=f79e573]: "4"
+              - link " Yeni satın alacağım alan adlarını nasıl farklı bir whois bilgisi ile kayıt edebilirim ? Natro müşteri panelinizden varsayılan kayıt bilgilerinizi güncelleyebilirsiniz.  1313  1" [ref=f79e574] [cursor=pointer]:
+                - /url: /hemendestek/bilgibankasi/yeni-satin-alacagim-alan-adlarini-nasil-farkli-bir-whois-bilgisi-ile-kayit-edebilirim-
+                - generic [ref=f79e575]:
+                  - generic [ref=f79e576]:
+                    - heading " Yeni satın alacağım alan adlarını nasıl farklı bir whois bilgisi ile kayıt edebilirim ?" [level=3] [ref=f79e578]:
+                      - generic [ref=f79e579]: 
+                      - text: Yeni satın alacağım alan adlarını nasıl farklı bir whois bilgisi ile kayıt edebilirim ?
+                    - generic [ref=f79e580]: Natro müşteri panelinizden varsayılan kayıt bilgilerinizi güncelleyebilirsiniz.
+                  - generic [ref=f79e581]:
+                    - generic [ref=f79e582]:
+                      - generic [ref=f79e583]: 
+                      - generic [ref=f79e584]: "1313"
+                    - generic [ref=f79e586]:
+                      - generic [ref=f79e587]: 
+                      - generic [ref=f79e588]: "1"
+              - link " TR uzantılı alan adımı nasıl yenileyebilirim? Müşteri panelinize giriş yaptıktan sonra, Alan Adı Yönetimi altındaki Aktif Alan Adlarınız bölümünden yenileme işlemi gerçekleştirebilirsiniz.  2111  0" [ref=f79e589] [cursor=pointer]:
+                - /url: /hemendestek/bilgibankasi/tr-uzantili-alan-adimi-nasil-yenileyebilirim
+                - generic [ref=f79e590]:
+                  - generic [ref=f79e591]:
+                    - heading " TR uzantılı alan adımı nasıl yenileyebilirim?" [level=3] [ref=f79e593]:
+                      - generic [ref=f79e594]: 
+                      - text: TR uzantılı alan adımı nasıl yenileyebilirim?
+                    - generic [ref=f79e595]: Müşteri panelinize giriş yaptıktan sonra, Alan Adı Yönetimi altındaki Aktif Alan Adlarınız bölümünden yenileme işlemi gerçekleştirebilirsiniz.
+                  - generic [ref=f79e596]:
+                    - generic [ref=f79e597]:
+                      - generic [ref=f79e598]: 
+                      - generic [ref=f79e599]: "2111"
+                    - generic [ref=f79e601]:
+                      - generic [ref=f79e602]: 
+                      - generic [ref=f79e603]: "0"
+              - link " Yeni .TR uzantılı alan adı aldım, ne zaman aktif olacak? Alan adları ödeme işleminin tamamlanmasının hemen ardından kayıt kuyruğuna aktarılır ve çok kısa bir sürede kayıt edilir.  3097  5" [ref=f79e604] [cursor=pointer]:
+                - /url: /hemendestek/bilgibankasi/yeni-tr-uzantili-alan-adi-aldim-ne-zaman-aktif-olacak
+                - generic [ref=f79e605]:
+                  - generic [ref=f79e606]:
+                    - heading " Yeni .TR uzantılı alan adı aldım, ne zaman aktif olacak?" [level=3] [ref=f79e608]:
+                      - generic [ref=f79e609]: 
+                      - text: Yeni .TR uzantılı alan adı aldım, ne zaman aktif olacak?
+                    - generic [ref=f79e610]: Alan adları ödeme işleminin tamamlanmasının hemen ardından kayıt kuyruğuna aktarılır ve çok kısa bir sürede kayıt edilir.
+                  - generic [ref=f79e611]:
+                    - generic [ref=f79e612]:
+                      - generic [ref=f79e613]: 
+                      - generic [ref=f79e614]: "3097"
+                    - generic [ref=f79e616]:
+                      - generic [ref=f79e617]: 
+                      - generic [ref=f79e618]: "5"
+              - link " TR uzantılı alan adımın süresi doldu, nasıl yenileyebilirim? Süresi biten TR uzantılı alan adınızı yenilemek için diğer alan adlarında olduğu gibi Natro müşteri hesabınızda aşağıdaki adımları takip ederek yenileyebilirsiniz.  3208  0" [ref=f79e619] [cursor=pointer]:
+                - /url: /hemendestek/bilgibankasi/tr-uzantili-alan-adimin-suresi-doldu-nasil-yenileyebilirim
+                - generic [ref=f79e620]:
+                  - generic [ref=f79e621]:
+                    - heading " TR uzantılı alan adımın süresi doldu, nasıl yenileyebilirim?" [level=3] [ref=f79e623]:
+                      - generic [ref=f79e624]: 
+                      - text: TR uzantılı alan adımın süresi doldu, nasıl yenileyebilirim?
+                    - generic [ref=f79e625]: Süresi biten TR uzantılı alan adınızı yenilemek için diğer alan adlarında olduğu gibi Natro müşteri hesabınızda aşağıdaki adımları takip ederek yenileyebilirsiniz.
+                  - generic [ref=f79e626]:
+                    - generic [ref=f79e627]:
+                      - generic [ref=f79e628]: 
+                      - generic [ref=f79e629]: "3208"
+                    - generic [ref=f79e631]:
+                      - generic [ref=f79e632]: 
+                      - generic [ref=f79e633]: "0"
+          - generic [ref=f79e634]:
+            - generic [ref=f79e635]: Yukarıdaki cevaplar sorununuzun çözümüne yardımcı oldu mu?
+            - button "Yeni Destek Talebi Oluştur" [ref=f79e637] [cursor=pointer]
+        - text: 
+      - generic [ref=f79e92]:
+        - generic [ref=f79e93]: Destek Gerekirse 7/24 Buradayız
+        - generic [ref=f79e94]: Dilediğiniz kanaldan, ihtiyaç duyduğunuz her an bize ulaşın
+        - generic [ref=f79e97]:
+          - generic [ref=f79e98]:
+            - link "TELEFON DESTEK 0 (212) 213 1 213":
+              - /url: "#"
+              - generic:
+                - text: TELEFON DESTEK
+                - paragraph: 0 (212) 213 1 213
+          - link "E-POSTA destek@natro.com" [ref=f79e100] [cursor=pointer]:
+            - /url: /hemendestek
+            - generic [ref=f79e103]:
+              - text: E-POSTA
+              - paragraph [ref=f79e104]: destek@natro.com
+          - link "Canlı Destek CANLI DESTEK Çevrimdışı" [ref=f79e106] [cursor=pointer]:
+            - /url: javascript:;
+            - img "Canlı Destek" [ref=f79e108]
+            - generic [ref=f79e109]:
+              - text: CANLI DESTEK
+              - generic [ref=f79e110]: Çevrimdışı
+  - link "" [ref=f79e111] [cursor=pointer]:
+    - /url: "#"
+    - generic [ref=f79e112]: 
+  - contentinfo [ref=f79e113]:
+    - generic [ref=f79e115]:
+      - generic [ref=f79e117]:
+        - img "Footer icon" [ref=f79e120]
+        - generic [ref=f79e122]:
+          - text: İNDİRİM HABERCİSİ
+          - generic [ref=f79e123]: Hemen abone ol, yeni fırsatları ve süper indirimleri kaçırmayın!
+        - generic [ref=f79e124]:
+          - generic [ref=f79e125]:
+            - generic [ref=f79e126]: E-Posta Adresinizi Girin
+            - textbox "E-Posta Adresinizi Girin" [ref=f79e127]:
+              - /placeholder: E-Posta adresinizi buraya yazın
+            - link "Gönder" [ref=f79e129] [cursor=pointer]:
+              - /url: javascript:;
+          - generic [ref=f79e130] [cursor=pointer]:
+            - text: Fırsatlardan haberdar olmak için
+            - link "verilerimin işlenmesini" [ref=f79e131]:
+              - /url: /sozlesmeler/detay/acik-riza-metni
+            - text: onaylıyorum 
+      - generic [ref=f79e132]:
+        - list [ref=f79e134]:
+          - link "Domain " [ref=f79e136] [cursor=pointer]:
+            - /url: javascript:;
+            - text: Domain
+            - generic [ref=f79e137]: 
+          - listitem [ref=f79e138]:
+            - link "Domain Sorgulama" [ref=f79e139] [cursor=pointer]:
+              - /url: /domain-sorgulama
+          - listitem [ref=f79e140]:
+            - link "Domain Transfer" [ref=f79e141] [cursor=pointer]:
+              - /url: /domain-sorgulama/domain-transfer
+          - listitem [ref=f79e142]:
+            - link "Domain Backorder" [ref=f79e143] [cursor=pointer]:
+              - /url: /domain-sorgulama/domain-backorder
+          - listitem [ref=f79e144]:
+            - link ".com.tr Domain" [ref=f79e145] [cursor=pointer]:
+              - /url: /domain-sorgulama/com-tr-domain-kayit
+          - listitem [ref=f79e146]:
+            - link ".tr Domain" [ref=f79e147] [cursor=pointer]:
+              - /url: /domain-sorgulama/tr-domain-kayit
+          - listitem [ref=f79e148]:
+            - text: Domain Hizmetleri
+            - generic [ref=f79e149]: 
+          - listitem [ref=f79e150]:
+            - link "Satılık Alan Adları" [ref=f79e151] [cursor=pointer]:
+              - /url: /domain-sorgulama/satilik-domain
+          - listitem [ref=f79e152]:
+            - link ".com Domain Kayıt" [ref=f79e153] [cursor=pointer]:
+              - /url: /domain-sorgulama/com-domain-kayit
+          - listitem [ref=f79e154]:
+            - link "Türkçe Domain Kayıt" [ref=f79e155] [cursor=pointer]:
+              - /url: /domain-sorgulama/turkce-domain-sorgulama
+          - listitem [ref=f79e156]:
+            - link "Toplu Domain Sorgulama" [ref=f79e157] [cursor=pointer]:
+              - /url: /domain-sorgulama/toplu-domain-sorgulama
+          - listitem [ref=f79e158]:
+            - link "Whois Sorgulama" [ref=f79e159] [cursor=pointer]:
+              - /url: /whois-sorgulama
+          - listitem [ref=f79e160]:
+            - link "Domain Değerleme Aracı" [ref=f79e161] [cursor=pointer]:
+              - /url: /domain-degerleme-araci
+          - listitem [ref=f79e162]:
+            - link "Premium Domain Servisleri" [ref=f79e163] [cursor=pointer]:
+              - /url: /domain-sorgulama/premium-domain-hizmetleri
+        - generic [ref=f79e164]:
+          - list [ref=f79e165]:
+            - link "Hosting " [ref=f79e167] [cursor=pointer]:
+              - /url: javascript:;
+              - text: Hosting
+              - generic [ref=f79e168]: 
+            - listitem [ref=f79e169]:
+              - link "Sınırsız Web Hosting" [ref=f79e170] [cursor=pointer]:
+                - /url: /hosting
+            - listitem [ref=f79e171]:
+              - link "WordPress Hosting" [ref=f79e172] [cursor=pointer]:
+                - /url: /hosting/wordpress-hosting
+            - listitem [ref=f79e173]:
+              - link "MsSQL Hosting" [ref=f79e174] [cursor=pointer]:
+                - /url: /hosting/mssql-hosting
+          - list [ref=f79e175]:
+            - link "E-Mail " [ref=f79e177] [cursor=pointer]:
+              - /url: javascript:;
+              - text: E-Mail
+              - generic [ref=f79e178]: 
+            - listitem [ref=f79e179]:
+              - link "XMail Pro" [ref=f79e180] [cursor=pointer]:
+                - /url: /hosting/mail-hosting/profesyonel-mail-hosting
+            - listitem [ref=f79e181]:
+              - link "XMail Kurumsal" [ref=f79e182] [cursor=pointer]:
+                - /url: /hosting/mail-hosting/kurumsal-eposta
+            - listitem [ref=f79e183]:
+              - link "Kurumsal E-Posta" [ref=f79e184] [cursor=pointer]:
+                - /url: /hosting/mail-hosting/kurumsal-eposta
+          - list [ref=f79e185]:
+            - link "Web Sitesi " [ref=f79e187] [cursor=pointer]:
+              - /url: javascript:;
+              - text: Web Sitesi
+              - generic [ref=f79e188]: 
+            - listitem [ref=f79e189]:
+              - link "Hazır Web Sitesi" [ref=f79e190] [cursor=pointer]:
+                - /url: /websitesi-tasarimi-araci
+            - listitem [ref=f79e191]:
+              - link "Web Sitesi Tasarımı" [ref=f79e192] [cursor=pointer]:
+                - /url: /hazir-web-sitesi-tasarimlari
+        - list [ref=f79e194]:
+          - link "Sunucu " [ref=f79e196] [cursor=pointer]:
+            - /url: javascript:;
+            - text: Sunucu
+            - generic [ref=f79e197]: 
+          - listitem [ref=f79e198]:
+            - link "VPS Cloud Server" [ref=f79e199] [cursor=pointer]:
+              - /url: /sunucu-kiralama/vps-cloud-server
+          - listitem [ref=f79e200]:
+            - link "VDS Server" [ref=f79e201] [cursor=pointer]:
+              - /url: /sunucu-kiralama/vds-sunucu
+          - listitem [ref=f79e202]:
+            - link "Dedicated Server" [ref=f79e203] [cursor=pointer]:
+              - /url: /sunucu-kiralama/dedicated-server
+          - listitem [ref=f79e204]:
+            - link "Kurumsal Server" [ref=f79e205] [cursor=pointer]:
+              - /url: /sunucu-kiralama/xtreme-server
+          - listitem [ref=f79e206]:
+            - text: Sunucu Hizmetleri
+            - generic [ref=f79e207]: 
+          - listitem [ref=f79e208]:
+            - link "Sunucu Kiralama" [ref=f79e209] [cursor=pointer]:
+              - /url: /sunucu-kiralama
+          - listitem [ref=f79e210]:
+            - link "Sunucu Destek" [ref=f79e211] [cursor=pointer]:
+              - /url: /sunucu-kiralama/sunucu-server-destek
+          - listitem [ref=f79e212]:
+            - link "Sunucu Güvenliği" [ref=f79e213] [cursor=pointer]:
+              - /url: /sunucu-kiralama/firewall-guvenlik
+          - listitem [ref=f79e214]:
+            - link "Sanal Sunucu" [ref=f79e215] [cursor=pointer]:
+              - /url: /sanal-sunucu
+        - list [ref=f79e217]:
+          - link "SSL " [ref=f79e219] [cursor=pointer]:
+            - /url: javascript:;
+            - text: SSL
+            - generic [ref=f79e220]: 
+          - listitem [ref=f79e221]:
+            - link "SSL Sertifikası" [ref=f79e222] [cursor=pointer]:
+              - /url: /ssl/ssl-sertifikasi#standartSsl
+          - listitem [ref=f79e223]:
+            - link "Hızlı Kurulum SSL" [ref=f79e224] [cursor=pointer]:
+              - /url: /ssl/ssl-sertifikasi#hizlikurulum
+          - listitem [ref=f79e225]:
+            - link "Şirketler İçin SSL" [ref=f79e226] [cursor=pointer]:
+              - /url: /ssl/ssl-sertifikasi#premiumSsl
+          - listitem [ref=f79e227]:
+            - link "Kurumsal SSL" [ref=f79e228] [cursor=pointer]:
+              - /url: /ssl/ssl-sertifikasi#evSsl
+          - listitem [ref=f79e229]:
+            - text: SSL Hizmetleri
+            - generic [ref=f79e230]: 
+          - listitem [ref=f79e231]:
+            - link "SSL Fiyatları" [ref=f79e232] [cursor=pointer]:
+              - /url: /ssl/ssl-sertifikasi
+          - listitem [ref=f79e233]:
+            - link "PCI-DSS Taraması" [ref=f79e234] [cursor=pointer]:
+              - /url: /ssl/pci-dss-guvenlik-taramasi
+          - listitem [ref=f79e235]:
+            - link "SEO İçin SSL" [ref=f79e236] [cursor=pointer]:
+              - /url: /ssl/ssl-sertifikasi
+          - listitem [ref=f79e237]:
+            - link "SSL Sorgulama Aracı" [ref=f79e238] [cursor=pointer]:
+              - /url: /ssl-checker
+        - list [ref=f79e240]:
+          - link "Diğer " [ref=f79e242] [cursor=pointer]:
+            - /url: javascript:;
+            - text: Diğer
+            - generic [ref=f79e243]: 
+          - listitem [ref=f79e244]:
+            - link "Marka Tescili" [ref=f79e245] [cursor=pointer]:
+              - /url: /marka-tescil-sorgulama
+          - listitem [ref=f79e246]:
+            - text: Diğer Hizmetler
+            - generic [ref=f79e247]: 
+          - listitem [ref=f79e248]:
+            - link "Blog" [ref=f79e249] [cursor=pointer]:
+              - /url: https://www.natro.com/blog/
+          - listitem [ref=f79e250]:
+            - link "Tercih Sihirbazi" [ref=f79e251] [cursor=pointer]:
+              - /url: /hosting/tercih-sihirbazi
+        - list [ref=f79e253]:
+          - listitem [ref=f79e254]:
+            - img "Natro Web Hosting" [ref=f79e255]
+          - listitem [ref=f79e256]:
+            - text: Müşteri Hizmetleri
+            - link "0 (212) 213 1 213":
+              - /url: "#"
+            - text: E-Posta Destek
+            - link "destek@natro.com" [ref=f79e257] [cursor=pointer]:
+              - /url: mailto:destek@natro.com
+            - text: Canlı Destek
+            - link "natro.com" [ref=f79e258] [cursor=pointer]:
+              - /url: javascript:;
+      - generic [ref=f79e259]:
+        - generic [ref=f79e260]: Natroyu Takip Edin
+        - generic [ref=f79e261]:
+          - link "Facebook" [ref=f79e263] [cursor=pointer]:
+            - /url: https://www.facebook.com/natrohost
+            - generic [ref=f79e264]: 
+          - link "Twitter" [ref=f79e266] [cursor=pointer]:
+            - /url: https://www.twitter.com/natrohost
+            - generic [ref=f79e267]: 
+          - link "Instagram" [ref=f79e269] [cursor=pointer]:
+            - /url: https://www.instagram.com/natrohost/
+            - generic [ref=f79e270]: 
+          - link "Linkedin" [ref=f79e272] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/natro-hosting
+            - generic [ref=f79e273]: 
+          - link "Youtube" [ref=f79e275] [cursor=pointer]:
+            - /url: https://www.youtube.com/user/natrohost
+            - generic [ref=f79e276]: 
+    - generic [ref=f79e279]:
+      - generic [ref=f79e280]: Copyright © 1999 - 2026 natro.com Tüm hakları saklıdır
+      - generic [ref=f79e281]:
+        - link "Lisanslı Ürün Politikası" [ref=f79e282] [cursor=pointer]:
+          - /url: /lisansli-urun-politikamiz
+        - text: "|"
+        - link "Açık Rıza Metni" [ref=f79e283] [cursor=pointer]:
+          - /url: /sozlesmeler/detay/acik-riza-metni
+        - text: "|"
+        - link "Sözleşmeler" [ref=f79e284] [cursor=pointer]:
+          - /url: /sozlesmeler/tum-sozlesmeler
+        - text: "|"
+        - link "Çerez Aydınlatma Politikası" [ref=f79e285] [cursor=pointer]:
+          - /url: /sozlesmeler/detay/cerez-aydinlatma-politikasi
+        - text: "|"
+        - link "Gizlilik" [ref=f79e286] [cursor=pointer]:
+          - /url: /sozlesmeler/detay/gizlilik-sozlesmesi
+        - text: "|"
+        - link "İletişim" [ref=f79e287] [cursor=pointer]:
+          - /url: /kurumsal/iletisim
+  - generic [ref=f79e289]:
+    - link "Close" [ref=f79e290] [cursor=pointer]:
+      - /url: "#close"
+    - generic [ref=f79e291]:
+      - link "Previous" [ref=f79e292] [cursor=pointer]:
+        - /url: "#"
+      - link "Next" [ref=f79e293] [cursor=pointer]:
+        - /url: "#"
+    - generic [ref=f79e294]:
+      - link "Previous" [ref=f79e295] [cursor=pointer]:
+        - /url: "#"
+      - link "Maximize" [ref=f79e296] [cursor=pointer]:
+        - /url: "#"
+      - link "Next" [ref=f79e297] [cursor=pointer]:
+        - /url: "#"
+  - iframe [ref=f79e299]:
+    - article [ref=f82e3]:
+      - generic [ref=f82e5]:
+        - img "Team.blue logo" [ref=f82e8]
+        - heading "Natro, online başarınız için geliştirilen ürünlerden oluşan team.blue ailesinin bir parçasıdır." [level=1] [ref=f82e15]:
+          - generic [ref=f82e16]:
+            - generic [ref=f82e17]: Natro
+            - text: ", online başarınız için geliştirilen ürünlerden oluşan team.blue ailesinin bir parçasıdır."
+        - generic [ref=f82e19]:
+          - navigation "Ürün grubu navigasyonu" [ref=f82e20]:
+            - tablist [ref=f82e22]:
+              - tab "Önerilen" [selected] [ref=f82e23]:
+                - generic [ref=f82e25] [cursor=pointer]:
+                  - img [ref=f82e26]
+                  - paragraph [ref=f82e27]: Önerilen
+              - tab "Web sitenizi başlatın" [ref=f82e28]:
+                - generic [ref=f82e30] [cursor=pointer]:
+                  - img [ref=f82e31]
+                  - paragraph [ref=f82e32]: Web sitenizi başlatın
+              - tab "Daha fazla müşteriye ulaşın" [ref=f82e33]:
+                - generic [ref=f82e35] [cursor=pointer]:
+                  - img [ref=f82e36]
+                  - paragraph [ref=f82e37]: Daha fazla müşteriye ulaşın
+              - tab "Operasyonlarınızı optimize edin" [ref=f82e38]:
+                - generic [ref=f82e40] [cursor=pointer]:
+                  - img [ref=f82e41]
+                  - paragraph [ref=f82e42]: Operasyonlarınızı optimize edin
+          - tabpanel "Önerilen" [ref=f82e43]:
+            - generic [ref=f82e44]:
+              - link "Zahmetsiz sosyal medya yönetimi Tüm sosyal platformları tek yerden Metricool ile yönetin (opens in new tab)" [ref=f82e45] [cursor=pointer]:
+                - /url: https://metricool.com/?utm_source=natro&utm_medium=hub_footer&utm_campaign=recommended
+                - generic [ref=f82e47]:
+                  - generic [ref=f82e48]:
+                    - img [ref=f82e49]
+                    - generic [ref=f82e50]:
+                      - paragraph [ref=f82e51]: Zahmetsiz sosyal medya yönetimi
+                      - generic "Tüm sosyal platformları tek yerden Metricool ile yönetin" [ref=f82e52]:
+                        - text: Tüm sosyal platformları tek yerden
+                        - generic [ref=f82e53]: Metricool
+                        - text: ile yönetin
+                  - img [ref=f82e54]
+                - generic [ref=f82e56]: (opens in new tab)
+              - link "Kolay uyumuluk Sitenizi iubenda ile yasal olarak uyumlu tutun (opens in new tab)" [ref=f82e57] [cursor=pointer]:
+                - /url: https://iubenda.com/?utm_source=natro&utm_medium=hub_footer&utm_campaign=recommended
+                - generic [ref=f82e59]:
+                  - generic [ref=f82e60]:
+                    - img [ref=f82e61]
+                    - generic [ref=f82e62]:
+                      - paragraph [ref=f82e63]: Kolay uyumuluk
+                      - generic "Sitenizi iubenda ile yasal olarak uyumlu tutun" [ref=f82e64]:
+                        - text: Sitenizi
+                        - generic [ref=f82e65]: iubenda
+                        - text: ile yasal olarak uyumlu tutun
+                  - img [ref=f82e66]
+                - generic [ref=f82e68]: (opens in new tab)
+              - link "Akıllı planlama Toplantıları SimplyMeet.me ile zahmetsizce planlayın (opens in new tab)" [ref=f82e69] [cursor=pointer]:
+                - /url: https://simplymeet.me/?utm_source=natro&utm_medium=hub_footer&utm_campaign=recommended
+                - generic [ref=f82e71]:
+                  - generic [ref=f82e72]:
+                    - img [ref=f82e73]
+                    - generic [ref=f82e74]:
+                      - paragraph [ref=f82e75]: Akıllı planlama
+                      - generic "Toplantıları SimplyMeet.me ile zahmetsizce planlayın" [ref=f82e76]:
+                        - text: Toplantıları
+                        - generic [ref=f82e77]: SimplyMeet.me
+                        - text: ile zahmetsizce planlayın
+                  - img [ref=f82e78]
+                - generic [ref=f82e80]: (opens in new tab)
+              - link "Hepsi bir arada iş araçları Billdu ile faturalandırın, rezervasyon yapın ve ödeme alın (opens in new tab)" [ref=f82e81] [cursor=pointer]:
+                - /url: https://billdu.com/?utm_source=natro&utm_medium=hub_footer&utm_campaign=recommended
+                - generic [ref=f82e83]:
+                  - generic [ref=f82e84]:
+                    - img [ref=f82e85]
+                    - generic [ref=f82e86]:
+                      - paragraph [ref=f82e87]: Hepsi bir arada iş araçları
+                      - generic "Billdu ile faturalandırın, rezervasyon yapın ve ödeme alın" [ref=f82e88]:
+                        - generic [ref=f82e89]: Billdu
+                        - text: ile faturalandırın, rezervasyon yapın ve ödeme alın
+                  - img [ref=f82e90]
+                - generic [ref=f82e92]: (opens in new tab)
+              - link "Kolay rezervasyon SimplyBook.me üzerinden müşteri randevularını kabul edin (opens in new tab)" [ref=f82e93] [cursor=pointer]:
+                - /url: https://simplybook.me/?utm_source=natro&utm_medium=hub_footer&utm_campaign=recommended
+                - generic [ref=f82e95]:
+                  - generic [ref=f82e96]:
+                    - img [ref=f82e97]
+                    - generic [ref=f82e98]:
+                      - paragraph [ref=f82e99]: Kolay rezervasyon
+                      - generic "SimplyBook.me üzerinden müşteri randevularını kabul edin" [ref=f82e100]:
+                        - generic [ref=f82e101]: SimplyBook.me
+                        - text: üzerinden müşteri randevularını kabul edin
+                  - img [ref=f82e102]
+                - generic [ref=f82e104]: (opens in new tab)
+              - link "B2B müşteri adayı oluşturma Web sitesi ziyaretçilerini Leadinfo ile müşteri adaylarına dönüştürün (opens in new tab)" [ref=f82e105] [cursor=pointer]:
+                - /url: https://leadinfo.com/?utm_source=natro&utm_medium=hub_footer&utm_campaign=recommended
+                - generic [ref=f82e107]:
+                  - generic [ref=f82e108]:
+                    - img [ref=f82e109]
+                    - generic [ref=f82e110]:
+                      - paragraph [ref=f82e111]: B2B müşteri adayı oluşturma
+                      - generic "Web sitesi ziyaretçilerini Leadinfo ile müşteri adaylarına dönüştürün" [ref=f82e112]:
+                        - text: Web sitesi ziyaretçilerini
+                        - generic [ref=f82e113]: Leadinfo
+                        - text: ile müşteri adaylarına dönüştürün
+                  - img [ref=f82e114]
+                - generic [ref=f82e116]: (opens in new tab)

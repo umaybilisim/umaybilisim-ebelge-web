@@ -1,0 +1,1330 @@
+- generic [active] [ref=f34e1]:
+  - banner [ref=f34e2]:
+    - link "Cloudflare" [ref=f34e3] [cursor=pointer]:
+      - /url: /
+      - img "Cloudflare" [ref=f34e4]
+      - generic [ref=f34e47]: Is Your Site Agent-Ready?
+    - generic [ref=f34e5]:
+      - link "Learn more about Agents" [ref=f34e6] [cursor=pointer]:
+        - /url: https://agents.cloudflare.com/
+        - generic [ref=f34e7]: Learn more about Agents
+        - img [ref=f34e8]
+      - button "System mode — click for light" [ref=f34e10] [cursor=pointer]:
+        - img [ref=f34e11]
+  - main [ref=f34e13]:
+    - generic [ref=f34e14]:
+      - heading "Is Your Site Agent-Ready?" [level=1] [ref=f34e15]
+      - paragraph [ref=f34e16]:
+        - text: Scan your website to see how ready it is for AI agents. We check multiple emerging standards — from robots.txt and
+        - link "Markdown negotiation" [ref=f34e17] [cursor=pointer]:
+          - /url: https://developers.cloudflare.com/fundamentals/reference/markdown-for-agents/
+        - text: to
+        - link "MCP" [ref=f34e18] [cursor=pointer]:
+          - /url: https://modelcontextprotocol.io/
+        - text: ", OAuth,"
+        - link "Agent Skills" [ref=f34e19] [cursor=pointer]:
+          - /url: https://agentskills.io/home
+        - text: and agentic commerce.
+    - generic [ref=f34e21]:
+      - generic [ref=f34e22]:
+        - generic [ref=f34e23]: Website URL
+        - textbox "Website URL" [ref=f34e24]:
+          - /placeholder: https://example.com
+          - text: https://e-devlethizmetleri.com/
+        - button "Scan" [ref=f34e48] [cursor=pointer]:
+          - generic [ref=f34e49]: Scan
+      - button "Customize scan" [ref=f34e30] [cursor=pointer]:
+        - img [ref=f34e31]
+        - generic [ref=f34e33]: Customize scan
+        - img [ref=f34e34]
+      - paragraph [ref=f34e50]: Last scanned 05.07.2026 at 16:21:45
+    - generic [ref=f34e52]:
+      - generic [ref=f34e5344]:
+        - button "Share score card" [ref=f34e5345] [cursor=pointer]:
+          - img [ref=f34e5346]
+          - generic [ref=f34e5348]: Share
+        - generic [ref=f34e5350]:
+          - generic [ref=f34e5351]: Results for
+          - generic [ref=f34e5352]: https://e-devlethizmetleri.com
+        - generic [ref=f34e5353]:
+          - generic [ref=f34e5355]:
+            - 'img "Overall score: 93 out of 100" [ref=f34e5356]'
+            - generic [ref=f34e5373]: "93"
+          - generic [ref=f34e5375]:
+            - generic [ref=f34e5376]: Level 5
+            - generic [ref=f34e5377]: Agent-Native
+        - generic [ref=f34e5378]:
+          - 'button "Discoverability: 4/4" [ref=f34e5379] [cursor=pointer]':
+            - generic [ref=f34e5380]:
+              - img [ref=f34e5382]:
+                - generic [ref=f34e5385]: "100"
+              - generic [ref=f34e5386]: Discoverability
+              - generic [ref=f34e5387]: 4/4
+          - 'button "Content: 1/1" [ref=f34e5388] [cursor=pointer]':
+            - generic [ref=f34e5389]:
+              - img [ref=f34e5391]:
+                - generic [ref=f34e5394]: "100"
+              - generic [ref=f34e5395]: Content
+              - generic [ref=f34e5396]: 1/1
+          - 'button "Bot Access Control: 2/2" [ref=f34e5397] [cursor=pointer]':
+            - generic [ref=f34e5398]:
+              - img [ref=f34e5400]:
+                - generic [ref=f34e5403]: "100"
+              - generic [ref=f34e5404]: Bot Access Control
+              - generic [ref=f34e5405]: 2/2
+          - 'button "API, Auth, MCP & Skill Discovery: 6/7" [ref=f34e5406] [cursor=pointer]':
+            - generic [ref=f34e5407]:
+              - img [ref=f34e5409]:
+                - generic [ref=f34e5412]: "86"
+              - generic [ref=f34e5413]: API, Auth, MCP & Skill Discovery
+              - generic [ref=f34e5414]: 6/7
+          - 'button "Commerce: Not checked" [ref=f34e5415] [cursor=pointer]':
+            - generic [ref=f34e5416]:
+              - img [ref=f34e5418]:
+                - generic [ref=f34e5420]: —
+              - generic [ref=f34e5421]: Commerce
+              - generic [ref=f34e5422]: Not checked
+      - button "Improve the score 1" [ref=f34e133] [cursor=pointer]:
+        - img [ref=f34e134]
+        - generic [ref=f34e136]: Improve the score
+        - generic [ref=f34e137]: "1"
+      - generic [ref=f34e138]:
+        - generic [ref=f34e5423]:
+          - generic [ref=f34e5424]:
+            - heading "Discoverability" [level=2] [ref=f34e5426]
+            - generic [ref=f34e5427]: 4/4
+          - generic [ref=f34e5428]:
+            - generic [ref=f34e5430]:
+              - button "Pass robots.txt" [ref=f34e5433] [cursor=pointer]:
+                - generic [ref=f34e5434]:
+                  - img "Pass" [ref=f34e5435]:
+                    - img [ref=f34e5436]
+                  - generic [ref=f34e5438]: robots.txt
+                - img [ref=f34e5440]
+              - generic [ref=f34e5442]:
+                - generic [ref=f34e5444]:
+                  - img [ref=f34e5446]
+                  - generic [ref=f34e5448]: robots.txt
+                - generic [ref=f34e5449]:
+                  - generic [ref=f34e5450]:
+                    - generic [ref=f34e5451]:
+                      - generic [ref=f34e5452]:
+                        - img [ref=f34e5454]
+                        - generic [ref=f34e5456]: GET /robots.txt
+                        - generic [ref=f34e5457]: "200"
+                      - table [ref=f34e5458]:
+                        - rowgroup [ref=f34e5459]:
+                          - row "content-type text/plain; charset=utf-8" [ref=f34e5460]:
+                            - cell "content-type" [ref=f34e5461]
+                            - cell "text/plain; charset=utf-8" [ref=f34e5462]
+                          - row "content-length 2224" [ref=f34e5463]:
+                            - cell "content-length" [ref=f34e5464]
+                            - cell "2224" [ref=f34e5465]
+                          - row "cf-ray a166aca02df568aa-IST" [ref=f34e5466]:
+                            - cell "cf-ray" [ref=f34e5467]
+                            - cell "a166aca02df568aa-IST" [ref=f34e5468]
+                      - generic [ref=f34e5469]: "# As a condition of accessing this website, you agree to abide by the following # content signals: # (a) If a Content-Signal = yes, you may collect content for the corresponding # use. # (b) If a Content-Signal = no, you may not collect content for the # corresponding use. # (c) If the website operator does not include a Content-Signal for a # corresponding use, the website operator neither grants nor restricts # permission via Content-Signal with respect to the correspon..."
+                      - generic [ref=f34e5472]: Received valid robots.txt (200, text/plain; charset=utf-8)
+                    - generic [ref=f34e5473]:
+                      - generic [ref=f34e5474]:
+                        - img [ref=f34e5476]
+                        - generic [ref=f34e5478]: Validate robots.txt structure
+                      - generic [ref=f34e5481]: Contains valid User-agent directive(s)
+                    - generic [ref=f34e5482]:
+                      - generic [ref=f34e5483]:
+                        - img [ref=f34e5485]
+                        - generic [ref=f34e5487]: Conclusion
+                      - generic [ref=f34e5490]: robots.txt exists with valid format
+                  - generic [ref=f34e5491]: Completed in 0ms
+                - button "Back to results" [ref=f34e5492] [cursor=pointer]:
+                  - img [ref=f34e5493]
+                  - text: Back
+            - generic [ref=f34e5496]:
+              - button "Pass Sitemap" [ref=f34e5499] [cursor=pointer]:
+                - generic [ref=f34e5500]:
+                  - img "Pass" [ref=f34e5501]:
+                    - img [ref=f34e5502]
+                  - generic [ref=f34e5504]: Sitemap
+                - img [ref=f34e5506]
+              - generic [ref=f34e5508]:
+                - generic [ref=f34e5510]:
+                  - img [ref=f34e5512]
+                  - generic [ref=f34e5514]: Sitemap
+                - generic [ref=f34e5515]:
+                  - generic [ref=f34e5516]:
+                    - generic [ref=f34e5517]:
+                      - generic [ref=f34e5518]:
+                        - img [ref=f34e5520]
+                        - generic [ref=f34e5522]: Extract Sitemap directives from robots.txt
+                      - generic [ref=f34e5525]: Found 1 Sitemap directive(s) in robots.txt
+                    - generic [ref=f34e5526]:
+                      - generic [ref=f34e5527]:
+                        - img [ref=f34e5529]
+                        - generic [ref=f34e5531]: GET /sitemap.xml
+                        - generic [ref=f34e5532]: "200"
+                      - table [ref=f34e5533]:
+                        - rowgroup [ref=f34e5534]:
+                          - row "content-type application/xml" [ref=f34e5535]:
+                            - cell "content-type" [ref=f34e5536]
+                            - cell "application/xml" [ref=f34e5537]
+                          - row "content-length 11867" [ref=f34e5538]:
+                            - cell "content-length" [ref=f34e5539]
+                            - cell "11867" [ref=f34e5540]
+                          - row "link </.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/mcp/server-card.json>; rel=\"service-doc\", </.well-known/agent-skills/index.json>; rel=\"service-doc\"" [ref=f34e5541]:
+                            - cell "link" [ref=f34e5542]
+                            - cell "</.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/mcp/server-card.json>; rel=\"service-doc\", </.well-known/agent-skills/index.json>; rel=\"service-doc\"" [ref=f34e5543]
+                          - row "cf-ray a166aca0ce1768aa-IST" [ref=f34e5544]:
+                            - cell "cf-ray" [ref=f34e5545]
+                            - cell "a166aca0ce1768aa-IST" [ref=f34e5546]
+                      - generic [ref=f34e5549]: Found valid xml sitemap at https://www.e-devlethizmetleri.com/sitemap.xml
+                    - generic [ref=f34e5550]:
+                      - generic [ref=f34e5551]:
+                        - img [ref=f34e5553]
+                        - generic [ref=f34e5555]: Conclusion
+                      - generic [ref=f34e5558]: sitemap.xml exists with valid structure
+                  - generic [ref=f34e5559]: Completed in 56ms
+                - button "Back to results" [ref=f34e5560] [cursor=pointer]:
+                  - img [ref=f34e5561]
+                  - text: Back
+            - generic [ref=f34e5564]:
+              - button "Pass Link headers" [ref=f34e5567] [cursor=pointer]:
+                - generic [ref=f34e5568]:
+                  - img "Pass" [ref=f34e5569]:
+                    - img [ref=f34e5570]
+                  - generic [ref=f34e5572]: Link headers
+                - img [ref=f34e5574]
+              - generic [ref=f34e5576]:
+                - generic [ref=f34e5578]:
+                  - img [ref=f34e5580]
+                  - generic [ref=f34e5582]: Link headers
+                - generic [ref=f34e5583]:
+                  - generic [ref=f34e5584]:
+                    - generic [ref=f34e5585]:
+                      - generic [ref=f34e5586]:
+                        - img [ref=f34e5588]
+                        - generic [ref=f34e5590]: GET /
+                        - generic [ref=f34e5591]: "200"
+                      - table [ref=f34e5592]:
+                        - rowgroup [ref=f34e5593]:
+                          - row "content-type text/html; charset=utf-8" [ref=f34e5594]:
+                            - cell "content-type" [ref=f34e5595]
+                            - cell "text/html; charset=utf-8" [ref=f34e5596]
+                          - row "link </.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/mcp/server-card.json>; rel=\"service-doc\", </.well-known/agent-skills/index.json>; rel=\"service-doc\"" [ref=f34e5597]:
+                            - cell "link" [ref=f34e5598]
+                            - cell "</.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/mcp/server-card.json>; rel=\"service-doc\", </.well-known/agent-skills/index.json>; rel=\"service-doc\"" [ref=f34e5599]
+                          - row "cf-ray a166aca1be5b68aa-IST" [ref=f34e5600]:
+                            - cell "cf-ray" [ref=f34e5601]
+                            - cell "a166aca1be5b68aa-IST" [ref=f34e5602]
+                      - generic [ref=f34e5605]: Homepage returned 200 with Link header
+                    - generic [ref=f34e5606]:
+                      - generic [ref=f34e5607]:
+                        - img [ref=f34e5609]
+                        - generic [ref=f34e5611]: Parse Link header (RFC 8288)
+                      - generic [ref=f34e5614]: Parsed 3 link(s) from header
+                    - generic [ref=f34e5615]:
+                      - generic [ref=f34e5616]:
+                        - img [ref=f34e5618]
+                        - generic [ref=f34e5620]: Match agent-useful relations
+                      - generic [ref=f34e5623]: "Found agent-useful relations: api-catalog, service-doc"
+                    - generic [ref=f34e5624]:
+                      - generic [ref=f34e5625]:
+                        - img [ref=f34e5627]
+                        - generic [ref=f34e5629]: Conclusion
+                      - generic [ref=f34e5632]: "Found agent-useful Link relations: api-catalog, service-doc"
+                  - generic [ref=f34e5633]: Completed in 203ms
+                - button "Back to results" [ref=f34e5634] [cursor=pointer]:
+                  - img [ref=f34e5635]
+                  - text: Back
+            - generic [ref=f34e5638]:
+              - button "Pass DNS for AI Discovery (DNS-AID)" [ref=f34e5641] [cursor=pointer]:
+                - generic [ref=f34e5642]:
+                  - img "Pass" [ref=f34e5643]:
+                    - img [ref=f34e5644]
+                  - generic [ref=f34e5646]: DNS for AI Discovery (DNS-AID)
+                - img [ref=f34e5648]
+              - generic [ref=f34e5650]:
+                - generic [ref=f34e5652]:
+                  - img [ref=f34e5654]
+                  - generic [ref=f34e5656]: DNS for AI Discovery (DNS-AID)
+                - generic [ref=f34e5657]:
+                  - generic [ref=f34e5658]:
+                    - generic [ref=f34e5659]:
+                      - generic [ref=f34e5660]:
+                        - img [ref=f34e5662]
+                        - generic [ref=f34e5664]: DoH SVCB _index._agents.e-devlethizmetleri.com
+                        - generic [ref=f34e5665]: "200"
+                      - generic [ref=f34e5666]: Request
+                      - table [ref=f34e5667]:
+                        - rowgroup [ref=f34e5668]:
+                          - row "accept application/dns-json" [ref=f34e5669]:
+                            - cell "accept" [ref=f34e5670]
+                            - cell "application/dns-json" [ref=f34e5671]
+                      - generic [ref=f34e5672]: Response
+                      - table [ref=f34e5673]:
+                        - rowgroup [ref=f34e5674]:
+                          - row "content-type application/dns-json" [ref=f34e5675]:
+                            - cell "content-type" [ref=f34e5676]
+                            - cell "application/dns-json" [ref=f34e5677]
+                      - generic [ref=f34e5678]: "{\"Status\":0,\"TC\":false,\"RD\":true,\"RA\":true,\"AD\":true,\"CD\":false,\"Question\":[{\"name\":\"_index._agents.e-devlethizmetleri.com\",\"type\":64}],\"Authority\":[{\"name\":\"e-devlethizmetleri.com\",\"type\":6,\"TTL\":1279,\"data\":\"agustin.ns.cloudflare.com. dns.cloudflare.com. 2408326264 10000 2400 604800 1800\"},{\"name\":\"e-devlethizmetleri.com\",\"type\":46,\"TTL\":1279,\"data\":\"SOA ECDSAP256SHA256 2 1800 1783347181 1783167181 34505 e-devlethizmetleri.com. 5U+jVJkCXu7ghMWOKsidh+v3ayplC4Jd5kMyxrgpxhstsVJvBQ9AkEjFgc+AitnJXa..."
+                      - generic [ref=f34e5681]: No SVCB answers (NOERROR)
+                    - generic [ref=f34e5682]:
+                      - generic [ref=f34e5683]:
+                        - img [ref=f34e5685]
+                        - generic [ref=f34e5687]: DoH HTTPS _index._agents.e-devlethizmetleri.com
+                        - generic [ref=f34e5688]: "200"
+                      - generic [ref=f34e5689]: Request
+                      - table [ref=f34e5690]:
+                        - rowgroup [ref=f34e5691]:
+                          - row "accept application/dns-json" [ref=f34e5692]:
+                            - cell "accept" [ref=f34e5693]
+                            - cell "application/dns-json" [ref=f34e5694]
+                      - generic [ref=f34e5695]: Response
+                      - table [ref=f34e5696]:
+                        - rowgroup [ref=f34e5697]:
+                          - row "content-type application/dns-json" [ref=f34e5698]:
+                            - cell "content-type" [ref=f34e5699]
+                            - cell "application/dns-json" [ref=f34e5700]
+                      - generic [ref=f34e5701]: "{\"Status\":0,\"TC\":false,\"RD\":true,\"RA\":true,\"AD\":true,\"CD\":false,\"Question\":[{\"name\":\"_index._agents.e-devlethizmetleri.com\",\"type\":65}],\"Answer\":[{\"name\":\"_index._agents.e-devlethizmetleri.com\",\"type\":65,\"TTL\":236,\"data\":\"\\\\# 13 00 01 00 00 01 00 06 02 68 32 02 68 33\"},{\"name\":\"_index._agents.e-devlethizmetleri.com\",\"type\":46,\"TTL\":236,\"data\":\"HTTPS ECDSAP256SHA256 4 300 1783347637 1783167637 34505 e-devlethizmetleri.com. EY/VrFdjC0ZWP7KmVmDUHvFFyIMFo99IyFTq5Lw15TgKnIEgyXvUvowmIxq1h7jdBGkoxmvgE2..."
+                      - generic [ref=f34e5704]: Found 1 HTTPS answer with AD=true
+                    - generic [ref=f34e5705]:
+                      - generic [ref=f34e5706]:
+                        - img [ref=f34e5708]
+                        - generic [ref=f34e5710]: DoH SVCB _a2a._agents.e-devlethizmetleri.com
+                        - generic [ref=f34e5711]: "200"
+                      - generic [ref=f34e5712]: Request
+                      - table [ref=f34e5713]:
+                        - rowgroup [ref=f34e5714]:
+                          - row "accept application/dns-json" [ref=f34e5715]:
+                            - cell "accept" [ref=f34e5716]
+                            - cell "application/dns-json" [ref=f34e5717]
+                      - generic [ref=f34e5718]: Response
+                      - table [ref=f34e5719]:
+                        - rowgroup [ref=f34e5720]:
+                          - row "content-type application/dns-json" [ref=f34e5721]:
+                            - cell "content-type" [ref=f34e5722]
+                            - cell "application/dns-json" [ref=f34e5723]
+                      - generic [ref=f34e5724]: "{\"Status\":0,\"TC\":false,\"RD\":true,\"RA\":true,\"AD\":true,\"CD\":false,\"Question\":[{\"name\":\"_a2a._agents.e-devlethizmetleri.com\",\"type\":64}],\"Authority\":[{\"name\":\"e-devlethizmetleri.com\",\"type\":6,\"TTL\":1279,\"data\":\"agustin.ns.cloudflare.com. dns.cloudflare.com. 2408326264 10000 2400 604800 1800\"},{\"name\":\"e-devlethizmetleri.com\",\"type\":46,\"TTL\":1279,\"data\":\"SOA ECDSAP256SHA256 2 1800 1783347181 1783167181 34505 e-devlethizmetleri.com. WArH1+zRM7+GNnYT+dVUPjQSXckYNffNnzuHeCOqhVw2dJ8ntHCtOfrYA/PrHM9UeIW8..."
+                      - generic [ref=f34e5727]: No SVCB answers (NOERROR)
+                    - generic [ref=f34e5728]:
+                      - generic [ref=f34e5729]:
+                        - img [ref=f34e5731]
+                        - generic [ref=f34e5733]: DoH HTTPS _a2a._agents.e-devlethizmetleri.com
+                        - generic [ref=f34e5734]: "200"
+                      - generic [ref=f34e5735]: Request
+                      - table [ref=f34e5736]:
+                        - rowgroup [ref=f34e5737]:
+                          - row "accept application/dns-json" [ref=f34e5738]:
+                            - cell "accept" [ref=f34e5739]
+                            - cell "application/dns-json" [ref=f34e5740]
+                      - generic [ref=f34e5741]: Response
+                      - table [ref=f34e5742]:
+                        - rowgroup [ref=f34e5743]:
+                          - row "content-type application/dns-json" [ref=f34e5744]:
+                            - cell "content-type" [ref=f34e5745]
+                            - cell "application/dns-json" [ref=f34e5746]
+                      - generic [ref=f34e5747]: "{\"Status\":0,\"TC\":false,\"RD\":true,\"RA\":true,\"AD\":true,\"CD\":false,\"Question\":[{\"name\":\"_a2a._agents.e-devlethizmetleri.com\",\"type\":65}],\"Authority\":[{\"name\":\"e-devlethizmetleri.com\",\"type\":6,\"TTL\":1279,\"data\":\"agustin.ns.cloudflare.com. dns.cloudflare.com. 2408326264 10000 2400 604800 1800\"},{\"name\":\"e-devlethizmetleri.com\",\"type\":46,\"TTL\":1279,\"data\":\"SOA ECDSAP256SHA256 2 1800 1783347181 1783167181 34505 e-devlethizmetleri.com. YQewKU348G/wUeq4ugf+jvobwTpI1QvSBq35VF+R3QR7E9f0dFYK8qAuf+p697aKwfbU..."
+                      - generic [ref=f34e5750]: No HTTPS answers (NOERROR)
+                    - generic [ref=f34e5751]:
+                      - generic [ref=f34e5752]:
+                        - img [ref=f34e5754]
+                        - generic [ref=f34e5756]: DoH SVCB _mcp._agents.e-devlethizmetleri.com
+                        - generic [ref=f34e5757]: "200"
+                      - generic [ref=f34e5758]: Request
+                      - table [ref=f34e5759]:
+                        - rowgroup [ref=f34e5760]:
+                          - row "accept application/dns-json" [ref=f34e5761]:
+                            - cell "accept" [ref=f34e5762]
+                            - cell "application/dns-json" [ref=f34e5763]
+                      - generic [ref=f34e5764]: Response
+                      - table [ref=f34e5765]:
+                        - rowgroup [ref=f34e5766]:
+                          - row "content-type application/dns-json" [ref=f34e5767]:
+                            - cell "content-type" [ref=f34e5768]
+                            - cell "application/dns-json" [ref=f34e5769]
+                      - generic [ref=f34e5770]: "{\"Status\":0,\"TC\":false,\"RD\":true,\"RA\":true,\"AD\":true,\"CD\":false,\"Question\":[{\"name\":\"_mcp._agents.e-devlethizmetleri.com\",\"type\":64}],\"Authority\":[{\"name\":\"e-devlethizmetleri.com\",\"type\":6,\"TTL\":1279,\"data\":\"agustin.ns.cloudflare.com. dns.cloudflare.com. 2408326264 10000 2400 604800 1800\"},{\"name\":\"e-devlethizmetleri.com\",\"type\":46,\"TTL\":1279,\"data\":\"SOA ECDSAP256SHA256 2 1800 1783347181 1783167181 34505 e-devlethizmetleri.com. /LI2+Np/bZuuk7dONWRcgSyssBJAC+EBTWky8WDdZ+H0wqd6EcFvxnvBBjIl1e9JX9PQ..."
+                      - generic [ref=f34e5773]: No SVCB answers (NOERROR)
+                    - generic [ref=f34e5774]:
+                      - generic [ref=f34e5775]:
+                        - img [ref=f34e5777]
+                        - generic [ref=f34e5779]: DoH HTTPS _mcp._agents.e-devlethizmetleri.com
+                        - generic [ref=f34e5780]: "200"
+                      - generic [ref=f34e5781]: Request
+                      - table [ref=f34e5782]:
+                        - rowgroup [ref=f34e5783]:
+                          - row "accept application/dns-json" [ref=f34e5784]:
+                            - cell "accept" [ref=f34e5785]
+                            - cell "application/dns-json" [ref=f34e5786]
+                      - generic [ref=f34e5787]: Response
+                      - table [ref=f34e5788]:
+                        - rowgroup [ref=f34e5789]:
+                          - row "content-type application/dns-json" [ref=f34e5790]:
+                            - cell "content-type" [ref=f34e5791]
+                            - cell "application/dns-json" [ref=f34e5792]
+                      - generic [ref=f34e5793]: "{\"Status\":0,\"TC\":false,\"RD\":true,\"RA\":true,\"AD\":true,\"CD\":false,\"Question\":[{\"name\":\"_mcp._agents.e-devlethizmetleri.com\",\"type\":65}],\"Authority\":[{\"name\":\"e-devlethizmetleri.com\",\"type\":6,\"TTL\":1279,\"data\":\"agustin.ns.cloudflare.com. dns.cloudflare.com. 2408326264 10000 2400 604800 1800\"},{\"name\":\"e-devlethizmetleri.com\",\"type\":46,\"TTL\":1279,\"data\":\"SOA ECDSAP256SHA256 2 1800 1783347181 1783167181 34505 e-devlethizmetleri.com. DTZxjShxnwGHNFkhvaYZjHRHuDNm3YGVypjHxBV6pXrIOc+DNbYAPgekdVYoDmTK0HUk..."
+                      - generic [ref=f34e5796]: No HTTPS answers (NOERROR)
+                    - generic [ref=f34e5797]:
+                      - generic [ref=f34e5798]:
+                        - img [ref=f34e5800]
+                        - generic [ref=f34e5802]: DoH TXT _index._agents.e-devlethizmetleri.com
+                        - generic [ref=f34e5803]: "200"
+                      - generic [ref=f34e5804]: Request
+                      - table [ref=f34e5805]:
+                        - rowgroup [ref=f34e5806]:
+                          - row "accept application/dns-json" [ref=f34e5807]:
+                            - cell "accept" [ref=f34e5808]
+                            - cell "application/dns-json" [ref=f34e5809]
+                      - generic [ref=f34e5810]: Response
+                      - table [ref=f34e5811]:
+                        - rowgroup [ref=f34e5812]:
+                          - row "content-type application/dns-json" [ref=f34e5813]:
+                            - cell "content-type" [ref=f34e5814]
+                            - cell "application/dns-json" [ref=f34e5815]
+                      - generic [ref=f34e5816]: "{\"Status\":0,\"TC\":false,\"RD\":true,\"RA\":true,\"AD\":true,\"CD\":false,\"Question\":[{\"name\":\"_index._agents.e-devlethizmetleri.com\",\"type\":16}],\"Authority\":[{\"name\":\"e-devlethizmetleri.com\",\"type\":6,\"TTL\":1279,\"data\":\"agustin.ns.cloudflare.com. dns.cloudflare.com. 2408326264 10000 2400 604800 1800\"},{\"name\":\"e-devlethizmetleri.com\",\"type\":46,\"TTL\":1279,\"data\":\"SOA ECDSAP256SHA256 2 1800 1783347181 1783167181 34505 e-devlethizmetleri.com. Q1O78Wm9ZzYNctaRkkW15ukFZKDsJ92t+bnVxdl3g6AOMk4hlRzKQG197Dc63l3OUB..."
+                      - generic [ref=f34e5819]: No TXT answers (NOERROR)
+                    - generic [ref=f34e5820]:
+                      - generic [ref=f34e5821]:
+                        - img [ref=f34e5823]
+                        - generic [ref=f34e5825]: Parse DNS for AI Discovery (DNS-AID) SVCB/HTTPS records
+                      - generic [ref=f34e5828]: Found 1 DNSSEC-validated ServiceMode record
+                    - generic [ref=f34e5829]:
+                      - generic [ref=f34e5830]:
+                        - img [ref=f34e5832]
+                        - generic [ref=f34e5834]: Validate DNSSEC requirement
+                      - generic [ref=f34e5837]: DNS-over-HTTPS resolver returned AD=true
+                    - generic [ref=f34e5838]:
+                      - generic [ref=f34e5839]:
+                        - img [ref=f34e5841]
+                        - generic [ref=f34e5843]: Conclusion
+                      - generic [ref=f34e5846]: DNS for AI Discovery (DNS-AID) discovery record found at _index._agents.e-devlethizmetleri.com
+                  - generic [ref=f34e5847]: Completed in 19ms
+                - button "Back to results" [ref=f34e5848] [cursor=pointer]:
+                  - img [ref=f34e5849]
+                  - text: Back
+        - generic [ref=f34e5851]:
+          - generic [ref=f34e5852]:
+            - heading "Content" [level=2] [ref=f34e5854]
+            - generic [ref=f34e5855]: 1/1
+          - generic [ref=f34e5858]:
+            - button "Pass Markdown Negotiation" [ref=f34e5861] [cursor=pointer]:
+              - generic [ref=f34e5862]:
+                - img "Pass" [ref=f34e5863]:
+                  - img [ref=f34e5864]
+                - generic [ref=f34e5866]: Markdown Negotiation
+              - img [ref=f34e5868]
+            - generic [ref=f34e5870]:
+              - generic [ref=f34e5872]:
+                - img [ref=f34e5874]
+                - generic [ref=f34e5876]: Markdown Negotiation
+              - generic [ref=f34e5877]:
+                - generic [ref=f34e5878]:
+                  - generic [ref=f34e5879]:
+                    - generic [ref=f34e5880]:
+                      - img [ref=f34e5882]
+                      - generic [ref=f34e5884]: "GET homepage (Accept: text/markdown)"
+                      - generic [ref=f34e5885]: "200"
+                    - generic [ref=f34e5886]: Request
+                    - table [ref=f34e5887]:
+                      - rowgroup [ref=f34e5888]:
+                        - row "accept text/markdown" [ref=f34e5889]:
+                          - cell "accept" [ref=f34e5890]
+                          - cell "text/markdown" [ref=f34e5891]
+                    - generic [ref=f34e5892]: Response
+                    - table [ref=f34e5893]:
+                      - rowgroup [ref=f34e5894]:
+                        - row "content-type text/markdown; charset=utf-8" [ref=f34e5895]:
+                          - cell "content-type" [ref=f34e5896]
+                          - cell "text/markdown; charset=utf-8" [ref=f34e5897]
+                        - row "cf-ray a166acaf1f67b379-PRG" [ref=f34e5898]:
+                          - cell "cf-ray" [ref=f34e5899]
+                          - cell "a166acaf1f67b379-PRG" [ref=f34e5900]
+                    - generic [ref=f34e5903]: Response content-type is text/markdown; charset=utf-8 -- site supports markdown negotiation
+                  - generic [ref=f34e5904]:
+                    - generic [ref=f34e5905]:
+                      - img [ref=f34e5907]
+                      - generic [ref=f34e5909]: Conclusion
+                    - generic [ref=f34e5912]: Site supports Markdown for Agents
+                - generic [ref=f34e5913]: Completed in 453ms
+              - button "Back to results" [ref=f34e5914] [cursor=pointer]:
+                - img [ref=f34e5915]
+                - text: Back
+        - generic [ref=f34e5917]:
+          - generic [ref=f34e5918]:
+            - heading "Bot Access Control" [level=2] [ref=f34e5920]
+            - generic [ref=f34e5921]: 2/2
+          - generic [ref=f34e5922]:
+            - generic [ref=f34e5924]:
+              - button "Pass AI bot rules in robots.txt" [ref=f34e5927] [cursor=pointer]:
+                - generic [ref=f34e5928]:
+                  - img "Pass" [ref=f34e5929]:
+                    - img [ref=f34e5930]
+                  - generic [ref=f34e5932]: AI bot rules in robots.txt
+                - img [ref=f34e5934]
+              - generic [ref=f34e5936]:
+                - generic [ref=f34e5938]:
+                  - img [ref=f34e5940]
+                  - generic [ref=f34e5942]: AI bot rules in robots.txt
+                - generic [ref=f34e5943]:
+                  - generic [ref=f34e5944]:
+                    - generic [ref=f34e5945]:
+                      - generic [ref=f34e5946]:
+                        - img [ref=f34e5948]
+                        - generic [ref=f34e5950]: GET /robots.txt
+                        - generic [ref=f34e5951]: "200"
+                      - table [ref=f34e5952]:
+                        - rowgroup [ref=f34e5953]:
+                          - row "content-type text/plain; charset=utf-8" [ref=f34e5954]:
+                            - cell "content-type" [ref=f34e5955]
+                            - cell "text/plain; charset=utf-8" [ref=f34e5956]
+                          - row "content-length 2224" [ref=f34e5957]:
+                            - cell "content-length" [ref=f34e5958]
+                            - cell "2224" [ref=f34e5959]
+                          - row "cf-ray a166aca02df568aa-IST" [ref=f34e5960]:
+                            - cell "cf-ray" [ref=f34e5961]
+                            - cell "a166aca02df568aa-IST" [ref=f34e5962]
+                      - generic [ref=f34e5963]: "# As a condition of accessing this website, you agree to abide by the following # content signals: # (a) If a Content-Signal = yes, you may collect content for the corresponding # use. # (b) If a Content-Signal = no, you may not collect content for the # corresponding use. # (c) If the website operator does not include a Content-Signal for a # corresponding use, the website operator neither grants nor restricts # permission via Content-Signal with respect to the correspon..."
+                      - generic [ref=f34e5966]: Received valid robots.txt (200, text/plain; charset=utf-8)
+                    - generic [ref=f34e5967]:
+                      - generic [ref=f34e5968]:
+                        - img [ref=f34e5970]
+                        - generic [ref=f34e5972]: Scan for AI bot User-agent directives
+                      - generic [ref=f34e5975]: "Found rules for AI bots: gptbot, chatgpt-user, google-extended, ccbot, bytespider, perplexitybot, cohere-ai, applebot-extended, amazonbot, meta-externalagent"
+                    - generic [ref=f34e5976]:
+                      - generic [ref=f34e5977]:
+                        - img [ref=f34e5979]
+                        - generic [ref=f34e5981]: Conclusion
+                      - generic [ref=f34e5984]: Found rules for 10 AI bots
+                  - generic [ref=f34e5985]: Completed in 0ms
+                - button "Back to results" [ref=f34e5986] [cursor=pointer]:
+                  - img [ref=f34e5987]
+                  - text: Back
+            - generic [ref=f34e5990]:
+              - button "Pass Content Signals in robots.txt" [ref=f34e5993] [cursor=pointer]:
+                - generic [ref=f34e5994]:
+                  - img "Pass" [ref=f34e5995]:
+                    - img [ref=f34e5996]
+                  - generic [ref=f34e5998]: Content Signals in robots.txt
+                - img [ref=f34e6000]
+              - generic [ref=f34e6002]:
+                - generic [ref=f34e6004]:
+                  - img [ref=f34e6006]
+                  - generic [ref=f34e6008]: Content Signals in robots.txt
+                - generic [ref=f34e6009]:
+                  - generic [ref=f34e6010]:
+                    - generic [ref=f34e6011]:
+                      - generic [ref=f34e6012]:
+                        - img [ref=f34e6014]
+                        - generic [ref=f34e6016]: GET /robots.txt
+                        - generic [ref=f34e6017]: "200"
+                      - table [ref=f34e6018]:
+                        - rowgroup [ref=f34e6019]:
+                          - row "content-type text/plain; charset=utf-8" [ref=f34e6020]:
+                            - cell "content-type" [ref=f34e6021]
+                            - cell "text/plain; charset=utf-8" [ref=f34e6022]
+                          - row "content-length 2224" [ref=f34e6023]:
+                            - cell "content-length" [ref=f34e6024]
+                            - cell "2224" [ref=f34e6025]
+                          - row "cf-ray a166aca02df568aa-IST" [ref=f34e6026]:
+                            - cell "cf-ray" [ref=f34e6027]
+                            - cell "a166aca02df568aa-IST" [ref=f34e6028]
+                      - generic [ref=f34e6029]: "# As a condition of accessing this website, you agree to abide by the following # content signals: # (a) If a Content-Signal = yes, you may collect content for the corresponding # use. # (b) If a Content-Signal = no, you may not collect content for the # corresponding use. # (c) If the website operator does not include a Content-Signal for a # corresponding use, the website operator neither grants nor restricts # permission via Content-Signal with respect to the correspon..."
+                      - generic [ref=f34e6032]: Received valid robots.txt (200, text/plain; charset=utf-8)
+                    - generic [ref=f34e6033]:
+                      - generic [ref=f34e6034]:
+                        - img [ref=f34e6036]
+                        - generic [ref=f34e6038]: Parse Content-Signal directives
+                      - generic [ref=f34e6041]: Found 1 Content-Signal directive(s)
+                    - generic [ref=f34e6042]:
+                      - generic [ref=f34e6043]:
+                        - img [ref=f34e6045]
+                        - generic [ref=f34e6047]: Conclusion
+                      - generic [ref=f34e6050]: Content Signals found in robots.txt
+                  - generic [ref=f34e6051]: Completed in 0ms
+                - button "Back to results" [ref=f34e6052] [cursor=pointer]:
+                  - img [ref=f34e6053]
+                  - text: Back
+            - generic [ref=f34e6056]:
+              - generic [ref=f34e6058]:
+                - button "Not applicable Web Bot Auth request signing" [ref=f34e6059] [cursor=pointer]:
+                  - generic [ref=f34e6060]:
+                    - img "Not applicable" [ref=f34e6061]:
+                      - img [ref=f34e6062]
+                    - generic [ref=f34e6064]: Web Bot Auth request signing
+                  - img [ref=f34e6066]
+                - text: Paste into your coding agent to fix this check
+              - generic [ref=f34e6068]:
+                - generic [ref=f34e6070]:
+                  - img [ref=f34e6072]
+                  - generic [ref=f34e6074]: Web Bot Auth request signing
+                - generic [ref=f34e6075]:
+                  - generic [ref=f34e6076]:
+                    - generic [ref=f34e6077]:
+                      - generic [ref=f34e6078]:
+                        - img [ref=f34e6080]
+                        - generic [ref=f34e6082]: GET /.well-known/http-message-signatures-directory
+                        - generic [ref=f34e6083]: "404"
+                      - table [ref=f34e6084]:
+                        - rowgroup [ref=f34e6085]:
+                          - row "content-type text/html; charset=utf-8" [ref=f34e6086]:
+                            - cell "content-type" [ref=f34e6087]
+                            - cell "text/html; charset=utf-8" [ref=f34e6088]
+                          - row "link </.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/mcp/server-card.json>; rel=\"service-doc\", </.well-known/agent-skills/index.json>; rel=\"service-doc\"" [ref=f34e6089]:
+                            - cell "link" [ref=f34e6090]
+                            - cell "</.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/mcp/server-card.json>; rel=\"service-doc\", </.well-known/agent-skills/index.json>; rel=\"service-doc\"" [ref=f34e6091]
+                          - row "cf-ray a166aca0ce1868aa-IST" [ref=f34e6092]:
+                            - cell "cf-ray" [ref=f34e6093]
+                            - cell "a166aca0ce1868aa-IST" [ref=f34e6094]
+                      - generic [ref=f34e6097]: Server returned 404 -- Web Bot Auth directory not found
+                    - generic [ref=f34e6098]:
+                      - generic [ref=f34e6099]:
+                        - img [ref=f34e6101]
+                        - generic [ref=f34e6103]: Conclusion
+                      - generic [ref=f34e6106]: Web Bot Auth directory not found
+                  - generic [ref=f34e6107]: Completed in 58ms
+                - button "Back to results" [ref=f34e6108] [cursor=pointer]:
+                  - img [ref=f34e6109]
+                  - text: Back
+        - generic [ref=f34e6111]:
+          - generic [ref=f34e6112]:
+            - heading "API, Auth, MCP & Skill Discovery" [level=2] [ref=f34e6114]
+            - generic [ref=f34e6115]: 6/7
+          - generic [ref=f34e6116]:
+            - generic [ref=f34e6118]:
+              - button "Pass API Catalog" [ref=f34e6121] [cursor=pointer]:
+                - generic [ref=f34e6122]:
+                  - img "Pass" [ref=f34e6123]:
+                    - img [ref=f34e6124]
+                  - generic [ref=f34e6126]: API Catalog
+                - img [ref=f34e6128]
+              - generic [ref=f34e6130]:
+                - generic [ref=f34e6132]:
+                  - img [ref=f34e6134]
+                  - generic [ref=f34e6136]: API Catalog
+                - generic [ref=f34e6137]:
+                  - generic [ref=f34e6138]:
+                    - generic [ref=f34e6139]:
+                      - generic [ref=f34e6140]:
+                        - img [ref=f34e6142]
+                        - generic [ref=f34e6144]: GET /.well-known/api-catalog
+                        - generic [ref=f34e6145]: "200"
+                      - generic [ref=f34e6146]: Request
+                      - table [ref=f34e6147]:
+                        - rowgroup [ref=f34e6148]:
+                          - row "accept application/linkset+json, application/json" [ref=f34e6149]:
+                            - cell "accept" [ref=f34e6150]
+                            - cell "application/linkset+json, application/json" [ref=f34e6151]
+                      - generic [ref=f34e6152]: Response
+                      - table [ref=f34e6153]:
+                        - rowgroup [ref=f34e6154]:
+                          - row "content-type application/linkset+json" [ref=f34e6155]:
+                            - cell "content-type" [ref=f34e6156]
+                            - cell "application/linkset+json" [ref=f34e6157]
+                          - row "content-length 395" [ref=f34e6158]:
+                            - cell "content-length" [ref=f34e6159]
+                            - cell "395" [ref=f34e6160]
+                          - row "link </.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/mcp/server-card.json>; rel=\"service-doc\", </.well-known/agent-skills/index.json>; rel=\"service-doc\"" [ref=f34e6161]:
+                            - cell "link" [ref=f34e6162]
+                            - cell "</.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/mcp/server-card.json>; rel=\"service-doc\", </.well-known/agent-skills/index.json>; rel=\"service-doc\"" [ref=f34e6163]
+                          - row "cf-ray a166aca14e3d68aa-IST" [ref=f34e6164]:
+                            - cell "cf-ray" [ref=f34e6165]
+                            - cell "a166aca14e3d68aa-IST" [ref=f34e6166]
+                      - generic [ref=f34e6167]: "{\"linkset\":[{\"anchor\":\"https://www.e-devlethizmetleri.com\",\"service-doc\":[{\"href\":\"https://www.e-devlethizmetleri.com/llms.txt\",\"type\":\"text/markdown\"}],\"describedby\":[{\"href\":\"https://www.e-devlethizmetleri.com/sitemap.xml\",\"type\":\"application/xml\"}]}]}"
+                      - generic [ref=f34e6170]: Received 200 with valid JSON response
+                    - generic [ref=f34e6171]:
+                      - generic [ref=f34e6172]:
+                        - img [ref=f34e6174]
+                        - generic [ref=f34e6176]: Validate Linkset structure
+                      - generic [ref=f34e6179]: Found "linkset" array with 1 entries
+                    - generic [ref=f34e6180]:
+                      - generic [ref=f34e6181]:
+                        - img [ref=f34e6183]
+                        - generic [ref=f34e6185]: Analyze linkset entries
+                      - generic [ref=f34e6188]: 1 API listed, correct content-type
+                    - generic [ref=f34e6189]:
+                      - generic [ref=f34e6190]:
+                        - img [ref=f34e6192]
+                        - generic [ref=f34e6194]: Conclusion
+                      - generic [ref=f34e6197]: API Catalog found with 1 API listed
+                  - generic [ref=f34e6198]: Completed in 124ms
+                - button "Back to results" [ref=f34e6199] [cursor=pointer]:
+                  - img [ref=f34e6200]
+                  - text: Back
+            - generic [ref=f34e6203]:
+              - button "Pass OAuth / OIDC discovery" [ref=f34e6206] [cursor=pointer]:
+                - generic [ref=f34e6207]:
+                  - img "Pass" [ref=f34e6208]:
+                    - img [ref=f34e6209]
+                  - generic [ref=f34e6211]: OAuth / OIDC discovery
+                - img [ref=f34e6213]
+              - generic [ref=f34e6215]:
+                - generic [ref=f34e6217]:
+                  - img [ref=f34e6219]
+                  - generic [ref=f34e6221]: OAuth / OIDC discovery
+                - generic [ref=f34e6222]:
+                  - generic [ref=f34e6223]:
+                    - generic [ref=f34e6224]:
+                      - generic [ref=f34e6225]:
+                        - img [ref=f34e6227]
+                        - generic [ref=f34e6229]: GET /.well-known/oauth-authorization-server
+                        - generic [ref=f34e6230]: "200"
+                      - table [ref=f34e6231]:
+                        - rowgroup [ref=f34e6232]:
+                          - row "content-type application/json" [ref=f34e6233]:
+                            - cell "content-type" [ref=f34e6234]
+                            - cell "application/json" [ref=f34e6235]
+                          - row "content-length 539" [ref=f34e6236]:
+                            - cell "content-length" [ref=f34e6237]
+                            - cell "539" [ref=f34e6238]
+                          - row "link </.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/mcp/server-card.json>; rel=\"service-doc\", </.well-known/agent-skills/index.json>; rel=\"service-doc\"" [ref=f34e6239]:
+                            - cell "link" [ref=f34e6240]
+                            - cell "</.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/mcp/server-card.json>; rel=\"service-doc\", </.well-known/agent-skills/index.json>; rel=\"service-doc\"" [ref=f34e6241]
+                          - row "cf-ray a166aca0ce1a68aa-IST" [ref=f34e6242]:
+                            - cell "cf-ray" [ref=f34e6243]
+                            - cell "a166aca0ce1a68aa-IST" [ref=f34e6244]
+                      - generic [ref=f34e6247]: Received JSON from oauth-authorization-server
+                    - generic [ref=f34e6248]:
+                      - generic [ref=f34e6249]:
+                        - img [ref=f34e6251]
+                        - generic [ref=f34e6253]: Validate oauth-authorization-server structure
+                      - generic [ref=f34e6256]: "Valid metadata with issuer: https://e-devlethizmetleri.com"
+                    - generic [ref=f34e6257]:
+                      - generic [ref=f34e6258]:
+                        - img [ref=f34e6260]
+                        - generic [ref=f34e6262]: GET /.well-known/openid-configuration
+                        - generic [ref=f34e6263]: "200"
+                      - table [ref=f34e6264]:
+                        - rowgroup [ref=f34e6265]:
+                          - row "content-type application/json" [ref=f34e6266]:
+                            - cell "content-type" [ref=f34e6267]
+                            - cell "application/json" [ref=f34e6268]
+                          - row "content-length 552" [ref=f34e6269]:
+                            - cell "content-length" [ref=f34e6270]
+                            - cell "552" [ref=f34e6271]
+                          - row "link </.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/mcp/server-card.json>; rel=\"service-doc\", </.well-known/agent-skills/index.json>; rel=\"service-doc\"" [ref=f34e6272]:
+                            - cell "link" [ref=f34e6273]
+                            - cell "</.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/mcp/server-card.json>; rel=\"service-doc\", </.well-known/agent-skills/index.json>; rel=\"service-doc\"" [ref=f34e6274]
+                          - row "cf-ray a166aca0ce1968aa-IST" [ref=f34e6275]:
+                            - cell "cf-ray" [ref=f34e6276]
+                            - cell "a166aca0ce1968aa-IST" [ref=f34e6277]
+                      - generic [ref=f34e6280]: Received JSON from openid-configuration
+                    - generic [ref=f34e6281]:
+                      - generic [ref=f34e6282]:
+                        - img [ref=f34e6284]
+                        - generic [ref=f34e6286]: Validate openid-configuration structure
+                      - generic [ref=f34e6289]: "Valid metadata with issuer: https://e-devlethizmetleri.com"
+                    - generic [ref=f34e6290]:
+                      - generic [ref=f34e6291]:
+                        - img [ref=f34e6293]
+                        - generic [ref=f34e6295]: Conclusion
+                      - generic [ref=f34e6298]: OpenID Connect discovery metadata found
+                  - generic [ref=f34e6299]: Completed in 58ms
+                - button "Back to results" [ref=f34e6300] [cursor=pointer]:
+                  - img [ref=f34e6301]
+                  - text: Back
+            - generic [ref=f34e6304]:
+              - button "Pass OAuth Protected Resource" [ref=f34e6307] [cursor=pointer]:
+                - generic [ref=f34e6308]:
+                  - img "Pass" [ref=f34e6309]:
+                    - img [ref=f34e6310]
+                  - generic [ref=f34e6312]: OAuth Protected Resource
+                - img [ref=f34e6314]
+              - generic [ref=f34e6316]:
+                - generic [ref=f34e6318]:
+                  - img [ref=f34e6320]
+                  - generic [ref=f34e6322]: OAuth Protected Resource
+                - generic [ref=f34e6323]:
+                  - generic [ref=f34e6324]:
+                    - generic [ref=f34e6325]:
+                      - generic [ref=f34e6326]:
+                        - img [ref=f34e6328]
+                        - generic [ref=f34e6330]: GET /.well-known/oauth-protected-resource
+                        - generic [ref=f34e6331]: "200"
+                      - table [ref=f34e6332]:
+                        - rowgroup [ref=f34e6333]:
+                          - row "content-type application/json" [ref=f34e6334]:
+                            - cell "content-type" [ref=f34e6335]
+                            - cell "application/json" [ref=f34e6336]
+                          - row "content-length 299" [ref=f34e6337]:
+                            - cell "content-length" [ref=f34e6338]
+                            - cell "299" [ref=f34e6339]
+                          - row "link </.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/mcp/server-card.json>; rel=\"service-doc\", </.well-known/agent-skills/index.json>; rel=\"service-doc\"" [ref=f34e6340]:
+                            - cell "link" [ref=f34e6341]
+                            - cell "</.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/mcp/server-card.json>; rel=\"service-doc\", </.well-known/agent-skills/index.json>; rel=\"service-doc\"" [ref=f34e6342]
+                          - row "cf-ray a166aca0ce1d68aa-IST" [ref=f34e6343]:
+                            - cell "cf-ray" [ref=f34e6344]
+                            - cell "a166aca0ce1d68aa-IST" [ref=f34e6345]
+                      - generic [ref=f34e6348]: Received JSON response (200)
+                    - generic [ref=f34e6349]:
+                      - generic [ref=f34e6350]:
+                        - img [ref=f34e6352]
+                        - generic [ref=f34e6354]: Validate resource metadata
+                      - generic [ref=f34e6357]: "Valid metadata with resource: https://e-devlethizmetleri.com"
+                    - generic [ref=f34e6358]:
+                      - generic [ref=f34e6359]:
+                        - img [ref=f34e6361]
+                        - generic [ref=f34e6363]: GET /
+                        - generic [ref=f34e6364]: "200"
+                      - table [ref=f34e6365]:
+                        - rowgroup [ref=f34e6366]:
+                          - row "content-type text/html; charset=utf-8" [ref=f34e6367]:
+                            - cell "content-type" [ref=f34e6368]
+                            - cell "text/html; charset=utf-8" [ref=f34e6369]
+                          - row "link </.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/mcp/server-card.json>; rel=\"service-doc\", </.well-known/agent-skills/index.json>; rel=\"service-doc\"" [ref=f34e6370]:
+                            - cell "link" [ref=f34e6371]
+                            - cell "</.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/mcp/server-card.json>; rel=\"service-doc\", </.well-known/agent-skills/index.json>; rel=\"service-doc\"" [ref=f34e6372]
+                          - row "cf-ray a166aca0ce2068aa-IST" [ref=f34e6373]:
+                            - cell "cf-ray" [ref=f34e6374]
+                            - cell "a166aca0ce2068aa-IST" [ref=f34e6375]
+                      - generic [ref=f34e6378]: Homepage returned 200 (no WWW-Authenticate header)
+                    - generic [ref=f34e6379]:
+                      - generic [ref=f34e6380]:
+                        - img [ref=f34e6382]
+                        - generic [ref=f34e6384]: Conclusion
+                      - generic [ref=f34e6387]: OAuth Protected Resource Metadata found (well-known)
+                  - generic [ref=f34e6388]: Completed in 76ms
+                - button "Back to results" [ref=f34e6389] [cursor=pointer]:
+                  - img [ref=f34e6390]
+                  - text: Back
+            - generic [ref=f34e6393]:
+              - button "Pass MCP Server Card" [ref=f34e6396] [cursor=pointer]:
+                - generic [ref=f34e6397]:
+                  - img "Pass" [ref=f34e6398]:
+                    - img [ref=f34e6399]
+                  - generic [ref=f34e6401]: MCP Server Card
+                - img [ref=f34e6403]
+              - generic [ref=f34e6405]:
+                - generic [ref=f34e6407]:
+                  - img [ref=f34e6409]
+                  - generic [ref=f34e6411]: MCP Server Card
+                - generic [ref=f34e6412]:
+                  - generic [ref=f34e6413]:
+                    - generic [ref=f34e6414]:
+                      - generic [ref=f34e6415]:
+                        - img [ref=f34e6417]
+                        - generic [ref=f34e6419]: GET /.well-known/mcp/server-card.json
+                        - generic [ref=f34e6420]: "200"
+                      - table [ref=f34e6421]:
+                        - rowgroup [ref=f34e6422]:
+                          - row "content-type application/json" [ref=f34e6423]:
+                            - cell "content-type" [ref=f34e6424]
+                            - cell "application/json" [ref=f34e6425]
+                          - row "content-length 1240" [ref=f34e6426]:
+                            - cell "content-length" [ref=f34e6427]
+                            - cell "1240" [ref=f34e6428]
+                          - row "link </.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/mcp/server-card.json>; rel=\"service-doc\", </.well-known/agent-skills/index.json>; rel=\"service-doc\"" [ref=f34e6429]:
+                            - cell "link" [ref=f34e6430]
+                            - cell "</.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/mcp/server-card.json>; rel=\"service-doc\", </.well-known/agent-skills/index.json>; rel=\"service-doc\"" [ref=f34e6431]
+                          - row "cf-ray a166aca10e2c68aa-IST" [ref=f34e6432]:
+                            - cell "cf-ray" [ref=f34e6433]
+                            - cell "a166aca10e2c68aa-IST" [ref=f34e6434]
+                      - generic [ref=f34e6437]: Found valid MCP Server Card (sep format) at /.well-known/mcp/server-card.json
+                    - generic [ref=f34e6438]:
+                      - generic [ref=f34e6439]:
+                        - img [ref=f34e6441]
+                        - generic [ref=f34e6443]: GET /.well-known/mcp/server-cards.json
+                        - generic [ref=f34e6444]: "404"
+                      - table [ref=f34e6445]:
+                        - rowgroup [ref=f34e6446]:
+                          - row "content-type text/html; charset=utf-8" [ref=f34e6447]:
+                            - cell "content-type" [ref=f34e6448]
+                            - cell "text/html; charset=utf-8" [ref=f34e6449]
+                          - row "link </.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/mcp/server-card.json>; rel=\"service-doc\", </.well-known/agent-skills/index.json>; rel=\"service-doc\"" [ref=f34e6450]:
+                            - cell "link" [ref=f34e6451]
+                            - cell "</.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/mcp/server-card.json>; rel=\"service-doc\", </.well-known/agent-skills/index.json>; rel=\"service-doc\"" [ref=f34e6452]
+                          - row "cf-ray a166aca11e2f68aa-IST" [ref=f34e6453]:
+                            - cell "cf-ray" [ref=f34e6454]
+                            - cell "a166aca11e2f68aa-IST" [ref=f34e6455]
+                      - generic [ref=f34e6458]: /.well-known/mcp/server-cards.json returned 404
+                    - generic [ref=f34e6459]:
+                      - generic [ref=f34e6460]:
+                        - img [ref=f34e6462]
+                        - generic [ref=f34e6464]: GET /.well-known/mcp.json
+                        - generic [ref=f34e6465]: "404"
+                      - table [ref=f34e6466]:
+                        - rowgroup [ref=f34e6467]:
+                          - row "content-type text/html; charset=utf-8" [ref=f34e6468]:
+                            - cell "content-type" [ref=f34e6469]
+                            - cell "text/html; charset=utf-8" [ref=f34e6470]
+                          - row "link </.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/mcp/server-card.json>; rel=\"service-doc\", </.well-known/agent-skills/index.json>; rel=\"service-doc\"" [ref=f34e6471]:
+                            - cell "link" [ref=f34e6472]
+                            - cell "</.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/mcp/server-card.json>; rel=\"service-doc\", </.well-known/agent-skills/index.json>; rel=\"service-doc\"" [ref=f34e6473]
+                          - row "cf-ray a166aca11e3068aa-IST" [ref=f34e6474]:
+                            - cell "cf-ray" [ref=f34e6475]
+                            - cell "a166aca11e3068aa-IST" [ref=f34e6476]
+                      - generic [ref=f34e6479]: /.well-known/mcp.json returned 404
+                    - generic [ref=f34e6480]:
+                      - generic [ref=f34e6481]:
+                        - img [ref=f34e6483]
+                        - generic [ref=f34e6485]: Validate Server Card
+                      - generic [ref=f34e6488]: SEP-format card found at /.well-known/mcp/server-card.json
+                    - generic [ref=f34e6489]:
+                      - generic [ref=f34e6490]:
+                        - img [ref=f34e6492]
+                        - generic [ref=f34e6494]: Conclusion
+                      - generic [ref=f34e6497]: MCP Server Card found at /.well-known/mcp/server-card.json
+                  - generic [ref=f34e6498]: Completed in 105ms
+                - button "Back to results" [ref=f34e6499] [cursor=pointer]:
+                  - img [ref=f34e6500]
+                  - text: Back
+            - generic [ref=f34e6503]:
+              - button "Pass Agent Skills index" [ref=f34e6506] [cursor=pointer]:
+                - generic [ref=f34e6507]:
+                  - img "Pass" [ref=f34e6508]:
+                    - img [ref=f34e6509]
+                  - generic [ref=f34e6511]: Agent Skills index
+                - img [ref=f34e6513]
+              - generic [ref=f34e6515]:
+                - generic [ref=f34e6517]:
+                  - img [ref=f34e6519]
+                  - generic [ref=f34e6521]: Agent Skills index
+                - generic [ref=f34e6522]:
+                  - generic [ref=f34e6523]:
+                    - generic [ref=f34e6524]:
+                      - generic [ref=f34e6525]:
+                        - img [ref=f34e6527]
+                        - generic [ref=f34e6529]: GET /.well-known/agent-skills/index.json
+                        - generic [ref=f34e6530]: "200"
+                      - table [ref=f34e6531]:
+                        - rowgroup [ref=f34e6532]:
+                          - row "content-type application/json" [ref=f34e6533]:
+                            - cell "content-type" [ref=f34e6534]
+                            - cell "application/json" [ref=f34e6535]
+                          - row "content-length 1245" [ref=f34e6536]:
+                            - cell "content-length" [ref=f34e6537]
+                            - cell "1245" [ref=f34e6538]
+                          - row "link </.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/mcp/server-card.json>; rel=\"service-doc\", </.well-known/agent-skills/index.json>; rel=\"service-doc\"" [ref=f34e6539]:
+                            - cell "link" [ref=f34e6540]
+                            - cell "</.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/mcp/server-card.json>; rel=\"service-doc\", </.well-known/agent-skills/index.json>; rel=\"service-doc\"" [ref=f34e6541]
+                          - row "cf-ray a166aca13e3768aa-IST" [ref=f34e6542]:
+                            - cell "cf-ray" [ref=f34e6543]
+                            - cell "a166aca13e3768aa-IST" [ref=f34e6544]
+                      - generic [ref=f34e6547]: "Received 200 response with content-type: application/json"
+                    - generic [ref=f34e6548]:
+                      - generic [ref=f34e6549]:
+                        - img [ref=f34e6551]
+                        - generic [ref=f34e6553]: Detect spec version
+                      - generic [ref=f34e6556]: Found $schema field — v0.2.0 format detected
+                    - generic [ref=f34e6557]:
+                      - generic [ref=f34e6558]:
+                        - img [ref=f34e6560]
+                        - generic [ref=f34e6562]: Count skills
+                      - generic [ref=f34e6565]: Found "skills" array with 4 entries (0 with valid v0.2.0 fields)
+                    - generic [ref=f34e6566]:
+                      - generic [ref=f34e6567]:
+                        - img [ref=f34e6569]
+                        - generic [ref=f34e6571]: Validate skill count
+                      - generic [ref=f34e6574]: Index contains 4 skills
+                    - generic [ref=f34e6575]:
+                      - generic [ref=f34e6576]:
+                        - img [ref=f34e6578]
+                        - generic [ref=f34e6580]: Conclusion
+                      - generic [ref=f34e6583]: Agent Skills index exists with valid JSON
+                  - generic [ref=f34e6584]: Completed in 112ms
+                - button "Back to results" [ref=f34e6585] [cursor=pointer]:
+                  - img [ref=f34e6586]
+                  - text: Back
+            - generic [ref=f34e6589]:
+              - button "Pass WebMCP" [ref=f34e6592] [cursor=pointer]:
+                - generic [ref=f34e6593]:
+                  - img "Pass" [ref=f34e6594]:
+                    - img [ref=f34e6595]
+                  - generic [ref=f34e6597]: WebMCP
+                - img [ref=f34e6599]
+              - generic [ref=f34e6601]:
+                - generic [ref=f34e6603]:
+                  - img [ref=f34e6605]
+                  - generic [ref=f34e6607]: WebMCP
+                - generic [ref=f34e6608]:
+                  - generic [ref=f34e6609]:
+                    - generic [ref=f34e6610]:
+                      - generic [ref=f34e6611]:
+                        - img [ref=f34e6613]
+                        - generic [ref=f34e6615]: WebMCP detection
+                      - generic [ref=f34e6618]: Checking page for WebMCP tool registrations
+                    - generic [ref=f34e6619]:
+                      - generic [ref=f34e6620]:
+                        - img [ref=f34e6622]
+                        - generic [ref=f34e6624]: Navigate to https://e-devlethizmetleri.com
+                      - generic [ref=f34e6627]: Loading page to detect WebMCP tool registrations
+                    - generic [ref=f34e6628]:
+                      - generic [ref=f34e6629]:
+                        - img [ref=f34e6631]
+                        - generic [ref=f34e6633]: Check imperative WebMCP API
+                      - generic [ref=f34e6636]: Found 2 tool(s) via navigator.modelContext
+                    - generic [ref=f34e6637]:
+                      - generic [ref=f34e6638]:
+                        - img [ref=f34e6640]
+                        - generic [ref=f34e6642]: Conclusion
+                      - generic [ref=f34e6645]: Found 2 WebMCP tool(s) via imperative_api
+                  - generic [ref=f34e6646]: Completed in 1030ms
+                - button "Back to results" [ref=f34e6647] [cursor=pointer]:
+                  - img [ref=f34e6648]
+                  - text: Back
+            - generic [ref=f34e6651]:
+              - generic [ref=f34e6653]:
+                - button "Fail Auth.md agent registration" [ref=f34e6654] [cursor=pointer]:
+                  - generic [ref=f34e6655]:
+                    - img "Fail" [ref=f34e6656]:
+                      - img [ref=f34e6657]
+                    - generic [ref=f34e6659]: Auth.md agent registration
+                  - img [ref=f34e6661]
+                - generic [ref=f34e6663]:
+                  - generic [ref=f34e6664]:
+                    - generic [ref=f34e6665]:
+                      - term [ref=f34e6666]: Goal
+                      - definition [ref=f34e6667]: Publish Auth.md metadata for agent registration
+                    - generic [ref=f34e6668]:
+                      - term [ref=f34e6669]: Issue
+                      - definition [ref=f34e6670]: auth.md exists but OAuth Protected Resource Metadata was not found
+                  - generic [ref=f34e6671]:
+                    - generic [ref=f34e6672]: How to implement
+                    - generic [ref=f34e6673]: Serve /auth.md at the site root with agent registration instructions, publish /.well-known/oauth-protected-resource, and include an agent_auth block in /.well-known/oauth-authorization-server with register_uri, supported identity types, credential types, and claim/revocation URLs where applicable.
+                  - generic [ref=f34e6674]:
+                    - generic [ref=f34e6675]: Resources
+                    - generic [ref=f34e6676]:
+                      - link "workos.com" [ref=f34e6677] [cursor=pointer]:
+                        - /url: https://workos.com/auth-md
+                        - text: workos.com
+                        - img [ref=f34e6678]
+                      - link "workos/auth.md" [ref=f34e6680] [cursor=pointer]:
+                        - /url: https://github.com/workos/auth.md
+                        - text: workos/auth.md
+                        - img [ref=f34e6681]
+                      - link "Skill" [ref=f34e6683] [cursor=pointer]:
+                        - /url: https://isitagentready.com/.well-known/agent-skills/auth-md/SKILL.md
+                        - text: Skill
+                        - img [ref=f34e6684]
+                  - generic [ref=f34e6686]:
+                    - button "Copy prompt Paste into your coding agent to fix this check" [ref=f34e6687] [cursor=pointer]:
+                      - img [ref=f34e6688]
+                      - generic [ref=f34e6690]: Copy prompt
+                      - text: Paste into your coding agent to fix this check
+                    - button "View audit details" [ref=f34e6691] [cursor=pointer]:
+                      - text: Audit details
+                      - img [ref=f34e6692]
+              - generic [ref=f34e6694]:
+                - generic [ref=f34e6696]:
+                  - img [ref=f34e6698]
+                  - generic [ref=f34e6700]: Auth.md agent registration
+                - generic [ref=f34e6701]:
+                  - generic [ref=f34e6702]:
+                    - generic [ref=f34e6703]:
+                      - generic [ref=f34e6704]:
+                        - img [ref=f34e6706]
+                        - generic [ref=f34e6708]: GET /auth.md
+                        - generic [ref=f34e6709]: "200"
+                      - generic [ref=f34e6710]: Request
+                      - table [ref=f34e6711]:
+                        - rowgroup [ref=f34e6712]:
+                          - row "accept text/markdown, text/plain, */*" [ref=f34e6713]:
+                            - cell "accept" [ref=f34e6714]
+                            - cell "text/markdown, text/plain, */*" [ref=f34e6715]
+                      - generic [ref=f34e6716]: Response
+                      - table [ref=f34e6717]:
+                        - rowgroup [ref=f34e6718]:
+                          - row "content-type text/markdown; charset=utf-8" [ref=f34e6719]:
+                            - cell "content-type" [ref=f34e6720]
+                            - cell "text/markdown; charset=utf-8" [ref=f34e6721]
+                          - row "content-length 2450" [ref=f34e6722]:
+                            - cell "content-length" [ref=f34e6723]
+                            - cell "2450" [ref=f34e6724]
+                          - row "link </.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/mcp/server-card.json>; rel=\"service-doc\", </.well-known/agent-skills/index.json>; rel=\"service-doc\"" [ref=f34e6725]:
+                            - cell "link" [ref=f34e6726]
+                            - cell "</.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/mcp/server-card.json>; rel=\"service-doc\", </.well-known/agent-skills/index.json>; rel=\"service-doc\"" [ref=f34e6727]
+                          - row "cf-ray a166aca10e2a68aa-IST" [ref=f34e6728]:
+                            - cell "cf-ray" [ref=f34e6729]
+                            - cell "a166aca10e2a68aa-IST" [ref=f34e6730]
+                      - generic [ref=f34e6731]: "# Auth.md You are an agent. This site provides **publicly accessible** information about GIB-approved e-document solutions in Turkey. No authentication or registration is required to access any content. ## Access Model This site is a **public information site** — all content is freely accessible without credentials. There are no protected APIs, no OAuth gates, and no registration flow. **You do not need to register, obtain tokens, or authenticate to:** - Read and index all pages - Access `ll..."
+                      - generic [ref=f34e6734]: "Received 200 response with content-type: text/markdown; charset=utf-8"
+                    - generic [ref=f34e6735]:
+                      - generic [ref=f34e6736]:
+                        - img [ref=f34e6738]
+                        - generic [ref=f34e6740]: Detect Auth.md registration markers
+                      - generic [ref=f34e6743]: Found 2 Auth.md marker(s)
+                    - generic [ref=f34e6744]:
+                      - generic [ref=f34e6745]:
+                        - img [ref=f34e6747]
+                        - generic [ref=f34e6749]: Detect self-contained Auth.md registration flow
+                      - generic [ref=f34e6752]: No complete standalone registration flow found in auth.md
+                    - generic [ref=f34e6753]:
+                      - generic [ref=f34e6754]:
+                        - img [ref=f34e6756]
+                        - generic [ref=f34e6758]: GET /.well-known/oauth-protected-resource
+                        - generic [ref=f34e6759]: "200"
+                      - generic [ref=f34e6760]: Request
+                      - table [ref=f34e6761]:
+                        - rowgroup [ref=f34e6762]:
+                          - row "accept application/json" [ref=f34e6763]:
+                            - cell "accept" [ref=f34e6764]
+                            - cell "application/json" [ref=f34e6765]
+                      - generic [ref=f34e6766]: Response
+                      - table [ref=f34e6767]:
+                        - rowgroup [ref=f34e6768]:
+                          - row "content-type application/json" [ref=f34e6769]:
+                            - cell "content-type" [ref=f34e6770]
+                            - cell "application/json" [ref=f34e6771]
+                          - row "content-length 299" [ref=f34e6772]:
+                            - cell "content-length" [ref=f34e6773]
+                            - cell "299" [ref=f34e6774]
+                          - row "link </.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/mcp/server-card.json>; rel=\"service-doc\", </.well-known/agent-skills/index.json>; rel=\"service-doc\"" [ref=f34e6775]:
+                            - cell "link" [ref=f34e6776]
+                            - cell "</.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/mcp/server-card.json>; rel=\"service-doc\", </.well-known/agent-skills/index.json>; rel=\"service-doc\"" [ref=f34e6777]
+                          - row "cf-ray a166aca1ce5c68aa-IST" [ref=f34e6778]:
+                            - cell "cf-ray" [ref=f34e6779]
+                            - cell "a166aca1ce5c68aa-IST" [ref=f34e6780]
+                      - generic [ref=f34e6781]: "{\"resource\":\"https://e-devlethizmetleri.com\",\"authorization_servers\":[\"https://e-devlethizmetleri.com\"],\"scopes_supported\":[\"public\"],\"bearer_methods_supported\":[],\"resource_documentation\":\"https://e-devlethizmetleri.com/auth.md\",\"resource_signing_alg_values_supported\":[]}"
+                      - generic [ref=f34e6784]: Received JSON response (200)
+                    - generic [ref=f34e6785]:
+                      - generic [ref=f34e6786]:
+                        - img [ref=f34e6788]
+                        - generic [ref=f34e6790]: Validate Protected Resource Metadata
+                      - generic [ref=f34e6793]: bearer_methods_supported must include "header"
+                    - generic [ref=f34e6794]:
+                      - generic [ref=f34e6795]:
+                        - img [ref=f34e6797]
+                        - generic [ref=f34e6799]: Conclusion
+                      - generic [ref=f34e6802]: auth.md exists but OAuth Protected Resource Metadata was not found
+                  - generic [ref=f34e6803]: Completed in 203ms
+                - button "Back to results" [ref=f34e6804] [cursor=pointer]:
+                  - img [ref=f34e6805]
+                  - text: Back
+        - generic [ref=f34e6807]:
+          - generic [ref=f34e6808]:
+            - heading "Commerce Optional" [level=2] [ref=f34e6810]
+            - generic [ref=f34e6811]: 0/0
+          - paragraph [ref=f34e6812]: No e-commerce signals were detected on this site. These checks are shown for informational purposes and do not affect the score.
+          - generic [ref=f34e6813]:
+            - generic [ref=f34e6815]:
+              - generic [ref=f34e6817]:
+                - button "Not applicable x402 Protocol" [ref=f34e6818] [cursor=pointer]:
+                  - generic [ref=f34e6819]:
+                    - img "Not applicable" [ref=f34e6820]:
+                      - img [ref=f34e6821]
+                    - generic [ref=f34e6823]: x402 Protocol
+                  - img [ref=f34e6825]
+                - text: Paste into your coding agent to fix this check
+              - generic [ref=f34e6827]:
+                - generic [ref=f34e6829]:
+                  - img [ref=f34e6831]
+                  - generic [ref=f34e6833]: x402 Protocol
+                - generic [ref=f34e6834]:
+                  - generic [ref=f34e6835]:
+                    - generic [ref=f34e6836]:
+                      - generic [ref=f34e6837]:
+                        - img [ref=f34e6839]
+                        - generic [ref=f34e6841]: GET /api
+                        - generic [ref=f34e6842]: "404"
+                      - table [ref=f34e6843]:
+                        - rowgroup [ref=f34e6844]:
+                          - row "content-type text/html; charset=utf-8" [ref=f34e6845]:
+                            - cell "content-type" [ref=f34e6846]
+                            - cell "text/html; charset=utf-8" [ref=f34e6847]
+                          - row "link </.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/mcp/server-card.json>; rel=\"service-doc\", </.well-known/agent-skills/index.json>; rel=\"service-doc\"" [ref=f34e6848]:
+                            - cell "link" [ref=f34e6849]
+                            - cell "</.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/mcp/server-card.json>; rel=\"service-doc\", </.well-known/agent-skills/index.json>; rel=\"service-doc\"" [ref=f34e6850]
+                          - row "cf-ray a166aca16e4868aa-IST" [ref=f34e6851]:
+                            - cell "cf-ray" [ref=f34e6852]
+                            - cell "a166aca16e4868aa-IST" [ref=f34e6853]
+                      - generic [ref=f34e6856]: /api returned 404 (not 402)
+                    - generic [ref=f34e6857]:
+                      - generic [ref=f34e6858]:
+                        - img [ref=f34e6860]
+                        - generic [ref=f34e6862]: GET /
+                        - generic [ref=f34e6863]: "200"
+                      - table [ref=f34e6864]:
+                        - rowgroup [ref=f34e6865]:
+                          - row "content-type text/html; charset=utf-8" [ref=f34e6866]:
+                            - cell "content-type" [ref=f34e6867]
+                            - cell "text/html; charset=utf-8" [ref=f34e6868]
+                          - row "link </.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/mcp/server-card.json>; rel=\"service-doc\", </.well-known/agent-skills/index.json>; rel=\"service-doc\"" [ref=f34e6869]:
+                            - cell "link" [ref=f34e6870]
+                            - cell "</.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/mcp/server-card.json>; rel=\"service-doc\", </.well-known/agent-skills/index.json>; rel=\"service-doc\"" [ref=f34e6871]
+                          - row "cf-ray a166aca16e4768aa-IST" [ref=f34e6872]:
+                            - cell "cf-ray" [ref=f34e6873]
+                            - cell "a166aca16e4768aa-IST" [ref=f34e6874]
+                      - generic [ref=f34e6877]: / returned 200 (not 402)
+                    - generic [ref=f34e6878]:
+                      - generic [ref=f34e6879]:
+                        - img [ref=f34e6881]
+                        - generic [ref=f34e6883]: GET /api/v1
+                        - generic [ref=f34e6884]: "404"
+                      - table [ref=f34e6885]:
+                        - rowgroup [ref=f34e6886]:
+                          - row "content-type text/html; charset=utf-8" [ref=f34e6887]:
+                            - cell "content-type" [ref=f34e6888]
+                            - cell "text/html; charset=utf-8" [ref=f34e6889]
+                          - row "link </.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/mcp/server-card.json>; rel=\"service-doc\", </.well-known/agent-skills/index.json>; rel=\"service-doc\"" [ref=f34e6890]:
+                            - cell "link" [ref=f34e6891]
+                            - cell "</.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/mcp/server-card.json>; rel=\"service-doc\", </.well-known/agent-skills/index.json>; rel=\"service-doc\"" [ref=f34e6892]
+                          - row "cf-ray a166aca17e4a68aa-IST" [ref=f34e6893]:
+                            - cell "cf-ray" [ref=f34e6894]
+                            - cell "a166aca17e4a68aa-IST" [ref=f34e6895]
+                      - generic [ref=f34e6898]: /api/v1 returned 404 (not 402)
+                    - generic [ref=f34e6899]:
+                      - generic [ref=f34e6900]:
+                        - img [ref=f34e6902]
+                        - generic [ref=f34e6904]: GET /platform/v2/x402/discovery/resources
+                        - generic [ref=f34e6905]: "200"
+                      - table [ref=f34e6906]:
+                        - rowgroup [ref=f34e6907]:
+                          - row "content-type application/json" [ref=f34e6908]:
+                            - cell "content-type" [ref=f34e6909]
+                            - cell "application/json" [ref=f34e6910]
+                          - row "cf-ray a166aca15e4468aa-IST" [ref=f34e6911]:
+                            - cell "cf-ray" [ref=f34e6912]
+                            - cell "a166aca15e4468aa-IST" [ref=f34e6913]
+                    - generic [ref=f34e6914]:
+                      - generic [ref=f34e6915]:
+                        - img [ref=f34e6917]
+                        - generic [ref=f34e6919]: GET Bazaar discovery API
+                      - generic [ref=f34e6922]: Network error querying Bazaar API
+                    - generic [ref=f34e6923]:
+                      - generic [ref=f34e6924]:
+                        - img [ref=f34e6926]
+                        - generic [ref=f34e6928]: Conclusion
+                      - generic [ref=f34e6931]: x402 payment protocol not detected
+                  - generic [ref=f34e6932]: Completed in 1775ms
+                - button "Back to results" [ref=f34e6933] [cursor=pointer]:
+                  - img [ref=f34e6934]
+                  - text: Back
+            - generic [ref=f34e6937]:
+              - generic [ref=f34e6939]:
+                - button "Not applicable MPP (Machine Payment Protocol)" [ref=f34e6940] [cursor=pointer]:
+                  - generic [ref=f34e6941]:
+                    - img "Not applicable" [ref=f34e6942]:
+                      - img [ref=f34e6943]
+                    - generic [ref=f34e6945]: MPP (Machine Payment Protocol)
+                  - img [ref=f34e6947]
+                - text: Paste into your coding agent to fix this check
+              - generic [ref=f34e6949]:
+                - generic [ref=f34e6951]:
+                  - img [ref=f34e6953]
+                  - generic [ref=f34e6955]: MPP (Machine Payment Protocol)
+                - generic [ref=f34e6956]:
+                  - generic [ref=f34e6957]:
+                    - generic [ref=f34e6958]:
+                      - generic [ref=f34e6959]:
+                        - img [ref=f34e6961]
+                        - generic [ref=f34e6963]: GET /openapi.json
+                        - generic [ref=f34e6964]: "404"
+                      - table [ref=f34e6965]:
+                        - rowgroup [ref=f34e6966]:
+                          - row "content-type text/html; charset=utf-8" [ref=f34e6967]:
+                            - cell "content-type" [ref=f34e6968]
+                            - cell "text/html; charset=utf-8" [ref=f34e6969]
+                          - row "link </.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/mcp/server-card.json>; rel=\"service-doc\", </.well-known/agent-skills/index.json>; rel=\"service-doc\"" [ref=f34e6970]:
+                            - cell "link" [ref=f34e6971]
+                            - cell "</.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/mcp/server-card.json>; rel=\"service-doc\", </.well-known/agent-skills/index.json>; rel=\"service-doc\"" [ref=f34e6972]
+                          - row "cf-ray a166aca18e4f68aa-IST" [ref=f34e6973]:
+                            - cell "cf-ray" [ref=f34e6974]
+                            - cell "a166aca18e4f68aa-IST" [ref=f34e6975]
+                      - generic [ref=f34e6978]: /openapi.json returned 404
+                    - generic [ref=f34e6979]:
+                      - generic [ref=f34e6980]:
+                        - img [ref=f34e6982]
+                        - generic [ref=f34e6984]: Conclusion
+                      - generic [ref=f34e6987]: MPP payment discovery not detected
+                  - generic [ref=f34e6988]: Completed in 172ms
+                - button "Back to results" [ref=f34e6989] [cursor=pointer]:
+                  - img [ref=f34e6990]
+                  - text: Back
+            - generic [ref=f34e6993]:
+              - generic [ref=f34e6995]:
+                - button "Not applicable Universal Commerce Protocol" [ref=f34e6996] [cursor=pointer]:
+                  - generic [ref=f34e6997]:
+                    - img "Not applicable" [ref=f34e6998]:
+                      - img [ref=f34e6999]
+                    - generic [ref=f34e7001]: Universal Commerce Protocol
+                  - img [ref=f34e7003]
+                - text: Paste into your coding agent to fix this check
+              - generic [ref=f34e7005]:
+                - generic [ref=f34e7007]:
+                  - img [ref=f34e7009]
+                  - generic [ref=f34e7011]: Universal Commerce Protocol
+                - generic [ref=f34e7012]:
+                  - generic [ref=f34e7013]:
+                    - generic [ref=f34e7014]:
+                      - generic [ref=f34e7015]:
+                        - img [ref=f34e7017]
+                        - generic [ref=f34e7019]: GET /.well-known/ucp
+                        - generic [ref=f34e7020]: "404"
+                      - table [ref=f34e7021]:
+                        - rowgroup [ref=f34e7022]:
+                          - row "content-type text/html; charset=utf-8" [ref=f34e7023]:
+                            - cell "content-type" [ref=f34e7024]
+                            - cell "text/html; charset=utf-8" [ref=f34e7025]
+                          - row "link </.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/mcp/server-card.json>; rel=\"service-doc\", </.well-known/agent-skills/index.json>; rel=\"service-doc\"" [ref=f34e7026]:
+                            - cell "link" [ref=f34e7027]
+                            - cell "</.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/mcp/server-card.json>; rel=\"service-doc\", </.well-known/agent-skills/index.json>; rel=\"service-doc\"" [ref=f34e7028]
+                          - row "cf-ray a166aca14e3e68aa-IST" [ref=f34e7029]:
+                            - cell "cf-ray" [ref=f34e7030]
+                            - cell "a166aca14e3e68aa-IST" [ref=f34e7031]
+                      - generic [ref=f34e7034]: Server returned 404 -- UCP profile not found
+                    - generic [ref=f34e7035]:
+                      - generic [ref=f34e7036]:
+                        - img [ref=f34e7038]
+                        - generic [ref=f34e7040]: Conclusion
+                      - generic [ref=f34e7043]: UCP profile not found
+                  - generic [ref=f34e7044]: Completed in 132ms
+                - button "Back to results" [ref=f34e7045] [cursor=pointer]:
+                  - img [ref=f34e7046]
+                  - text: Back
+            - generic [ref=f34e7049]:
+              - generic [ref=f34e7051]:
+                - button "Not applicable ACP (Agentic Commerce Protocol)" [ref=f34e7052] [cursor=pointer]:
+                  - generic [ref=f34e7053]:
+                    - img "Not applicable" [ref=f34e7054]:
+                      - img [ref=f34e7055]
+                    - generic [ref=f34e7057]: ACP (Agentic Commerce Protocol)
+                  - img [ref=f34e7059]
+                - text: Paste into your coding agent to fix this check
+              - generic [ref=f34e7061]:
+                - generic [ref=f34e7063]:
+                  - img [ref=f34e7065]
+                  - generic [ref=f34e7067]: ACP (Agentic Commerce Protocol)
+                - generic [ref=f34e7068]:
+                  - generic [ref=f34e7069]:
+                    - generic [ref=f34e7070]:
+                      - generic [ref=f34e7071]:
+                        - img [ref=f34e7073]
+                        - generic [ref=f34e7075]: GET /.well-known/acp.json
+                        - generic [ref=f34e7076]: "404"
+                      - table [ref=f34e7077]:
+                        - rowgroup [ref=f34e7078]:
+                          - row "content-type text/html; charset=utf-8" [ref=f34e7079]:
+                            - cell "content-type" [ref=f34e7080]
+                            - cell "text/html; charset=utf-8" [ref=f34e7081]
+                          - row "link </.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/mcp/server-card.json>; rel=\"service-doc\", </.well-known/agent-skills/index.json>; rel=\"service-doc\"" [ref=f34e7082]:
+                            - cell "link" [ref=f34e7083]
+                            - cell "</.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/mcp/server-card.json>; rel=\"service-doc\", </.well-known/agent-skills/index.json>; rel=\"service-doc\"" [ref=f34e7084]
+                          - row "cf-ray a166aca19e5468aa-IST" [ref=f34e7085]:
+                            - cell "cf-ray" [ref=f34e7086]
+                            - cell "a166aca19e5468aa-IST" [ref=f34e7087]
+                      - generic [ref=f34e7090]: Server returned 404 -- ACP discovery document not found
+                    - generic [ref=f34e7091]:
+                      - generic [ref=f34e7092]:
+                        - img [ref=f34e7094]
+                        - generic [ref=f34e7096]: Conclusion
+                      - generic [ref=f34e7099]: ACP discovery document not found
+                  - generic [ref=f34e7100]: Completed in 183ms
+                - button "Back to results" [ref=f34e7101] [cursor=pointer]:
+                  - img [ref=f34e7102]
+                  - text: Back
+      - button "Scan another site" [ref=f34e1821] [cursor=pointer]:
+        - img [ref=f34e1822]
+        - text: Scan another site
+  - paragraph [ref=f34e36]: These are AI-generated recommendations. AI can make mistakes. Please use your professional judgment when implementing these tips, as they are provided "as-is" and Cloudflare assumes no liability for any actions taken or outcomes based on this automated content.
+  - contentinfo [ref=f34e37]:
+    - generic [ref=f34e38]:
+      - paragraph [ref=f34e39]:
+        - text: © 2026
+        - link "Cloudflare, Inc." [ref=f34e40] [cursor=pointer]:
+          - /url: https://cloudflare.com
+      - navigation [ref=f34e41]:
+        - link "Privacy Policy" [ref=f34e42] [cursor=pointer]:
+          - /url: https://www.cloudflare.com/privacypolicy/
+        - generic [ref=f34e43]: "|"
+        - link "Terms of Use" [ref=f34e44] [cursor=pointer]:
+          - /url: https://www.cloudflare.com/website-terms/
+        - generic [ref=f34e45]: "|"
+        - link "Docs" [ref=f34e46] [cursor=pointer]:
+          - /url: https://developers.cloudflare.com

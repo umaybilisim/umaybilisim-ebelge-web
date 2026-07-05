@@ -1,0 +1,502 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - navigation [ref=e3]:
+      - generic [ref=e6]:
+        - generic [ref=e7]:
+          - text: Müşteri Hizmetleri
+          - link "0 (212) 213 1 213":
+            - /url: "#"
+        - list [ref=e8]:
+          - listitem [ref=e9]:
+            - link "Destek" [ref=e10] [cursor=pointer]:
+              - /url: /hemendestek
+          - listitem [ref=e11]:
+            - link "Kampanyalar" [ref=e12] [cursor=pointer]:
+              - /url: /kampanyalar
+          - listitem [ref=e13]:
+            - link "İK" [ref=e14] [cursor=pointer]:
+              - /url: /ik/
+          - listitem [ref=e15]:
+            - link "Blog" [ref=e16] [cursor=pointer]:
+              - /url: /blog/
+          - listitem [ref=e17]:
+            - text: Para Birimi
+            - generic [ref=e20] [cursor=pointer]:
+              - generic [ref=e21]: US $
+              - generic [ref=e22]: TL ₺
+          - listitem [ref=e24]: 1$ = 46,53 TL
+      - generic [ref=e25]:
+        - text:   
+        - link "Natro Web Hosting" [ref=e27] [cursor=pointer]:
+          - /url: https://www.natro.com
+          - img "Natro Web Hosting" [ref=e28]
+        - generic [ref=e29]:
+          - list [ref=e30]:
+            - listitem [ref=e31]:
+              - link "Domain" [expanded] [ref=e32] [cursor=pointer]:
+                - /url: https://www.natro.com/domain-sorgulama
+              - text: ₺ $ ₺ $ ₺ $ ₺ $      
+            - listitem [ref=e33]:
+              - link "Yapay Zeka ikonu Web Sitesi Yapay Zeka" [expanded] [ref=e34] [cursor=pointer]:
+                - /url: /websitesi-tasarimi-araci
+                - img "Yapay Zeka ikonu" [ref=e35]
+                - text: Web Sitesi
+                - generic [ref=e36]: Yapay Zeka
+              - text:    ₺ $ ₺ $
+            - listitem [ref=e37]:
+              - link "Hosting" [expanded] [ref=e38] [cursor=pointer]:
+                - /url: /hosting
+              - text: ₺ $ ₺ $     ₺ $
+            - listitem [ref=e39]:
+              - link "E-Mail" [expanded] [ref=e40] [cursor=pointer]:
+                - /url: /hosting/mail-hosting
+              - text:    ₺ $
+            - listitem [ref=e41]:
+              - link "Sunucu" [expanded] [ref=e42] [cursor=pointer]:
+                - /url: /sunucu-kiralama
+              - text: /ay ₺ /ay $ /ay ₺ /ay $ /ay ₺ /ay $ /ay ₺ /ay $    
+            - listitem [ref=e43]:
+              - link "SSL" [expanded] [ref=e44] [cursor=pointer]:
+                - /url: /ssl/ssl-sertifikasi
+              - text: ₺ $    
+            - listitem [ref=e45]:
+              - link "Marka" [ref=e46] [cursor=pointer]:
+                - /url: /marka-tescil-sorgulama
+            - listitem [ref=e47]:
+              - link "Yapay Zeka" [ref=e48] [cursor=pointer]:
+                - /url: /web-sitesi/yapay-zeka-site-olusturucu
+                - img [ref=e50]
+                - generic [ref=e51]: Yapay Zeka
+          - list [ref=e52]:
+            - listitem [ref=e53]:
+              - generic [ref=e54]:
+                - link " Giriş Yap" [ref=e55] [cursor=pointer]:
+                  - /url: /musteri
+                  - generic [ref=e56]: 
+                  - text: Giriş Yap 
+                - text: 
+            - listitem [ref=e57]:
+              - link "Sepetim" [ref=e58] [cursor=pointer]:
+                - /url: /sepet
+                - generic [ref=e59]: 
+    - text:  /ay ₺ /ay $ /ay ₺ /ay $    
+    - generic [ref=e60]:
+      - generic [ref=e64]:
+        - generic [ref=e65]:
+          - generic [ref=e66]:
+            - heading "Üzgünüz" [level=1] [ref=e67]
+            - heading "Aradığınız Sayfayı Bulamadık" [level=2] [ref=e68]
+            - paragraph [ref=e69]:
+              - text: Adres hatalı yazılmış yada
+              - text: sayfa yayından kaldırılmış olabilir.
+            - link "Ana Sayfaya Dön" [ref=e71] [cursor=pointer]:
+              - /url: /
+          - img [ref=e73]
+        - generic [ref=e74]:
+          - generic [ref=e75]: Bu kategorilere ait sayfalardan birini mi arıyorsunuz?
+          - generic [ref=e76]:
+            - link "Alan Adı" [ref=e77] [cursor=pointer]:
+              - /url: /domain-sorgulama
+            - link "Hosting" [ref=e78] [cursor=pointer]:
+              - /url: /hosting
+            - link "Sunucu" [ref=e79] [cursor=pointer]:
+              - /url: /sunucu-kiralama
+            - link "SSL" [ref=e80] [cursor=pointer]:
+              - /url: /ssl/ssl-sertifikasi
+            - link "Destek" [ref=e81] [cursor=pointer]:
+              - /url: /hemendestek
+            - link "Müşteri Paneli" [ref=e82] [cursor=pointer]:
+              - /url: /musteri
+      - generic [ref=e85]:
+        - heading "0,99 $ 'dan başlayan fiyatlara mükemmel bir domain kaydedin" [level=3] [ref=e86]:
+          - generic [ref=e87]:
+            - text: ₺
+            - generic [ref=e88]:
+              - text: 0,99
+              - generic [ref=e89]: $
+            - text: "'dan başlayan fiyatlara"
+          - text: mükemmel bir domain kaydedin
+        - generic [ref=e90]:
+          - textbox "Aradığınız domain’i buraya yazarak sorgulatabilirsiniz" [ref=e91]
+          - generic [ref=e92]: 
+          - button "Sorgula" [ref=e94] [cursor=pointer]
+  - link "" [ref=e95] [cursor=pointer]:
+    - /url: "#"
+    - generic [ref=e96]: 
+  - contentinfo [ref=e97]:
+    - generic [ref=e99]:
+      - generic [ref=e101]:
+        - img "Footer icon" [ref=e104]
+        - generic [ref=e106]:
+          - text: İNDİRİM HABERCİSİ
+          - generic [ref=e107]: Hemen abone ol, yeni fırsatları ve süper indirimleri kaçırmayın!
+        - generic [ref=e108]:
+          - generic [ref=e109]:
+            - generic [ref=e110]: E-Posta Adresinizi Girin
+            - textbox "E-Posta Adresinizi Girin" [ref=e111]:
+              - /placeholder: E-Posta adresinizi buraya yazın
+            - link "Gönder" [ref=e113] [cursor=pointer]:
+              - /url: javascript:;
+          - generic [ref=e114] [cursor=pointer]:
+            - text: Fırsatlardan haberdar olmak için
+            - link "verilerimin işlenmesini" [ref=e115]:
+              - /url: /sozlesmeler/detay/acik-riza-metni
+            - text: onaylıyorum 
+      - generic [ref=e116]:
+        - list [ref=e118]:
+          - link "Domain " [ref=e120] [cursor=pointer]:
+            - /url: javascript:;
+            - text: Domain
+            - generic [ref=e121]: 
+          - listitem [ref=e122]:
+            - link "Domain Sorgulama" [ref=e123] [cursor=pointer]:
+              - /url: /domain-sorgulama
+          - listitem [ref=e124]:
+            - link "Domain Transfer" [ref=e125] [cursor=pointer]:
+              - /url: /domain-sorgulama/domain-transfer
+          - listitem [ref=e126]:
+            - link "Domain Backorder" [ref=e127] [cursor=pointer]:
+              - /url: /domain-sorgulama/domain-backorder
+          - listitem [ref=e128]:
+            - link ".com.tr Domain" [ref=e129] [cursor=pointer]:
+              - /url: /domain-sorgulama/com-tr-domain-kayit
+          - listitem [ref=e130]:
+            - link ".tr Domain" [ref=e131] [cursor=pointer]:
+              - /url: /domain-sorgulama/tr-domain-kayit
+          - listitem [ref=e132]:
+            - text: Domain Hizmetleri
+            - generic [ref=e133]: 
+          - listitem [ref=e134]:
+            - link "Satılık Alan Adları" [ref=e135] [cursor=pointer]:
+              - /url: /domain-sorgulama/satilik-domain
+          - listitem [ref=e136]:
+            - link ".com Domain Kayıt" [ref=e137] [cursor=pointer]:
+              - /url: /domain-sorgulama/com-domain-kayit
+          - listitem [ref=e138]:
+            - link "Türkçe Domain Kayıt" [ref=e139] [cursor=pointer]:
+              - /url: /domain-sorgulama/turkce-domain-sorgulama
+          - listitem [ref=e140]:
+            - link "Toplu Domain Sorgulama" [ref=e141] [cursor=pointer]:
+              - /url: /domain-sorgulama/toplu-domain-sorgulama
+          - listitem [ref=e142]:
+            - link "Whois Sorgulama" [ref=e143] [cursor=pointer]:
+              - /url: /whois-sorgulama
+          - listitem [ref=e144]:
+            - link "Domain Değerleme Aracı" [ref=e145] [cursor=pointer]:
+              - /url: /domain-degerleme-araci
+          - listitem [ref=e146]:
+            - link "Premium Domain Servisleri" [ref=e147] [cursor=pointer]:
+              - /url: /domain-sorgulama/premium-domain-hizmetleri
+        - generic [ref=e148]:
+          - list [ref=e149]:
+            - link "Hosting " [ref=e151] [cursor=pointer]:
+              - /url: javascript:;
+              - text: Hosting
+              - generic [ref=e152]: 
+            - listitem [ref=e153]:
+              - link "Sınırsız Web Hosting" [ref=e154] [cursor=pointer]:
+                - /url: /hosting
+            - listitem [ref=e155]:
+              - link "WordPress Hosting" [ref=e156] [cursor=pointer]:
+                - /url: /hosting/wordpress-hosting
+            - listitem [ref=e157]:
+              - link "MsSQL Hosting" [ref=e158] [cursor=pointer]:
+                - /url: /hosting/mssql-hosting
+          - list [ref=e159]:
+            - link "E-Mail " [ref=e161] [cursor=pointer]:
+              - /url: javascript:;
+              - text: E-Mail
+              - generic [ref=e162]: 
+            - listitem [ref=e163]:
+              - link "XMail Pro" [ref=e164] [cursor=pointer]:
+                - /url: /hosting/mail-hosting/profesyonel-mail-hosting
+            - listitem [ref=e165]:
+              - link "XMail Kurumsal" [ref=e166] [cursor=pointer]:
+                - /url: /hosting/mail-hosting/kurumsal-eposta
+            - listitem [ref=e167]:
+              - link "Kurumsal E-Posta" [ref=e168] [cursor=pointer]:
+                - /url: /hosting/mail-hosting/kurumsal-eposta
+          - list [ref=e169]:
+            - link "Web Sitesi " [ref=e171] [cursor=pointer]:
+              - /url: javascript:;
+              - text: Web Sitesi
+              - generic [ref=e172]: 
+            - listitem [ref=e173]:
+              - link "Hazır Web Sitesi" [ref=e174] [cursor=pointer]:
+                - /url: /websitesi-tasarimi-araci
+            - listitem [ref=e175]:
+              - link "Web Sitesi Tasarımı" [ref=e176] [cursor=pointer]:
+                - /url: /hazir-web-sitesi-tasarimlari
+        - list [ref=e178]:
+          - link "Sunucu " [ref=e180] [cursor=pointer]:
+            - /url: javascript:;
+            - text: Sunucu
+            - generic [ref=e181]: 
+          - listitem [ref=e182]:
+            - link "VPS Cloud Server" [ref=e183] [cursor=pointer]:
+              - /url: /sunucu-kiralama/vps-cloud-server
+          - listitem [ref=e184]:
+            - link "VDS Server" [ref=e185] [cursor=pointer]:
+              - /url: /sunucu-kiralama/vds-sunucu
+          - listitem [ref=e186]:
+            - link "Dedicated Server" [ref=e187] [cursor=pointer]:
+              - /url: /sunucu-kiralama/dedicated-server
+          - listitem [ref=e188]:
+            - link "Kurumsal Server" [ref=e189] [cursor=pointer]:
+              - /url: /sunucu-kiralama/xtreme-server
+          - listitem [ref=e190]:
+            - text: Sunucu Hizmetleri
+            - generic [ref=e191]: 
+          - listitem [ref=e192]:
+            - link "Sunucu Kiralama" [ref=e193] [cursor=pointer]:
+              - /url: /sunucu-kiralama
+          - listitem [ref=e194]:
+            - link "Sunucu Destek" [ref=e195] [cursor=pointer]:
+              - /url: /sunucu-kiralama/sunucu-server-destek
+          - listitem [ref=e196]:
+            - link "Sunucu Güvenliği" [ref=e197] [cursor=pointer]:
+              - /url: /sunucu-kiralama/firewall-guvenlik
+          - listitem [ref=e198]:
+            - link "Sanal Sunucu" [ref=e199] [cursor=pointer]:
+              - /url: /sanal-sunucu
+        - list [ref=e201]:
+          - link "SSL " [ref=e203] [cursor=pointer]:
+            - /url: javascript:;
+            - text: SSL
+            - generic [ref=e204]: 
+          - listitem [ref=e205]:
+            - link "SSL Sertifikası" [ref=e206] [cursor=pointer]:
+              - /url: /ssl/ssl-sertifikasi#standartSsl
+          - listitem [ref=e207]:
+            - link "Hızlı Kurulum SSL" [ref=e208] [cursor=pointer]:
+              - /url: /ssl/ssl-sertifikasi#hizlikurulum
+          - listitem [ref=e209]:
+            - link "Şirketler İçin SSL" [ref=e210] [cursor=pointer]:
+              - /url: /ssl/ssl-sertifikasi#premiumSsl
+          - listitem [ref=e211]:
+            - link "Kurumsal SSL" [ref=e212] [cursor=pointer]:
+              - /url: /ssl/ssl-sertifikasi#evSsl
+          - listitem [ref=e213]:
+            - text: SSL Hizmetleri
+            - generic [ref=e214]: 
+          - listitem [ref=e215]:
+            - link "SSL Fiyatları" [ref=e216] [cursor=pointer]:
+              - /url: /ssl/ssl-sertifikasi
+          - listitem [ref=e217]:
+            - link "PCI-DSS Taraması" [ref=e218] [cursor=pointer]:
+              - /url: /ssl/pci-dss-guvenlik-taramasi
+          - listitem [ref=e219]:
+            - link "SEO İçin SSL" [ref=e220] [cursor=pointer]:
+              - /url: /ssl/ssl-sertifikasi
+          - listitem [ref=e221]:
+            - link "SSL Sorgulama Aracı" [ref=e222] [cursor=pointer]:
+              - /url: /ssl-checker
+        - list [ref=e224]:
+          - link "Diğer " [ref=e226] [cursor=pointer]:
+            - /url: javascript:;
+            - text: Diğer
+            - generic [ref=e227]: 
+          - listitem [ref=e228]:
+            - link "Marka Tescili" [ref=e229] [cursor=pointer]:
+              - /url: /marka-tescil-sorgulama
+          - listitem [ref=e230]:
+            - text: Diğer Hizmetler
+            - generic [ref=e231]: 
+          - listitem [ref=e232]:
+            - link "Blog" [ref=e233] [cursor=pointer]:
+              - /url: https://www.natro.com/blog/
+          - listitem [ref=e234]:
+            - link "Tercih Sihirbazi" [ref=e235] [cursor=pointer]:
+              - /url: /hosting/tercih-sihirbazi
+        - list [ref=e237]:
+          - listitem [ref=e238]:
+            - img "Natro Web Hosting" [ref=e239]
+          - listitem [ref=e240]:
+            - text: Müşteri Hizmetleri
+            - link "0 (212) 213 1 213":
+              - /url: "#"
+            - text: E-Posta Destek
+            - link "destek@natro.com" [ref=e241] [cursor=pointer]:
+              - /url: mailto:destek@natro.com
+            - text: Canlı Destek
+            - link "natro.com" [ref=e242] [cursor=pointer]:
+              - /url: javascript:;
+      - generic [ref=e243]:
+        - generic [ref=e244]: Natroyu Takip Edin
+        - generic [ref=e245]:
+          - link "Facebook" [ref=e247] [cursor=pointer]:
+            - /url: https://www.facebook.com/natrohost
+            - generic [ref=e248]: 
+          - link "Twitter" [ref=e250] [cursor=pointer]:
+            - /url: https://www.twitter.com/natrohost
+            - generic [ref=e251]: 
+          - link "Instagram" [ref=e253] [cursor=pointer]:
+            - /url: https://www.instagram.com/natrohost/
+            - generic [ref=e254]: 
+          - link "Linkedin" [ref=e256] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/natro-hosting
+            - generic [ref=e257]: 
+          - link "Youtube" [ref=e259] [cursor=pointer]:
+            - /url: https://www.youtube.com/user/natrohost
+            - generic [ref=e260]: 
+    - generic [ref=e263]:
+      - generic [ref=e264]: Copyright © 1999 - 2026 natro.com Tüm hakları saklıdır
+      - generic [ref=e265]:
+        - link "Lisanslı Ürün Politikası" [ref=e266] [cursor=pointer]:
+          - /url: /lisansli-urun-politikamiz
+        - text: "|"
+        - link "Açık Rıza Metni" [ref=e267] [cursor=pointer]:
+          - /url: /sozlesmeler/detay/acik-riza-metni
+        - text: "|"
+        - link "Sözleşmeler" [ref=e268] [cursor=pointer]:
+          - /url: /sozlesmeler/tum-sozlesmeler
+        - text: "|"
+        - link "Çerez Aydınlatma Politikası" [ref=e269] [cursor=pointer]:
+          - /url: /sozlesmeler/detay/cerez-aydinlatma-politikasi
+        - text: "|"
+        - link "Gizlilik" [ref=e270] [cursor=pointer]:
+          - /url: /sozlesmeler/detay/gizlilik-sozlesmesi
+        - text: "|"
+        - link "İletişim" [ref=e271] [cursor=pointer]:
+          - /url: /kurumsal/iletisim
+    - generic [ref=e272]:
+      - heading "Çerezler Hakkında Bilgilendirme" [level=3] [ref=e273]
+      - paragraph [ref=e274]: Alışveriş deneyiminizi geliştirmek ve hizmetlerimizden en iyi şekilde faydalanabilmeniz için yasal mevzuata uygun çerezler kullanılır.
+      - link "Detaylar için tıklayınız." [ref=e275] [cursor=pointer]:
+        - /url: /sozlesmeler/detay/cerez-aydinlatma-politikasi
+      - button "Tümünü kabul et" [ref=e276] [cursor=pointer]
+      - button "Seçili olanları kabul et" [ref=e277] [cursor=pointer]
+      - button "Tümünü Reddet" [ref=e278] [cursor=pointer]
+      - generic [ref=e279]:
+        - generic [ref=e280]:
+          - checkbox "Gerekli" [checked] [disabled] [ref=e281]
+          - text: Gerekli
+        - generic [ref=e282]:
+          - checkbox "Analiz" [ref=e283]
+          - text: Analiz
+        - generic [ref=e284]:
+          - checkbox "Tercihler" [ref=e285]
+          - text: Tercihler
+        - generic [ref=e286]:
+          - checkbox "Pazarlama" [ref=e287]
+          - text: Pazarlama
+  - generic [ref=e289]:
+    - link "Close" [ref=e290] [cursor=pointer]:
+      - /url: "#close"
+    - generic [ref=e291]:
+      - link "Previous" [ref=e292] [cursor=pointer]:
+        - /url: "#"
+      - link "Next" [ref=e293] [cursor=pointer]:
+        - /url: "#"
+    - generic [ref=e294]:
+      - link "Previous" [ref=e295] [cursor=pointer]:
+        - /url: "#"
+      - link "Maximize" [ref=e296] [cursor=pointer]:
+        - /url: "#"
+      - link "Next" [ref=e297] [cursor=pointer]:
+        - /url: "#"
+  - iframe [ref=e299]:
+    - article [ref=f110e3]:
+      - generic [ref=f110e5]:
+        - img "Team.blue logo" [ref=f110e8]
+        - heading "Natro, online başarınız için geliştirilen ürünlerden oluşan team.blue ailesinin bir parçasıdır." [level=1] [ref=f110e15]:
+          - generic [ref=f110e16]:
+            - generic [ref=f110e17]: Natro
+            - text: ", online başarınız için geliştirilen ürünlerden oluşan team.blue ailesinin bir parçasıdır."
+        - generic [ref=f110e19]:
+          - navigation "Ürün grubu navigasyonu" [ref=f110e20]:
+            - tablist [ref=f110e22]:
+              - tab "Önerilen" [selected] [ref=f110e23]:
+                - generic [ref=f110e25] [cursor=pointer]:
+                  - img [ref=f110e26]
+                  - paragraph [ref=f110e27]: Önerilen
+              - tab "Web sitenizi başlatın" [ref=f110e28]:
+                - generic [ref=f110e30] [cursor=pointer]:
+                  - img [ref=f110e31]
+                  - paragraph [ref=f110e32]: Web sitenizi başlatın
+              - tab "Daha fazla müşteriye ulaşın" [ref=f110e33]:
+                - generic [ref=f110e35] [cursor=pointer]:
+                  - img [ref=f110e36]
+                  - paragraph [ref=f110e37]: Daha fazla müşteriye ulaşın
+              - tab "Operasyonlarınızı optimize edin" [ref=f110e38]:
+                - generic [ref=f110e40] [cursor=pointer]:
+                  - img [ref=f110e41]
+                  - paragraph [ref=f110e42]: Operasyonlarınızı optimize edin
+          - tabpanel "Önerilen" [ref=f110e43]:
+            - generic [ref=f110e44]:
+              - link "Zahmetsiz sosyal medya yönetimi Tüm sosyal platformları tek yerden Metricool ile yönetin (opens in new tab)" [ref=f110e45] [cursor=pointer]:
+                - /url: https://metricool.com/?utm_source=natro&utm_medium=hub_footer&utm_campaign=recommended
+                - generic [ref=f110e47]:
+                  - generic [ref=f110e48]:
+                    - img [ref=f110e49]
+                    - generic [ref=f110e50]:
+                      - paragraph [ref=f110e51]: Zahmetsiz sosyal medya yönetimi
+                      - generic "Tüm sosyal platformları tek yerden Metricool ile yönetin" [ref=f110e52]:
+                        - text: Tüm sosyal platformları tek yerden
+                        - generic [ref=f110e53]: Metricool
+                        - text: ile yönetin
+                  - img [ref=f110e54]
+                - generic [ref=f110e56]: (opens in new tab)
+              - link "Kolay uyumuluk Sitenizi iubenda ile yasal olarak uyumlu tutun (opens in new tab)" [ref=f110e57] [cursor=pointer]:
+                - /url: https://iubenda.com/?utm_source=natro&utm_medium=hub_footer&utm_campaign=recommended
+                - generic [ref=f110e59]:
+                  - generic [ref=f110e60]:
+                    - img [ref=f110e61]
+                    - generic [ref=f110e62]:
+                      - paragraph [ref=f110e63]: Kolay uyumuluk
+                      - generic "Sitenizi iubenda ile yasal olarak uyumlu tutun" [ref=f110e64]:
+                        - text: Sitenizi
+                        - generic [ref=f110e65]: iubenda
+                        - text: ile yasal olarak uyumlu tutun
+                  - img [ref=f110e66]
+                - generic [ref=f110e68]: (opens in new tab)
+              - link "Akıllı planlama Toplantıları SimplyMeet.me ile zahmetsizce planlayın (opens in new tab)" [ref=f110e69] [cursor=pointer]:
+                - /url: https://simplymeet.me/?utm_source=natro&utm_medium=hub_footer&utm_campaign=recommended
+                - generic [ref=f110e71]:
+                  - generic [ref=f110e72]:
+                    - img [ref=f110e73]
+                    - generic [ref=f110e74]:
+                      - paragraph [ref=f110e75]: Akıllı planlama
+                      - generic "Toplantıları SimplyMeet.me ile zahmetsizce planlayın" [ref=f110e76]:
+                        - text: Toplantıları
+                        - generic [ref=f110e77]: SimplyMeet.me
+                        - text: ile zahmetsizce planlayın
+                  - img [ref=f110e78]
+                - generic [ref=f110e80]: (opens in new tab)
+              - link "Hepsi bir arada iş araçları Billdu ile faturalandırın, rezervasyon yapın ve ödeme alın (opens in new tab)" [ref=f110e81] [cursor=pointer]:
+                - /url: https://billdu.com/?utm_source=natro&utm_medium=hub_footer&utm_campaign=recommended
+                - generic [ref=f110e83]:
+                  - generic [ref=f110e84]:
+                    - img [ref=f110e85]
+                    - generic [ref=f110e86]:
+                      - paragraph [ref=f110e87]: Hepsi bir arada iş araçları
+                      - generic "Billdu ile faturalandırın, rezervasyon yapın ve ödeme alın" [ref=f110e88]:
+                        - generic [ref=f110e89]: Billdu
+                        - text: ile faturalandırın, rezervasyon yapın ve ödeme alın
+                  - img [ref=f110e90]
+                - generic [ref=f110e92]: (opens in new tab)
+              - link "Kolay rezervasyon SimplyBook.me üzerinden müşteri randevularını kabul edin (opens in new tab)" [ref=f110e93] [cursor=pointer]:
+                - /url: https://simplybook.me/?utm_source=natro&utm_medium=hub_footer&utm_campaign=recommended
+                - generic [ref=f110e95]:
+                  - generic [ref=f110e96]:
+                    - img [ref=f110e97]
+                    - generic [ref=f110e98]:
+                      - paragraph [ref=f110e99]: Kolay rezervasyon
+                      - generic "SimplyBook.me üzerinden müşteri randevularını kabul edin" [ref=f110e100]:
+                        - generic [ref=f110e101]: SimplyBook.me
+                        - text: üzerinden müşteri randevularını kabul edin
+                  - img [ref=f110e102]
+                - generic [ref=f110e104]: (opens in new tab)
+              - link "B2B müşteri adayı oluşturma Web sitesi ziyaretçilerini Leadinfo ile müşteri adaylarına dönüştürün (opens in new tab)" [ref=f110e105] [cursor=pointer]:
+                - /url: https://leadinfo.com/?utm_source=natro&utm_medium=hub_footer&utm_campaign=recommended
+                - generic [ref=f110e107]:
+                  - generic [ref=f110e108]:
+                    - img [ref=f110e109]
+                    - generic [ref=f110e110]:
+                      - paragraph [ref=f110e111]: B2B müşteri adayı oluşturma
+                      - generic "Web sitesi ziyaretçilerini Leadinfo ile müşteri adaylarına dönüştürün" [ref=f110e112]:
+                        - text: Web sitesi ziyaretçilerini
+                        - generic [ref=f110e113]: Leadinfo
+                        - text: ile müşteri adaylarına dönüştürün
+                  - img [ref=f110e114]
+                - generic [ref=f110e116]: (opens in new tab)

@@ -1,0 +1,115 @@
+- generic [active] [ref=e8]:
+  - generic [ref=e13]:
+    - complementary [ref=e15]:
+      - generic [ref=e17]:
+        - link [ref=e20] [cursor=pointer]:
+          - /url: /
+          - img [ref=e22]
+        - navigation [ref=e25]:
+          - generic [ref=e27]:
+            - link "Go back" [ref=e28] [cursor=pointer]:
+              - /url: /
+              - img [ref=e29]
+            - heading "My Profile" [level=1] [ref=e31]
+          - generic [ref=e32]:
+            - button "Quick search..." [ref=e34] [cursor=pointer]:
+              - generic [ref=e36]:
+                - img [ref=e37]
+                - generic [ref=e39]: Quick search...
+                - generic [ref=e40]: Ctrl K
+            - list [ref=e41]:
+              - listitem [ref=e42]:
+                - link "Settings" [ref=e43] [cursor=pointer]:
+                  - /url: /profile/
+                  - generic [ref=e44]:
+                    - img [ref=e881]
+                    - generic [ref=e48]: Settings
+              - listitem [ref=e49]:
+                - generic [ref=e50]:
+                  - button "Access Management" [ref=e51] [cursor=pointer]:
+                    - generic [ref=e52]:
+                      - img [ref=e883]
+                      - generic [ref=e56]:
+                        - generic [ref=e57]: Access Management
+                        - img [ref=e58]
+                  - list [ref=e60]:
+                    - listitem [ref=e62]:
+                      - link [ref=e63] [cursor=pointer]:
+                        - /url: /profile/access-management/authentication
+                        - generic [ref=e65]: Authentication
+                    - listitem [ref=e66]:
+                      - link [ref=e67] [cursor=pointer]:
+                        - /url: /profile/access-management/authorization
+                        - generic [ref=e69]: Connected Applications
+                    - listitem [ref=e70]:
+                      - link [ref=e71] [cursor=pointer]:
+                        - /url: /profile/access-management/sessions
+                        - generic [ref=e73]: Active sessions
+              - listitem [ref=e74]:
+                - link "API Tokens" [ref=e75] [cursor=pointer]:
+                  - /url: /profile/api-tokens
+                  - generic [ref=e76]:
+                    - img [ref=e886]
+                    - generic [ref=e80]: API Tokens
+        - button "Collapse sidebar" [expanded] [ref=e83] [cursor=pointer]:
+          - img [ref=e84]
+    - generic [ref=e86]:
+      - banner [ref=e87]:
+        - generic [ref=e96]:
+          - link "Support" [ref=e97] [cursor=pointer]:
+            - /url: /?to=/:account/support
+            - img [ref=e98]
+            - generic [ref=e100]: Support
+          - button "User menu" [ref=e101] [cursor=pointer]:
+            - img [ref=e102]
+      - main [ref=e255]:
+        - generic [ref=e257]:
+          - heading "Edit Cloudflare Workers API token was successfully created" [level=4] [ref=e888]
+          - paragraph [ref=e889]:
+            - paragraph [ref=e891]:
+              - text: Copy this token to access the Cloudflare API. For security this will not be shown again.
+              - link "Learn more" [ref=e892] [cursor=pointer]:
+                - /url: https://developers.cloudflare.com/fundamentals/api/how-to/create-via-api/
+          - generic [ref=e895]:
+            - generic [ref=e896]: cfut_FaKHC9kapdNgMb6XpYpngKKmPZ3j8Qm4iuqwlRPCba0393fc
+            - button "cfut_FaKHC9kapdNgMb6XpYpngKKmPZ3j8Qm4iuqwlRPCba0393fc" [ref=e897] [cursor=pointer]:
+              - img [ref=e898]
+          - heading "Test this token" [level=4] [ref=e900]
+          - paragraph [ref=e901]: To confirm your token is working correctly, copy and paste the below CURL command in a terminal shell to test.
+          - generic [ref=e903]:
+            - button "Copy code to clipboard" [ref=e904]:
+              - img [ref=e905]
+            - code [ref=e909]:
+              - generic [ref=e910]: curl "https://api.cloudflare.com/client/v4/user/tokens/verify" \
+              - generic [ref=e911]: "-H \"Authorization: Bearer cfut_FaKHC9kapdNgMb6XpYpngKKmPZ3j8Qm4iuqwlRPCba0393fc\""
+          - separator [ref=e912]
+          - button "View all API tokens" [ref=e913] [cursor=pointer]
+      - contentinfo [ref=e228]:
+        - list [ref=e230]:
+          - listitem [ref=e231]:
+            - link "Support" [ref=e232] [cursor=pointer]:
+              - /url: https://support.cloudflare.com
+          - listitem [ref=e233]:
+            - link "System status" [ref=e234] [cursor=pointer]:
+              - /url: https://www.cloudflarestatus.com
+          - listitem [ref=e235]:
+            - link "Careers" [ref=e236] [cursor=pointer]:
+              - /url: https://www.cloudflare.com/careers/
+          - listitem [ref=e237]:
+            - link "Terms of Use" [ref=e238] [cursor=pointer]:
+              - /url: https://www.cloudflare.com/website-terms/
+          - listitem [ref=e239]:
+            - link "Report Security Issues" [ref=e240] [cursor=pointer]:
+              - /url: https://www.cloudflare.com/disclosure/
+          - listitem [ref=e241]:
+            - link "Privacy Policy" [ref=e242] [cursor=pointer]:
+              - /url: https://www.cloudflare.com/privacypolicy/
+          - listitem [ref=e243]:
+            - button "A blue and white pill with a checkmark and an x, representing privacy choices Cookie Preferences" [ref=e244] [cursor=pointer]:
+              - img "A blue and white pill with a checkmark and an x, representing privacy choices" [ref=e245]
+              - text: Cookie Preferences
+          - listitem [ref=e246]:
+            - generic [ref=e247]: © 2026 Cloudflare, Inc.
+  - generic:
+    - region "Notifications"
+  - status [ref=e836]

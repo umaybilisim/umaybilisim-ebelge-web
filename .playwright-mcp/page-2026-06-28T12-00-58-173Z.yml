@@ -1,0 +1,55 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e6]:
+        - generic [ref=e7]: Yükleniyor
+        - progressbar [ref=e8]
+      - main [ref=e15]:
+        - generic [ref=e16]:
+          - img [ref=e19]
+          - generic [ref=e24]:
+            - heading "Hoş geldiniz" [level=1] [ref=e25]
+            - link "aycan.firtin@gmail.com seçildi. Hesap değiştir" [ref=e27] [cursor=pointer]:
+              - img [ref=e30]
+              - generic [ref=e32]: aycan.firtin@gmail.com
+              - img [ref=e34]
+        - generic [ref=e44]:
+          - generic [ref=e52]:
+            - textbox "Şifrenizi girin" [active] [invalid] [ref=e53]
+            - generic: Şifrenizi girin
+          - generic [ref=e103]:
+            - img [ref=e105]
+            - generic [ref=e107]: Şifre girin
+          - generic [ref=e60]:
+            - generic [ref=e63] [cursor=pointer]:
+              - checkbox "Şifreyi göster" [checked] [ref=e64]
+              - generic:
+                - img
+            - generic [ref=e67] [cursor=pointer]: Şifreyi göster
+        - generic [ref=e69]:
+          - button "Sonraki" [ref=e73] [cursor=pointer]:
+            - generic [ref=e76]: Sonraki
+          - button "Şifrenizi mi unuttunuz?" [ref=e80]:
+            - generic [ref=e83]: Şifrenizi mi unuttunuz?
+    - contentinfo [ref=e87]:
+      - combobox "Dili değiştirme Türkçe" [ref=e91] [cursor=pointer]:
+        - generic:
+          - generic: Türkçe
+        - generic:
+          - img
+      - list [ref=e93]:
+        - listitem [ref=e94]:
+          - link "Google Hesabı Yardım Merkezi'ni açın (harici, yeni pencerede açılır)" [ref=e95] [cursor=pointer]:
+            - /url: https://support.google.com/accounts?hl=tr&p=account_iph
+            - text: Yardım
+        - listitem [ref=e96]:
+          - link "Gizlilik Politikası (harici, yeni pencerede açılır)" [ref=e97] [cursor=pointer]:
+            - /url: https://accounts.google.com/TOS?loc=TR&hl=tr&privacy=true
+            - text: Gizlilik
+        - listitem [ref=e98]:
+          - link "Google Hizmet Şartları (harici, yeni pencerede açılır)" [ref=e99] [cursor=pointer]:
+            - /url: https://accounts.google.com/TOS?loc=TR&hl=tr
+            - text: Şartlar
+  - iframe [ref=e100]:
+    
+  - generic [ref=e102]: Hoş geldiniz

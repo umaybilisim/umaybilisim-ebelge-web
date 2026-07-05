@@ -1,0 +1,423 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - text: Müşteri Hizmetleri
+        - link "0 (212) 213 1 213":
+          - /url: "#"
+      - list [ref=e7]:
+        - listitem [ref=e8]:
+          - link "Destek" [ref=e9] [cursor=pointer]:
+            - /url: /hemendestek
+        - listitem [ref=e10]:
+          - link "Kampanyalar" [ref=e11] [cursor=pointer]:
+            - /url: /kampanyalar
+        - listitem [ref=e12]:
+          - link "İK" [ref=e13] [cursor=pointer]:
+            - /url: /ik/
+        - listitem [ref=e14]:
+          - link "Blog" [ref=e15] [cursor=pointer]:
+            - /url: /blog/
+        - listitem [ref=e16]:
+          - text: Para Birimi
+          - generic [ref=e19] [cursor=pointer]:
+            - generic [ref=e20]: US $
+            - generic [ref=e21]: TL ₺
+        - listitem [ref=e23]: 1$ = 46,53 TL
+    - generic [ref=e24]:
+      - text:   
+      - link "Natro Web Hosting" [ref=e26] [cursor=pointer]:
+        - /url: https://www.natro.com
+        - img "Natro Web Hosting" [ref=e27]
+      - generic [ref=e28]:
+        - list [ref=e29]:
+          - listitem [ref=e30]:
+            - link "Domain" [expanded] [ref=e31] [cursor=pointer]:
+              - /url: https://www.natro.com/domain-sorgulama
+            - text: ₺ $ ₺ $ ₺ $ ₺ $      
+          - listitem [ref=e32]:
+            - link "Yapay Zeka ikonu Web Sitesi Yapay Zeka" [expanded] [ref=e33] [cursor=pointer]:
+              - /url: /websitesi-tasarimi-araci
+              - img "Yapay Zeka ikonu" [ref=e34]
+              - text: Web Sitesi
+              - generic [ref=e35]: Yapay Zeka
+            - text:    ₺ $ ₺ $
+          - listitem [ref=e36]:
+            - link "Hosting" [expanded] [ref=e37] [cursor=pointer]:
+              - /url: /hosting
+            - text: ₺ $ ₺ $     ₺ $
+          - listitem [ref=e38]:
+            - link "E-Mail" [expanded] [ref=e39] [cursor=pointer]:
+              - /url: /hosting/mail-hosting
+            - text:    ₺ $
+          - listitem [ref=e40]:
+            - link "Sunucu" [expanded] [ref=e41] [cursor=pointer]:
+              - /url: /sunucu-kiralama
+            - text: /ay ₺ /ay $ /ay ₺ /ay $ /ay ₺ /ay $ /ay ₺ /ay $    
+          - listitem [ref=e42]:
+            - link "SSL" [expanded] [ref=e43] [cursor=pointer]:
+              - /url: /ssl/ssl-sertifikasi
+            - text: ₺ $    
+          - listitem [ref=e44]:
+            - link "Marka" [ref=e45] [cursor=pointer]:
+              - /url: /marka-tescil-sorgulama
+          - listitem [ref=e46]:
+            - link "Yapay Zeka" [ref=e47] [cursor=pointer]:
+              - /url: /web-sitesi/yapay-zeka-site-olusturucu
+              - img [ref=e49]
+              - generic [ref=e50]: Yapay Zeka
+        - list [ref=e51]:
+          - listitem [ref=e52]:
+            - generic [ref=e53]:
+              - link " Hesabım  UMAY TÜM BİLİŞİM ..." [ref=e54] [cursor=pointer]:
+                - /url: /musteri
+                - generic [ref=e55]: 
+                - generic [ref=e56]: Hesabım
+                - generic [ref=e57]: 
+                - generic [ref=e58]: UMAY TÜM BİLİŞİM ...
+              - text:           
+          - listitem [ref=e59]:
+            - link "Sepetim" [ref=e60] [cursor=pointer]:
+              - /url: /sepet
+              - generic [ref=e61]: 
+  - text:  /ay ₺ /ay $ /ay ₺ /ay $    
+  - list [ref=e65]:
+    - listitem [ref=e66]:
+      - list [ref=e67]:
+        - listitem [ref=e68]:
+          - table [ref=e69]:
+            - rowgroup [ref=e70]:
+              - row "Hoşgeldiniz AYCAN FIRTIN (175539) Alan Adı Yönetimi Web Site Yönetimi Hosting Yönetimi Sunucu Yönetimi Servis Yönetimi SSL Yönetimi Destek İşlemleri Hesap İşlemleri  Alan Adı Yönetimi Aktif Alan Adlarınız Kayıt süresi devam eden aktif alan adları 44 Bekleyen Siparişleriniz Kayıt veya transfer için müşteri onayı, evrak ya da transfer kodu bekleyen siparişler Alan Adı Kurtarma Kayıt süresi sona ermiş alan adları 2.El Alan Adı İşlemleri Alan adınızı şimdi satışa çıkartın Varsayılan Kayıt Bilgileriniz Yeni alan adı kayıtlarınızda kullanılacak bilgiler Toplu İşlem Sepeti Birden fazla alan adı için tek seferde işlem menüsü" [ref=e71]:
+                - cell "Hoşgeldiniz AYCAN FIRTIN (175539) Alan Adı Yönetimi Web Site Yönetimi Hosting Yönetimi Sunucu Yönetimi Servis Yönetimi SSL Yönetimi Destek İşlemleri Hesap İşlemleri  Alan Adı Yönetimi Aktif Alan Adlarınız Kayıt süresi devam eden aktif alan adları 44 Bekleyen Siparişleriniz Kayıt veya transfer için müşteri onayı, evrak ya da transfer kodu bekleyen siparişler Alan Adı Kurtarma Kayıt süresi sona ermiş alan adları 2.El Alan Adı İşlemleri Alan adınızı şimdi satışa çıkartın Varsayılan Kayıt Bilgileriniz Yeni alan adı kayıtlarınızda kullanılacak bilgiler Toplu İşlem Sepeti Birden fazla alan adı için tek seferde işlem menüsü" [ref=e72]:
+                  - strong [ref=e74]: Hoşgeldiniz AYCAN FIRTIN (175539)
+                  - list [ref=e76]:
+                    - listitem [ref=e77]:
+                      - link [ref=e78] [cursor=pointer]:
+                        - /url: /Musteri
+                        - img [ref=e79]
+                    - listitem [ref=e80]:
+                      - link "Alan Adı Yönetimi" [ref=e81] [cursor=pointer]:
+                        - /url: ALANADIDashboard.asp
+                    - listitem [ref=e82]:
+                      - link "Web Site Yönetimi" [ref=e83] [cursor=pointer]:
+                        - /url: WEBSITEDashboard.asp
+                    - listitem [ref=e84]:
+                      - link "Hosting Yönetimi" [ref=e85] [cursor=pointer]:
+                        - /url: HOSTINGDashboard.asp
+                    - listitem [ref=e86]:
+                      - link "Sunucu Yönetimi" [ref=e87] [cursor=pointer]:
+                        - /url: SUNUCUDashboard.asp
+                    - listitem [ref=e88]:
+                      - link "Servis Yönetimi" [ref=e89] [cursor=pointer]:
+                        - /url: SERVISLERDashboard.asp
+                    - listitem [ref=e90]:
+                      - link "SSL Yönetimi" [ref=e91] [cursor=pointer]:
+                        - /url: SSLAktifler1.asp
+                    - listitem [ref=e92]:
+                      - link "Destek İşlemleri" [ref=e93] [cursor=pointer]:
+                        - /url: javascript:;
+                    - listitem [ref=e94]:
+                      - link "Hesap İşlemleri" [ref=e95] [cursor=pointer]:
+                        - /url: /Musteri/ODEMELERDashboard.asp
+                    - listitem [ref=e96]:
+                      - link "" [ref=e97] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e98]: 
+                  - list [ref=e99]:
+                    - listitem [ref=e100]:
+                      - generic [ref=e102]:
+                        - heading "Alan Adı Yönetimi" [level=3] [ref=e104]
+                        - generic [ref=e105]:
+                          - link "Aktif Alan Adlarınız Kayıt süresi devam eden aktif alan adları 44" [ref=e107] [cursor=pointer]:
+                            - /url: /Musteri/ALANADIAktifler1.asp
+                            - generic [ref=e108]:
+                              - generic [ref=e110]: 
+                              - heading "Aktif Alan Adlarınız" [level=3] [ref=e112]
+                              - paragraph [ref=e114]: Kayıt süresi devam eden aktif alan adları
+                              - generic [ref=e115]: "44"
+                          - link "Bekleyen Siparişleriniz Kayıt veya transfer için müşteri onayı, evrak ya da transfer kodu bekleyen siparişler" [ref=e117] [cursor=pointer]:
+                            - /url: /Musteri/ALANADISiparisler.asp
+                            - generic [ref=e118]:
+                              - generic [ref=e120]: 
+                              - heading "Bekleyen Siparişleriniz" [level=3] [ref=e122]
+                              - paragraph [ref=e124]: Kayıt veya transfer için müşteri onayı, evrak ya da transfer kodu bekleyen siparişler
+                          - link "Alan Adı Kurtarma Kayıt süresi sona ermiş alan adları" [ref=e126] [cursor=pointer]:
+                            - /url: /Musteri/ALANADIRestore.asp
+                            - generic [ref=e127]:
+                              - generic [ref=e129]: 
+                              - heading "Alan Adı Kurtarma" [level=3] [ref=e131]
+                              - paragraph [ref=e133]: Kayıt süresi sona ermiş alan adları
+                        - generic [ref=e134]:
+                          - link "2.El Alan Adı İşlemleri Alan adınızı şimdi satışa çıkartın" [ref=e136] [cursor=pointer]:
+                            - /url: /Musteri/AlanAdiIkinciElSatis.asp
+                            - generic [ref=e137]:
+                              - generic [ref=e139]: 
+                              - heading "2.El Alan Adı İşlemleri" [level=3] [ref=e141]
+                              - paragraph [ref=e143]: Alan adınızı şimdi satışa çıkartın
+                          - link "Varsayılan Kayıt Bilgileriniz Yeni alan adı kayıtlarınızda kullanılacak bilgiler" [ref=e145] [cursor=pointer]:
+                            - /url: /Musteri/ALANADIVarsayilanWhois.asp
+                            - generic [ref=e146]:
+                              - generic [ref=e148]: 
+                              - heading "Varsayılan Kayıt Bilgileriniz" [level=3] [ref=e150]
+                              - paragraph [ref=e152]: Yeni alan adı kayıtlarınızda kullanılacak bilgiler
+                          - link "Toplu İşlem Sepeti Birden fazla alan adı için tek seferde işlem menüsü" [ref=e154] [cursor=pointer]:
+                            - /url: /Musteri/ALANADITopluIslemSepeti.asp
+                            - generic [ref=e155]:
+                              - generic [ref=e157]: 
+                              - heading "Toplu İşlem Sepeti" [level=3] [ref=e159]
+                              - paragraph [ref=e161]: Birden fazla alan adı için tek seferde işlem menüsü
+  - link "" [ref=e162] [cursor=pointer]:
+    - /url: "#"
+    - generic [ref=e163]: 
+  - contentinfo [ref=e164]:
+    - generic [ref=e166]:
+      - generic [ref=e168]:
+        - img "Footer icon" [ref=e171]
+        - generic [ref=e173]:
+          - text: İNDİRİM HABERCİSİ
+          - generic [ref=e174]: Hemen abone ol, yeni fırsatları ve süper indirimleri kaçırmayın!
+        - generic [ref=e175]:
+          - generic [ref=e176]:
+            - generic [ref=e177]: E-Posta Adresinizi Girin
+            - textbox "E-Posta Adresinizi Girin" [ref=e178]:
+              - /placeholder: E-Posta adresinizi buraya yazın
+            - link "Gönder" [ref=e180] [cursor=pointer]:
+              - /url: javascript:;
+          - generic [ref=e181] [cursor=pointer]:
+            - text: Fırsatlardan haberdar olmak için
+            - link "verilerimin işlenmesini" [ref=e182]:
+              - /url: /sozlesmeler/detay/acik-riza-metni
+            - text: onaylıyorum 
+      - generic [ref=e183]:
+        - list [ref=e185]:
+          - link "Domain " [ref=e187] [cursor=pointer]:
+            - /url: javascript:;
+            - text: Domain
+            - generic [ref=e188]: 
+          - listitem [ref=e189]:
+            - link "Domain Sorgulama" [ref=e190] [cursor=pointer]:
+              - /url: /domain-sorgulama
+          - listitem [ref=e191]:
+            - link "Domain Transfer" [ref=e192] [cursor=pointer]:
+              - /url: /domain-sorgulama/domain-transfer
+          - listitem [ref=e193]:
+            - link "Domain Backorder" [ref=e194] [cursor=pointer]:
+              - /url: /domain-sorgulama/domain-backorder
+          - listitem [ref=e195]:
+            - link ".com.tr Domain" [ref=e196] [cursor=pointer]:
+              - /url: /domain-sorgulama/com-tr-domain-kayit
+          - listitem [ref=e197]:
+            - link ".tr Domain" [ref=e198] [cursor=pointer]:
+              - /url: /domain-sorgulama/tr-domain-kayit
+          - listitem [ref=e199]:
+            - text: Domain Hizmetleri
+            - generic [ref=e200]: 
+          - listitem [ref=e201]:
+            - link "Satılık Alan Adları" [ref=e202] [cursor=pointer]:
+              - /url: /domain-sorgulama/satilik-domain
+          - listitem [ref=e203]:
+            - link ".com Domain Kayıt" [ref=e204] [cursor=pointer]:
+              - /url: /domain-sorgulama/com-domain-kayit
+          - listitem [ref=e205]:
+            - link "Türkçe Domain Kayıt" [ref=e206] [cursor=pointer]:
+              - /url: /domain-sorgulama/turkce-domain-sorgulama
+          - listitem [ref=e207]:
+            - link "Toplu Domain Sorgulama" [ref=e208] [cursor=pointer]:
+              - /url: /domain-sorgulama/toplu-domain-sorgulama
+          - listitem [ref=e209]:
+            - link "Whois Sorgulama" [ref=e210] [cursor=pointer]:
+              - /url: /whois-sorgulama
+          - listitem [ref=e211]:
+            - link "Domain Değerleme Aracı" [ref=e212] [cursor=pointer]:
+              - /url: /domain-degerleme-araci
+          - listitem [ref=e213]:
+            - link "Premium Domain Servisleri" [ref=e214] [cursor=pointer]:
+              - /url: /domain-sorgulama/premium-domain-hizmetleri
+        - generic [ref=e215]:
+          - list [ref=e216]:
+            - link "Hosting " [ref=e218] [cursor=pointer]:
+              - /url: javascript:;
+              - text: Hosting
+              - generic [ref=e219]: 
+            - listitem [ref=e220]:
+              - link "Sınırsız Web Hosting" [ref=e221] [cursor=pointer]:
+                - /url: /hosting
+            - listitem [ref=e222]:
+              - link "WordPress Hosting" [ref=e223] [cursor=pointer]:
+                - /url: /hosting/wordpress-hosting
+            - listitem [ref=e224]:
+              - link "MsSQL Hosting" [ref=e225] [cursor=pointer]:
+                - /url: /hosting/mssql-hosting
+          - list [ref=e226]:
+            - link "E-Mail " [ref=e228] [cursor=pointer]:
+              - /url: javascript:;
+              - text: E-Mail
+              - generic [ref=e229]: 
+            - listitem [ref=e230]:
+              - link "XMail Pro" [ref=e231] [cursor=pointer]:
+                - /url: /hosting/mail-hosting/profesyonel-mail-hosting
+            - listitem [ref=e232]:
+              - link "XMail Kurumsal" [ref=e233] [cursor=pointer]:
+                - /url: /hosting/mail-hosting/kurumsal-eposta
+            - listitem [ref=e234]:
+              - link "Kurumsal E-Posta" [ref=e235] [cursor=pointer]:
+                - /url: /hosting/mail-hosting/kurumsal-eposta
+          - list [ref=e236]:
+            - link "Web Sitesi " [ref=e238] [cursor=pointer]:
+              - /url: javascript:;
+              - text: Web Sitesi
+              - generic [ref=e239]: 
+            - listitem [ref=e240]:
+              - link "Hazır Web Sitesi" [ref=e241] [cursor=pointer]:
+                - /url: /websitesi-tasarimi-araci
+            - listitem [ref=e242]:
+              - link "Web Sitesi Tasarımı" [ref=e243] [cursor=pointer]:
+                - /url: /hazir-web-sitesi-tasarimlari
+        - list [ref=e245]:
+          - link "Sunucu " [ref=e247] [cursor=pointer]:
+            - /url: javascript:;
+            - text: Sunucu
+            - generic [ref=e248]: 
+          - listitem [ref=e249]:
+            - link "VPS Cloud Server" [ref=e250] [cursor=pointer]:
+              - /url: /sunucu-kiralama/vps-cloud-server
+          - listitem [ref=e251]:
+            - link "VDS Server" [ref=e252] [cursor=pointer]:
+              - /url: /sunucu-kiralama/vds-sunucu
+          - listitem [ref=e253]:
+            - link "Dedicated Server" [ref=e254] [cursor=pointer]:
+              - /url: /sunucu-kiralama/dedicated-server
+          - listitem [ref=e255]:
+            - link "Kurumsal Server" [ref=e256] [cursor=pointer]:
+              - /url: /sunucu-kiralama/xtreme-server
+          - listitem [ref=e257]:
+            - text: Sunucu Hizmetleri
+            - generic [ref=e258]: 
+          - listitem [ref=e259]:
+            - link "Sunucu Kiralama" [ref=e260] [cursor=pointer]:
+              - /url: /sunucu-kiralama
+          - listitem [ref=e261]:
+            - link "Sunucu Destek" [ref=e262] [cursor=pointer]:
+              - /url: /sunucu-kiralama/sunucu-server-destek
+          - listitem [ref=e263]:
+            - link "Sunucu Güvenliği" [ref=e264] [cursor=pointer]:
+              - /url: /sunucu-kiralama/firewall-guvenlik
+          - listitem [ref=e265]:
+            - link "Sanal Sunucu" [ref=e266] [cursor=pointer]:
+              - /url: /sanal-sunucu
+        - list [ref=e268]:
+          - link "SSL " [ref=e270] [cursor=pointer]:
+            - /url: javascript:;
+            - text: SSL
+            - generic [ref=e271]: 
+          - listitem [ref=e272]:
+            - link "SSL Sertifikası" [ref=e273] [cursor=pointer]:
+              - /url: /ssl/ssl-sertifikasi#standartSsl
+          - listitem [ref=e274]:
+            - link "Hızlı Kurulum SSL" [ref=e275] [cursor=pointer]:
+              - /url: /ssl/ssl-sertifikasi#hizlikurulum
+          - listitem [ref=e276]:
+            - link "Şirketler İçin SSL" [ref=e277] [cursor=pointer]:
+              - /url: /ssl/ssl-sertifikasi#premiumSsl
+          - listitem [ref=e278]:
+            - link "Kurumsal SSL" [ref=e279] [cursor=pointer]:
+              - /url: /ssl/ssl-sertifikasi#evSsl
+          - listitem [ref=e280]:
+            - text: SSL Hizmetleri
+            - generic [ref=e281]: 
+          - listitem [ref=e282]:
+            - link "SSL Fiyatları" [ref=e283] [cursor=pointer]:
+              - /url: /ssl/ssl-sertifikasi
+          - listitem [ref=e284]:
+            - link "PCI-DSS Taraması" [ref=e285] [cursor=pointer]:
+              - /url: /ssl/pci-dss-guvenlik-taramasi
+          - listitem [ref=e286]:
+            - link "SEO İçin SSL" [ref=e287] [cursor=pointer]:
+              - /url: /ssl/ssl-sertifikasi
+          - listitem [ref=e288]:
+            - link "SSL Sorgulama Aracı" [ref=e289] [cursor=pointer]:
+              - /url: /ssl-checker
+        - list [ref=e291]:
+          - link "Diğer " [ref=e293] [cursor=pointer]:
+            - /url: javascript:;
+            - text: Diğer
+            - generic [ref=e294]: 
+          - listitem [ref=e295]:
+            - link "Marka Tescili" [ref=e296] [cursor=pointer]:
+              - /url: /marka-tescil-sorgulama
+          - listitem [ref=e297]:
+            - text: Diğer Hizmetler
+            - generic [ref=e298]: 
+          - listitem [ref=e299]:
+            - link "Blog" [ref=e300] [cursor=pointer]:
+              - /url: https://www.natro.com/blog/
+          - listitem [ref=e301]:
+            - link "Tercih Sihirbazi" [ref=e302] [cursor=pointer]:
+              - /url: /hosting/tercih-sihirbazi
+        - list [ref=e304]:
+          - listitem [ref=e305]:
+            - img "Natro Web Hosting" [ref=e306]
+          - listitem [ref=e307]:
+            - text: Müşteri Hizmetleri
+            - link "0 (212) 213 1 213":
+              - /url: "#"
+            - text: E-Posta Destek
+            - link "destek@natro.com" [ref=e308] [cursor=pointer]:
+              - /url: mailto:destek@natro.com
+            - text: Canlı Destek
+            - link "natro.com" [ref=e309] [cursor=pointer]:
+              - /url: javascript:;
+      - generic [ref=e310]:
+        - generic [ref=e311]: Natroyu Takip Edin
+        - generic [ref=e312]:
+          - link "Facebook" [ref=e314] [cursor=pointer]:
+            - /url: https://www.facebook.com/natrohost
+            - generic [ref=e315]: 
+          - link "Twitter" [ref=e317] [cursor=pointer]:
+            - /url: https://www.twitter.com/natrohost
+            - generic [ref=e318]: 
+          - link "Instagram" [ref=e320] [cursor=pointer]:
+            - /url: https://www.instagram.com/natrohost/
+            - generic [ref=e321]: 
+          - link "Linkedin" [ref=e323] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/natro-hosting
+            - generic [ref=e324]: 
+          - link "Youtube" [ref=e326] [cursor=pointer]:
+            - /url: https://www.youtube.com/user/natrohost
+            - generic [ref=e327]: 
+    - generic [ref=e330]:
+      - generic [ref=e331]: Copyright © 1999 - 2026 natro.com Tüm hakları saklıdır
+      - generic [ref=e332]:
+        - link "Lisanslı Ürün Politikası" [ref=e333] [cursor=pointer]:
+          - /url: /lisansli-urun-politikamiz
+        - text: "|"
+        - link "Açık Rıza Metni" [ref=e334] [cursor=pointer]:
+          - /url: /sozlesmeler/detay/acik-riza-metni
+        - text: "|"
+        - link "Sözleşmeler" [ref=e335] [cursor=pointer]:
+          - /url: /sozlesmeler/tum-sozlesmeler
+        - text: "|"
+        - link "Çerez Aydınlatma Politikası" [ref=e336] [cursor=pointer]:
+          - /url: /sozlesmeler/detay/cerez-aydinlatma-politikasi
+        - text: "|"
+        - link "Gizlilik" [ref=e337] [cursor=pointer]:
+          - /url: /sozlesmeler/detay/gizlilik-sozlesmesi
+        - text: "|"
+        - link "İletişim" [ref=e338] [cursor=pointer]:
+          - /url: /kurumsal/iletisim
+  - generic [ref=e340]:
+    - link "Close" [ref=e341] [cursor=pointer]:
+      - /url: "#close"
+    - generic [ref=e342]:
+      - link "Previous" [ref=e343] [cursor=pointer]:
+        - /url: "#"
+      - link "Next" [ref=e344] [cursor=pointer]:
+        - /url: "#"
+    - generic [ref=e345]:
+      - link "Previous" [ref=e346] [cursor=pointer]:
+        - /url: "#"
+      - link "Maximize" [ref=e347] [cursor=pointer]:
+        - /url: "#"
+      - link "Next" [ref=e348] [cursor=pointer]:
+        - /url: "#"
+  - status

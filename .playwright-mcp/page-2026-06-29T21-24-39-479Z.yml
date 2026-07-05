@@ -1,0 +1,132 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - link "Skip to content" [ref=e4] [cursor=pointer]:
+      - /url: "#start-of-content"
+    - banner "Global navigation menu" [ref=e8]:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - button "Open menu" [ref=e12] [cursor=pointer]:
+            - img [ref=e13]
+          - link "Homepage (g then d)" [ref=e15] [cursor=pointer]:
+            - /url: /
+            - img [ref=e16]
+        - button "Search or jump to…" [ref=e21] [cursor=pointer]:
+          - generic [ref=e22]:
+            - generic:
+              - img
+            - generic [ref=e23]:
+              - generic:
+                - text: Type
+                - generic: /
+                - text: to search
+        - generic [ref=e24]:
+          - generic [ref=e25]:
+            - generic [ref=e28]:
+              - link "Chat with Copilot" [ref=e30] [cursor=pointer]:
+                - /url: /copilot
+                - img [ref=e31]
+              - button "Open Copilot…" [ref=e35] [cursor=pointer]:
+                - generic:
+                  - img
+            - button "Create new..." [ref=e37] [cursor=pointer]:
+              - generic [ref=e38]:
+                - generic:
+                  - img
+              - generic:
+                - img
+            - generic [ref=e39]:
+              - link "All issues (g then i)" [ref=e40] [cursor=pointer]:
+                - /url: /issues
+                - img [ref=e41]
+              - link "All pull requests (g then p)" [ref=e44] [cursor=pointer]:
+                - /url: /pulls
+                - img [ref=e45]
+              - link "All repositories" [ref=e47] [cursor=pointer]:
+                - /url: /repos
+                - img [ref=e48]
+          - link "You have unread notifications (g then n)" [ref=e50] [cursor=pointer]:
+            - /url: /notifications
+            - img [ref=e51]
+          - button "Open user navigation menu" [ref=e54] [cursor=pointer]:
+            - img "User avatar" [ref=e55]
+  - main [ref=e58]:
+    - generic [ref=e59]:
+      - heading "Install & Authorize Cloudflare Workers and Pages" [level=2] [ref=e61]:
+        - text: Install & Authorize
+        - link "Cloudflare Workers and Pages" [ref=e62] [cursor=pointer]:
+          - /url: https://github.com/apps/cloudflare-workers-and-pages
+      - generic [ref=e63]:
+        - paragraph [ref=e64]:
+          - text: Install & Authorize on your personal account umaybilisim
+          - img "@umaybilisim" [ref=e65]
+        - generic [ref=e66]:
+          - generic [ref=e67]:
+            - generic [ref=e68]:
+              - paragraph [ref=e69]: "for these repositories:"
+              - radiogroup [ref=e71]:
+                - generic [ref=e72]:
+                  - generic [ref=e73]:
+                    - radio "All repositories" [checked] [ref=e74] [cursor=pointer]
+                    - generic [ref=e75]:
+                      - generic [ref=e76] [cursor=pointer]: All repositories
+                      - generic [ref=e77]: This applies to all current and future repositories owned by the resource owner. Also includes public repositories (read-only).
+                  - generic [ref=e78]:
+                    - radio "Only select repositories" [ref=e79] [cursor=pointer]
+                    - generic [ref=e80]:
+                      - generic [ref=e81] [cursor=pointer]: Only select repositories
+                      - generic [ref=e82]: Select at least one repository. Also includes public repositories (read-only).
+            - paragraph [ref=e83]: "with these permissions:"
+            - list [ref=e85]:
+              - listitem [ref=e86]:
+                - img [ref=e87]
+                - strong [ref=e89]: Read
+                - text: access to metadata
+              - listitem [ref=e90]:
+                - img [ref=e91]
+                - strong [ref=e93]: Read
+                - text: and
+                - strong [ref=e94]: write
+                - text: access to administration, checks, code, deployments, and pull requests
+            - separator [ref=e95]
+            - button "Install & Authorize" [ref=e96] [cursor=pointer]
+          - link "Cancel" [ref=e97] [cursor=pointer]:
+            - /url: /apps/cloudflare-workers-and-pages
+        - paragraph [ref=e98]:
+          - text: "Next: you'll be redirected to"
+          - strong [ref=e99]: https://dash.cloudflare.com/pages/installations/github
+  - contentinfo [ref=e100]:
+    - heading "Footer" [level=2] [ref=e101]
+    - generic [ref=e102]:
+      - generic [ref=e103]:
+        - link "GitHub Homepage" [ref=e104] [cursor=pointer]:
+          - /url: https://github.com
+          - img [ref=e105]
+        - generic [ref=e107]: © 2026 GitHub, Inc.
+      - navigation "Footer" [ref=e108]:
+        - heading "Footer navigation" [level=3] [ref=e109]
+        - list "Footer navigation" [ref=e110]:
+          - listitem [ref=e111]:
+            - link "Terms" [ref=e112] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/github-terms/github-terms-of-service
+          - listitem [ref=e113]:
+            - link "Privacy" [ref=e114] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+          - listitem [ref=e115]:
+            - link "Security" [ref=e116] [cursor=pointer]:
+              - /url: https://github.com/security
+          - listitem [ref=e117]:
+            - link "Status" [ref=e118] [cursor=pointer]:
+              - /url: https://www.githubstatus.com/
+          - listitem [ref=e119]:
+            - link "Community" [ref=e120] [cursor=pointer]:
+              - /url: https://github.community/
+          - listitem [ref=e121]:
+            - link "Docs" [ref=e122] [cursor=pointer]:
+              - /url: https://docs.github.com/
+          - listitem [ref=e123]:
+            - link "Contact" [ref=e124] [cursor=pointer]:
+              - /url: https://support.github.com?tags=dotcom-footer
+          - listitem [ref=e125]:
+            - button "Manage cookies" [ref=e127] [cursor=pointer]
+          - listitem [ref=e128]:
+            - button "Do not share my personal information" [ref=e130] [cursor=pointer]

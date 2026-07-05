@@ -1,0 +1,1079 @@
+- generic [active] [ref=f61e1]:
+  - navigation [ref=f61e2]:
+    - generic [ref=f61e5]:
+      - generic [ref=f61e6]:
+        - text: Müşteri Hizmetleri
+        - link "0 (212) 213 1 213":
+          - /url: "#"
+      - list [ref=f61e7]:
+        - listitem [ref=f61e8]:
+          - link "Destek" [ref=f61e9] [cursor=pointer]:
+            - /url: /hemendestek
+        - listitem [ref=f61e10]:
+          - link "Kampanyalar" [ref=f61e11] [cursor=pointer]:
+            - /url: /kampanyalar
+        - listitem [ref=f61e12]:
+          - link "İK" [ref=f61e13] [cursor=pointer]:
+            - /url: /ik/
+        - listitem [ref=f61e14]:
+          - link "Blog" [ref=f61e15] [cursor=pointer]:
+            - /url: /blog/
+        - listitem [ref=f61e16]:
+          - text: Para Birimi
+          - generic [ref=f61e19] [cursor=pointer]:
+            - generic [ref=f61e20]: US $
+            - generic [ref=f61e21]: TL ₺
+        - listitem [ref=f61e23]: 1$ = 46,66 TL
+    - generic [ref=f61e24]:
+      - text:   
+      - link "Natro Web Hosting" [ref=f61e26] [cursor=pointer]:
+        - /url: https://www.natro.com
+        - img "Natro Web Hosting" [ref=f61e27]
+      - generic [ref=f61e28]:
+        - list [ref=f61e29]:
+          - listitem [ref=f61e30]:
+            - link "Domain" [expanded] [ref=f61e31] [cursor=pointer]:
+              - /url: https://www.natro.com/domain-sorgulama
+            - text: ₺ $ ₺ $ ₺ $ ₺ $      
+          - listitem [ref=f61e32]:
+            - link "Yapay Zeka ikonu Web Sitesi Yapay Zeka" [expanded] [ref=f61e33] [cursor=pointer]:
+              - /url: /websitesi-tasarimi-araci
+              - img "Yapay Zeka ikonu" [ref=f61e34]
+              - text: Web Sitesi
+              - generic [ref=f61e35]: Yapay Zeka
+            - text:    ₺ $ ₺ $
+          - listitem [ref=f61e36]:
+            - link "Hosting" [expanded] [ref=f61e37] [cursor=pointer]:
+              - /url: /hosting
+            - text: ₺ $ ₺ $     ₺ $
+          - listitem [ref=f61e38]:
+            - link "E-Mail" [expanded] [ref=f61e39] [cursor=pointer]:
+              - /url: /hosting/mail-hosting
+            - text:    ₺ $
+          - listitem [ref=f61e40]:
+            - link "Sunucu" [expanded] [ref=f61e41] [cursor=pointer]:
+              - /url: /sunucu-kiralama
+            - text: /ay ₺ /ay $ /ay ₺ /ay $ /ay ₺ /ay $ /ay ₺ /ay $    
+          - listitem [ref=f61e42]:
+            - link "SSL" [expanded] [ref=f61e43] [cursor=pointer]:
+              - /url: /ssl/ssl-sertifikasi
+            - text: ₺ $    
+          - listitem [ref=f61e44]:
+            - link "Marka" [ref=f61e45] [cursor=pointer]:
+              - /url: /marka-tescil-sorgulama
+          - listitem [ref=f61e46]:
+            - link "Yapay Zeka" [ref=f61e47] [cursor=pointer]:
+              - /url: /web-sitesi/yapay-zeka-site-olusturucu
+              - img [ref=f61e49]
+              - generic [ref=f61e50]: Yapay Zeka
+        - list [ref=f61e51]:
+          - listitem [ref=f61e52]:
+            - generic [ref=f61e53]:
+              - link " Hesabım  UMAY TÜM BİLİŞİM ..." [ref=f61e54] [cursor=pointer]:
+                - /url: /musteri
+                - generic [ref=f61e55]: 
+                - generic [ref=f61e56]: Hesabım
+                - generic [ref=f61e57]: 
+                - generic [ref=f61e58]: UMAY TÜM BİLİŞİM ...
+              - text:           
+          - listitem [ref=f61e59]:
+            - link "Sepetim" [ref=f61e60] [cursor=pointer]:
+              - /url: /sepet
+              - generic [ref=f61e61]: 
+  - text:  /ay ₺ /ay $ /ay ₺ /ay $    
+  - list [ref=f61e65]:
+    - listitem [ref=f61e66]:
+      - list [ref=f61e67]:
+        - listitem [ref=f61e68]:
+          - table [ref=f61e69]:
+            - rowgroup [ref=f61e70]:
+              - row [ref=f61e71]:
+                - cell [ref=f61e72]:
+                  - strong [ref=f61e74]: Hoşgeldiniz AYCAN FIRTIN (175539)
+                  - list [ref=f61e76]:
+                    - listitem [ref=f61e77]:
+                      - link [ref=f61e78] [cursor=pointer]:
+                        - /url: /Musteri
+                        - img [ref=f61e79]
+                    - listitem [ref=f61e80]:
+                      - link "Alan Adı Yönetimi" [ref=f61e81] [cursor=pointer]:
+                        - /url: ALANADIDashboard.asp
+                    - listitem [ref=f61e82]:
+                      - link "Web Site Yönetimi" [ref=f61e83] [cursor=pointer]:
+                        - /url: WEBSITEDashboard.asp
+                    - listitem [ref=f61e84]:
+                      - link "Hosting Yönetimi" [ref=f61e85] [cursor=pointer]:
+                        - /url: HOSTINGDashboard.asp
+                    - listitem [ref=f61e86]:
+                      - link "Sunucu Yönetimi" [ref=f61e87] [cursor=pointer]:
+                        - /url: SUNUCUDashboard.asp
+                    - listitem [ref=f61e88]:
+                      - link "Servis Yönetimi" [ref=f61e89] [cursor=pointer]:
+                        - /url: SERVISLERDashboard.asp
+                    - listitem [ref=f61e90]:
+                      - link "SSL Yönetimi" [ref=f61e91] [cursor=pointer]:
+                        - /url: SSLAktifler1.asp
+                    - listitem [ref=f61e92]:
+                      - link "Destek İşlemleri" [ref=f61e93] [cursor=pointer]:
+                        - /url: javascript:;
+                    - listitem [ref=f61e94]:
+                      - link "Hesap İşlemleri" [ref=f61e95] [cursor=pointer]:
+                        - /url: /Musteri/ODEMELERDashboard.asp
+                    - listitem [ref=f61e96]:
+                      - link "" [ref=f61e97] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=f61e98]: 
+                  - list [ref=f61e99]:
+                    - listitem [ref=f61e100]:
+                      - generic [ref=f61e101]:
+                        - generic [ref=f61e102]:
+                          - link "Alan Adı Yönetimi" [ref=f61e103] [cursor=pointer]:
+                            - /url: /Musteri/ALANADIDashboard.asp
+                          - img [ref=f61e105]
+                          - strong [ref=f61e106]: Aktif Alan Adları
+                        - generic [ref=f61e107]:
+                          - listbox [ref=f61e108]:
+                            - link [ref=f61e110] [cursor=pointer]:
+                              - /url: /domain-sorgulama/com-tr-domain-kayit
+                              - img [ref=f61e111]
+                          - button "Previous" [ref=f61e112] [cursor=pointer]:
+                            - generic [ref=f61e113]: 
+                            - generic [ref=f61e114]: Previous
+                          - button "Next" [ref=f61e115] [cursor=pointer]:
+                            - generic [ref=f61e116]: 
+                            - generic [ref=f61e117]: Next
+                        - generic:
+                          - listbox
+                          - button "Previous":
+                            - generic [ref=f61e118] [cursor=pointer]: 
+                            - generic [ref=f61e119] [cursor=pointer]: Previous
+                          - button "Next":
+                            - generic [ref=f61e120] [cursor=pointer]: 
+                            - generic [ref=f61e121] [cursor=pointer]: Next
+                        - generic [ref=f61e122]:
+                          - heading "Aktif Alan Adları" [level=1] [ref=f61e124]
+                          - generic [ref=f61e126]:
+                            - link "" [ref=f61e127] [cursor=pointer]:
+                              - /url: javascript:;
+                              - generic [ref=f61e128]: 
+                            - link "" [ref=f61e129] [cursor=pointer]:
+                              - /url: javascript:;
+                              - generic [ref=f61e130]: 
+                            - link "" [ref=f61e131] [cursor=pointer]:
+                              - /url: javascript:;
+                              - generic [ref=f61e132]: 
+                          - generic [ref=f61e133]:
+                            - generic [ref=f61e134]:
+                              - text: 
+                              - link " Tüm Klasörler " [ref=f61e135] [cursor=pointer]:
+                                - /url: javascript:void(0);
+                                - generic [ref=f61e136]: 
+                                - text: Tüm Klasörler
+                                - generic [ref=f61e137]: 
+                            - textbox "Alan adı ile ara..." [ref=f61e140]
+                      - table [ref=f61e146]:
+                        - rowgroup [ref=f61e147]:
+                          - row "Alan Adı Başlangıç Tarihi Bitiş Tarihi Son Yenileme" [ref=f61e148]:
+                            - cell "Alan Adı" [ref=f61e149]:
+                              - text: Alan Adı
+                              - link [ref=f61e150] [cursor=pointer]:
+                                - /url: ALANADIAktifler1.asp?sort=1-AZ&Domain_Name=
+                                - img [ref=f61e151]
+                              - link [ref=f61e152] [cursor=pointer]:
+                                - /url: ALANADIAktifler1.asp?sort=1-ZA&Domain_Name=
+                                - img [ref=f61e153]
+                            - cell "Başlangıç Tarihi" [ref=f61e154]:
+                              - text: Başlangıç Tarihi
+                              - link [ref=f61e155] [cursor=pointer]:
+                                - /url: ALANADIAktifler1.asp?sort=2-AZ&Domain_Name=
+                                - img [ref=f61e156]
+                              - link [ref=f61e157] [cursor=pointer]:
+                                - /url: ALANADIAktifler1.asp?sort=2-ZA&Domain_Name=
+                                - img [ref=f61e158]
+                            - cell "Bitiş Tarihi" [ref=f61e159]:
+                              - text: Bitiş Tarihi
+                              - link [ref=f61e160] [cursor=pointer]:
+                                - /url: ALANADIAktifler1.asp?sort=3-AZ&Domain_Name=
+                                - img [ref=f61e161]
+                              - link [ref=f61e162] [cursor=pointer]:
+                                - /url: ALANADIAktifler1.asp?sort=3-ZA&Domain_Name=
+                                - img [ref=f61e163]
+                            - cell "Son Yenileme" [ref=f61e164]
+                            - cell [ref=f61e165]
+                          - row "fclojistik.com.tr 25 Temmuz 2024 24 Temmuz 2026 23 Temmuz 2026  Yenile  Yönet " [ref=f61e166]:
+                            - cell "fclojistik.com.tr" [ref=f61e167]:
+                              - generic "Toplu işlem sepetine ekle" [ref=f61e168]:
+                                - checkbox "fclojistik.com.tr" [ref=f61e170]
+                              - generic "fclojistik.com.tr" [ref=f61e172]:
+                                - heading "fclojistik.com.tr" [level=6] [ref=f61e173]
+                            - cell "25 Temmuz 2024" [ref=f61e174]
+                            - cell "24 Temmuz 2026" [ref=f61e175]
+                            - cell "23 Temmuz 2026" [ref=f61e176]
+                            - cell " Yenile  Yönet " [ref=f61e177]:
+                              - link " Yenile" [ref=f61e178] [cursor=pointer]:
+                                - /url: javascript:void(0);
+                                - generic [ref=f61e179]: 
+                                - text: Yenile
+                              - link " Yönet" [ref=f61e180] [cursor=pointer]:
+                                - /url: javascript:ManagerFx('27403958');
+                                - generic [ref=f61e181]: 
+                                - text: Yönet
+                              - generic [ref=f61e183] [cursor=pointer]: 
+                          - row "Otomatik ödeme talimatı için tıklayınız" [ref=f61e184]:
+                            - cell "Otomatik ödeme talimatı için tıklayınız" [ref=f61e185]:
+                              - generic [ref=f61e186]:
+                                - text: Otomatik ödeme talimatı için
+                                - link "tıklayınız" [ref=f61e187] [cursor=pointer]:
+                                  - /url: javascript:void(0);
+                          - row "diastandart.com.tr 24 Ağustos 2024 23 Ağustos 2026 22 Ağustos 2026  Yenile  Yönet " [ref=f61e188]:
+                            - cell "diastandart.com.tr" [ref=f61e189]:
+                              - generic "Toplu işlem sepetine ekle" [ref=f61e190]:
+                                - checkbox "diastandart.com.tr" [ref=f61e192]
+                              - generic "diastandart.com.tr" [ref=f61e194]:
+                                - heading "diastandart.com.tr" [level=6] [ref=f61e195]
+                            - cell "24 Ağustos 2024" [ref=f61e196]
+                            - cell "23 Ağustos 2026" [ref=f61e197]
+                            - cell "22 Ağustos 2026" [ref=f61e198]
+                            - cell " Yenile  Yönet " [ref=f61e199]:
+                              - link " Yenile" [ref=f61e200] [cursor=pointer]:
+                                - /url: javascript:void(0);
+                                - generic [ref=f61e201]: 
+                                - text: Yenile
+                              - link " Yönet" [ref=f61e202] [cursor=pointer]:
+                                - /url: javascript:ManagerFx('32015648');
+                                - generic [ref=f61e203]: 
+                                - text: Yönet
+                              - generic [ref=f61e205] [cursor=pointer]: 
+                          - row "Otomatik ödeme talimatı için tıklayınız" [ref=f61e206]:
+                            - cell "Otomatik ödeme talimatı için tıklayınız" [ref=f61e207]:
+                              - generic [ref=f61e208]:
+                                - text: Otomatik ödeme talimatı için
+                                - link "tıklayınız" [ref=f61e209] [cursor=pointer]:
+                                  - /url: javascript:void(0);
+                          - row "diafiyatal.com.tr 24 Ağustos 2024 23 Ağustos 2026 22 Ağustos 2026  Yenile  Yönet " [ref=f61e210]:
+                            - cell "diafiyatal.com.tr" [ref=f61e211]:
+                              - generic "Toplu işlem sepetine ekle" [ref=f61e212]:
+                                - checkbox "diafiyatal.com.tr" [ref=f61e214]
+                              - generic "diafiyatal.com.tr" [ref=f61e216]:
+                                - heading "diafiyatal.com.tr" [level=6] [ref=f61e217]
+                            - cell "24 Ağustos 2024" [ref=f61e218]
+                            - cell "23 Ağustos 2026" [ref=f61e219]
+                            - cell "22 Ağustos 2026" [ref=f61e220]
+                            - cell " Yenile  Yönet " [ref=f61e221]:
+                              - link " Yenile" [ref=f61e222] [cursor=pointer]:
+                                - /url: javascript:void(0);
+                                - generic [ref=f61e223]: 
+                                - text: Yenile
+                              - link " Yönet" [ref=f61e224] [cursor=pointer]:
+                                - /url: javascript:ManagerFx('32015649');
+                                - generic [ref=f61e225]: 
+                                - text: Yönet
+                              - generic [ref=f61e227] [cursor=pointer]: 
+                          - row "Otomatik ödeme talimatı için tıklayınız" [ref=f61e228]:
+                            - cell "Otomatik ödeme talimatı için tıklayınız" [ref=f61e229]:
+                              - generic [ref=f61e230]:
+                                - text: Otomatik ödeme talimatı için
+                                - link "tıklayınız" [ref=f61e231] [cursor=pointer]:
+                                  - /url: javascript:void(0);
+                          - row "diasatinal.com.tr 24 Ağustos 2024 23 Ağustos 2026 22 Ağustos 2026  Yenile  Yönet " [ref=f61e232]:
+                            - cell "diasatinal.com.tr" [ref=f61e233]:
+                              - generic "Toplu işlem sepetine ekle" [ref=f61e234]:
+                                - checkbox "diasatinal.com.tr" [ref=f61e236]
+                              - generic "diasatinal.com.tr" [ref=f61e238]:
+                                - heading "diasatinal.com.tr" [level=6] [ref=f61e239]
+                            - cell "24 Ağustos 2024" [ref=f61e240]
+                            - cell "23 Ağustos 2026" [ref=f61e241]
+                            - cell "22 Ağustos 2026" [ref=f61e242]
+                            - cell " Yenile  Yönet " [ref=f61e243]:
+                              - link " Yenile" [ref=f61e244] [cursor=pointer]:
+                                - /url: javascript:void(0);
+                                - generic [ref=f61e245]: 
+                                - text: Yenile
+                              - link " Yönet" [ref=f61e246] [cursor=pointer]:
+                                - /url: javascript:ManagerFx('32015650');
+                                - generic [ref=f61e247]: 
+                                - text: Yönet
+                              - generic [ref=f61e249] [cursor=pointer]: 
+                          - row "Otomatik ödeme talimatı için tıklayınız" [ref=f61e250]:
+                            - cell "Otomatik ödeme talimatı için tıklayınız" [ref=f61e251]:
+                              - generic [ref=f61e252]:
+                                - text: Otomatik ödeme talimatı için
+                                - link "tıklayınız" [ref=f61e253] [cursor=pointer]:
+                                  - /url: javascript:void(0);
+                          - row "diaenterprise.com.tr 24 Ağustos 2024 23 Ağustos 2026 22 Ağustos 2026  Yenile  Yönet " [ref=f61e254]:
+                            - cell "diaenterprise.com.tr" [ref=f61e255]:
+                              - generic "Toplu işlem sepetine ekle" [ref=f61e256]:
+                                - checkbox "diaenterprise.com.tr" [ref=f61e258]
+                              - generic "diaenterprise.com.tr" [ref=f61e260]:
+                                - heading "diaenterprise.com.tr" [level=6] [ref=f61e261]
+                            - cell "24 Ağustos 2024" [ref=f61e262]
+                            - cell "23 Ağustos 2026" [ref=f61e263]
+                            - cell "22 Ağustos 2026" [ref=f61e264]
+                            - cell " Yenile  Yönet " [ref=f61e265]:
+                              - link " Yenile" [ref=f61e266] [cursor=pointer]:
+                                - /url: javascript:void(0);
+                                - generic [ref=f61e267]: 
+                                - text: Yenile
+                              - link " Yönet" [ref=f61e268] [cursor=pointer]:
+                                - /url: javascript:ManagerFx('32015651');
+                                - generic [ref=f61e269]: 
+                                - text: Yönet
+                              - generic [ref=f61e271] [cursor=pointer]: 
+                          - row "Otomatik ödeme talimatı için tıklayınız" [ref=f61e272]:
+                            - cell "Otomatik ödeme talimatı için tıklayınız" [ref=f61e273]:
+                              - generic [ref=f61e274]:
+                                - text: Otomatik ödeme talimatı için
+                                - link "tıklayınız" [ref=f61e275] [cursor=pointer]:
+                                  - /url: javascript:void(0);
+                          - row "e-imzasatinal.com.tr 24 Ağustos 2024 23 Ağustos 2026 22 Ağustos 2026  Yenile  Yönet " [ref=f61e276]:
+                            - cell "e-imzasatinal.com.tr" [ref=f61e277]:
+                              - generic "Toplu işlem sepetine ekle" [ref=f61e278]:
+                                - checkbox "e-imzasatinal.com.tr" [ref=f61e280]
+                              - generic "e-imzasatinal.com.tr" [ref=f61e282]:
+                                - heading "e-imzasatinal.com.tr" [level=6] [ref=f61e283]
+                            - cell "24 Ağustos 2024" [ref=f61e284]
+                            - cell "23 Ağustos 2026" [ref=f61e285]
+                            - cell "22 Ağustos 2026" [ref=f61e286]
+                            - cell " Yenile  Yönet " [ref=f61e287]:
+                              - link " Yenile" [ref=f61e288] [cursor=pointer]:
+                                - /url: javascript:void(0);
+                                - generic [ref=f61e289]: 
+                                - text: Yenile
+                              - link " Yönet" [ref=f61e290] [cursor=pointer]:
+                                - /url: javascript:ManagerFx('32015652');
+                                - generic [ref=f61e291]: 
+                                - text: Yönet
+                              - generic [ref=f61e293] [cursor=pointer]: 
+                          - row "Otomatik ödeme talimatı için tıklayınız" [ref=f61e294]:
+                            - cell "Otomatik ödeme talimatı için tıklayınız" [ref=f61e295]:
+                              - generic [ref=f61e296]:
+                                - text: Otomatik ödeme talimatı için
+                                - link "tıklayınız" [ref=f61e297] [cursor=pointer]:
+                                  - /url: javascript:void(0);
+                          - row "eimzasatinal.com.tr 24 Ağustos 2024 23 Ağustos 2026 22 Ağustos 2026  Yenile  Yönet " [ref=f61e298]:
+                            - cell "eimzasatinal.com.tr" [ref=f61e299]:
+                              - generic "Toplu işlem sepetine ekle" [ref=f61e300]:
+                                - checkbox "eimzasatinal.com.tr" [ref=f61e302]
+                              - generic "eimzasatinal.com.tr" [ref=f61e304]:
+                                - heading "eimzasatinal.com.tr" [level=6] [ref=f61e305]
+                            - cell "24 Ağustos 2024" [ref=f61e306]
+                            - cell "23 Ağustos 2026" [ref=f61e307]
+                            - cell "22 Ağustos 2026" [ref=f61e308]
+                            - cell " Yenile  Yönet " [ref=f61e309]:
+                              - link " Yenile" [ref=f61e310] [cursor=pointer]:
+                                - /url: javascript:void(0);
+                                - generic [ref=f61e311]: 
+                                - text: Yenile
+                              - link " Yönet" [ref=f61e312] [cursor=pointer]:
+                                - /url: javascript:ManagerFx('32015653');
+                                - generic [ref=f61e313]: 
+                                - text: Yönet
+                              - generic [ref=f61e315] [cursor=pointer]: 
+                          - row "Otomatik ödeme talimatı için tıklayınız" [ref=f61e316]:
+                            - cell "Otomatik ödeme talimatı için tıklayınız" [ref=f61e317]:
+                              - generic [ref=f61e318]:
+                                - text: Otomatik ödeme talimatı için
+                                - link "tıklayınız" [ref=f61e319] [cursor=pointer]:
+                                  - /url: javascript:void(0);
+                          - row "diafiyatal.com 24 Ağustos 2024 24 Ağustos 2026 25 Ağustos 2026  Satışa Çıkart  Yenile  Yönet " [ref=f61e320]:
+                            - cell "diafiyatal.com" [ref=f61e321]:
+                              - generic "Toplu işlem sepetine ekle" [ref=f61e322]:
+                                - checkbox "diafiyatal.com" [ref=f61e324]
+                              - generic "diafiyatal.com" [ref=f61e326]:
+                                - heading "diafiyatal.com" [level=6] [ref=f61e327]
+                            - cell "24 Ağustos 2024" [ref=f61e328]
+                            - cell "24 Ağustos 2026" [ref=f61e329]
+                            - cell "25 Ağustos 2026" [ref=f61e330]
+                            - cell " Satışa Çıkart  Yenile  Yönet " [ref=f61e331]:
+                              - link " Satışa Çıkart" [ref=f61e332] [cursor=pointer]:
+                                - /url: javascript:void(0);
+                                - generic [ref=f61e333]: 
+                                - text: Satışa Çıkart
+                              - link " Yenile" [ref=f61e334] [cursor=pointer]:
+                                - /url: javascript:void(0);
+                                - generic [ref=f61e335]: 
+                                - text: Yenile
+                              - link " Yönet" [ref=f61e336] [cursor=pointer]:
+                                - /url: javascript:ManagerFx('32015645');
+                                - generic [ref=f61e337]: 
+                                - text: Yönet
+                              - generic [ref=f61e339] [cursor=pointer]: 
+                          - row "Otomatik ödeme talimatı için tıklayınız" [ref=f61e340]:
+                            - cell "Otomatik ödeme talimatı için tıklayınız" [ref=f61e341]:
+                              - generic [ref=f61e342]:
+                                - text: Otomatik ödeme talimatı için
+                                - link "tıklayınız" [ref=f61e343] [cursor=pointer]:
+                                  - /url: javascript:void(0);
+                          - row "diasatinal.com 24 Ağustos 2024 24 Ağustos 2026 25 Ağustos 2026  Satışa Çıkart  Yenile  Yönet " [ref=f61e344]:
+                            - cell "diasatinal.com" [ref=f61e345]:
+                              - generic "Toplu işlem sepetine ekle" [ref=f61e346]:
+                                - checkbox "diasatinal.com" [ref=f61e348]
+                              - generic "diasatinal.com" [ref=f61e350]:
+                                - heading "diasatinal.com" [level=6] [ref=f61e351]
+                            - cell "24 Ağustos 2024" [ref=f61e352]
+                            - cell "24 Ağustos 2026" [ref=f61e353]
+                            - cell "25 Ağustos 2026" [ref=f61e354]
+                            - cell " Satışa Çıkart  Yenile  Yönet " [ref=f61e355]:
+                              - link " Satışa Çıkart" [ref=f61e356] [cursor=pointer]:
+                                - /url: javascript:void(0);
+                                - generic [ref=f61e357]: 
+                                - text: Satışa Çıkart
+                              - link " Yenile" [ref=f61e358] [cursor=pointer]:
+                                - /url: javascript:void(0);
+                                - generic [ref=f61e359]: 
+                                - text: Yenile
+                              - link " Yönet" [ref=f61e360] [cursor=pointer]:
+                                - /url: javascript:ManagerFx('32015646');
+                                - generic [ref=f61e361]: 
+                                - text: Yönet
+                              - generic [ref=f61e363] [cursor=pointer]: 
+                          - row "Otomatik ödeme talimatı için tıklayınız" [ref=f61e364]:
+                            - cell "Otomatik ödeme talimatı için tıklayınız" [ref=f61e365]:
+                              - generic [ref=f61e366]:
+                                - text: Otomatik ödeme talimatı için
+                                - link "tıklayınız" [ref=f61e367] [cursor=pointer]:
+                                  - /url: javascript:void(0);
+                          - row "umaybilisim.tr 27 Ağustos 2024 26 Ağustos 2026 25 Ağustos 2026  Yenile  Yönet " [ref=f61e368]:
+                            - cell "umaybilisim.tr" [ref=f61e369]:
+                              - generic "Toplu işlem sepetine ekle" [ref=f61e370]:
+                                - checkbox "umaybilisim.tr" [ref=f61e372]
+                              - generic "umaybilisim.tr" [ref=f61e374]:
+                                - heading "umaybilisim.tr" [level=6] [ref=f61e375]
+                            - cell "27 Ağustos 2024" [ref=f61e376]
+                            - cell "26 Ağustos 2026" [ref=f61e377]
+                            - cell "25 Ağustos 2026" [ref=f61e378]
+                            - cell " Yenile  Yönet " [ref=f61e379]:
+                              - link " Yenile" [ref=f61e380] [cursor=pointer]:
+                                - /url: javascript:void(0);
+                                - generic [ref=f61e381]: 
+                                - text: Yenile
+                              - link " Yönet" [ref=f61e382] [cursor=pointer]:
+                                - /url: javascript:ManagerFx('32030307');
+                                - generic [ref=f61e383]: 
+                                - text: Yönet
+                              - generic [ref=f61e385] [cursor=pointer]: 
+                          - row "Otomatik ödeme talimatı için tıklayınız" [ref=f61e386]:
+                            - cell "Otomatik ödeme talimatı için tıklayınız" [ref=f61e387]:
+                              - generic [ref=f61e388]:
+                                - text: Otomatik ödeme talimatı için
+                                - link "tıklayınız" [ref=f61e389] [cursor=pointer]:
+                                  - /url: javascript:void(0);
+                          - row "ustamticaret.tr 27 Ağustos 2024 26 Ağustos 2026 25 Ağustos 2026  Yenile  Yönet " [ref=f61e390]:
+                            - cell "ustamticaret.tr" [ref=f61e391]:
+                              - generic "Toplu işlem sepetine ekle" [ref=f61e392]:
+                                - checkbox "ustamticaret.tr" [ref=f61e394]
+                              - generic "ustamticaret.tr" [ref=f61e396]:
+                                - heading "ustamticaret.tr" [level=6] [ref=f61e397]
+                            - cell "27 Ağustos 2024" [ref=f61e398]
+                            - cell "26 Ağustos 2026" [ref=f61e399]
+                            - cell "25 Ağustos 2026" [ref=f61e400]
+                            - cell " Yenile  Yönet " [ref=f61e401]:
+                              - link " Yenile" [ref=f61e402] [cursor=pointer]:
+                                - /url: javascript:void(0);
+                                - generic [ref=f61e403]: 
+                                - text: Yenile
+                              - link " Yönet" [ref=f61e404] [cursor=pointer]:
+                                - /url: javascript:ManagerFx('32030308');
+                                - generic [ref=f61e405]: 
+                                - text: Yönet
+                              - generic [ref=f61e407] [cursor=pointer]: 
+                          - row "Otomatik ödeme talimatı için tıklayınız" [ref=f61e408]:
+                            - cell "Otomatik ödeme talimatı için tıklayınız" [ref=f61e409]:
+                              - generic [ref=f61e410]:
+                                - text: Otomatik ödeme talimatı için
+                                - link "tıklayınız" [ref=f61e411] [cursor=pointer]:
+                                  - /url: javascript:void(0);
+                          - row "toysay.tr 27 Ağustos 2024 26 Ağustos 2026 25 Ağustos 2026  Yenile  Yönet " [ref=f61e412]:
+                            - cell "toysay.tr" [ref=f61e413]:
+                              - generic "Toplu işlem sepetine ekle" [ref=f61e414]:
+                                - checkbox "toysay.tr" [ref=f61e416]
+                              - generic "toysay.tr" [ref=f61e418]:
+                                - heading "toysay.tr" [level=6] [ref=f61e419]
+                            - cell "27 Ağustos 2024" [ref=f61e420]
+                            - cell "26 Ağustos 2026" [ref=f61e421]
+                            - cell "25 Ağustos 2026" [ref=f61e422]
+                            - cell " Yenile  Yönet " [ref=f61e423]:
+                              - link " Yenile" [ref=f61e424] [cursor=pointer]:
+                                - /url: javascript:void(0);
+                                - generic [ref=f61e425]: 
+                                - text: Yenile
+                              - link " Yönet" [ref=f61e426] [cursor=pointer]:
+                                - /url: javascript:ManagerFx('32030408');
+                                - generic [ref=f61e427]: 
+                                - text: Yönet
+                              - generic [ref=f61e429] [cursor=pointer]: 
+                          - row "Otomatik ödeme talimatı için tıklayınız" [ref=f61e430]:
+                            - cell "Otomatik ödeme talimatı için tıklayınız" [ref=f61e431]:
+                              - generic [ref=f61e432]:
+                                - text: Otomatik ödeme talimatı için
+                                - link "tıklayınız" [ref=f61e433] [cursor=pointer]:
+                                  - /url: javascript:void(0);
+                          - row "akelteknikyapi.tr 27 Ağustos 2024 26 Ağustos 2026 25 Ağustos 2026  Yenile  Yönet " [ref=f61e434]:
+                            - cell "akelteknikyapi.tr" [ref=f61e435]:
+                              - generic "Toplu işlem sepetine ekle" [ref=f61e436]:
+                                - checkbox "akelteknikyapi.tr" [ref=f61e438]
+                              - generic "akelteknikyapi.tr" [ref=f61e440]:
+                                - heading "akelteknikyapi.tr" [level=6] [ref=f61e441]
+                            - cell "27 Ağustos 2024" [ref=f61e442]
+                            - cell "26 Ağustos 2026" [ref=f61e443]
+                            - cell "25 Ağustos 2026" [ref=f61e444]
+                            - cell " Yenile  Yönet " [ref=f61e445]:
+                              - link " Yenile" [ref=f61e446] [cursor=pointer]:
+                                - /url: javascript:void(0);
+                                - generic [ref=f61e447]: 
+                                - text: Yenile
+                              - link " Yönet" [ref=f61e448] [cursor=pointer]:
+                                - /url: javascript:ManagerFx('32030409');
+                                - generic [ref=f61e449]: 
+                                - text: Yönet
+                              - generic [ref=f61e451] [cursor=pointer]: 
+                          - row "Otomatik ödeme talimatı için tıklayınız" [ref=f61e452]:
+                            - cell "Otomatik ödeme talimatı için tıklayınız" [ref=f61e453]:
+                              - generic [ref=f61e454]:
+                                - text: Otomatik ödeme talimatı için
+                                - link "tıklayınız" [ref=f61e455] [cursor=pointer]:
+                                  - /url: javascript:void(0);
+                          - row "nartoplutuketim.com 28 Ağustos 2019 28 Ağustos 2026 29 Ağustos 2026  Satışa Çıkart  Yenile  Yönet " [ref=f61e456]:
+                            - cell "nartoplutuketim.com" [ref=f61e457]:
+                              - generic "Toplu işlem sepetine ekle" [ref=f61e458]:
+                                - checkbox "nartoplutuketim.com" [ref=f61e460]
+                              - generic "nartoplutuketim.com" [ref=f61e462]:
+                                - heading "nartoplutuketim.com" [level=6] [ref=f61e463]
+                            - cell "28 Ağustos 2019" [ref=f61e464]
+                            - cell "28 Ağustos 2026" [ref=f61e465]
+                            - cell "29 Ağustos 2026" [ref=f61e466]
+                            - cell " Satışa Çıkart  Yenile  Yönet " [ref=f61e467]:
+                              - link " Satışa Çıkart" [ref=f61e468] [cursor=pointer]:
+                                - /url: javascript:void(0);
+                                - generic [ref=f61e469]: 
+                                - text: Satışa Çıkart
+                              - link " Yenile" [ref=f61e470] [cursor=pointer]:
+                                - /url: javascript:void(0);
+                                - generic [ref=f61e471]: 
+                                - text: Yenile
+                              - link " Yönet" [ref=f61e472] [cursor=pointer]:
+                                - /url: javascript:ManagerFx('1577431');
+                                - generic [ref=f61e473]: 
+                                - text: Yönet
+                              - generic [ref=f61e475] [cursor=pointer]: 
+                          - row "Otomatik ödeme talimatı için tıklayınız" [ref=f61e476]:
+                            - cell "Otomatik ödeme talimatı için tıklayınız" [ref=f61e477]:
+                              - generic [ref=f61e478]:
+                                - text: Otomatik ödeme talimatı için
+                                - link "tıklayınız" [ref=f61e479] [cursor=pointer]:
+                                  - /url: javascript:void(0);
+                          - row "e-umaybilisim.com 3 Eylül 2014 3 Eylül 2026 4 Eylül 2026  Satışa Çıkart  Yönet " [ref=f61e480]:
+                            - cell "e-umaybilisim.com" [ref=f61e481]:
+                              - generic "Toplu işlem sepetine ekle" [ref=f61e482]:
+                                - checkbox "e-umaybilisim.com" [ref=f61e484]
+                              - generic "e-umaybilisim.com" [ref=f61e486]:
+                                - heading "e-umaybilisim.com" [level=6] [ref=f61e487]
+                            - cell "3 Eylül 2014" [ref=f61e488]
+                            - cell "3 Eylül 2026" [ref=f61e489]
+                            - cell "4 Eylül 2026" [ref=f61e490]
+                            - cell " Satışa Çıkart  Yönet " [ref=f61e491]:
+                              - link " Satışa Çıkart" [ref=f61e492] [cursor=pointer]:
+                                - /url: javascript:void(0);
+                                - generic [ref=f61e493]: 
+                                - text: Satışa Çıkart
+                              - link " Yönet" [ref=f61e494] [cursor=pointer]:
+                                - /url: javascript:ManagerFx('643909');
+                                - generic [ref=f61e495]: 
+                                - text: Yönet
+                              - generic [ref=f61e497] [cursor=pointer]: 
+                          - row "Otomatik ödeme talimatı için tıklayınız" [ref=f61e498]:
+                            - cell "Otomatik ödeme talimatı için tıklayınız" [ref=f61e499]:
+                              - generic [ref=f61e500]:
+                                - text: Otomatik ödeme talimatı için
+                                - link "tıklayınız" [ref=f61e501] [cursor=pointer]:
+                                  - /url: javascript:void(0);
+                          - row "e-imzakepsakarya.com 6 Eylül 2019 6 Eylül 2026 7 Eylül 2026  Satışa Çıkart  Yönet " [ref=f61e502]:
+                            - cell "e-imzakepsakarya.com" [ref=f61e503]:
+                              - generic "Toplu işlem sepetine ekle" [ref=f61e504]:
+                                - checkbox "e-imzakepsakarya.com" [ref=f61e506]
+                              - generic "e-imzakepsakarya.com" [ref=f61e508]:
+                                - heading "e-imzakepsakarya.com" [level=6] [ref=f61e509]
+                            - cell "6 Eylül 2019" [ref=f61e510]
+                            - cell "6 Eylül 2026" [ref=f61e511]
+                            - cell "7 Eylül 2026" [ref=f61e512]
+                            - cell " Satışa Çıkart  Yönet " [ref=f61e513]:
+                              - link " Satışa Çıkart" [ref=f61e514] [cursor=pointer]:
+                                - /url: javascript:void(0);
+                                - generic [ref=f61e515]: 
+                                - text: Satışa Çıkart
+                              - link " Yönet" [ref=f61e516] [cursor=pointer]:
+                                - /url: javascript:ManagerFx('1582556');
+                                - generic [ref=f61e517]: 
+                                - text: Yönet
+                              - generic [ref=f61e519] [cursor=pointer]: 
+                          - row "Otomatik ödeme talimatı için tıklayınız" [ref=f61e520]:
+                            - cell "Otomatik ödeme talimatı için tıklayınız" [ref=f61e521]:
+                              - generic [ref=f61e522]:
+                                - text: Otomatik ödeme talimatı için
+                                - link "tıklayınız" [ref=f61e523] [cursor=pointer]:
+                                  - /url: javascript:void(0);
+                          - row "etahsil.com 22 Ekim 2020 22 Ekim 2026 23 Ekim 2026  Satışa Çıkart  Yönet " [ref=f61e524]:
+                            - cell "etahsil.com" [ref=f61e525]:
+                              - generic "Toplu işlem sepetine ekle" [ref=f61e526]:
+                                - checkbox "etahsil.com" [ref=f61e528]
+                              - generic "etahsil.com" [ref=f61e530]:
+                                - heading "etahsil.com" [level=6] [ref=f61e531]
+                            - cell "22 Ekim 2020" [ref=f61e532]
+                            - cell "22 Ekim 2026" [ref=f61e533]
+                            - cell "23 Ekim 2026" [ref=f61e534]
+                            - cell " Satışa Çıkart  Yönet " [ref=f61e535]:
+                              - link " Satışa Çıkart" [ref=f61e536] [cursor=pointer]:
+                                - /url: javascript:void(0);
+                                - generic [ref=f61e537]: 
+                                - text: Satışa Çıkart
+                              - link " Yönet" [ref=f61e538] [cursor=pointer]:
+                                - /url: javascript:ManagerFx('1933108');
+                                - generic [ref=f61e539]: 
+                                - text: Yönet
+                              - generic [ref=f61e541] [cursor=pointer]: 
+                          - row "Otomatik ödeme talimatı için tıklayınız" [ref=f61e542]:
+                            - cell "Otomatik ödeme talimatı için tıklayınız" [ref=f61e543]:
+                              - generic [ref=f61e544]:
+                                - text: Otomatik ödeme talimatı için
+                                - link "tıklayınız" [ref=f61e545] [cursor=pointer]:
+                                  - /url: javascript:void(0);
+                          - row "toysay.com.tr 1 Kasım 2016 30 Ekim 2026 29 Ekim 2026  Yönet " [ref=f61e546]:
+                            - cell "toysay.com.tr" [ref=f61e547]:
+                              - generic "Toplu işlem sepetine ekle" [ref=f61e548]:
+                                - checkbox "toysay.com.tr" [ref=f61e550]
+                              - generic "toysay.com.tr" [ref=f61e552]:
+                                - heading "toysay.com.tr" [level=6] [ref=f61e553]
+                            - cell "1 Kasım 2016" [ref=f61e554]
+                            - cell "30 Ekim 2026" [ref=f61e555]
+                            - cell "29 Ekim 2026" [ref=f61e556]
+                            - cell " Yönet " [ref=f61e557]:
+                              - link " Yönet" [ref=f61e558] [cursor=pointer]:
+                                - /url: javascript:ManagerFx('936952');
+                                - generic [ref=f61e559]: 
+                                - text: Yönet
+                              - generic [ref=f61e561] [cursor=pointer]: 
+                          - row "Otomatik ödeme talimatı için tıklayınız" [ref=f61e562]:
+                            - cell "Otomatik ödeme talimatı için tıklayınız" [ref=f61e563]:
+                              - generic [ref=f61e564]:
+                                - text: Otomatik ödeme talimatı için
+                                - link "tıklayınız" [ref=f61e565] [cursor=pointer]:
+                                  - /url: javascript:void(0);
+                          - row "rensinsaat.com.tr 12 Kasım 2025 11 Kasım 2026 10 Kasım 2026  Yönet " [ref=f61e566]:
+                            - cell "rensinsaat.com.tr" [ref=f61e567]:
+                              - generic "Toplu işlem sepetine ekle" [ref=f61e568]:
+                                - checkbox "rensinsaat.com.tr" [ref=f61e570]
+                              - generic "rensinsaat.com.tr" [ref=f61e572]:
+                                - heading "rensinsaat.com.tr" [level=6] [ref=f61e573]
+                            - cell "12 Kasım 2025" [ref=f61e574]
+                            - cell "11 Kasım 2026" [ref=f61e575]
+                            - cell "10 Kasım 2026" [ref=f61e576]
+                            - cell " Yönet " [ref=f61e577]:
+                              - link " Yönet" [ref=f61e578] [cursor=pointer]:
+                                - /url: javascript:ManagerFx('51908025');
+                                - generic [ref=f61e579]: 
+                                - text: Yönet
+                              - generic [ref=f61e581] [cursor=pointer]: 
+                          - row "Otomatik ödeme talimatı için tıklayınız" [ref=f61e582]:
+                            - cell "Otomatik ödeme talimatı için tıklayınız" [ref=f61e583]:
+                              - generic [ref=f61e584]:
+                                - text: Otomatik ödeme talimatı için
+                                - link "tıklayınız" [ref=f61e585] [cursor=pointer]:
+                                  - /url: javascript:void(0);
+                          - row "umaybilisim.com 19 Kasım 2012 19 Kasım 2026 20 Kasım 2026  Satışa Çıkart  Yönet " [ref=f61e586]:
+                            - cell "umaybilisim.com" [ref=f61e587]:
+                              - generic "Toplu işlem sepetine ekle" [ref=f61e588]:
+                                - checkbox "umaybilisim.com" [ref=f61e590]
+                              - generic "umaybilisim.com" [ref=f61e592]:
+                                - heading "umaybilisim.com" [level=6] [ref=f61e593]
+                            - cell "19 Kasım 2012" [ref=f61e594]
+                            - cell "19 Kasım 2026" [ref=f61e595]
+                            - cell "20 Kasım 2026" [ref=f61e596]
+                            - cell " Satışa Çıkart  Yönet " [ref=f61e597]:
+                              - link " Satışa Çıkart" [ref=f61e598] [cursor=pointer]:
+                                - /url: javascript:void(0);
+                                - generic [ref=f61e599]: 
+                                - text: Satışa Çıkart
+                              - link " Yönet" [ref=f61e600] [cursor=pointer]:
+                                - /url: javascript:ManagerFx('633720');
+                                - generic [ref=f61e601]: 
+                                - text: Yönet
+                              - generic [ref=f61e603] [cursor=pointer]: 
+                          - row "Otomatik ödeme talimatı için tıklayınız" [ref=f61e604]:
+                            - cell "Otomatik ödeme talimatı için tıklayınız" [ref=f61e605]:
+                              - generic [ref=f61e606]:
+                                - text: Otomatik ödeme talimatı için
+                                - link "tıklayınız" [ref=f61e607] [cursor=pointer]:
+                                  - /url: javascript:void(0);
+                          - row "dializ.com.tr 29 Kasım 2023 28 Kasım 2026 27 Kasım 2026  Yönet " [ref=f61e608]:
+                            - cell "dializ.com.tr" [ref=f61e609]:
+                              - generic "Toplu işlem sepetine ekle" [ref=f61e610]:
+                                - checkbox "dializ.com.tr" [ref=f61e612]
+                              - generic "dializ.com.tr" [ref=f61e614]:
+                                - heading "dializ.com.tr" [level=6] [ref=f61e615]
+                            - cell "29 Kasım 2023" [ref=f61e616]
+                            - cell "28 Kasım 2026" [ref=f61e617]
+                            - cell "27 Kasım 2026" [ref=f61e618]
+                            - cell " Yönet " [ref=f61e619]:
+                              - link " Yönet" [ref=f61e620] [cursor=pointer]:
+                                - /url: javascript:ManagerFx('2807000');
+                                - generic [ref=f61e621]: 
+                                - text: Yönet
+                              - generic [ref=f61e623] [cursor=pointer]: 
+                          - row "Otomatik ödeme talimatı için tıklayınız" [ref=f61e624]:
+                            - cell "Otomatik ödeme talimatı için tıklayınız" [ref=f61e625]:
+                              - generic [ref=f61e626]:
+                                - text: Otomatik ödeme talimatı için
+                                - link "tıklayınız" [ref=f61e627] [cursor=pointer]:
+                                  - /url: javascript:void(0);
+                          - row "scl.com.tr 17 Aralık 2007 16 Aralık 2026 15 Aralık 2026  Yönet " [ref=f61e628]:
+                            - cell "scl.com.tr" [ref=f61e629]:
+                              - generic "Toplu işlem sepetine ekle" [ref=f61e630]:
+                                - checkbox "scl.com.tr" [ref=f61e632]
+                              - generic "scl.com.tr" [ref=f61e634]:
+                                - heading "scl.com.tr" [level=6] [ref=f61e635]
+                            - cell "17 Aralık 2007" [ref=f61e636]
+                            - cell "16 Aralık 2026" [ref=f61e637]
+                            - cell "15 Aralık 2026" [ref=f61e638]
+                            - cell " Yönet " [ref=f61e639]:
+                              - link " Yönet" [ref=f61e640] [cursor=pointer]:
+                                - /url: javascript:ManagerFx('1908619');
+                                - generic [ref=f61e641]: 
+                                - text: Yönet
+                              - generic [ref=f61e643] [cursor=pointer]: 
+                          - row "Otomatik ödeme talimatı için tıklayınız" [ref=f61e644]:
+                            - cell "Otomatik ödeme talimatı için tıklayınız" [ref=f61e645]:
+                              - generic [ref=f61e646]:
+                                - text: Otomatik ödeme talimatı için
+                                - link "tıklayınız" [ref=f61e647] [cursor=pointer]:
+                                  - /url: javascript:void(0);
+                          - row "adakozateknik.com.tr 24 Aralık 2025 23 Aralık 2026 22 Aralık 2026  Yönet " [ref=f61e648]:
+                            - cell "adakozateknik.com.tr" [ref=f61e649]:
+                              - generic "Toplu işlem sepetine ekle" [ref=f61e650]:
+                                - checkbox "adakozateknik.com.tr" [ref=f61e652]
+                              - generic "adakozateknik.com.tr" [ref=f61e654]:
+                                - heading "adakozateknik.com.tr" [level=6] [ref=f61e655]
+                            - cell "24 Aralık 2025" [ref=f61e656]
+                            - cell "23 Aralık 2026" [ref=f61e657]
+                            - cell "22 Aralık 2026" [ref=f61e658]
+                            - cell " Yönet " [ref=f61e659]:
+                              - link " Yönet" [ref=f61e660] [cursor=pointer]:
+                                - /url: javascript:ManagerFx('51944359');
+                                - generic [ref=f61e661]: 
+                                - text: Yönet
+                              - generic [ref=f61e663] [cursor=pointer]: 
+                          - row "Otomatik ödeme talimatı için tıklayınız" [ref=f61e664]:
+                            - cell "Otomatik ödeme talimatı için tıklayınız" [ref=f61e665]:
+                              - generic [ref=f61e666]:
+                                - text: Otomatik ödeme talimatı için
+                                - link "tıklayınız" [ref=f61e667] [cursor=pointer]:
+                                  - /url: javascript:void(0);
+                          - row "adakozateknik.com 24 Aralık 2025 24 Aralık 2026 25 Aralık 2026  Satışa Çıkart  Yönet " [ref=f61e668]:
+                            - cell "adakozateknik.com" [ref=f61e669]:
+                              - generic "Toplu işlem sepetine ekle" [ref=f61e670]:
+                                - checkbox "adakozateknik.com" [ref=f61e672]
+                              - generic "adakozateknik.com" [ref=f61e674]:
+                                - heading "adakozateknik.com" [level=6] [ref=f61e675]
+                            - cell "24 Aralık 2025" [ref=f61e676]
+                            - cell "24 Aralık 2026" [ref=f61e677]
+                            - cell "25 Aralık 2026" [ref=f61e678]
+                            - cell " Satışa Çıkart  Yönet " [ref=f61e679]:
+                              - link " Satışa Çıkart" [ref=f61e680] [cursor=pointer]:
+                                - /url: javascript:void(0);
+                                - generic [ref=f61e681]: 
+                                - text: Satışa Çıkart
+                              - link " Yönet" [ref=f61e682] [cursor=pointer]:
+                                - /url: javascript:ManagerFx('51944358');
+                                - generic [ref=f61e683]: 
+                                - text: Yönet
+                              - generic [ref=f61e685] [cursor=pointer]: 
+                          - row "Otomatik ödeme talimatı için tıklayınız" [ref=f61e686]:
+                            - cell "Otomatik ödeme talimatı için tıklayınız" [ref=f61e687]:
+                              - generic [ref=f61e688]:
+                                - text: Otomatik ödeme talimatı için
+                                - link "tıklayınız" [ref=f61e689] [cursor=pointer]:
+                                  - /url: javascript:void(0);
+                          - row "umaybilisim.com.tr 31 Aralık 2012 30 Aralık 2026 29 Aralık 2026  Yönet " [ref=f61e690]:
+                            - cell "umaybilisim.com.tr" [ref=f61e691]:
+                              - generic "Toplu işlem sepetine ekle" [ref=f61e692]:
+                                - checkbox "umaybilisim.com.tr" [ref=f61e694]
+                              - generic "umaybilisim.com.tr" [ref=f61e696]:
+                                - heading "umaybilisim.com.tr" [level=6] [ref=f61e697]
+                            - cell "31 Aralık 2012" [ref=f61e698]
+                            - cell "30 Aralık 2026" [ref=f61e699]
+                            - cell "29 Aralık 2026" [ref=f61e700]
+                            - cell " Yönet " [ref=f61e701]:
+                              - link " Yönet" [ref=f61e702] [cursor=pointer]:
+                                - /url: javascript:ManagerFx('666534');
+                                - generic [ref=f61e703]: 
+                                - text: Yönet
+                              - generic [ref=f61e705] [cursor=pointer]: 
+                          - row "Otomatik ödeme talimatı için tıklayınız" [ref=f61e706]:
+                            - cell "Otomatik ödeme talimatı için tıklayınız" [ref=f61e707]:
+                              - generic [ref=f61e708]:
+                                - text: Otomatik ödeme talimatı için
+                                - link "tıklayınız" [ref=f61e709] [cursor=pointer]:
+                                  - /url: javascript:void(0);
+                          - 'row "Toplam Alan Adı : 44 Adet 1 2" [ref=f61e710]':
+                            - 'cell "Toplam Alan Adı : 44 Adet" [ref=f61e711]'
+                            - cell "1 2" [ref=f61e712]:
+                              - link "1" [ref=f61e713] [cursor=pointer]:
+                                - /url: "#"
+                              - link "2" [ref=f61e714] [cursor=pointer]:
+                                - /url: ALANADIAktifler1.asp?sort=&domain_name=&Page=2&fId=
+          - link "Toplu İşlem Sepetine Git" [ref=f61e716] [cursor=pointer]:
+            - /url: ALANADITopluIslemSepeti.asp
+  - link "" [ref=f61e717] [cursor=pointer]:
+    - /url: "#"
+    - generic [ref=f61e718]: 
+  - contentinfo [ref=f61e719]:
+    - generic [ref=f61e721]:
+      - generic [ref=f61e723]:
+        - img "Footer icon" [ref=f61e726]
+        - generic [ref=f61e728]:
+          - text: İNDİRİM HABERCİSİ
+          - generic [ref=f61e729]: Hemen abone ol, yeni fırsatları ve süper indirimleri kaçırmayın!
+        - generic [ref=f61e730]:
+          - generic [ref=f61e731]:
+            - generic [ref=f61e732]: E-Posta Adresinizi Girin
+            - textbox "E-Posta Adresinizi Girin" [ref=f61e733]:
+              - /placeholder: E-Posta adresinizi buraya yazın
+            - link "Gönder" [ref=f61e735] [cursor=pointer]:
+              - /url: javascript:;
+          - generic [ref=f61e736] [cursor=pointer]:
+            - text: Fırsatlardan haberdar olmak için
+            - link "verilerimin işlenmesini" [ref=f61e737]:
+              - /url: /sozlesmeler/detay/acik-riza-metni
+            - text: onaylıyorum 
+      - generic [ref=f61e738]:
+        - list [ref=f61e740]:
+          - link "Domain " [ref=f61e742] [cursor=pointer]:
+            - /url: javascript:;
+            - text: Domain
+            - generic [ref=f61e743]: 
+          - listitem [ref=f61e744]:
+            - link "Domain Sorgulama" [ref=f61e745] [cursor=pointer]:
+              - /url: /domain-sorgulama
+          - listitem [ref=f61e746]:
+            - link "Domain Transfer" [ref=f61e747] [cursor=pointer]:
+              - /url: /domain-sorgulama/domain-transfer
+          - listitem [ref=f61e748]:
+            - link "Domain Backorder" [ref=f61e749] [cursor=pointer]:
+              - /url: /domain-sorgulama/domain-backorder
+          - listitem [ref=f61e750]:
+            - link ".com.tr Domain" [ref=f61e751] [cursor=pointer]:
+              - /url: /domain-sorgulama/com-tr-domain-kayit
+          - listitem [ref=f61e752]:
+            - link ".tr Domain" [ref=f61e753] [cursor=pointer]:
+              - /url: /domain-sorgulama/tr-domain-kayit
+          - listitem [ref=f61e754]:
+            - text: Domain Hizmetleri
+            - generic [ref=f61e755]: 
+          - listitem [ref=f61e756]:
+            - link "Satılık Alan Adları" [ref=f61e757] [cursor=pointer]:
+              - /url: /domain-sorgulama/satilik-domain
+          - listitem [ref=f61e758]:
+            - link ".com Domain Kayıt" [ref=f61e759] [cursor=pointer]:
+              - /url: /domain-sorgulama/com-domain-kayit
+          - listitem [ref=f61e760]:
+            - link "Türkçe Domain Kayıt" [ref=f61e761] [cursor=pointer]:
+              - /url: /domain-sorgulama/turkce-domain-sorgulama
+          - listitem [ref=f61e762]:
+            - link "Toplu Domain Sorgulama" [ref=f61e763] [cursor=pointer]:
+              - /url: /domain-sorgulama/toplu-domain-sorgulama
+          - listitem [ref=f61e764]:
+            - link "Whois Sorgulama" [ref=f61e765] [cursor=pointer]:
+              - /url: /whois-sorgulama
+          - listitem [ref=f61e766]:
+            - link "Domain Değerleme Aracı" [ref=f61e767] [cursor=pointer]:
+              - /url: /domain-degerleme-araci
+          - listitem [ref=f61e768]:
+            - link "Premium Domain Servisleri" [ref=f61e769] [cursor=pointer]:
+              - /url: /domain-sorgulama/premium-domain-hizmetleri
+        - generic [ref=f61e770]:
+          - list [ref=f61e771]:
+            - link "Hosting " [ref=f61e773] [cursor=pointer]:
+              - /url: javascript:;
+              - text: Hosting
+              - generic [ref=f61e774]: 
+            - listitem [ref=f61e775]:
+              - link "Sınırsız Web Hosting" [ref=f61e776] [cursor=pointer]:
+                - /url: /hosting
+            - listitem [ref=f61e777]:
+              - link "WordPress Hosting" [ref=f61e778] [cursor=pointer]:
+                - /url: /hosting/wordpress-hosting
+            - listitem [ref=f61e779]:
+              - link "MsSQL Hosting" [ref=f61e780] [cursor=pointer]:
+                - /url: /hosting/mssql-hosting
+          - list [ref=f61e781]:
+            - link "E-Mail " [ref=f61e783] [cursor=pointer]:
+              - /url: javascript:;
+              - text: E-Mail
+              - generic [ref=f61e784]: 
+            - listitem [ref=f61e785]:
+              - link "XMail Pro" [ref=f61e786] [cursor=pointer]:
+                - /url: /hosting/mail-hosting/profesyonel-mail-hosting
+            - listitem [ref=f61e787]:
+              - link "XMail Kurumsal" [ref=f61e788] [cursor=pointer]:
+                - /url: /hosting/mail-hosting/kurumsal-eposta
+            - listitem [ref=f61e789]:
+              - link "Kurumsal E-Posta" [ref=f61e790] [cursor=pointer]:
+                - /url: /hosting/mail-hosting/kurumsal-eposta
+          - list [ref=f61e791]:
+            - link "Web Sitesi " [ref=f61e793] [cursor=pointer]:
+              - /url: javascript:;
+              - text: Web Sitesi
+              - generic [ref=f61e794]: 
+            - listitem [ref=f61e795]:
+              - link "Hazır Web Sitesi" [ref=f61e796] [cursor=pointer]:
+                - /url: /websitesi-tasarimi-araci
+            - listitem [ref=f61e797]:
+              - link "Web Sitesi Tasarımı" [ref=f61e798] [cursor=pointer]:
+                - /url: /hazir-web-sitesi-tasarimlari
+        - list [ref=f61e800]:
+          - link "Sunucu " [ref=f61e802] [cursor=pointer]:
+            - /url: javascript:;
+            - text: Sunucu
+            - generic [ref=f61e803]: 
+          - listitem [ref=f61e804]:
+            - link "VPS Cloud Server" [ref=f61e805] [cursor=pointer]:
+              - /url: /sunucu-kiralama/vps-cloud-server
+          - listitem [ref=f61e806]:
+            - link "VDS Server" [ref=f61e807] [cursor=pointer]:
+              - /url: /sunucu-kiralama/vds-sunucu
+          - listitem [ref=f61e808]:
+            - link "Dedicated Server" [ref=f61e809] [cursor=pointer]:
+              - /url: /sunucu-kiralama/dedicated-server
+          - listitem [ref=f61e810]:
+            - link "Kurumsal Server" [ref=f61e811] [cursor=pointer]:
+              - /url: /sunucu-kiralama/xtreme-server
+          - listitem [ref=f61e812]:
+            - text: Sunucu Hizmetleri
+            - generic [ref=f61e813]: 
+          - listitem [ref=f61e814]:
+            - link "Sunucu Kiralama" [ref=f61e815] [cursor=pointer]:
+              - /url: /sunucu-kiralama
+          - listitem [ref=f61e816]:
+            - link "Sunucu Destek" [ref=f61e817] [cursor=pointer]:
+              - /url: /sunucu-kiralama/sunucu-server-destek
+          - listitem [ref=f61e818]:
+            - link "Sunucu Güvenliği" [ref=f61e819] [cursor=pointer]:
+              - /url: /sunucu-kiralama/firewall-guvenlik
+          - listitem [ref=f61e820]:
+            - link "Sanal Sunucu" [ref=f61e821] [cursor=pointer]:
+              - /url: /sanal-sunucu
+        - list [ref=f61e823]:
+          - link "SSL " [ref=f61e825] [cursor=pointer]:
+            - /url: javascript:;
+            - text: SSL
+            - generic [ref=f61e826]: 
+          - listitem [ref=f61e827]:
+            - link "SSL Sertifikası" [ref=f61e828] [cursor=pointer]:
+              - /url: /ssl/ssl-sertifikasi#standartSsl
+          - listitem [ref=f61e829]:
+            - link "Hızlı Kurulum SSL" [ref=f61e830] [cursor=pointer]:
+              - /url: /ssl/ssl-sertifikasi#hizlikurulum
+          - listitem [ref=f61e831]:
+            - link "Şirketler İçin SSL" [ref=f61e832] [cursor=pointer]:
+              - /url: /ssl/ssl-sertifikasi#premiumSsl
+          - listitem [ref=f61e833]:
+            - link "Kurumsal SSL" [ref=f61e834] [cursor=pointer]:
+              - /url: /ssl/ssl-sertifikasi#evSsl
+          - listitem [ref=f61e835]:
+            - text: SSL Hizmetleri
+            - generic [ref=f61e836]: 
+          - listitem [ref=f61e837]:
+            - link "SSL Fiyatları" [ref=f61e838] [cursor=pointer]:
+              - /url: /ssl/ssl-sertifikasi
+          - listitem [ref=f61e839]:
+            - link "PCI-DSS Taraması" [ref=f61e840] [cursor=pointer]:
+              - /url: /ssl/pci-dss-guvenlik-taramasi
+          - listitem [ref=f61e841]:
+            - link "SEO İçin SSL" [ref=f61e842] [cursor=pointer]:
+              - /url: /ssl/ssl-sertifikasi
+          - listitem [ref=f61e843]:
+            - link "SSL Sorgulama Aracı" [ref=f61e844] [cursor=pointer]:
+              - /url: /ssl-checker
+        - list [ref=f61e846]:
+          - link "Diğer " [ref=f61e848] [cursor=pointer]:
+            - /url: javascript:;
+            - text: Diğer
+            - generic [ref=f61e849]: 
+          - listitem [ref=f61e850]:
+            - link "Marka Tescili" [ref=f61e851] [cursor=pointer]:
+              - /url: /marka-tescil-sorgulama
+          - listitem [ref=f61e852]:
+            - text: Diğer Hizmetler
+            - generic [ref=f61e853]: 
+          - listitem [ref=f61e854]:
+            - link "Blog" [ref=f61e855] [cursor=pointer]:
+              - /url: https://www.natro.com/blog/
+          - listitem [ref=f61e856]:
+            - link "Tercih Sihirbazi" [ref=f61e857] [cursor=pointer]:
+              - /url: /hosting/tercih-sihirbazi
+        - list [ref=f61e859]:
+          - listitem [ref=f61e860]:
+            - img "Natro Web Hosting" [ref=f61e861]
+          - listitem [ref=f61e862]:
+            - text: Müşteri Hizmetleri
+            - link "0 (212) 213 1 213":
+              - /url: "#"
+            - text: E-Posta Destek
+            - link "destek@natro.com" [ref=f61e863] [cursor=pointer]:
+              - /url: mailto:destek@natro.com
+            - text: Canlı Destek
+            - link "natro.com" [ref=f61e864] [cursor=pointer]:
+              - /url: javascript:;
+      - generic [ref=f61e865]:
+        - generic [ref=f61e866]: Natroyu Takip Edin
+        - generic [ref=f61e867]:
+          - link "Facebook" [ref=f61e869] [cursor=pointer]:
+            - /url: https://www.facebook.com/natrohost
+            - generic [ref=f61e870]: 
+          - link "Twitter" [ref=f61e872] [cursor=pointer]:
+            - /url: https://www.twitter.com/natrohost
+            - generic [ref=f61e873]: 
+          - link "Instagram" [ref=f61e875] [cursor=pointer]:
+            - /url: https://www.instagram.com/natrohost/
+            - generic [ref=f61e876]: 
+          - link "Linkedin" [ref=f61e878] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/natro-hosting
+            - generic [ref=f61e879]: 
+          - link "Youtube" [ref=f61e881] [cursor=pointer]:
+            - /url: https://www.youtube.com/user/natrohost
+            - generic [ref=f61e882]: 
+    - generic [ref=f61e885]:
+      - generic [ref=f61e886]: Copyright © 1999 - 2026 natro.com Tüm hakları saklıdır
+      - generic [ref=f61e887]:
+        - link "Lisanslı Ürün Politikası" [ref=f61e888] [cursor=pointer]:
+          - /url: /lisansli-urun-politikamiz
+        - text: "|"
+        - link "Açık Rıza Metni" [ref=f61e889] [cursor=pointer]:
+          - /url: /sozlesmeler/detay/acik-riza-metni
+        - text: "|"
+        - link "Sözleşmeler" [ref=f61e890] [cursor=pointer]:
+          - /url: /sozlesmeler/tum-sozlesmeler
+        - text: "|"
+        - link "Çerez Aydınlatma Politikası" [ref=f61e891] [cursor=pointer]:
+          - /url: /sozlesmeler/detay/cerez-aydinlatma-politikasi
+        - text: "|"
+        - link "Gizlilik" [ref=f61e892] [cursor=pointer]:
+          - /url: /sozlesmeler/detay/gizlilik-sozlesmesi
+        - text: "|"
+        - link "İletişim" [ref=f61e893] [cursor=pointer]:
+          - /url: /kurumsal/iletisim
+  - generic [ref=f61e895]:
+    - link "Close" [ref=f61e896] [cursor=pointer]:
+      - /url: "#close"
+    - generic [ref=f61e897]:
+      - link "Previous" [ref=f61e898] [cursor=pointer]:
+        - /url: "#"
+      - link "Next" [ref=f61e899] [cursor=pointer]:
+        - /url: "#"
+    - generic [ref=f61e900]:
+      - link "Previous" [ref=f61e901] [cursor=pointer]:
+        - /url: "#"
+      - link "Maximize" [ref=f61e902] [cursor=pointer]:
+        - /url: "#"
+      - link "Next" [ref=f61e903] [cursor=pointer]:
+        - /url: "#"
+  - status

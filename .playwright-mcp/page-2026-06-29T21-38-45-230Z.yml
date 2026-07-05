@@ -1,0 +1,375 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - link "Skip to content" [ref=e4] [cursor=pointer]:
+      - /url: "#start-of-content"
+    - banner "Global navigation menu" [ref=e8]:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - button "Open menu" [ref=e12] [cursor=pointer]:
+            - img [ref=e13]
+          - link "Homepage (g then d)" [ref=e15] [cursor=pointer]:
+            - /url: /
+            - img [ref=e16]
+        - generic [ref=e18]:
+          - navigation "Breadcrumbs" [ref=e19]:
+            - list [ref=e20]:
+              - listitem [ref=e21]:
+                - link "umaybilisim" [ref=e22] [cursor=pointer]:
+                  - /url: /umaybilisim
+                  - generic [ref=e23]: umaybilisim
+              - listitem [ref=e24]:
+                - link "umaybilisim-ebelge-web" [ref=e25] [cursor=pointer]:
+                  - /url: /umaybilisim/umaybilisim-ebelge-web
+                - button "Switch repository (alt shift r)" [ref=e26] [cursor=pointer]:
+                  - img [ref=e27]
+          - button "Search or jump to…" [ref=e31] [cursor=pointer]:
+            - generic [ref=e32]:
+              - generic:
+                - img
+              - generic [ref=e33]:
+                - generic:
+                  - text: Type
+                  - generic: /
+                  - text: to search
+        - generic [ref=e34]:
+          - generic [ref=e35]:
+            - generic [ref=e38]:
+              - link "Chat with Copilot" [ref=e40] [cursor=pointer]:
+                - /url: /copilot
+                - img [ref=e41]
+              - button "Open Copilot…" [ref=e45] [cursor=pointer]:
+                - generic:
+                  - img
+            - button "Create new..." [ref=e47] [cursor=pointer]:
+              - generic [ref=e48]:
+                - generic:
+                  - img
+              - generic:
+                - img
+            - generic [ref=e49]:
+              - link "All issues" [ref=e50] [cursor=pointer]:
+                - /url: /issues
+                - img [ref=e51]
+              - link "All pull requests" [ref=e54] [cursor=pointer]:
+                - /url: /pulls
+                - img [ref=e55]
+              - link "All repositories" [ref=e57] [cursor=pointer]:
+                - /url: /repos
+                - img [ref=e58]
+          - link "You have unread notifications (g then n)" [ref=e60] [cursor=pointer]:
+            - /url: /notifications
+            - img [ref=e61]
+          - button "Open user navigation menu" [ref=e64] [cursor=pointer]:
+            - img "User avatar" [ref=e65]
+      - heading "Repository navigation" [level=2] [ref=e66]
+      - navigation "Repository" [ref=e67]:
+        - list [ref=e68]:
+          - listitem [ref=e69]:
+            - link "Code" [ref=e70] [cursor=pointer]:
+              - /url: /umaybilisim/umaybilisim-ebelge-web
+              - img [ref=e72]
+              - generic [ref=e74]: Code
+          - listitem [ref=e75]:
+            - link "Issues" [ref=e76] [cursor=pointer]:
+              - /url: /umaybilisim/umaybilisim-ebelge-web/issues
+              - img [ref=e78]
+              - generic [ref=e81]: Issues
+          - listitem [ref=e82]:
+            - link "Pull requests (1)" [ref=e83] [cursor=pointer]:
+              - /url: /umaybilisim/umaybilisim-ebelge-web/pulls
+              - img [ref=e85]
+              - generic [ref=e87]: Pull requests
+              - generic [ref=e88]:
+                - generic [ref=e89]: "1"
+                - generic [ref=e90]: (1)
+          - listitem [ref=e91]:
+            - link "Actions" [ref=e92] [cursor=pointer]:
+              - /url: /umaybilisim/umaybilisim-ebelge-web/actions
+              - img [ref=e94]
+              - generic [ref=e96]: Actions
+          - listitem [ref=e97]:
+            - link "Projects" [ref=e98] [cursor=pointer]:
+              - /url: /umaybilisim/umaybilisim-ebelge-web/projects
+              - img [ref=e100]
+              - generic [ref=e102]: Projects
+          - listitem [ref=e103]:
+            - link "Security and quality" [ref=e104] [cursor=pointer]:
+              - /url: /umaybilisim/umaybilisim-ebelge-web/security
+              - img [ref=e106]
+              - generic [ref=e108]: Security and quality
+          - listitem [ref=e109]:
+            - link "Insights" [ref=e110] [cursor=pointer]:
+              - /url: /umaybilisim/umaybilisim-ebelge-web/pulse
+              - img [ref=e112]
+              - generic [ref=e114]: Insights
+          - listitem [ref=e115]:
+            - link "Settings" [ref=e116] [cursor=pointer]:
+              - /url: /umaybilisim/umaybilisim-ebelge-web/settings
+              - img [ref=e118]
+              - generic [ref=e120]: Settings
+  - main [ref=e123]:
+    - generic [ref=e125]:
+      - 'heading "Settings: umaybilisim/umaybilisim-ebelge-web" [level=1] [ref=e126]'
+      - generic [ref=e128]:
+        - navigation "General settings" [ref=e131]:
+          - list [ref=e133]:
+            - listitem [ref=e134]:
+              - link "General" [ref=e135] [cursor=pointer]:
+                - /url: /umaybilisim/umaybilisim-ebelge-web/settings
+                - generic:
+                  - img
+                - generic [ref=e136]: General
+            - listitem [ref=e137]
+            - listitem [ref=e138]:
+              - generic [ref=e141]:
+                - heading "Access" [level=2] [ref=e143]
+                - list "Access" [ref=e144]:
+                  - listitem [ref=e145]:
+                    - link "Collaborators" [ref=e146] [cursor=pointer]:
+                      - /url: /umaybilisim/umaybilisim-ebelge-web/settings/access
+                      - generic:
+                        - img
+                      - generic [ref=e147]: Collaborators
+                  - listitem [ref=e148]:
+                    - button "Moderation options" [ref=e149] [cursor=pointer]:
+                      - generic:
+                        - img
+                      - generic [ref=e150]: Moderation options
+                      - generic:
+                        - img
+            - listitem [ref=e151]
+            - listitem [ref=e152]:
+              - generic [ref=e155]:
+                - heading "Code and automation" [level=2] [ref=e157]
+                - list "Code and automation" [ref=e158]:
+                  - listitem [ref=e159]:
+                    - link "Branches" [ref=e160] [cursor=pointer]:
+                      - /url: /umaybilisim/umaybilisim-ebelge-web/settings/branches
+                      - generic:
+                        - img
+                      - generic [ref=e161]: Branches
+                  - listitem [ref=e162]:
+                    - link "Tags" [ref=e163] [cursor=pointer]:
+                      - /url: /umaybilisim/umaybilisim-ebelge-web/settings/tag_protection
+                      - generic:
+                        - img
+                      - generic [ref=e164]: Tags
+                  - listitem [ref=e165]:
+                    - button "Rules" [ref=e166] [cursor=pointer]:
+                      - generic:
+                        - img
+                      - generic [ref=e167]: Rules
+                      - generic:
+                        - img
+                  - listitem [ref=e168]:
+                    - button "Actions" [ref=e169] [cursor=pointer]:
+                      - generic:
+                        - img
+                      - generic [ref=e170]: Actions
+                      - generic:
+                        - img
+                  - listitem [ref=e171]:
+                    - link "Webhooks" [ref=e172] [cursor=pointer]:
+                      - /url: /umaybilisim/umaybilisim-ebelge-web/settings/hooks
+                      - generic:
+                        - img
+                      - generic [ref=e173]: Webhooks
+                  - listitem [ref=e174]:
+                    - button "Copilot" [ref=e175] [cursor=pointer]:
+                      - generic:
+                        - img
+                      - generic [ref=e176]: Copilot
+                      - generic:
+                        - img
+                  - listitem [ref=e177]:
+                    - link "Environments" [ref=e178] [cursor=pointer]:
+                      - /url: /umaybilisim/umaybilisim-ebelge-web/settings/environments
+                      - generic:
+                        - img
+                      - generic [ref=e179]: Environments
+                  - listitem [ref=e180]:
+                    - link "Codespaces" [ref=e181] [cursor=pointer]:
+                      - /url: /umaybilisim/umaybilisim-ebelge-web/settings/codespaces
+                      - generic:
+                        - img
+                      - generic [ref=e182]: Codespaces
+                  - listitem [ref=e183]:
+                    - link "Pages" [ref=e184] [cursor=pointer]:
+                      - /url: /umaybilisim/umaybilisim-ebelge-web/settings/pages
+                      - generic:
+                        - img
+                      - generic [ref=e185]: Pages
+            - listitem [ref=e186]
+            - listitem [ref=e187]:
+              - generic [ref=e190]:
+                - heading "Security and quality" [level=2] [ref=e192]
+                - list "Security and quality" [ref=e193]:
+                  - listitem [ref=e194]:
+                    - link "Advanced Security" [ref=e195] [cursor=pointer]:
+                      - /url: /umaybilisim/umaybilisim-ebelge-web/settings/security_analysis
+                      - generic:
+                        - img
+                      - generic [ref=e196]: Advanced Security
+                  - listitem [ref=e197]:
+                    - link "Deploy keys" [ref=e198] [cursor=pointer]:
+                      - /url: /umaybilisim/umaybilisim-ebelge-web/settings/keys
+                      - generic:
+                        - img
+                      - generic [ref=e199]: Deploy keys
+                  - listitem [ref=e200]:
+                    - button "Secrets and variables" [ref=e201] [cursor=pointer]:
+                      - generic:
+                        - img
+                      - generic [ref=e202]: Secrets and variables
+                      - generic:
+                        - img
+            - listitem [ref=e203]
+            - listitem [ref=e204]:
+              - generic [ref=e207]:
+                - heading "Integrations" [level=2] [ref=e209]
+                - list "Integrations" [ref=e210]:
+                  - listitem [ref=e211]:
+                    - link "GitHub Apps" [ref=e212] [cursor=pointer]:
+                      - /url: /umaybilisim/umaybilisim-ebelge-web/settings/installations
+                      - generic:
+                        - img
+                      - generic [ref=e213]: GitHub Apps
+                  - listitem [ref=e214]:
+                    - link "Email notifications" [ref=e215] [cursor=pointer]:
+                      - /url: /umaybilisim/umaybilisim-ebelge-web/settings/notifications
+                      - generic:
+                        - img
+                      - generic [ref=e216]: Email notifications
+        - generic [ref=e217]:
+          - heading "GitHub Pages" [level=2] [ref=e219]
+          - paragraph [ref=e220]:
+            - link "GitHub Pages" [ref=e221] [cursor=pointer]:
+              - /url: https://pages.github.com
+            - text: is designed to host your personal, organization, or project pages from a GitHub repository.
+          - generic [ref=e222]:
+            - generic [ref=e223]:
+              - generic [ref=e224]:
+                - text: Your site is live at
+                - link "http://www.e-devlethizmetleri.com/" [ref=e225] [cursor=pointer]:
+                  - /url: http://www.e-devlethizmetleri.com/
+              - generic [ref=e226]:
+                - text: Last
+                - link "deployed" [ref=e227] [cursor=pointer]:
+                  - /url: /umaybilisim/umaybilisim-ebelge-web/actions/runs/28330943226
+                - text: by
+                - img "@umaybilisim" [ref=e228]
+                - link "umaybilisim" [ref=e229] [cursor=pointer]:
+                  - /url: /umaybilisim
+                - text: June 28, 2026 20:55yesterday
+            - generic [ref=e230]:
+              - link "Visit site" [ref=e231] [cursor=pointer]:
+                - /url: http://www.e-devlethizmetleri.com/
+                - img [ref=e232]
+                - text: Visit site
+              - button "Unpublish site" [ref=e234] [cursor=pointer]:
+                - generic [ref=e236]: Unpublish site
+          - heading "Build and deployment" [level=2] [ref=e237]
+          - generic [ref=e239]:
+            - text: Source
+            - button "Source GitHub Actions" [ref=e243] [cursor=pointer]:
+              - generic [ref=e245]: GitHub Actions
+              - generic:
+                - img
+          - generic [ref=e246]:
+            - text: Your site was last deployed to the
+            - link "github-pages" [ref=e247] [cursor=pointer]:
+              - /url: /umaybilisim/umaybilisim-ebelge-web/deployments?environment=github-pages#activity-log
+            - text: environment by the
+            - link "Deploy to GitHub Pages" [ref=e249] [cursor=pointer]:
+              - /url: /umaybilisim/umaybilisim-ebelge-web/actions/runs/28330943226
+            - text: workflow.
+            - paragraph [ref=e250]:
+              - link "Learn more about deploying to GitHub Pages using custom workflows" [ref=e251] [cursor=pointer]:
+                - /url: https://docs.github.com/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-with-a-custom-github-actions-workflow
+          - heading "Custom domain" [level=3] [ref=e252]
+          - generic [ref=e253]:
+            - generic [ref=e255]:
+              - term [ref=e256]:
+                - generic [ref=e257]: Custom domain
+                - paragraph [ref=e258]:
+                  - text: Custom domains allow you to serve your site from a domain other than
+                  - code [ref=e259]: umaybilisim.github.io
+                  - text: .
+                  - link "Learn more about configuring custom domains" [ref=e260] [cursor=pointer]:
+                    - /url: https://docs.github.com/pages/configuring-a-custom-domain-for-your-github-pages-site
+                  - text: .
+              - definition [ref=e261]:
+                - generic [ref=e262]:
+                  - textbox "Custom domain" [ref=e264]: www.e-devlethizmetleri.com
+                  - generic [ref=e265]:
+                    - button "Save" [disabled] [ref=e266]
+                    - button "Remove" [ref=e267] [cursor=pointer]
+                - paragraph [ref=e268]:
+                  - img [ref=e270]
+                  - generic [ref=e272]: DNS Check in Progress
+            - separator [ref=e273]
+          - generic [ref=e275]:
+            - checkbox "Enforce HTTPS — Unavailable for your site because your domain is not properly configured to support HTTPS (www.e-devlethizmetleri.com) — Troubleshooting custom domains" [disabled] [ref=e276]
+            - generic [ref=e277]:
+              - text: Enforce HTTPS
+              - generic [ref=e278]:
+                - text: — Unavailable for your site because your domain is not properly configured to support HTTPS (
+                - link "www.e-devlethizmetleri.com" [ref=e279] [cursor=pointer]:
+                  - /url: http://www.e-devlethizmetleri.com/
+                  - code [ref=e280]: www.e-devlethizmetleri.com
+                - text: ) —
+                - link "Troubleshooting custom domains" [ref=e281] [cursor=pointer]:
+                  - /url: https://docs.github.com/articles/troubleshooting-custom-domains/#https-errors
+            - paragraph [ref=e283]:
+              - text: HTTPS provides a layer of encryption that prevents others from snooping on or tampering with traffic to your site.
+              - text: When HTTPS is enforced, your site will only be served over HTTPS.
+              - link "Learn more about securing your GitHub Pages site with HTTPS" [ref=e284] [cursor=pointer]:
+                - /url: https://docs.github.com/pages/getting-started-with-github-pages/securing-your-github-pages-site-with-https
+              - text: .
+          - generic [ref=e285]:
+            - generic [ref=e286]:
+              - heading "Visibility" [level=3] [ref=e287]
+              - generic [ref=e288]: GitHub Enterprise
+            - paragraph [ref=e289]:
+              - text: With a GitHub Enterprise account, you can restrict access to your GitHub Pages site by publishing it privately. You can use privately published sites to share your internal documentation or knowledge base with members of your enterprise. You can try GitHub Enterprise risk-free for 30 days.
+              - link "Learn more about the visibility of your GitHub Pages site." [ref=e290] [cursor=pointer]:
+                - /url: https://docs.github.com/pages/getting-started-with-github-pages/changing-the-visibility-of-your-github-pages-site
+            - link "Start free for 30 days" [ref=e291] [cursor=pointer]:
+              - /url: /account/enterprises/new
+              - generic [ref=e293]: Start free for 30 days
+  - contentinfo [ref=e294]:
+    - heading "Footer" [level=2] [ref=e295]
+    - generic [ref=e296]:
+      - generic [ref=e297]:
+        - link "GitHub Homepage" [ref=e298] [cursor=pointer]:
+          - /url: https://github.com
+          - img [ref=e299]
+        - generic [ref=e301]: © 2026 GitHub, Inc.
+      - navigation "Footer" [ref=e302]:
+        - heading "Footer navigation" [level=3] [ref=e303]
+        - list "Footer navigation" [ref=e304]:
+          - listitem [ref=e305]:
+            - link "Terms" [ref=e306] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/github-terms/github-terms-of-service
+          - listitem [ref=e307]:
+            - link "Privacy" [ref=e308] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+          - listitem [ref=e309]:
+            - link "Security" [ref=e310] [cursor=pointer]:
+              - /url: https://github.com/security
+          - listitem [ref=e311]:
+            - link "Status" [ref=e312] [cursor=pointer]:
+              - /url: https://www.githubstatus.com/
+          - listitem [ref=e313]:
+            - link "Community" [ref=e314] [cursor=pointer]:
+              - /url: https://github.community/
+          - listitem [ref=e315]:
+            - link "Docs" [ref=e316] [cursor=pointer]:
+              - /url: https://docs.github.com/
+          - listitem [ref=e317]:
+            - link "Contact" [ref=e318] [cursor=pointer]:
+              - /url: https://support.github.com?tags=dotcom-footer
+          - listitem [ref=e319]:
+            - button "Manage cookies" [ref=e321] [cursor=pointer]
+          - listitem [ref=e322]:
+            - button "Do not share my personal information" [ref=e324] [cursor=pointer]

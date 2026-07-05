@@ -1,0 +1,397 @@
+- generic [active] [ref=f49e1]:
+  - generic [ref=f49e2]:
+    - navigation [ref=f49e3]:
+      - generic [ref=f49e6]:
+        - generic [ref=f49e7]:
+          - text: Müşteri Hizmetleri
+          - link "0 (212) 213 1 213":
+            - /url: "#"
+        - list [ref=f49e8]:
+          - listitem [ref=f49e9]:
+            - link "Destek" [ref=f49e10] [cursor=pointer]:
+              - /url: /hemendestek
+          - listitem [ref=f49e11]:
+            - link "Kampanyalar" [ref=f49e12] [cursor=pointer]:
+              - /url: /kampanyalar
+          - listitem [ref=f49e13]:
+            - link "İK" [ref=f49e14] [cursor=pointer]:
+              - /url: /ik/
+          - listitem [ref=f49e15]:
+            - link "Blog" [ref=f49e16] [cursor=pointer]:
+              - /url: /blog/
+          - listitem [ref=f49e17]:
+            - text: Para Birimi
+            - generic [ref=f49e19] [cursor=pointer]:
+              - generic [ref=f49e21]:
+                - generic [ref=f49e22]: US $
+                - generic [ref=f49e23]: TL ₺
+              - generic [ref=f49e25]:
+                - generic [ref=f49e26]: US $
+                - generic [ref=f49e27]: TL ₺
+          - listitem [ref=f49e29]: 1$ = 46,66 TL
+      - generic [ref=f49e30]:
+        - text:   
+        - link "Natro Web Hosting" [ref=f49e32] [cursor=pointer]:
+          - /url: https://www.natro.com
+          - img "Natro Web Hosting" [ref=f49e33]
+        - generic [ref=f49e34]:
+          - list [ref=f49e35]:
+            - listitem [ref=f49e36]:
+              - link "Domain" [expanded] [ref=f49e37] [cursor=pointer]:
+                - /url: https://www.natro.com/domain-sorgulama
+              - text: ₺ $ ₺ $ ₺ $ ₺ $      
+            - listitem [ref=f49e38]:
+              - link "Yapay Zeka ikonu Web Sitesi Yapay Zeka" [expanded] [ref=f49e39] [cursor=pointer]:
+                - /url: /websitesi-tasarimi-araci
+                - img "Yapay Zeka ikonu" [ref=f49e40]
+                - text: Web Sitesi
+                - generic [ref=f49e41]: Yapay Zeka
+              - text:    ₺ $ ₺ $
+            - listitem [ref=f49e42]:
+              - link "Hosting" [expanded] [ref=f49e43] [cursor=pointer]:
+                - /url: /hosting
+              - text: ₺ $ ₺ $     ₺ $
+            - listitem [ref=f49e44]:
+              - link "E-Mail" [expanded] [ref=f49e45] [cursor=pointer]:
+                - /url: /hosting/mail-hosting
+              - text:    ₺ $
+            - listitem [ref=f49e46]:
+              - link "Sunucu" [expanded] [ref=f49e47] [cursor=pointer]:
+                - /url: /sunucu-kiralama
+              - text: /ay ₺ /ay $ /ay ₺ /ay $ /ay ₺ /ay $ /ay ₺ /ay $    
+            - listitem [ref=f49e48]:
+              - link "SSL" [expanded] [ref=f49e49] [cursor=pointer]:
+                - /url: /ssl/ssl-sertifikasi
+              - text: ₺ $    
+            - listitem [ref=f49e50]:
+              - link "Marka" [ref=f49e51] [cursor=pointer]:
+                - /url: /marka-tescil-sorgulama
+            - listitem [ref=f49e52]:
+              - link "Yapay Zeka" [ref=f49e53] [cursor=pointer]:
+                - /url: /web-sitesi/yapay-zeka-site-olusturucu
+                - img [ref=f49e55]
+                - generic [ref=f49e56]: Yapay Zeka
+          - list [ref=f49e57]:
+            - listitem [ref=f49e58]:
+              - generic [ref=f49e59]:
+                - link " Hesabım  UMAY TÜM BİLİŞİM ..." [ref=f49e60] [cursor=pointer]:
+                  - /url: /musteri
+                  - generic [ref=f49e61]: 
+                  - generic [ref=f49e62]: Hesabım
+                  - generic [ref=f49e63]: 
+                  - generic [ref=f49e64]: UMAY TÜM BİLİŞİM ...
+                - text:           
+            - listitem [ref=f49e65]:
+              - link "Sepetim" [ref=f49e66] [cursor=pointer]:
+                - /url: /sepet
+                - generic [ref=f49e67]: 
+    - text:  /ay ₺ /ay $ /ay ₺ /ay $    
+    - generic [ref=f49e68]:
+      - generic [ref=f49e72]:
+        - generic [ref=f49e73]:
+          - generic [ref=f49e74]:
+            - heading "Üzgünüz" [level=1] [ref=f49e75]
+            - heading "Aradığınız Sayfayı Bulamadık" [level=2] [ref=f49e76]
+            - paragraph [ref=f49e77]:
+              - text: Adres hatalı yazılmış yada
+              - text: sayfa yayından kaldırılmış olabilir.
+            - link "Ana Sayfaya Dön" [ref=f49e79] [cursor=pointer]:
+              - /url: /
+          - img [ref=f49e81]
+        - generic [ref=f49e82]:
+          - generic [ref=f49e83]: Bu kategorilere ait sayfalardan birini mi arıyorsunuz?
+          - generic [ref=f49e84]:
+            - link "Alan Adı" [ref=f49e85] [cursor=pointer]:
+              - /url: /domain-sorgulama
+            - link "Hosting" [ref=f49e86] [cursor=pointer]:
+              - /url: /hosting
+            - link "Sunucu" [ref=f49e87] [cursor=pointer]:
+              - /url: /sunucu-kiralama
+            - link "SSL" [ref=f49e88] [cursor=pointer]:
+              - /url: /ssl/ssl-sertifikasi
+            - link "Destek" [ref=f49e89] [cursor=pointer]:
+              - /url: /hemendestek
+            - link "Müşteri Paneli" [ref=f49e90] [cursor=pointer]:
+              - /url: /musteri
+      - generic [ref=f49e93]:
+        - heading "0,99 $ 'dan başlayan fiyatlara mükemmel bir domain kaydedin" [level=3] [ref=f49e94]:
+          - generic [ref=f49e95]:
+            - text: ₺
+            - generic [ref=f49e96]:
+              - text: 0,99
+              - generic [ref=f49e97]: $
+            - text: "'dan başlayan fiyatlara"
+          - text: mükemmel bir domain kaydedin
+        - generic [ref=f49e98]:
+          - textbox "Aradığınız domain’i buraya yazarak sorgulatabilirsiniz" [ref=f49e99]
+          - generic [ref=f49e100]: 
+          - button "Sorgula" [ref=f49e102] [cursor=pointer]
+  - link "" [ref=f49e103] [cursor=pointer]:
+    - /url: "#"
+    - generic [ref=f49e104]: 
+  - contentinfo [ref=f49e105]:
+    - generic [ref=f49e107]:
+      - generic [ref=f49e109]:
+        - img "Footer icon" [ref=f49e112]
+        - generic [ref=f49e114]:
+          - text: İNDİRİM HABERCİSİ
+          - generic [ref=f49e115]: Hemen abone ol, yeni fırsatları ve süper indirimleri kaçırmayın!
+        - generic [ref=f49e116]:
+          - generic [ref=f49e117]:
+            - generic [ref=f49e118]: E-Posta Adresinizi Girin
+            - textbox "E-Posta Adresinizi Girin" [ref=f49e119]:
+              - /placeholder: E-Posta adresinizi buraya yazın
+            - link "Gönder" [ref=f49e121] [cursor=pointer]:
+              - /url: javascript:;
+          - generic [ref=f49e122] [cursor=pointer]:
+            - text: Fırsatlardan haberdar olmak için
+            - link "verilerimin işlenmesini" [ref=f49e123]:
+              - /url: /sozlesmeler/detay/acik-riza-metni
+            - text: onaylıyorum 
+      - generic [ref=f49e124]:
+        - list [ref=f49e126]:
+          - link "Domain " [ref=f49e128] [cursor=pointer]:
+            - /url: javascript:;
+            - text: Domain
+            - generic [ref=f49e129]: 
+          - listitem [ref=f49e130]:
+            - link "Domain Sorgulama" [ref=f49e131] [cursor=pointer]:
+              - /url: /domain-sorgulama
+          - listitem [ref=f49e132]:
+            - link "Domain Transfer" [ref=f49e133] [cursor=pointer]:
+              - /url: /domain-sorgulama/domain-transfer
+          - listitem [ref=f49e134]:
+            - link "Domain Backorder" [ref=f49e135] [cursor=pointer]:
+              - /url: /domain-sorgulama/domain-backorder
+          - listitem [ref=f49e136]:
+            - link ".com.tr Domain" [ref=f49e137] [cursor=pointer]:
+              - /url: /domain-sorgulama/com-tr-domain-kayit
+          - listitem [ref=f49e138]:
+            - link ".tr Domain" [ref=f49e139] [cursor=pointer]:
+              - /url: /domain-sorgulama/tr-domain-kayit
+          - listitem [ref=f49e140]:
+            - text: Domain Hizmetleri
+            - generic [ref=f49e141]: 
+          - listitem [ref=f49e142]:
+            - link "Satılık Alan Adları" [ref=f49e143] [cursor=pointer]:
+              - /url: /domain-sorgulama/satilik-domain
+          - listitem [ref=f49e144]:
+            - link ".com Domain Kayıt" [ref=f49e145] [cursor=pointer]:
+              - /url: /domain-sorgulama/com-domain-kayit
+          - listitem [ref=f49e146]:
+            - link "Türkçe Domain Kayıt" [ref=f49e147] [cursor=pointer]:
+              - /url: /domain-sorgulama/turkce-domain-sorgulama
+          - listitem [ref=f49e148]:
+            - link "Toplu Domain Sorgulama" [ref=f49e149] [cursor=pointer]:
+              - /url: /domain-sorgulama/toplu-domain-sorgulama
+          - listitem [ref=f49e150]:
+            - link "Whois Sorgulama" [ref=f49e151] [cursor=pointer]:
+              - /url: /whois-sorgulama
+          - listitem [ref=f49e152]:
+            - link "Domain Değerleme Aracı" [ref=f49e153] [cursor=pointer]:
+              - /url: /domain-degerleme-araci
+          - listitem [ref=f49e154]:
+            - link "Premium Domain Servisleri" [ref=f49e155] [cursor=pointer]:
+              - /url: /domain-sorgulama/premium-domain-hizmetleri
+        - generic [ref=f49e156]:
+          - list [ref=f49e157]:
+            - link "Hosting " [ref=f49e159] [cursor=pointer]:
+              - /url: javascript:;
+              - text: Hosting
+              - generic [ref=f49e160]: 
+            - listitem [ref=f49e161]:
+              - link "Sınırsız Web Hosting" [ref=f49e162] [cursor=pointer]:
+                - /url: /hosting
+            - listitem [ref=f49e163]:
+              - link "WordPress Hosting" [ref=f49e164] [cursor=pointer]:
+                - /url: /hosting/wordpress-hosting
+            - listitem [ref=f49e165]:
+              - link "MsSQL Hosting" [ref=f49e166] [cursor=pointer]:
+                - /url: /hosting/mssql-hosting
+          - list [ref=f49e167]:
+            - link "E-Mail " [ref=f49e169] [cursor=pointer]:
+              - /url: javascript:;
+              - text: E-Mail
+              - generic [ref=f49e170]: 
+            - listitem [ref=f49e171]:
+              - link "XMail Pro" [ref=f49e172] [cursor=pointer]:
+                - /url: /hosting/mail-hosting/profesyonel-mail-hosting
+            - listitem [ref=f49e173]:
+              - link "XMail Kurumsal" [ref=f49e174] [cursor=pointer]:
+                - /url: /hosting/mail-hosting/kurumsal-eposta
+            - listitem [ref=f49e175]:
+              - link "Kurumsal E-Posta" [ref=f49e176] [cursor=pointer]:
+                - /url: /hosting/mail-hosting/kurumsal-eposta
+          - list [ref=f49e177]:
+            - link "Web Sitesi " [ref=f49e179] [cursor=pointer]:
+              - /url: javascript:;
+              - text: Web Sitesi
+              - generic [ref=f49e180]: 
+            - listitem [ref=f49e181]:
+              - link "Hazır Web Sitesi" [ref=f49e182] [cursor=pointer]:
+                - /url: /websitesi-tasarimi-araci
+            - listitem [ref=f49e183]:
+              - link "Web Sitesi Tasarımı" [ref=f49e184] [cursor=pointer]:
+                - /url: /hazir-web-sitesi-tasarimlari
+        - list [ref=f49e186]:
+          - link "Sunucu " [ref=f49e188] [cursor=pointer]:
+            - /url: javascript:;
+            - text: Sunucu
+            - generic [ref=f49e189]: 
+          - listitem [ref=f49e190]:
+            - link "VPS Cloud Server" [ref=f49e191] [cursor=pointer]:
+              - /url: /sunucu-kiralama/vps-cloud-server
+          - listitem [ref=f49e192]:
+            - link "VDS Server" [ref=f49e193] [cursor=pointer]:
+              - /url: /sunucu-kiralama/vds-sunucu
+          - listitem [ref=f49e194]:
+            - link "Dedicated Server" [ref=f49e195] [cursor=pointer]:
+              - /url: /sunucu-kiralama/dedicated-server
+          - listitem [ref=f49e196]:
+            - link "Kurumsal Server" [ref=f49e197] [cursor=pointer]:
+              - /url: /sunucu-kiralama/xtreme-server
+          - listitem [ref=f49e198]:
+            - text: Sunucu Hizmetleri
+            - generic [ref=f49e199]: 
+          - listitem [ref=f49e200]:
+            - link "Sunucu Kiralama" [ref=f49e201] [cursor=pointer]:
+              - /url: /sunucu-kiralama
+          - listitem [ref=f49e202]:
+            - link "Sunucu Destek" [ref=f49e203] [cursor=pointer]:
+              - /url: /sunucu-kiralama/sunucu-server-destek
+          - listitem [ref=f49e204]:
+            - link "Sunucu Güvenliği" [ref=f49e205] [cursor=pointer]:
+              - /url: /sunucu-kiralama/firewall-guvenlik
+          - listitem [ref=f49e206]:
+            - link "Sanal Sunucu" [ref=f49e207] [cursor=pointer]:
+              - /url: /sanal-sunucu
+        - list [ref=f49e209]:
+          - link "SSL " [ref=f49e211] [cursor=pointer]:
+            - /url: javascript:;
+            - text: SSL
+            - generic [ref=f49e212]: 
+          - listitem [ref=f49e213]:
+            - link "SSL Sertifikası" [ref=f49e214] [cursor=pointer]:
+              - /url: /ssl/ssl-sertifikasi#standartSsl
+          - listitem [ref=f49e215]:
+            - link "Hızlı Kurulum SSL" [ref=f49e216] [cursor=pointer]:
+              - /url: /ssl/ssl-sertifikasi#hizlikurulum
+          - listitem [ref=f49e217]:
+            - link "Şirketler İçin SSL" [ref=f49e218] [cursor=pointer]:
+              - /url: /ssl/ssl-sertifikasi#premiumSsl
+          - listitem [ref=f49e219]:
+            - link "Kurumsal SSL" [ref=f49e220] [cursor=pointer]:
+              - /url: /ssl/ssl-sertifikasi#evSsl
+          - listitem [ref=f49e221]:
+            - text: SSL Hizmetleri
+            - generic [ref=f49e222]: 
+          - listitem [ref=f49e223]:
+            - link "SSL Fiyatları" [ref=f49e224] [cursor=pointer]:
+              - /url: /ssl/ssl-sertifikasi
+          - listitem [ref=f49e225]:
+            - link "PCI-DSS Taraması" [ref=f49e226] [cursor=pointer]:
+              - /url: /ssl/pci-dss-guvenlik-taramasi
+          - listitem [ref=f49e227]:
+            - link "SEO İçin SSL" [ref=f49e228] [cursor=pointer]:
+              - /url: /ssl/ssl-sertifikasi
+          - listitem [ref=f49e229]:
+            - link "SSL Sorgulama Aracı" [ref=f49e230] [cursor=pointer]:
+              - /url: /ssl-checker
+        - list [ref=f49e232]:
+          - link "Diğer " [ref=f49e234] [cursor=pointer]:
+            - /url: javascript:;
+            - text: Diğer
+            - generic [ref=f49e235]: 
+          - listitem [ref=f49e236]:
+            - link "Marka Tescili" [ref=f49e237] [cursor=pointer]:
+              - /url: /marka-tescil-sorgulama
+          - listitem [ref=f49e238]:
+            - text: Diğer Hizmetler
+            - generic [ref=f49e239]: 
+          - listitem [ref=f49e240]:
+            - link "Blog" [ref=f49e241] [cursor=pointer]:
+              - /url: https://www.natro.com/blog/
+          - listitem [ref=f49e242]:
+            - link "Tercih Sihirbazi" [ref=f49e243] [cursor=pointer]:
+              - /url: /hosting/tercih-sihirbazi
+        - list [ref=f49e245]:
+          - listitem [ref=f49e246]:
+            - img "Natro Web Hosting" [ref=f49e247]
+          - listitem [ref=f49e248]:
+            - text: Müşteri Hizmetleri
+            - link "0 (212) 213 1 213":
+              - /url: "#"
+            - text: E-Posta Destek
+            - link "destek@natro.com" [ref=f49e249] [cursor=pointer]:
+              - /url: mailto:destek@natro.com
+            - text: Canlı Destek
+            - link "natro.com" [ref=f49e250] [cursor=pointer]:
+              - /url: javascript:;
+      - generic [ref=f49e251]:
+        - generic [ref=f49e252]: Natroyu Takip Edin
+        - generic [ref=f49e253]:
+          - link "Facebook" [ref=f49e255] [cursor=pointer]:
+            - /url: https://www.facebook.com/natrohost
+            - generic [ref=f49e256]: 
+          - link "Twitter" [ref=f49e258] [cursor=pointer]:
+            - /url: https://www.twitter.com/natrohost
+            - generic [ref=f49e259]: 
+          - link "Instagram" [ref=f49e261] [cursor=pointer]:
+            - /url: https://www.instagram.com/natrohost/
+            - generic [ref=f49e262]: 
+          - link "Linkedin" [ref=f49e264] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/natro-hosting
+            - generic [ref=f49e265]: 
+          - link "Youtube" [ref=f49e267] [cursor=pointer]:
+            - /url: https://www.youtube.com/user/natrohost
+            - generic [ref=f49e268]: 
+    - generic [ref=f49e271]:
+      - generic [ref=f49e272]: Copyright © 1999 - 2026 natro.com Tüm hakları saklıdır
+      - generic [ref=f49e273]:
+        - link "Lisanslı Ürün Politikası" [ref=f49e274] [cursor=pointer]:
+          - /url: /lisansli-urun-politikamiz
+        - text: "|"
+        - link "Açık Rıza Metni" [ref=f49e275] [cursor=pointer]:
+          - /url: /sozlesmeler/detay/acik-riza-metni
+        - text: "|"
+        - link "Sözleşmeler" [ref=f49e276] [cursor=pointer]:
+          - /url: /sozlesmeler/tum-sozlesmeler
+        - text: "|"
+        - link "Çerez Aydınlatma Politikası" [ref=f49e277] [cursor=pointer]:
+          - /url: /sozlesmeler/detay/cerez-aydinlatma-politikasi
+        - text: "|"
+        - link "Gizlilik" [ref=f49e278] [cursor=pointer]:
+          - /url: /sozlesmeler/detay/gizlilik-sozlesmesi
+        - text: "|"
+        - link "İletişim" [ref=f49e279] [cursor=pointer]:
+          - /url: /kurumsal/iletisim
+  - generic [ref=f49e281]:
+    - link "Close" [ref=f49e282] [cursor=pointer]:
+      - /url: "#close"
+    - generic [ref=f49e283]:
+      - link "Previous" [ref=f49e284] [cursor=pointer]:
+        - /url: "#"
+      - link "Next" [ref=f49e285] [cursor=pointer]:
+        - /url: "#"
+    - generic [ref=f49e286]:
+      - link "Previous" [ref=f49e287] [cursor=pointer]:
+        - /url: "#"
+      - link "Maximize" [ref=f49e288] [cursor=pointer]:
+        - /url: "#"
+      - link "Next" [ref=f49e289] [cursor=pointer]:
+        - /url: "#"
+  - generic [ref=f49e291]:
+    - link "Close" [ref=f49e292] [cursor=pointer]:
+      - /url: "#close"
+    - generic [ref=f49e293]:
+      - link "Previous" [ref=f49e294] [cursor=pointer]:
+        - /url: "#"
+      - link "Next" [ref=f49e295] [cursor=pointer]:
+        - /url: "#"
+    - generic [ref=f49e296]:
+      - link "Previous" [ref=f49e297] [cursor=pointer]:
+        - /url: "#"
+      - link "Maximize" [ref=f49e298] [cursor=pointer]:
+        - /url: "#"
+      - link "Next" [ref=f49e299] [cursor=pointer]:
+        - /url: "#"
