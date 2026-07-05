@@ -81,6 +81,18 @@
 .bant-cta{display:inline-flex;align-items:center;gap:.35rem;background:rgba(255,255,255,.18);border:1px solid rgba(255,255,255,.4);color:#fff;border-radius:6px;padding:.35rem .8rem;font-weight:600;white-space:nowrap;text-decoration:none;transition:background .2s;flex-shrink:0}
 .bant-cta:hover{background:rgba(255,255,255,.28);color:#fff}
 @media(max-width:640px){.bant-inner{flex-direction:column;text-align:center}.bant-icon{display:none}}
+.gecis-grid{display:grid;grid-template-columns:1fr 1fr;gap:2rem;margin-top:2.5rem}
+.gecis-sorun,.gecis-umay{border-radius:1rem;padding:2rem}
+.gecis-sorun{background:var(--surface);border:1px solid var(--border)}
+.gecis-umay{background:linear-gradient(135deg,var(--brand-600),var(--accent-600));color:#fff}
+.gecis-sorun h3,.gecis-umay h3{font-size:1.1rem;font-weight:700;margin:0 0 1.25rem}
+.gecis-umay h3{color:#fff}
+.sorun-list,.avantaj-list{list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:.75rem}
+.sorun-list li,.avantaj-list li{display:flex;align-items:center;gap:.65rem;font-size:.9375rem}
+.sorun-list li i{color:#ef4444;flex-shrink:0;width:18px;height:18px}
+.avantaj-list li i{color:#a7f3d0;flex-shrink:0;width:18px;height:18px}
+.avantaj-list li{color:rgba(255,255,255,.95)}
+@media(max-width:768px){.gecis-grid{grid-template-columns:1fr}}
 </style>
 </head>
 <body>
@@ -459,6 +471,44 @@
             </div>
           </div>
         </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== ENTEGRATÖR GEÇİŞ ===== -->
+  <section class="section bg-soft">
+    <div class="container">
+      <div class="section-head" data-aos="fade-up">
+        <span class="eyebrow">Entegratör Değişikliği</span>
+        <h2>Mevcut e-belge portalınızdan <span class="gradient-text">memnun değil misiniz?</span></h2>
+        <p>Yavaş destek, karmaşık arayüz veya artan maliyetler mi? Umay e-Belge'ye geçiş çok kolay — verilerinizi taşıyoruz, geçiş sürecini biz yönetiyoruz.</p>
+      </div>
+
+      <div class="gecis-grid">
+        <div class="gecis-sorun" data-aos="fade-right">
+          <h3>Sık Yaşanan Şikayetler</h3>
+          <ul class="sorun-list">
+            <li><i data-lucide="x-circle"></i> Destek taleplerinde günlerce bekleme</li>
+            <li><i data-lucide="x-circle"></i> Portal çökmeleri ve erişim sorunları</li>
+            <li><i data-lucide="x-circle"></i> Her yıl artan abonelik ücretleri</li>
+            <li><i data-lucide="x-circle"></i> Kullanımı zor, karmaşık arayüz</li>
+            <li><i data-lucide="x-circle"></i> Muhasebe programıyla entegrasyon sorunları</li>
+          </ul>
+        </div>
+        <div class="gecis-umay" data-aos="fade-left">
+          <h3>Umay e-Belge'ye Geçince</h3>
+          <ul class="avantaj-list">
+            <li><i data-lucide="check-circle"></i> 7/24 ulaşılabilir uzman destek</li>
+            <li><i data-lucide="check-circle"></i> %99.9 uptime garantisi</li>
+            <li><i data-lucide="check-circle"></i> Şeffaf ve sabit fiyatlandırma</li>
+            <li><i data-lucide="check-circle"></i> Sade arayüz — eğitim gerektirmez</li>
+            <li><i data-lucide="check-circle"></i> Ücretsiz geçiş desteği ve veri aktarımı</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="text-center mt-4" data-aos="fade-up">
+        <a href="iletisim.html" class="btn btn-primary btn-lg"><i data-lucide="refresh-cw"></i> Ücretsiz Geçiş Danışmanlığı Al</a>
       </div>
     </div>
   </section>
