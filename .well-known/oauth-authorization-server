@@ -11,9 +11,11 @@
     "identity_endpoint": "https://e-devlethizmetleri.com/auth.md",
     "register_uri": "https://e-devlethizmetleri.com/auth.md",
     "identity_types_supported": ["anonymous"],
+    "anonymous": {
+      "credential_types_supported": ["none"],
+      "claim_uri": "https://e-devlethizmetleri.com/auth.md"
+    },
     "supported_identity_types": ["public"],
-    "credential_types": [],
-    "claim_uri": null,
-    "revocation_uri": null
+    "credential_types": []
   }
 }
