@@ -71,6 +71,17 @@
   ]
 }
 </script>
+<style>
+.zorunluluk-bandi{background:linear-gradient(90deg,#92400e,#b45309,#d97706);color:#fff;padding:.7rem 0;font-size:.875rem}
+.bant-inner{display:flex;align-items:center;gap:.85rem 1.25rem;flex-wrap:wrap;justify-content:center}
+.bant-icon{flex-shrink:0;display:flex;align-items:center}
+.bant-text{display:flex;flex-wrap:wrap;align-items:center;gap:.25rem .5rem}
+.bant-text strong{font-weight:700}
+.bant-text span{opacity:.92}
+.bant-cta{display:inline-flex;align-items:center;gap:.35rem;background:rgba(255,255,255,.18);border:1px solid rgba(255,255,255,.4);color:#fff;border-radius:6px;padding:.35rem .8rem;font-weight:600;white-space:nowrap;text-decoration:none;transition:background .2s;flex-shrink:0}
+.bant-cta:hover{background:rgba(255,255,255,.28);color:#fff}
+@media(max-width:640px){.bant-inner{flex-direction:column;text-align:center}.bant-icon{display:none}}
+</style>
 </head>
 <body>
 
@@ -158,6 +169,20 @@
 </div>
 
 <main>
+
+  <!-- ===== ZORUNLULUK BANDI ===== -->
+  <div class="zorunluluk-bandi" role="alert">
+    <div class="container">
+      <div class="bant-inner">
+        <span class="bant-icon"><i data-lucide="alert-triangle"></i></span>
+        <span class="bant-text">
+          <strong>2025 cironuz 3 Milyon TL'yi aştıysa:</strong>
+          <span>GİB zorunluluğu gereği 1 Ocak 2026'dan itibaren e-Fatura kullanmak <strong>yasal zorunluluk</strong>.</span>
+        </span>
+        <a href="kampanyalar.html" class="bant-cta">Kampanyaları İncele <i data-lucide="arrow-right"></i></a>
+      </div>
+    </div>
+  </div>
 
   <!-- ===== HERO ===== -->
   <section class="hero">
