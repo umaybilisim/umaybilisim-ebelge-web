@@ -15,6 +15,7 @@
       "credential_types_supported": ["none"],
       "claim_uri": "https://e-devlethizmetleri.com/auth.md"
     },
+    "claim_uri": "https://e-devlethizmetleri.com/auth.md",
     "supported_identity_types": ["public"],
     "credential_types": []
   }
