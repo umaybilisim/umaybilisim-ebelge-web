@@ -7,3 +7,9 @@
   - Oluşturma engelleme CSS/JS → kritik CSS inline al, diğerlerini defer et
   - Verimli önbellek süresi eksik → Cache-Control header ayarla (12 KiB tasarruf)
 - Analiz önerileri: "Zorunlu yeniden düzenleme", "Ağ bağımlılık ağacı", "Oluşturma engelleme istekleri"
+
+## GSC Doğrulama Kontrolü (4 Ekim 2026 sonrası)
+- 20.09.2026'da 6 kategori için doğrulama başlatıldı: Yönlendirmeli sayfa (40), Yeniden yönlendirme hatası (4), 404 (4), Alternatif canonical (2), Soft 404 (1), Tarandı-dizine eklenmedi (3)
+- Kontrol: GSC → `sc-domain:e-devlethizmetleri.com` → Sayfa dizine ekleme; hesap `aycan.firtin@gmail.com` (Playwright'ta açık olmalı)
+- Başarısız kategorilerde örnek URL'lere bakıp canlıda `curl -I` ile doğrula; yalnızca eski `http://` `/cozumler/*` ve `.html` yönlendirmeleri kaldıysa normaldir
+- DNS'teki `google-site-verification` TXT kaydını silme
