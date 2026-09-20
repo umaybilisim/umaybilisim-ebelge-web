@@ -11,6 +11,7 @@
     banner.querySelectorAll('[data-cookie-accept]').forEach(function (b) {
       b.addEventListener('click', function () {
         localStorage.setItem(KEY, 'accepted');
+        document.dispatchEvent(new Event('umay-cookie-accepted'));
         banner.classList.remove('show');
       });
     });
