@@ -58,29 +58,29 @@ Sakarya (merkez ofis), İstanbul, Ankara, İzmir, Bursa, Antalya, Adana, Konya, 
 ## Önemli Sayfalar
 
 - [Ana Sayfa](https://www.e-devlethizmetleri.com/): Tüm e-belge çözümlerine genel bakış
-- [Ürünler](https://www.e-devlethizmetleri.com/urunler.html): 11 GİB onaylı modülün detayları
-- [e-Fatura](https://www.e-devlethizmetleri.com/urunler/e-fatura.html): e-Fatura çözümü ve geçiş rehberi
-- [e-Arşiv Fatura](https://www.e-devlethizmetleri.com/urunler/e-arsiv-fatura.html): e-Arşiv çözümü
-- [e-İrsaliye](https://www.e-devlethizmetleri.com/urunler/e-irsaliye.html): e-İrsaliye çözümü
-- [e-Defter](https://www.e-devlethizmetleri.com/urunler/e-defter.html): e-Defter çözümü
-- [e-SMM](https://www.e-devlethizmetleri.com/urunler/e-smm.html): Serbest Meslek Makbuzu çözümü
+- [Ürünler](https://www.e-devlethizmetleri.com/urunler): 11 GİB onaylı modülün detayları
+- [e-Fatura](https://www.e-devlethizmetleri.com/urunler/e-fatura): e-Fatura çözümü ve geçiş rehberi
+- [e-Arşiv Fatura](https://www.e-devlethizmetleri.com/urunler/e-arsiv-fatura): e-Arşiv çözümü
+- [e-İrsaliye](https://www.e-devlethizmetleri.com/urunler/e-irsaliye): e-İrsaliye çözümü
+- [e-Defter](https://www.e-devlethizmetleri.com/urunler/e-defter): e-Defter çözümü
+- [e-SMM](https://www.e-devlethizmetleri.com/urunler/e-smm): Serbest Meslek Makbuzu çözümü
 - [Kampanyalar](https://www.e-devlethizmetleri.com/kampanyalar): Yeni müşteri indirimleri, e-SMM, e-Defter ve e-İrsaliye kampanyaları
-- [SSS](https://www.e-devlethizmetleri.com/sss.html): Sıkça sorulan sorular (20 soru) — e-İmza vs Mali Mühür farkı, zorunluluk kriterleri, geçiş süreci dahil
-- [Hizmet Bölgeleri](https://www.e-devlethizmetleri.com/iller/index.html): Türkiye geneli hizmet haritası
-- [İletişim](https://www.e-devlethizmetleri.com/iletisim.html): Teklif, demo talebi ve e-İmza başvurusu
+- [SSS](https://www.e-devlethizmetleri.com/sss): Sıkça sorulan sorular (20 soru) — e-İmza vs Mali Mühür farkı, zorunluluk kriterleri, geçiş süreci dahil
+- [Hizmet Bölgeleri](https://www.e-devlethizmetleri.com/iller/): Türkiye geneli hizmet haritası
+- [İletişim](https://www.e-devlethizmetleri.com/iletisim): Teklif, demo talebi ve e-İmza başvurusu
 
 ## Blog & Rehberler
 
-- [e-Fatura Nedir? 2026 Tam Geçiş Rehberi](https://www.e-devlethizmetleri.com/blog/e-fatura-nedir-2026-rehberi.html) — e-Fatura'nın tanımı, zorunluluk kriterleri, başvuru adımları ve geçiş süreci hakkında kapsamlı rehber.
-- [e-Faturaya Nasıl Geçilir? Adım Adım Tam Rehber 2026](https://www.e-devlethizmetleri.com/blog/e-faturaya-nasil-gecilir.html) — Mali mühür başvurusundan GİB aktivasyonuna kadar e-Fatura geçişinin adım adım anlatımı.
-- [e-Fatura Cezaları 2026: Kaçınılması Gereken Hatalar](https://www.e-devlethizmetleri.com/blog/e-fatura-cezalari-2026.html) — e-Fatura yükümlülüğünü yerine getirmeyenler için VUK md. 353 kapsamındaki cezalar ve hatadan kaçınma yolları.
-- [Mali Mühür Başvurusu Adım Adım: 2026 Rehber](https://www.e-devlethizmetleri.com/blog/mali-muhur-basvurusu-rehberi.html) — TÜBİTAK BİLGEM Kamu SM üzerinden mali mühür başvurusunun nasıl yapılacağı, gerekli belgeler ve süreç.
-- [2026 GİB e-Belge Zorunluluk Takvimi](https://www.e-devlethizmetleri.com/blog/2026-gib-e-belge-zorunluluk-takvimi.html) — e-Fatura (3M TL, 1 Temmuz 2026), e-İrsaliye (10M TL, 1 Temmuz 2026) ve diğer e-belgelerin zorunluluk takvimi.
-- [e-Arşiv ile e-Fatura Arasındaki Farklar](https://www.e-devlethizmetleri.com/blog/e-arsiv-fatura-ile-e-fatura-farki.html) — Hangi durumda e-Fatura, hangi durumda e-Arşiv kullanılır? Mükellef ve son tüketici ayrımı.
-- [e-Defter ile e-Fatura Arasındaki Bağlantı](https://www.e-devlethizmetleri.com/blog/e-defter-e-fatura-baglantisi.html) — e-Fatura mükellefi olan firmaların neden e-Defter de tutmak zorunda olduğu ve berat süreci.
-- [e-Defter Geçiş Süreci ve Zorunluluk Kriterleri](https://www.e-devlethizmetleri.com/blog/e-defter-gecis-sureci-ve-zorunluluk.html) — e-Defter zorunluluk kriterleri, GİB'e yükleme takvimi ve beraat alma süreci.
-- [e-İrsaliye Kimler İçin Zorunlu?](https://www.e-devlethizmetleri.com/blog/e-irsaliye-kimler-icin-zorunlu.html) — İmalat, toptan satış, akaryakıt ve diğer sektörler için e-İrsaliye zorunluluk kriterleri; 1 Temmuz 2026 tarihi.
-- [e-SMM Kullanım Rehberi](https://www.e-devlethizmetleri.com/blog/e-smm-kullanim-rehberi.html) — Serbest meslek erbabı (avukat, doktor, mali müşavir) için e-SMM zorunluluğu, başvuru ve kullanım.
-- [ERP Entegrasyonu Nedir? e-Belge ve Muhasebe Yazılımı Bağlantısı](https://www.e-devlethizmetleri.com/blog/erp-entegrasyonu-nedir.html) — DİA ERP, Logo, Mikro, Netsis, SAP gibi ERP yazılımlarıyla e-Fatura entegrasyonunun nasıl çalıştığı.
-- [KOBİ'ler için e-Belge'nin 7 Büyük Faydası](https://www.e-devlethizmetleri.com/blog/kobi-icin-e-belge-faydalari.html) — Küçük ve orta ölçekli işletmeler için e-Fatura ve e-belge kullanımının maliyet, hız ve yasal uyum faydaları.
-- [e-Fatura Zorunluluğu Kimleri Kapsar? Mükellefler ve Sektörler (2026)](https://www.e-devlethizmetleri.com/blog/e-fatura-zorunluluk-mukellefler-sektorler.html) — 3 milyon TL ciro eşiği, sektörel zorunluluklar (ihracat, e-ticaret, akaryakıt, demir-çelik vb.), VUK cezaları ve Umay Bilişim ile geçiş süreci.
+- [e-Fatura Nedir? 2026 Tam Geçiş Rehberi](https://www.e-devlethizmetleri.com/blog/e-fatura-nedir-2026-rehberi) — e-Fatura'nın tanımı, zorunluluk kriterleri, başvuru adımları ve geçiş süreci hakkında kapsamlı rehber.
+- [e-Faturaya Nasıl Geçilir? Adım Adım Tam Rehber 2026](https://www.e-devlethizmetleri.com/blog/e-faturaya-nasil-gecilir) — Mali mühür başvurusundan GİB aktivasyonuna kadar e-Fatura geçişinin adım adım anlatımı.
+- [e-Fatura Cezaları 2026: Kaçınılması Gereken Hatalar](https://www.e-devlethizmetleri.com/blog/e-fatura-cezalari-2026) — e-Fatura yükümlülüğünü yerine getirmeyenler için VUK md. 353 kapsamındaki cezalar ve hatadan kaçınma yolları.
+- [Mali Mühür Başvurusu Adım Adım: 2026 Rehber](https://www.e-devlethizmetleri.com/blog/mali-muhur-basvurusu-rehberi) — TÜBİTAK BİLGEM Kamu SM üzerinden mali mühür başvurusunun nasıl yapılacağı, gerekli belgeler ve süreç.
+- [2026 GİB e-Belge Zorunluluk Takvimi](https://www.e-devlethizmetleri.com/blog/2026-gib-e-belge-zorunluluk-takvimi) — e-Fatura (3M TL, 1 Temmuz 2026), e-İrsaliye (10M TL, 1 Temmuz 2026) ve diğer e-belgelerin zorunluluk takvimi.
+- [e-Arşiv ile e-Fatura Arasındaki Farklar](https://www.e-devlethizmetleri.com/blog/e-arsiv-fatura-ile-e-fatura-farki) — Hangi durumda e-Fatura, hangi durumda e-Arşiv kullanılır? Mükellef ve son tüketici ayrımı.
+- [e-Defter ile e-Fatura Arasındaki Bağlantı](https://www.e-devlethizmetleri.com/blog/e-defter-e-fatura-baglantisi) — e-Fatura mükellefi olan firmaların neden e-Defter de tutmak zorunda olduğu ve berat süreci.
+- [e-Defter Geçiş Süreci ve Zorunluluk Kriterleri](https://www.e-devlethizmetleri.com/blog/e-defter-gecis-sureci-ve-zorunluluk) — e-Defter zorunluluk kriterleri, GİB'e yükleme takvimi ve beraat alma süreci.
+- [e-İrsaliye Kimler İçin Zorunlu?](https://www.e-devlethizmetleri.com/blog/e-irsaliye-kimler-icin-zorunlu) — İmalat, toptan satış, akaryakıt ve diğer sektörler için e-İrsaliye zorunluluk kriterleri; 1 Temmuz 2026 tarihi.
+- [e-SMM Kullanım Rehberi](https://www.e-devlethizmetleri.com/blog/e-smm-kullanim-rehberi) — Serbest meslek erbabı (avukat, doktor, mali müşavir) için e-SMM zorunluluğu, başvuru ve kullanım.
+- [ERP Entegrasyonu Nedir? e-Belge ve Muhasebe Yazılımı Bağlantısı](https://www.e-devlethizmetleri.com/blog/erp-entegrasyonu-nedir) — DİA ERP, Logo, Mikro, Netsis, SAP gibi ERP yazılımlarıyla e-Fatura entegrasyonunun nasıl çalıştığı.
+- [KOBİ'ler için e-Belge'nin 7 Büyük Faydası](https://www.e-devlethizmetleri.com/blog/kobi-icin-e-belge-faydalari) — Küçük ve orta ölçekli işletmeler için e-Fatura ve e-belge kullanımının maliyet, hız ve yasal uyum faydaları.
+- [e-Fatura Zorunluluğu Kimleri Kapsar? Mükellefler ve Sektörler (2026)](https://www.e-devlethizmetleri.com/blog/e-fatura-zorunluluk-mukellefler-sektorler) — 3 milyon TL ciro eşiği, sektörel zorunluluklar (ihracat, e-ticaret, akaryakıt, demir-çelik vb.), VUK cezaları ve Umay Bilişim ile geçiş süreci.

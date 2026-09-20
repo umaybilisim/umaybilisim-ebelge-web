@@ -59,4 +59,4 @@ credential_types: []
 
 - Email: bilgi@umaybilisim.com.tr
 - Phone: 0 850 777 11 45
-- Contact: https://www.e-devlethizmetleri.com/iletisim.html
+- Contact: https://www.e-devlethizmetleri.com/iletisim

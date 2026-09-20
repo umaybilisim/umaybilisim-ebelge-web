@@ -11,19 +11,19 @@
       "name": "e-fatura-bilgisi",
       "type": "information",
       "description": "e-Fatura zorunluluk kriterleri, geçiş adımları, mali mühür, GİB portal kayıt süreci ve entegrasyon seçenekleri hakkında detaylı bilgi.",
-      "url": "https://www.e-devlethizmetleri.com/urunler/e-fatura.html"
+      "url": "https://www.e-devlethizmetleri.com/urunler/e-fatura"
     },
     {
       "name": "e-arsiv-bilgisi",
       "type": "information",
       "description": "e-Arşiv Fatura ile e-Fatura arasındaki farklar, kimler için zorunlu olduğu ve geçiş süreci.",
-      "url": "https://www.e-devlethizmetleri.com/urunler/e-arsiv-fatura.html"
+      "url": "https://www.e-devlethizmetleri.com/urunler/e-arsiv-fatura"
     },
     {
       "name": "sss",
       "type": "information",
       "description": "e-Belge sistemleri hakkında sıkça sorulan 19 soru ve yanıtları.",
-      "url": "https://www.e-devlethizmetleri.com/sss.html"
+      "url": "https://www.e-devlethizmetleri.com/sss"
     }
   ]
 }
