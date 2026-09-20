@@ -23,4 +23,27 @@
   } catch (e) { /* localStorage erişilemez: izleme yok */ }
 
   document.addEventListener('umay-cookie-accepted', load);
+
+  // Iletisim tiklamalari: WhatsApp (whatsapp_click), telefon/e-posta (contact_click)
+  document.addEventListener('click', function (e) {
+    if (!loaded || !e.target.closest) return;
+    const a = e.target.closest('a[href]');
+    if (!a) return;
+    const href = a.getAttribute('href') || '';
+    const params = { link_url: href, transport_type: 'beacon' };
+    let name;
+    if (href.indexOf('https://wa.me/') === 0) {
+      name = 'whatsapp_click';
+      params.link_location = a.closest('.fab-whatsapp, .fab-whatsapp-bubble') ? 'fab' : 'page';
+    } else if (href.indexOf('tel:') === 0) {
+      name = 'contact_click';
+      params.method = 'phone';
+    } else if (href.indexOf('mailto:') === 0) {
+      name = 'contact_click';
+      params.method = 'email';
+    } else {
+      return;
+    }
+    window.gtag('event', name, params);
+  });
 })();
