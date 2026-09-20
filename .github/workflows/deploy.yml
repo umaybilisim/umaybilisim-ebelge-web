@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
 
       - name: Inject deploy version into HTML
         run: |
@@ -34,3 +36,23 @@ jobs:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           command: pages deploy . --project-name=umaybilisim-ebelge-web
+
+      - name: Notify IndexNow (changed pages)
+        if: github.event_name == 'push'
+        continue-on-error: true
+        run: |
+          set +e
+          FILES=$(git diff --name-only HEAD^ HEAD -- '*.html' | grep -v '^404.html$')
+          [ -n "$FILES" ] || { echo "Degisen HTML yok, IndexNow atlandi"; exit 0; }
+          URLS=()
+          for f in $FILES; do
+            [ -f "$f" ] || continue
+            case "$f" in
+              index.html) p="" ;;
+              */index.html) p="${f%index.html}" ;;
+              *.html) p="${f%.html}" ;;
+            esac
+            URLS+=("https://www.e-devlethizmetleri.com/$p")
+          done
+          sleep 45
+          bash scripts/indexnow.sh "${URLS[@]}"
