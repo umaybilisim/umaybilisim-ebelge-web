@@ -23,3 +23,6 @@ dist/
 
 # Yerel ayarlar
 .claude/settings.local.json
+
+# Playwright MCP ciktilari
+.playwright-mcp/
