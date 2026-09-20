@@ -13,8 +13,3 @@
 - Kontrol: GSC → `sc-domain:e-devlethizmetleri.com` → Sayfa dizine ekleme; hesap `aycan.firtin@gmail.com` (Playwright'ta açık olmalı)
 - Başarısız kategorilerde örnek URL'lere bakıp canlıda `curl -I` ile doğrula; yalnızca eski `http://` `/cozumler/*` ve `.html` yönlendirmeleri kaldıysa normaldir
 - DNS'teki `google-site-verification` TXT kaydını silme
-
-## GA4 Önemli Etkinlik İşaretleme (21 Eylül 2026 sonrası)
-- Siteden gönderilen etkinlikler: `whatsapp_click` (wa.me, param link_location=fab|page) ve `contact_click` (tel:/mailto:, param method=phone|email); yalnızca çerez kabulünde gider (js/analytics.js)
-- GA4 Etkinlikler listesi yeni etkinlikleri ~24 saat sonra gösteriyor; o zaman Yönetici → Veri görüntüleme → Etkinlikler → "Son etkinlikler" sekmesinde iki etkinliğin yıldızına basıp önemli etkinlik yap
-- Mülk: e-devlethizmetleri.com (555135547)
