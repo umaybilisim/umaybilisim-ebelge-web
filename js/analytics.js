@@ -24,6 +24,16 @@
 
   document.addEventListener('umay-cookie-accepted', load);
 
+  // Iletisim formu gonderimi: generate_lead
+  document.addEventListener('umay-lead', function (e) {
+    if (!loaded) return;
+    window.gtag('event', 'generate_lead', {
+      method: (e.detail && e.detail.method) || 'form',
+      form_id: 'contact-form',
+      transport_type: 'beacon'
+    });
+  });
+
   // Iletisim tiklamalari: WhatsApp (whatsapp_click), telefon/e-posta (contact_click)
   document.addEventListener('click', function (e) {
     if (!loaded || !e.target.closest) return;
