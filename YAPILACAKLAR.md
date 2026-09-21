@@ -21,3 +21,15 @@
 ## GA4 generate_lead Önemli Etkinlik
 - İletişim formu (/iletisim) generate_lead gönderiyor (method=whatsapp|email, form_id=contact-form); yalnızca çerez kabulünde (js/analytics.js `umay-lead` olayı)
 - GA4 Etkinlikler → Son etkinlikler listesinde generate_lead görününce (birkaç saat) yıldızına basıp önemli etkinlik yap (mülk 555135547)
+
+## Excel Kalan Maddeler (yeni-site-kontrol-listesi.xlsx, 21.09.2026 itibarıyla)
+Sıradaki oturumda birlikte yapılacak:
+- [ ] Madde 37: GSC URL Inspection > Request indexing ile öncelikli sayfaları gönder (ana sayfa, /urunler, 11 ürün, /sss, hakkimizda, iletisim, blog; günlük kota 100)
+- [ ] Madde 38: Bing Webmaster > IndexNow sekmesinde gönderimlerin göründüğünü doğrula
+- [ ] Madde 50: generate_lead GA4 Etkinlikler listesinde mi bak; varsa önemli etkinlik (yıldız) yap
+- [ ] Madde 56: OG etiketleri/görseli sunucu tarafında doğrula; WhatsApp önizlemesini kullanıcı kendi telefonundan dener
+- [ ] Madde 41: Bing Site Diagnostics tarama sonrası yeniden bak (tarama verisi gelince)
+
+Müşteri tarafı (benden bağımsız):
+- [ ] 52 Google İşletme Profili (önce Maps'te mevcut kaydı ara/sahiplen), 53 Yandex Business, 55 müşteri yorumları, 58 yasal metinlerin avukat kontrolü, 59 stok görsellerin kendi fotoğraflarla değiştirilmesi
+- [ ] Madde 54: NAP tutarlılığı; 52 ve 53 açılınca Google/Yandex/sosyal medya ile karşılaştır
