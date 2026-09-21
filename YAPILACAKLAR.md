@@ -8,11 +8,12 @@
   - Verimli önbellek süresi eksik → Cache-Control header ayarla (12 KiB tasarruf)
 - Analiz önerileri: "Zorunlu yeniden düzenleme", "Ağ bağımlılık ağacı", "Oluşturma engelleme istekleri"
 
-## 4 Ekim 2026 Kontrol Turu (GSC + Bing + GA4 + IndexNow)
+## 4 Ekim 2026 Kontrol Turu (GSC + Bing + Yandex + GA4 + IndexNow)
 - 20.09.2026'da 6 kategori için doğrulama başlatıldı: Yönlendirmeli sayfa (40), Yeniden yönlendirme hatası (4), 404 (4), Alternatif canonical (2), Soft 404 (1), Tarandı-dizine eklenmedi (3)
 - Kontrol: GSC → `sc-domain:e-devlethizmetleri.com` → Sayfa dizine ekleme; hesap `aycan.firtin@gmail.com` (Playwright'ta açık olmalı)
 - Başarısız kategorilerde örnek URL'lere bakıp canlıda `curl -I` ile doğrula; yalnızca eski `http://` `/cozumler/*` ve `.html` yönlendirmeleri kaldıysa normaldir
 - Bing Webmaster: e-devlethizmetleri.com → Sitemaps (durum, keşfedilen URL, hata/uyarı) ve Search Performance
+- Yandex Webmaster (www.e-devlethizmetleri.com): sitemap işlendi mi (İndeksleme → Sitemap dosyaları), indeks/sayfa sayıları, Tanılama uyarıları; `index.html`'deki yandex-verification meta etiketi yerinde olmalı
 - GA4 (555135547): Search Console raporları (Sorgular, Google organik arama trafiği) veri gösteriyor mu; önemli etkinlik sayıları (contact_click, whatsapp_click, generate_lead)
 - IndexNow: gerçek HTML push'unun Actions logunda "IndexNow: N URL gonderildi, HTTP 202" doğrula (`gh run view <id> --log | grep IndexNow`)
 - DNS'teki `google-site-verification` TXT kaydını silme
