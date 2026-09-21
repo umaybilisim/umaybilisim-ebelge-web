@@ -3,11 +3,14 @@
   'use strict';
   const ID = 'G-VSWYNYFZG5';
   const KEY = 'umay-cookie';
-  let loaded = false;
+  let loaded = false;      // ölçüm etkin mi (rıza var)
+  let scriptAdded = false; // gtag.js sayfaya eklendi mi
 
   function load() {
-    if (loaded) return;
     loaded = true;
+    window['ga-disable-' + ID] = false;
+    if (scriptAdded) return;
+    scriptAdded = true;
     window.dataLayer = window.dataLayer || [];
     window.gtag = function () { window.dataLayer.push(arguments); };
     window.gtag('js', new Date());
@@ -18,11 +21,29 @@
     document.head.appendChild(s);
   }
 
+  // Rıza geri alındı: ölçümü durdur ve GA çerezlerini sil
+  function stop() {
+    window['ga-disable-' + ID] = true;
+    loaded = false;
+    const host = location.hostname;
+    const domains = [host, '.' + host, '.' + host.split('.').slice(-2).join('.')];
+    document.cookie.split(';').forEach(function (c) {
+      const name = c.split('=')[0].trim();
+      if (!/^_ga(_|$)/.test(name) && name !== '_gid' && name !== '_gat') return;
+      const expired = name + '=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/';
+      document.cookie = expired;
+      domains.forEach(function (d) { document.cookie = expired + '; domain=' + d; });
+    });
+  }
+
   try {
-    if (localStorage.getItem(KEY) === 'accepted') load();
+    const choice = localStorage.getItem(KEY);
+    if (choice === 'accepted') load();
+    else if (choice === 'rejected') stop();
   } catch (e) { /* localStorage erişilemez: izleme yok */ }
 
   document.addEventListener('umay-cookie-accepted', load);
+  document.addEventListener('umay-cookie-rejected', stop);
 
   // Iletisim formu gonderimi: generate_lead
   document.addEventListener('umay-lead', function (e) {
