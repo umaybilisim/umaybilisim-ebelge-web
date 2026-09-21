@@ -42,15 +42,24 @@ Muhasebe yazılımınıza otomatik aktarım.
 
 ### e-MM kimler için zorunlu?
 
-e-Fatura mükellefi olup çiftçilerden zirai ürün alımı yapan firmalar zorunludur. Hal komisyoncuları, et-süt-tahıl-meyve-sebze toptancıları kapsama dahildir.
+Kısa cevap: e-Fatura mükellefi olup çiftçilerden zirai ürün alımı yapan firmalar zorunludur.
+
+Detay
+Hal komisyoncuları, et-süt-tahıl-meyve-sebze toptancıları kapsama dahildir.
 
 ### Çiftçinin kimlik bilgileri girilmek zorunda mı?
 
-Evet. TC kimlik numarası, ad-soyad, adres bilgileri makbuzda yer almalıdır. Sürekli alım yaptığınız çiftçileri sisteme tek seferde kaydedip, sonraki alımlarda otomatik kullanırsınız.
+Kısa cevap: Evet. TC kimlik numarası, ad-soyad, adres bilgileri makbuzda yer almalıdır.
+
+Detay
+Sürekli alım yaptığınız çiftçileri sisteme tek seferde kaydedip, sonraki alımlarda otomatik kullanırsınız.
 
 ### e-MM ile e-İrsaliye arasındaki ilişki nedir?
 
-Bu iki belge farklıdır; ancak entegre çalışır. Çiftçiden alınan ürünün sevkiyatı sırasında e-İrsaliye, alım belgelendirmesi için e-MM düzenlenir. Programımız her ikisini tek panelden yönetir.
+Kısa cevap: Bu iki belge farklıdır; ancak entegre çalışır.
+
+Detay
+Çiftçiden alınan ürünün sevkiyatı sırasında e-İrsaliye, alım belgelendirmesi için e-MM düzenlenir. Programımız her ikisini tek panelden yönetir.
 
 ## e-MM ile süreçlerinizi dijitalleştirin
 

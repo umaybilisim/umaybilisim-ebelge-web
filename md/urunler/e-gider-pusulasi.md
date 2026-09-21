@@ -42,15 +42,24 @@ Muhasebe yazılımınıza otomatik aktarım.
 
 ### Hangi durumlarda e-Gider Pusulası düzenlenir?
 
-Vergi mükellefi olmayan kişilerden mal veya hizmet alımlarında düzenlenir. Örneğin nakliyeci, terzi, tamirci, danışman gibi vergi mükellefi olmayan gerçek kişilere yapılan ödemeler.
+Kısa cevap: Vergi mükellefi olmayan kişilerden mal veya hizmet alımlarında düzenlenir.
+
+Detay
+Örneğin nakliyeci, terzi, tamirci, danışman gibi vergi mükellefi olmayan gerçek kişilere yapılan ödemeler.
 
 ### Stopaj nasıl hesaplanır?
 
-Stopaj oranları yapılan hizmetin niteliğine göre değişir. Programımız hizmet türünü seçtiğinizde doğru oranı otomatik uygular ve net/brüt hesaplaması yapar.
+Kısa cevap: Stopaj oranları yapılan hizmetin niteliğine göre değişir.
+
+Detay
+Programımız hizmet türünü seçtiğinizde doğru oranı otomatik uygular ve net/brüt hesaplaması yapar.
 
 ### e-Gider Pusulası beyan ne zaman yapılır?
 
-Stopaj tutarları muhtasar beyanname ile aylık (veya 3 aylık) olarak beyan edilir. Programımız beyan dönemleri için raporları hazır olarak sunar.
+Kısa cevap: Stopaj tutarları muhtasar beyanname ile aylık (veya 3 aylık) olarak beyan edilir.
+
+Detay
+Programımız beyan dönemleri için raporları hazır olarak sunar.
 
 ## Gider pusulalarınızı dijitalleştirin
 

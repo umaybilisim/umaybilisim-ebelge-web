@@ -42,15 +42,24 @@ Günlük z raporu, ürün satış analizi, ciro raporları.
 
 ### e-Adisyon kimler için zorunlu?
 
-Birinci sınıf restoran, lokanta, kafe ve benzeri yiyecek-içecek hizmeti veren işletmeler için zorunludur. GİB cirosu eşiklerini geçen tüm işletmeler kapsama dahildir.
+Kısa cevap: Birinci sınıf restoran, lokanta, kafe ve benzeri yiyecek-içecek hizmeti veren işletmeler için zorunludur.
+
+Detay
+GİB cirosu eşiklerini geçen tüm işletmeler kapsama dahildir.
 
 ### İnternetim kesilirse adisyon kesemez miyim?
 
-Hayır. Programımız offline modda da tam çalışır. İnternet geri geldiğinde tüm adisyonlar otomatik olarak GİB'e raporlanır. Müşteriyi bekletmezsiniz.
+Kısa cevap: Hayır. Programımız offline modda da tam çalışır.
+
+Detay
+İnternet geri geldiğinde tüm adisyonlar otomatik olarak GİB'e raporlanır. Müşteriyi bekletmezsiniz.
 
 ### Mevcut POS yazılımıma entegre olabilir mi?
 
-Evet. Türkiye'de yaygın kullanılan tüm POS terminal ve yazılımlarıyla entegre çalışır. Detayları danışmanlarımız size sunar.
+Kısa cevap: Evet. Türkiye'de yaygın kullanılan tüm POS terminal ve yazılımlarıyla entegre çalışır.
+
+Detay
+Detayları danışmanlarımız size sunar.
 
 ## İşletmenizi dijitalleştirin, kuyrukları azaltın
 

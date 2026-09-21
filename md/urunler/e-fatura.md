@@ -124,19 +124,31 @@ Müşavir
 
 ### e-Fatura ile e-Arşiv arasındaki fark nedir?
 
-e-Fatura sadece e-Fatura mükellefi olan firmalar arasında düzenlenir. Karşı taraf mükellef değilse (örneğin son tüketici veya kayıt dışı bir firma) e-Arşiv Fatura kullanılır. İkisi de elektroniktir, ikisi de aynı hukuki geçerliliğe sahiptir.
+Kısa cevap: e-Fatura sadece e-Fatura mükellefi olan firmalar arasında düzenlenir.
+
+Detay
+Karşı taraf mükellef değilse (örneğin son tüketici veya kayıt dışı bir firma) e-Arşiv Fatura kullanılır. İkisi de elektroniktir, ikisi de aynı hukuki geçerliliğe sahiptir.
 
 ### Mali mührü zaten var. Programa nasıl ekleyebilirim?
 
-Mevcut mali mührünüzü programa kolayca tanımlayabilirsiniz. Kurulum sırasında ekibimiz size adım adım yardımcı olur. Mali mührünüz yoksa, TÜBİTAK BİLGEM Kamu SM üzerinden başvurabilirsiniz.
+Kısa cevap: Mevcut mali mührünüzü programa kolayca tanımlayabilirsiniz.
+
+Detay
+Kurulum sırasında ekibimiz size adım adım yardımcı olur. Mali mührünüz yoksa, TÜBİTAK BİLGEM Kamu SM üzerinden başvurabilirsiniz.
 
 ### Geçiş ne kadar sürer?
 
-Standart bir geçiş 1-3 iş günü içinde tamamlanır. GİB başvuru süreci, mali mühür tanımlama ve sistem ayarları dahil. ERP entegrasyonu varsa süre değişebilir.
+Kısa cevap: Standart bir geçiş 1-3 iş günü içinde tamamlanır.
+
+Detay
+GİB başvuru süreci, mali mühür tanımlama ve sistem ayarları dahil. ERP entegrasyonu varsa süre değişebilir.
 
 ### Mevcut e-Fatura sağlayıcımdan size geçebilir miyim?
 
-Evet. Özel entegratör değişimi için GİB'e başvuru ile mevcut sağlayıcınızdan bize sorunsuz geçiş yapabilirsiniz. Tüm geçiş süreçlerini biz yönetiriz, kesintisiz çalışmanız sağlanır.
+Kısa cevap: Evet. Özel entegratör değişimi için GİB'e başvuru ile mevcut sağlayıcınızdan bize sorunsuz geçiş yapabilirsiniz.
+
+Detay
+Tüm geçiş süreçlerini biz yönetiriz, kesintisiz çalışmanız sağlanır.
 
 ## e-Fatura geçişine bugün başlayın
 

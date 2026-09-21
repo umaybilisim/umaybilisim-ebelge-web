@@ -60,15 +60,21 @@ Gelir ve KDV beyannamesi için hazır raporlar.
 
 ### Mali mühür mü, elektronik imza mı gerekli?
 
-Gerçek kişi serbest meslek erbabı için "e-imza" (NES) yeterlidir. Tüzel kişiler için mali mühür gerekir. Her ikisini de programa kolayca tanımlarsınız.
+Kısa cevap: Gerçek kişi serbest meslek erbabı için "e-imza" (NES) yeterlidir.
+
+Detay
+Tüzel kişiler için mali mühür gerekir. Her ikisini de programa kolayca tanımlarsınız.
 
 ### Aylık ne kadar makbuz kesebilirim?
 
-Sınırsız. Paketimiz sınırsız makbuz düzenleme imkanı sunar; sınırlı sürümlerimiz de mevcuttur.
+Kısa cevap: Sınırsız. Paketimiz sınırsız makbuz düzenleme imkanı sunar; sınırlı sürümlerimiz de mevcuttur.
 
 ### İptal/iade işlemleri nasıl yapılır?
 
-e-SMM'de iptal makbuzu, iade makbuzu kolayca düzenlenebilir. Sistem otomatik olarak ilişkili makbuzları takip eder.
+Kısa cevap: e-SMM'de iptal makbuzu, iade makbuzu kolayca düzenlenebilir.
+
+Detay
+Sistem otomatik olarak ilişkili makbuzları takip eder.
 
 ## Mesleğinize odaklanın, makbuzlarınızı bize bırakın
 

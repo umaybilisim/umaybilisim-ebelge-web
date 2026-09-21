@@ -86,19 +86,31 @@ Yıllar öncesine ait faturaları saniyede bulun.
 
 ### e-Arşiv ile e-Fatura arasındaki temel fark nedir?
 
-e-Fatura yalnızca e-Fatura kullanıcıları arasında düzenlenirken e-Arşiv, son tüketici ve mükellef olmayan firmalara kesilir. Birinde iletim GİB'in özel sistemi üzerinden, diğerinde e-posta üzerinden yapılır. Hukuki güç ikisinde de aynıdır.
+Kısa cevap: e-Fatura yalnızca e-Fatura kullanıcıları arasında düzenlenirken e-Arşiv, son tüketici ve mükellef olmayan firmalara kesilir.
+
+Detay
+Birinde iletim GİB'in özel sistemi üzerinden, diğerinde e-posta üzerinden yapılır. Hukuki güç ikisinde de aynıdır.
 
 ### İade veya iptal nasıl yapılır?
 
-e-Arşiv Fatura için 8 günlük itiraz süresi içinde kolayca iptal/iade işlemi yapabilirsiniz. Programımız bu süreyi otomatik takip eder ve uyarı verir.
+Kısa cevap: e-Arşiv Fatura için 8 günlük itiraz süresi içinde kolayca iptal/iade işlemi yapabilirsiniz.
+
+Detay
+Programımız bu süreyi otomatik takip eder ve uyarı verir.
 
 ### Müşteriler faturayı nasıl alır?
 
-Müşteri e-posta adresine fatura PDF olarak otomatik gönderilir. Ayrıca SMS bilgilendirmesi ve QR kod ile doğrulama imkanı da mevcuttur.
+Kısa cevap: Müşteri e-posta adresine fatura PDF olarak otomatik gönderilir.
+
+Detay
+Ayrıca SMS bilgilendirmesi ve QR kod ile doğrulama imkanı da mevcuttur.
 
 ### Kağıt fatura da kesebilir miyim?
 
-e-Arşiv Fatura mükellefi olduktan sonra kağıt fatura kesmeniz yasaktır. Tüm faturalar elektronik ortamda düzenlenmelidir.
+Kısa cevap: e-Arşiv Fatura mükellefi olduktan sonra kağıt fatura kesmeniz yasaktır.
+
+Detay
+Tüm faturalar elektronik ortamda düzenlenmelidir.
 
 ## e-Arşiv Fatura'ya bugün geçin
 

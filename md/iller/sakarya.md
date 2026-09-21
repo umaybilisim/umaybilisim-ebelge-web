@@ -72,19 +72,31 @@ Türkiye saatiyle kesintisiz, Türkçe ve hızlı teknik destek hattı.
 
 ### Sakarya'da e-Fatura'ya nasıl geçebilirim?
 
-Mali mührünüz hazırsa Sakarya'daki işletmeniz 1-3 iş günü içinde e-Fatura'ya geçebilir. Bize WhatsApp veya telefonla ulaşın; başvuru, mali mühür tanımlama ve mevcut muhasebe yazılımınızla entegrasyon dahil tüm süreci biz yürütürüz. Gerektiğinde Adapazarı ve çevre ilçelere yerinde destek sağlıyoruz.
+Kısa cevap: Mali mührünüz hazırsa Sakarya'daki işletmeniz 1-3 iş günü içinde e-Fatura'ya geçebilir.
+
+Detay
+Bize WhatsApp veya telefonla ulaşın; başvuru, mali mühür tanımlama ve mevcut muhasebe yazılımınızla entegrasyon dahil tüm süreci biz yürütürüz. Gerektiğinde Adapazarı ve çevre ilçelere yerinde destek sağlıyoruz.
 
 ### Sakarya'daki otomotiv yan sanayi firmaları için e-İrsaliye zorunlu mu?
 
-e-Fatura mükellefi olan ve düzenli mal sevkiyatı yapan firmalar için e-İrsaliye kademeli olarak zorunludur. Sakarya OSB'lerindeki yoğun sevkiyat trafiği düşünüldüğünde, e-İrsaliye yol kontrollerinde anlık doğrulama sağlayarak nakliye süreçlerini hızlandırır.
+Kısa cevap: e-Fatura mükellefi olan ve düzenli mal sevkiyatı yapan firmalar için e-İrsaliye kademeli olarak zorunludur.
+
+Detay
+Sakarya OSB'lerindeki yoğun sevkiyat trafiği düşünüldüğünde, e-İrsaliye yol kontrollerinde anlık doğrulama sağlayarak nakliye süreçlerini hızlandırır.
 
 ### Fındık alımı yapıyorum, hangi belgeyi kullanmalıyım?
 
-Vergi mükellefi olmayan üreticilerden (çiftçilerden) fındık alıyorsanız e-Müstahsil Makbuzu düzenlemeniz gerekir. Sistemimiz stopaj hesaplamasını otomatik yapar ve sezonsal yoğunlukta toplu makbuz kesmenize olanak tanır.
+Kısa cevap: Vergi mükellefi olmayan üreticilerden (çiftçilerden) fındık alıyorsanız e-Müstahsil Makbuzu düzenlemeniz gerekir.
+
+Detay
+Sistemimiz stopaj hesaplamasını otomatik yapar ve sezonsal yoğunlukta toplu makbuz kesmenize olanak tanır.
 
 ### Mevcut muhasebecimle çalışmaya devam edebilir miyim?
 
-Elbette. Çözümlerimiz mali müşavirinizin kullandığı yazılımla entegre çalışır. Sakarya'daki birçok mali müşavir ve SMMM ile uyumlu şekilde hizmet veriyoruz; muhasebecinizi de sürece dahil ederiz.
+Kısa cevap: Elbette. Çözümlerimiz mali müşavirinizin kullandığı yazılımla entegre çalışır.
+
+Detay
+Sakarya'daki birçok mali müşavir ve SMMM ile uyumlu şekilde hizmet veriyoruz; muhasebecinizi de sürece dahil ederiz.
 
 ## Sakarya'da e-belge geçişinizi bugün başlatın
 

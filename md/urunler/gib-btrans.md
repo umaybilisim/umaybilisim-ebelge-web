@@ -42,15 +42,18 @@ Tüm veri trafiği şifreli kanaldan iletilir.
 
 ### Btrans entegrasyonu kimler için uygun?
 
-Aylık binlerce belge işleyen büyük şirketler, özel entegratörler ve yüksek hacimli ERP sistemleri kullanan firmalar için Btrans en uygun çözümdür.
+Kısa cevap: Aylık binlerce belge işleyen büyük şirketler, özel entegratörler ve yüksek hacimli ERP sistemleri kullanan firmalar için Btrans en uygun çözümdür.
 
 ### Hangi belge tipleri Btrans üzerinden gönderilebilir?
 
-e-Fatura, e-Arşiv, e-İrsaliye, e-SMM, e-Müstahsil Makbuzu dahil tüm UBL-TR uyumlu belge tipleri Btrans üzerinden iletilebilir.
+Kısa cevap: e-Fatura, e-Arşiv, e-İrsaliye, e-SMM, e-Müstahsil Makbuzu dahil tüm UBL-TR uyumlu belge tipleri Btrans üzerinden iletilebilir.
 
 ### Mevcut ERP'ime nasıl entegre olur?
 
-REST API veya dosya tabanlı entegrasyon seçenekleriyle herhangi bir ERP'ye bağlanır. DİA ERP, Logo, Mikro, Netsis, SAP gibi sistemler için hazır konnektörlerimiz vardır.
+Kısa cevap: REST API veya dosya tabanlı entegrasyon seçenekleriyle herhangi bir ERP'ye bağlanır.
+
+Detay
+DİA ERP, Logo, Mikro, Netsis, SAP gibi sistemler için hazır konnektörlerimiz vardır.
 
 ## Büyük hacimli belge süreçlerinizi profesyonel altyapıyla yönetin
 

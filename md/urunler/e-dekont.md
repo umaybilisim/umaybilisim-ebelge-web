@@ -42,15 +42,18 @@ Muhasebe yazılımınıza otomatik aktarım.
 
 ### Hangi bankalarla entegrasyon mevcut?
 
-Türkiye'deki tüm büyük bankalar (Ziraat, İş Bankası, Garanti BBVA, Akbank, Yapı Kredi, QNB Finansbank, Halkbank, TEB, Vakıfbank vb.) ile entegrasyon mevcuttur.
+Kısa cevap: Türkiye'deki tüm büyük bankalar (Ziraat, İş Bankası, Garanti BBVA, Akbank, Yapı Kredi, QNB Finansbank, Halkbank, TEB, Vakıfbank vb.) ile entegrasyon mevcuttur.
 
 ### Otomatik eşleştirme nasıl çalışır?
 
-Tutar, tarih, açıklama ve müşteri bilgilerine göre yapay zeka destekli eşleştirme yapılır. Otomatik eşleşmeyen kayıtlar için kolay manuel onay imkanı bulunur.
+Kısa cevap: Tutar, tarih, açıklama ve müşteri bilgilerine göre yapay zeka destekli eşleştirme yapılır.
+
+Detay
+Otomatik eşleşmeyen kayıtlar için kolay manuel onay imkanı bulunur.
 
 ### Geçmiş dekontları içe aktarabilir miyim?
 
-Evet. Banka ekstrelerini Excel veya MT940 formatında içe aktararak geçmiş dönemleri de sisteme dahil edebilirsiniz.
+Kısa cevap: Evet. Banka ekstrelerini Excel veya MT940 formatında içe aktararak geçmiş dönemleri de sisteme dahil edebilirsiniz.
 
 ## Mutabakat süresini saatten saniyeye indirin
 

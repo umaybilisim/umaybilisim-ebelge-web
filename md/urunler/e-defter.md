@@ -78,15 +78,24 @@ Dönemsel raporlar saniyede hazırlanır.
 
 ### e-Defter beraatı nedir?
 
-Beraat, e-Defter'in mali mühürle imzalanmış, GİB tarafından kabul edilmiş özet dosyasıdır. Her dönem için ayrı beraat üretilir ve bu beraat defterin yasal geçerliliğini sağlar.
+Kısa cevap: Beraat, e-Defter'in mali mühürle imzalanmış, GİB tarafından kabul edilmiş özet dosyasıdır.
+
+Detay
+Her dönem için ayrı beraat üretilir ve bu beraat defterin yasal geçerliliğini sağlar.
 
 ### e-Defter'i ne zaman GİB'e yüklemeliyim?
 
-e-Defter'ler aylık dönemlerde, ait olduğu dönemi takip eden 3. ayın sonuna kadar GİB sistemine yüklenmelidir. Programımız bu tarihleri otomatik takip eder.
+Kısa cevap: e-Defter'ler aylık dönemlerde, ait olduğu dönemi takip eden 3. ayın sonuna kadar GİB sistemine yüklenmelidir.
+
+Detay
+Programımız bu tarihleri otomatik takip eder.
 
 ### Geçmiş yıllar için e-Defter düzenleyebilir miyim?
 
-e-Defter yalnızca zorunluluk başlangıç döneminden itibaren elektronik olarak düzenlenir. Geçmiş dönemler kağıt defter olarak korunur.
+Kısa cevap: e-Defter yalnızca zorunluluk başlangıç döneminden itibaren elektronik olarak düzenlenir.
+
+Detay
+Geçmiş dönemler kağıt defter olarak korunur.
 
 ## e-Defter dönüşümünüzü bize bırakın
 

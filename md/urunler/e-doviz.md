@@ -42,15 +42,21 @@ USD, EUR, GBP, CHF ve diğer tüm dövizler.
 
 ### e-Döviz tüm döviz büfeleri için zorunlu mu?
 
-Evet. Hazine ve Maliye Bakanlığı'nca yetkilendirilmiş tüm yetkili müesseseler (A ve B grubu döviz büroları) e-Döviz kullanmak zorundadır.
+Kısa cevap: Evet. Hazine ve Maliye Bakanlığı'nca yetkilendirilmiş tüm yetkili müesseseler (A ve B grubu döviz büroları) e-Döviz kullanmak zorundadır.
 
 ### İnternet bağlantısı kesilirse ne olur?
 
-Programımız offline modda da çalışır. İşlemler lokal olarak kaydedilir, internet bağlantısı sağlandığında GİB'e otomatik raporlanır.
+Kısa cevap: Programımız offline modda da çalışır.
+
+Detay
+İşlemler lokal olarak kaydedilir, internet bağlantısı sağlandığında GİB'e otomatik raporlanır.
 
 ### Birden fazla şubem var, hepsini yönetebilir miyim?
 
-Evet. Çoklu şube yönetimi desteklenir. Merkezi panelden tüm şubelerinizin işlemlerini, raporlarını ve stoğunuzu takip edebilirsiniz.
+Kısa cevap: Evet. Çoklu şube yönetimi desteklenir.
+
+Detay
+Merkezi panelden tüm şubelerinizin işlemlerini, raporlarını ve stoğunuzu takip edebilirsiniz.
 
 ## Döviz işlemlerinizi yasal güvence altında yönetin
 

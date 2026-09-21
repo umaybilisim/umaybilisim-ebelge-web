@@ -161,20 +161,30 @@ Yavaş destek, karmaşık arayüz veya artan maliyetler mi? Umay e-Belge'ye geç
 
 ### e-Fatura zorunluluğu kimleri kapsıyor?
 
-2026 yılı itibarıyla brüt satış hasılatı 3 milyon TL ve üzerinde olan tüm mükellefler e-Fatura ve e-Arşiv'e geçmek zorundadır. Ayrıca sektörel zorunluluklar (e-ticaret, ihracat, internet reklam aracılığı vb.) ciroya bakılmaksızın geçerlidir.
+Kısa cevap: 2026 yılı itibarıyla brüt satış hasılatı 3 milyon TL ve üzerinde olan tüm mükellefler e-Fatura ve e-Arşiv'e geçmek zorundadır.
+
+Detay
+Ayrıca sektörel zorunluluklar (e-ticaret, ihracat, internet reklam aracılığı vb.) ciroya bakılmaksızın geçerlidir.
 
 ### Mevcut muhasebe programımla entegrasyon mümkün mü?
 
-Evet. DİA ERP, Logo, Mikro, Netsis, ETA, SAP gibi Türkiye'de yaygın kullanılan tüm muhasebe ve ERP yazılımlarıyla entegrasyon sağlıyoruz. API ve dosya bazlı entegrasyon seçenekleri mevcuttur.
+Kısa cevap: Evet. DİA ERP, Logo, Mikro, Netsis, ETA, SAP gibi Türkiye'de yaygın kullanılan tüm muhasebe ve ERP yazılımlarıyla entegrasyon sağlıyoruz.
+
+Detay
+API ve dosya bazlı entegrasyon seçenekleri mevcuttur.
 
 ### Geçiş süreci ne kadar sürer?
 
-Standart bir e-Fatura geçişi 1-3 iş günü içinde tamamlanır. Mali mührünüz hazırsa süreç çok daha hızlıdır. Karmaşık ERP entegrasyonlarında ise süre içeriğe göre değişebilir.
+Kısa cevap: Standart bir e-Fatura geçişi 1-3 iş günü içinde tamamlanır.
+
+Detay
+Mali mührünüz hazırsa süreç çok daha hızlıdır. Karmaşık ERP entegrasyonlarında ise süre içeriğe göre değişebilir.
 
 ### e-Fatura ve e-İrsaliye için e-İmza mı, Mali Mühür mü gerekir? Farkları nelerdir, nasıl yardımcı olabilirsiniz?
 
-Kısa yanıt: İşletmenizin hukuki yapısına göre değişir — yanlış sertifika seçimi geçiş sürecinizi geciktirebilir, hatta cezai yaptırıma yol açabilir.
+Kısa cevap: İşletmenizin hukuki yapısına göre değişir — yanlış sertifika seçimi geçiş sürecinizi geciktirebilir, hatta cezai yaptırıma yol açabilir.
 
+Detay
 Mali Mühür — tüzel kişilikler için zorunlu: Anonim şirket, limited şirket ve kooperatif gibi tüzel kişilikler; e-Fatura, e-İrsaliye ve e-Defter belgelerini imzalamak için TÜBİTAK BİLGEM Kamu SM tarafından sağlanan Mali Mühür sertifikasını kullanmak zorundadır. Mali Mühür, şirkete özel kurumsal dijital kimliğinizdir ve GİB nezdinde belgelerinizin hukuki geçerliliğini güvence altına alır.
 
 Nitelikli e-İmza — gerçek kişiler ve özel durumlar için: Şahıs işletmeleri ile avukat, doktor, mali müşavir gibi serbest meslek erbabı; e-SMM ve e-Arşiv belgelerinde Nitelikli Elektronik İmza ile hareket edebilir. Bunun yanı sıra tüzel kişi adına GİB Portal'a yetkili kişi olarak giriş yapılacaksa kişisel e-İmza da gerekmektedir.
@@ -187,7 +197,10 @@ Hemen arayın: 0 850 777 11 45 — doğru sertifikayı seçin, e-belge geçişin
 
 ### Ücretsiz demo nasıl alabilirim?
 
-İletişim sayfamızdan ya da WhatsApp/telefon hattımız üzerinden bize ulaşmanız yeterli. Uzman ekibimiz 1 iş günü içinde size dönüş yapıp, kişisel demo planlaması yapacaktır.
+Kısa cevap: İletişim sayfamızdan ya da WhatsApp/telefon hattımız üzerinden bize ulaşmanız yeterli.
+
+Detay
+Uzman ekibimiz 1 iş günü içinde size dönüş yapıp, kişisel demo planlaması yapacaktır.
 
 ## Hemen başlayın, dijital dönüşümü erteleme
 

@@ -78,15 +78,24 @@ Tüm sevkiyatlar dijital olarak izlenir, hata payı düşer.
 
 ### Kağıt irsaliye ile e-İrsaliye birlikte kullanılabilir mi?
 
-Hayır. e-İrsaliye mükellefi olduktan sonra tüm sevkiyat irsaliyeleri elektronik olarak düzenlenmelidir. İstisnai durumlar için GİB özel düzenleme yapmıştır.
+Kısa cevap: Hayır. e-İrsaliye mükellefi olduktan sonra tüm sevkiyat irsaliyeleri elektronik olarak düzenlenmelidir.
+
+Detay
+İstisnai durumlar için GİB özel düzenleme yapmıştır.
 
 ### Şoför mobil cihazsız sevkiyat yapabilir mi?
 
-Şoförler yola çıkmadan önce irsaliye yazıcıdan QR kodlu çıktısını alabilir. Bu çıktı yol kontrolünde geçerli sayılır. Mobil uygulama sadece anlık güncellemeler için kullanılır.
+Kısa cevap: Şoförler yola çıkmadan önce irsaliye yazıcıdan QR kodlu çıktısını alabilir.
+
+Detay
+Bu çıktı yol kontrolünde geçerli sayılır. Mobil uygulama sadece anlık güncellemeler için kullanılır.
 
 ### İrsaliye yanlış kesilirse ne yapılır?
 
-Düzenlenmiş bir e-İrsaliye sevkiyat başlamadan iptal edilebilir. Sevkiyat başladıysa, alıcı taraf itiraz hakkını kullanabilir ve doğru bilgilerle yeni irsaliye düzenlenir.
+Kısa cevap: Düzenlenmiş bir e-İrsaliye sevkiyat başlamadan iptal edilebilir.
+
+Detay
+Sevkiyat başladıysa, alıcı taraf itiraz hakkını kullanabilir ve doğru bilgilerle yeni irsaliye düzenlenir.
 
 ## Sevkiyat süreçlerinizi dijitalleştirin
 
