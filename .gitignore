@@ -26,3 +26,6 @@ dist/
 
 # Playwright MCP ciktilari
 .playwright-mcp/
+
+# Python
+__pycache__/
