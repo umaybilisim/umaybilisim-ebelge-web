@@ -1,0 +1,3053 @@
+# Umay e-Belge — GİB Onaylı e-Belge Çözümleri
+
+> Umay Tüm Bilişim ve Eğitim Danışmanlık Yazılım Ltd. Şti., Türkiye'de Gelir İdaresi Başkanlığı (GİB) onaylı 11 farklı e-belge modülü sunan bir yazılım ve danışmanlık firmasıdır. Sakarya merkezli olup Türkiye genelinde uzaktan ve yerinde destek vermektedir.
+
+## Firma Bilgileri
+
+- **Ticari Unvan:** Umay Tüm Bilişim ve Eğitim Danışmanlık Yazılım Ltd. Şti.
+- **Marka:** Umay e-Belge
+- **MERSİS No:** 0892062544300001
+- **Adres:** Erenler Mah. 1193 Nolu Sk. No:4/1-213 Meydan54 AVM B1 Blok K:2 D:84, 54200 Erenler/Sakarya
+- **Telefon:** 0 850 777 11 45
+- **E-posta:** bilgi@umaybilisim.com.tr
+- **Web:** https://www.e-devlethizmetleri.com
+- **Kurumsal site:** https://www.umaybilisim.com.tr
+
+> Bu dosya llms.txt'in tam içerik sürümüdür: sitenin ürün, SSS, kampanya, iletişim ve blog sayfalarının metni. Özet için: https://www.e-devlethizmetleri.com/llms.txt. Kaynak sayfalardan otomatik üretilmiştir (2026-09-21).
+
+# Ana Sayfa
+
+---
+
+## Tüm e-Belge Çözümleriniz Tek Çatı Altında
+Kaynak: https://www.e-devlethizmetleri.com/
+Özet: GİB onaylı e-Fatura, e-Arşiv, e-İrsaliye, e-Defter, e-SMM ve tüm e-belge çözümlerinde Türkiye'nin uzman firması. 7/24 destek, kolay entegrasyon, ücretsiz demo.
+
+GİB Onaylı · KVKK Uyumlu
+
+e-Fatura'dan e-Defter'e, e-İrsaliye'den e-SMM'ye 11 farklı elektronik belge çözümü. GİB onaylı altyapı, kolay entegrasyon, 7/24 uzman destek.
+
+GİB Onaylı Altyapı
+KVKK Uyumlu
+7/24 Uzman Destek
+Hızlı Entegrasyon
+
+Neden e-Belge?
+
+### Geleceğin dijital muhasebesine bugünden geçin
+
+Kağıt belgelerle vakit kaybetmenin sonu. e-Belge çözümleri ile iş süreçlerinizi hızlandırın, maliyetlerinizi düşürün, yasal zorunluluklara kolayca uyum sağlayın.
+
+#### Maliyet Tasarrufu
+
+Kağıt, baskı, arşivleme ve kargo masraflarınızı %90'a varan oranda azaltın. Yüzlerce belge tek tıkla işlenir.
+
+#### Yasal Uyum
+
+GİB tarafından zorunlu kılınan tüm e-belge süreçlerine tam uyum. Cezai yaptırımlardan korunun, mevzuata güvenle uyun.
+
+#### Süreç Hızı
+
+Fatura kesme, sevkiyat, makbuz düzenleme; her şey saniyeler içinde. Müşterinize anında, dijital olarak ulaşır.
+
+Ürünlerimiz
+
+### İhtiyacınız olan tüm e-belge çözümleri
+
+11 farklı GİB onaylı modül ile e-fatura ekosisteminin her noktasında yanınızdayız.
+
+#### e-Fatura
+
+GİB sistemine entegre, hızlı ve güvenli elektronik fatura düzenleme.
+
+#### e-Arşiv Fatura
+
+Mükellef olmayan müşterilerinize elektronik arşiv faturası kesin.
+
+#### e-İrsaliye
+
+Sevkiyatlarınızı elektronik irsaliye ile anında belgelendirin.
+
+#### e-Defter
+
+Yevmiye ve büyük defterleri elektronik ortamda saklayın, beraat alın.
+
+#### e-SMM
+
+Serbest meslek makbuzlarınızı elektronik ortamda hızla düzenleyin.
+
+#### e-Müstahsil Makbuzu
+
+Müstahsil makbuzlarınızı dijital ortamda hatasız ve hızlı kesin.
+
+#### e-Döviz
+
+Döviz işlemlerinizi yasal zorunluluklara uygun şekilde belgelendirin.
+
+#### e-Adisyon
+
+Restoran ve kafeler için elektronik adisyon sistemi.
+
+#### e-Dekont
+
+Bankacılık dekontlarınızı elektronik olarak yönetin ve arşivleyin.
+
+#### e-Gider Pusulası
+
+Belgesiz alımlarınız için elektronik gider pusulası düzenleyin.
+
+#### GİB Btrans
+
+GİB Bilgi Transfer Sistemi üzerinden toplu belge gönderim çözümü.
+
+#### Tümünü Gör
+
+11 e-belge ürünü
+
+Hizmet Bölgeleri
+
+### Türkiye'nin her ilinde yanınızdayız
+
+Sakarya merkez ofisimizden Türkiye'nin tüm büyükşehirlerine e-Fatura, e-Defter ve e-belge çözümleri sunuyoruz. Şehrinize özel sayfayı inceleyin.
+
+Sakarya İstanbul Ankara İzmir Bursa Kocaeli Antalya Konya Gaziantep Adana Kayseri Mersin Denizli Manisa Samsun Tüm İller →
+
+Nasıl Çalışır?
+
+### 4 adımda e-belge dünyasına geçiş
+
+Karmaşık entegrasyon yok, uzun süreli kurulum yok. Sadece talebinizi iletin, gerisini biz halledelim.
+
+1
+
+#### Talep & Analiz
+
+Bize ulaşın; iş hacminize ve sektörünüze göre size en uygun e-belge paketini öneririz.
+
+2
+
+#### Kurulum & Entegrasyon
+
+Mevcut muhasebe yazılımınızla (DİA ERP, Logo, Mikro, Netsis, ETA) hızlı entegrasyon sağlanır.
+
+3
+
+#### Eğitim
+
+Ekibinize çevrimiçi veya yerinde eğitim verilir; süreçleri rahatça yönetebilirsiniz.
+
+4
+
+#### Canlı Kullanım & Destek
+
+7/24 destek hattımız ve uzman ekibimiz her aşamada yanınızda.
+
+0
+Aktif Müşteri
+0
+Yıllık Deneyim
+0
+e-Belge Ürünü
+0
+Sistem Uptime
+
+Müşteri Yorumları
+
+### İşletmeler bizi neden tercih ediyor?
+
+"e-Faturaya geçişimizi 2 günde tamamladılar. Eski sisteme göre süreçlerimiz çok daha hızlı ve hatasız."
+MA
+Mehmet Aydın
+Aydın Tekstil — Mali Müşavir
+"e-İrsaliye sayesinde sevkiyat süreçlerimiz dijitalleşti. Kağıt israfı bitti, kargo maliyetleri düştü."
+DK
+Deniz Kara
+Kara Lojistik — Operasyon Md.
+"Destek ekipleri her saat ulaşılabilir. e-Defter dönüşümünde bizi adım adım yönlendirdiler."
+SE
+Selin Erdem
+Erdem Yapı — Muhasebe Md.
+
+Entegratör Değişikliği
+
+### Mevcut e-belge portalınızdan memnun değil misiniz?
+
+Yavaş destek, karmaşık arayüz veya artan maliyetler mi? Umay e-Belge'ye geçiş çok kolay — verilerinizi taşıyoruz, geçiş sürecini biz yönetiyoruz.
+
+#### Sık Yaşanan Şikayetler
+
+- Destek taleplerinde günlerce bekleme
+- Portal çökmeleri ve erişim sorunları
+- Her yıl artan abonelik ücretleri
+- Kullanımı zor, karmaşık arayüz
+- Muhasebe programıyla entegrasyon sorunları
+
+#### Umay e-Belge'ye Geçince
+
+- 7/24 ulaşılabilir uzman destek
+- %99.9 uptime garantisi
+- Şeffaf ve sabit fiyatlandırma
+- Sade arayüz — eğitim gerektirmez
+- Ücretsiz geçiş desteği ve veri aktarımı
+
+Sıkça Sorulan Sorular
+
+### Aklınızdaki soruların cevapları
+
+#### e-Fatura zorunluluğu kimleri kapsıyor?
+
+2026 yılı itibarıyla brüt satış hasılatı 3 milyon TL ve üzerinde olan tüm mükellefler e-Fatura ve e-Arşiv'e geçmek zorundadır. Ayrıca sektörel zorunluluklar (e-ticaret, ihracat, internet reklam aracılığı vb.) ciroya bakılmaksızın geçerlidir.
+
+#### Mevcut muhasebe programımla entegrasyon mümkün mü?
+
+Evet. DİA ERP, Logo, Mikro, Netsis, ETA, SAP gibi Türkiye'de yaygın kullanılan tüm muhasebe ve ERP yazılımlarıyla entegrasyon sağlıyoruz. API ve dosya bazlı entegrasyon seçenekleri mevcuttur.
+
+#### Geçiş süreci ne kadar sürer?
+
+Standart bir e-Fatura geçişi 1-3 iş günü içinde tamamlanır. Mali mührünüz hazırsa süreç çok daha hızlıdır. Karmaşık ERP entegrasyonlarında ise süre içeriğe göre değişebilir.
+
+#### e-Fatura ve e-İrsaliye için e-İmza mı, Mali Mühür mü gerekir? Farkları nelerdir, nasıl yardımcı olabilirsiniz?
+
+Kısa yanıt: İşletmenizin hukuki yapısına göre değişir — yanlış sertifika seçimi geçiş sürecinizi geciktirebilir, hatta cezai yaptırıma yol açabilir.
+
+Mali Mühür — tüzel kişilikler için zorunlu: Anonim şirket, limited şirket ve kooperatif gibi tüzel kişilikler; e-Fatura, e-İrsaliye ve e-Defter belgelerini imzalamak için TÜBİTAK BİLGEM Kamu SM tarafından sağlanan Mali Mühür sertifikasını kullanmak zorundadır. Mali Mühür, şirkete özel kurumsal dijital kimliğinizdir ve GİB nezdinde belgelerinizin hukuki geçerliliğini güvence altına alır.
+
+Nitelikli e-İmza — gerçek kişiler ve özel durumlar için: Şahıs işletmeleri ile avukat, doktor, mali müşavir gibi serbest meslek erbabı; e-SMM ve e-Arşiv belgelerinde Nitelikli Elektronik İmza ile hareket edebilir. Bunun yanı sıra tüzel kişi adına GİB Portal'a yetkili kişi olarak giriş yapılacaksa kişisel e-İmza da gerekmektedir.
+
+Pratik özet: Şirket iseniz → Mali Mühür zorunlu. Şahıs veya serbest meslek erbabı iseniz → e-İmza yeterli. GİB Portal'a yetkili olarak giriş yapacaksanız → e-İmza da gerekebilir.
+
+Umay Bilişim olarak size nasıl yardımcı oluruz? Yetkili e-İmza bayisiyiz. Mali mühür başvurusunda TÜBİTAK sürecini ve gerekli belgeleri birebir yönlendiriyoruz. e-İmza için ise Sakarya, İstanbul, Ankara veya Türkiye'nin herhangi bir ilinde olsanız dahi uzaktan kimlik doğrulama yöntemiyle, video görüşme aracılığıyla hiçbir yere gitmeden e-İmzanızı temin edebilirsiniz. Sertifika seçiminden GİB aktivasyonuna kadar tüm süreç tek elden yönetilir.
+
+Hemen arayın: 0 850 777 11 45 — doğru sertifikayı seçin, e-belge geçişinizi sorunsuz tamamlayın.
+
+#### Ücretsiz demo nasıl alabilirim?
+
+İletişim sayfamızdan ya da WhatsApp/telefon hattımız üzerinden bize ulaşmanız yeterli. Uzman ekibimiz 1 iş günü içinde size dönüş yapıp, kişisel demo planlaması yapacaktır.
+
+### Hemen başlayın, dijital dönüşümü erteleme
+
+Uzman ekibimiz işletmeniz için en uygun e-belge çözümünü ücretsiz olarak planlasın. Tek bir tıkla başlayın.
+
+# Ürünler
+
+---
+
+## Tüm e-Belge Ürünlerimiz
+Kaynak: https://www.e-devlethizmetleri.com/urunler
+Özet: GİB onaylı 11 e-belge çözümü: e-Fatura, e-Arşiv, e-İrsaliye, e-Defter, e-SMM, e-Müstahsil, e-Döviz, e-Adisyon, e-Dekont, e-Gider Pusulası, GİB Btrans.
+
+11 e-Belge Çözümü
+
+İhtiyacınız olan tüm GİB onaylı elektronik belge çözümleri tek bir platformda. Hızlı entegrasyon, kolay kullanım, 7/24 destek.
+
+### e-Fatura
+
+GİB sistemi üzerinden mükellef olan müşterilerinize elektronik fatura düzenleyin.
+
+- GİB onaylı altyapı
+- Toplu fatura desteği
+- ERP entegrasyonu
+
+### e-Arşiv Fatura
+
+e-Fatura kapsamı dışındaki müşterileriniz için elektronik arşiv fatura.
+
+- Otomatik PDF + XML
+- E-posta gönderim
+- İptal/iade işlemleri
+
+### e-İrsaliye
+
+Mal sevkiyatı belgelerinizi elektronik ortamda hazırlayın ve gönderin.
+
+- Anlık sevkiyat onayı
+- Mobil saha desteği
+- Şoför uygulaması
+
+### e-Defter
+
+Yevmiye ve büyük defterlerinizi elektronik ortamda oluşturun ve saklayın.
+
+- Otomatik beraat oluşturma
+- Aylık GİB gönderim
+- Arşivde 10 yıl saklama
+
+### e-SMM
+
+Serbest meslek erbabı için elektronik serbest meslek makbuzu.
+
+- Doktor, avukat, mali müşavir
+- Mobil cihazdan kesim
+- Müşteri e-posta gönderim
+
+### e-Müstahsil Makbuzu
+
+Müstahsil makbuzlarınızı elektronik ortamda kesin ve arşivleyin.
+
+- Hayvansal/zirai üretim
+- Otomatik vergi hesaplama
+- Toplu makbuz oluşturma
+
+### e-Döviz
+
+Döviz alım-satım işlemlerinizi yasal mevzuata uygun belgelendirin.
+
+- Döviz büfeleri için
+- Anlık kur takibi
+- MASAK uyumu
+
+### e-Adisyon
+
+Restoran, kafe ve eğlence mekanları için elektronik adisyon sistemi.
+
+- POS entegrasyonu
+- Tablet/telefon desteği
+- Hesap dökümü çıktısı
+
+### e-Dekont
+
+Bankacılık dekontlarınızı elektronik ortamda yönetin ve eşleştirin.
+
+- Otomatik banka eşleştirme
+- Çoklu hesap desteği
+- Anında muhasebe kaydı
+
+### e-Gider Pusulası
+
+Belgesiz alımlar için elektronik gider pusulası düzenleyin.
+
+- Vergi mükellefi olmayan kişilere
+- Otomatik stopaj
+- KDV tevkifat seçenekleri
+
+### GİB Btrans
+
+Bilgi Transfer Sistemi üzerinden toplu belge gönderim çözümü.
+
+- Toplu yükleme/indirme
+- XML format dönüşüm
+- Otomatik hata raporlama
+
+### Hangi e-belge çözümü size uygun?
+
+Uzman ekibimiz işletmenizin ciro, sektör ve süreçlerine göre size en uygun e-belge paketini ücretsiz olarak tespit etsin.
+
+---
+
+## GİB Onaylı e-Adisyon Programı
+Kaynak: https://www.e-devlethizmetleri.com/urunler/e-adisyon
+Özet: e-Adisyon programı ile restoran, kafe, bar ve eğlence mekanları için elektronik adisyon. POS entegrasyonu, tablet desteği, GİB onaylı altyapı.
+
+e-Adisyon Çözümü
+
+Restoran, kafe, bar, otel ve eğlence mekanları için elektronik adisyon sistemi. Tablet/telefon desteği, POS entegrasyonu, hesap dökümü çıktısı.
+
+e-Adisyon Nedir?
+
+### Elektronik Adisyon
+
+e-Adisyon, restoran, kafe, bar, lokanta gibi yiyecek-içecek hizmeti sunan işletmelerde müşteri masalarına ait sipariş ve hesap bilgilerinin elektronik ortamda tutulduğu adisyondur. 509 Sıra No.lu Vergi Usul Kanunu Genel Tebliği ile düzenlenmiştir.
+
+e-Adisyon, kağıt adisyonun yerini alır; her sipariş anlık olarak elektronik kayda alınır, mutfağa iletilir ve son ödeme aşamasında e-Fatura veya e-Arşiv'e dönüştürülür.
+
+Özellikler
+
+### e-Adisyon programının öne çıkan özellikleri
+
+#### Tablet/Telefon Desteği
+
+Garson tablet veya telefonundan sipariş alabilir.
+
+#### Masa Düzeni
+
+İşletme planınıza göre masa yerleşimi tasarımı.
+
+#### Mutfak Yazıcı
+
+Sipariş otomatik olarak mutfak yazıcısına düşer.
+
+#### Hesap Bölme
+
+Müşteriler arası hesap bölme, kişiye özel fişler.
+
+#### POS Entegrasyonu
+
+Tüm büyük POS terminalleri ile uyumlu.
+
+#### Z/X Raporları
+
+Günlük z raporu, ürün satış analizi, ciro raporları.
+
+Sıkça Sorulan Sorular
+
+### e-Adisyon hakkında merak edilenler
+
+#### e-Adisyon kimler için zorunlu?
+
+Birinci sınıf restoran, lokanta, kafe ve benzeri yiyecek-içecek hizmeti veren işletmeler için zorunludur. GİB cirosu eşiklerini geçen tüm işletmeler kapsama dahildir.
+
+#### İnternetim kesilirse adisyon kesemez miyim?
+
+Hayır. Programımız offline modda da tam çalışır. İnternet geri geldiğinde tüm adisyonlar otomatik olarak GİB'e raporlanır. Müşteriyi bekletmezsiniz.
+
+#### Mevcut POS yazılımıma entegre olabilir mi?
+
+Evet. Türkiye'de yaygın kullanılan tüm POS terminal ve yazılımlarıyla entegre çalışır. Detayları danışmanlarımız size sunar.
+
+### İşletmenizi dijitalleştirin, kuyrukları azaltın
+
+e-Adisyon ile siparişlerinizi hızlandırın, müşteri memnuniyetini artırın.
+
+---
+
+## GİB Onaylı e-Arşiv Fatura Programı
+Kaynak: https://www.e-devlethizmetleri.com/urunler/e-arsiv-fatura
+Özet: e-Arşiv Fatura programı ile mükellef olmayan müşterilerinize hızlı, yasal ve dijital fatura kesin. E-posta gönderim, PDF arşivleme, ERP entegrasyonu.
+
+e-Arşiv Fatura Çözümü
+
+e-Fatura mükellefi olmayan bireysel müşteri ve firmalarınıza elektronik arşiv faturası kesin. Otomatik PDF, e-posta gönderim, 10 yıl güvenli arşiv.
+
+e-Arşiv Fatura Nedir?
+
+### Elektronik Arşiv Fatura
+
+e-Arşiv Fatura, e-Fatura kullanıcısı olmayan kişi veya firmalara düzenlenmek üzere oluşturulan elektronik faturadır. 433 Sıra No.lu Vergi Usul Kanunu Genel Tebliği ile düzenlenmiştir. Faturalar, GİB sistemine raporlanır ve müşteriye PDF/elektronik posta olarak iletilir.
+
+e-Arşiv Fatura, son tüketicilere, vergi mükellefi olmayan kurumlara veya e-Fatura sistemine henüz dahil olmamış mükelleflere düzenlenir. e-Fatura ile aynı hukuki niteliklere sahiptir; sadece iletim biçimi farklıdır.
+
+Zorunluluk
+
+### Kimler için zorunlu?
+
+#### e-Fatura Mükellefleri
+
+e-Fatura'ya geçmiş tüm mükellefler aynı anda e-Arşiv Fatura'ya da geçmek zorundadır. İki sistem birlikte çalışır.
+
+#### e-Ticaret Firmaları
+
+İnternet üzerinden satış yapan tüm firmalar, ciro şartı aranmaksızın e-Arşiv kullanmak zorundadır.
+
+#### İhracatçılar
+
+İhracat işlemi yapan firmalar e-Arşiv ile fatura kesmek zorundadır.
+
+#### 5.000 TL Sınırı
+
+e-Fatura/e-Arşiv mükellefi olmayanlar bile, 5.000 TL (vergi mükellefi olmayanlara 30.000 TL) üzeri satışlar için e-Arşiv kullanmak zorundadır.
+
+Özellikler
+
+### e-Arşiv Fatura programının öne çıkan özellikleri
+
+#### Otomatik E-posta Gönderim
+
+Fatura kesilir kesilmez müşterinize otomatik olarak iletilir.
+
+#### PDF & XML Üretim
+
+Her fatura için hem PDF hem GİB uyumlu XML formatı.
+
+#### QR Kod Desteği
+
+GİB zorunluluğuna uygun karekod ile doğrulanabilir faturalar.
+
+#### İptal & İtiraz
+
+İptal ve düzeltme süreçleri için kolay arayüz.
+
+#### 10 Yıl Bulut Arşiv
+
+GİB zorunluluğu olan saklama süresince güvenli bulut arşiv.
+
+#### Raporlama
+
+Müşteri, ürün, tarih bazlı detaylı raporlar.
+
+#### ERP Entegrasyonu
+
+DİA ERP, Logo, Mikro, Netsis, ETA ile native uyum.
+
+#### Mobil Kullanım
+
+Her yerden, her cihazdan fatura kesin.
+
+Faydalar
+
+### e-Arşiv Fatura ile avantajlar
+
+#### Anlık İletim
+
+Müşteriye saniyeler içinde fatura ulaşır.
+
+#### Maliyet Azalır
+
+Kağıt, baskı, kargo giderleri sıfıra iner.
+
+#### Yasal Güvence
+
+GİB onaylı altyapı ile mevzuata tam uyum.
+
+#### Kolay Arama
+
+Yıllar öncesine ait faturaları saniyede bulun.
+
+Sıkça Sorulan Sorular
+
+### e-Arşiv Fatura hakkında merak edilenler
+
+#### e-Arşiv ile e-Fatura arasındaki temel fark nedir?
+
+e-Fatura yalnızca e-Fatura kullanıcıları arasında düzenlenirken e-Arşiv, son tüketici ve mükellef olmayan firmalara kesilir. Birinde iletim GİB'in özel sistemi üzerinden, diğerinde e-posta üzerinden yapılır. Hukuki güç ikisinde de aynıdır.
+
+#### İade veya iptal nasıl yapılır?
+
+e-Arşiv Fatura için 8 günlük itiraz süresi içinde kolayca iptal/iade işlemi yapabilirsiniz. Programımız bu süreyi otomatik takip eder ve uyarı verir.
+
+#### Müşteriler faturayı nasıl alır?
+
+Müşteri e-posta adresine fatura PDF olarak otomatik gönderilir. Ayrıca SMS bilgilendirmesi ve QR kod ile doğrulama imkanı da mevcuttur.
+
+#### Kağıt fatura da kesebilir miyim?
+
+e-Arşiv Fatura mükellefi olduktan sonra kağıt fatura kesmeniz yasaktır. Tüm faturalar elektronik ortamda düzenlenmelidir.
+
+### e-Arşiv Fatura'ya bugün geçin
+
+Ücretsiz demo ile sistemi inceleyebilir, ekibimizden detaylı bilgi alabilirsiniz.
+
+---
+
+## GİB Onaylı e-Defter Programı
+Kaynak: https://www.e-devlethizmetleri.com/urunler/e-defter
+Özet: e-Defter programı ile yevmiye ve büyük defterlerinizi elektronik ortamda oluşturun, beraat alın, 10 yıl güvenle saklayın. Otomatik GİB gönderim.
+
+e-Defter Çözümü
+
+Yevmiye ve büyük defterlerinizi elektronik ortamda oluşturun. Otomatik mali mühür, beraat hazırlama, GİB'e tek tıkla aylık yükleme.
+
+e-Defter Nedir?
+
+### Elektronik Defter
+
+e-Defter, ticari işlemlerin kaydedildiği yevmiye ve büyük defterlerin elektronik ortamda oluşturulup mali mühürle imzalanan ve XBRL-GL formatında GİB'e raporlanan dijital muhasebe defterleridir. 1 Sıra No.lu Elektronik Defter Genel Tebliği ile düzenlenmiştir.
+
+e-Defter, kağıt defterin yerini tam anlamıyla alır ve hukuken eşdeğerdir. Aylık dönemlerde GİB'e yüklenir, beraat dosyaları oluşturulur ve 10 yıl saklanır.
+
+Zorunluluk
+
+### e-Defter zorunluluk kriterleri
+
+#### Ciro Bazlı
+
+2026 itibarıyla brüt satış hasılatı 3 milyon TL ve üzeri olan mükellefler e-Defter'e geçmek zorundadır.
+
+#### e-Fatura Mükellefleri
+
+e-Fatura kullanıcısı olan tüm mükellefler aynı zamanda e-Defter'e de geçmekle yükümlüdür.
+
+#### Yıllık Geçiş
+
+e-Defter'e geçiş yılın sonunda yapılır; mali yılın başında zorunluluk başlar.
+
+#### Cezai Yaptırım
+
+Zorunluluğa uymamak özel usulsüzlük cezasına neden olur.
+
+Özellikler
+
+### e-Defter programının öne çıkan özellikleri
+
+#### Otomatik Beraat
+
+Mali mühür beraat dosyaları otomatik oluşturulur.
+
+#### GİB Yükleme
+
+Aylık dönemlerde tek tıkla GİB sistemine yükleme.
+
+#### Kayıt Arama
+
+Milyonlarca yevmiye kaydı arasında saniyede arama.
+
+#### Kontrol Mekanizması
+
+Otomatik denge ve hata kontrolü ile hatasız defter.
+
+#### 10 Yıl Arşiv
+
+Yasal saklama süresince güvenli bulut arşivi.
+
+#### ERP Entegrasyonu
+
+Tüm büyük ERP'ler ile native uyum.
+
+Faydalar
+
+### İşletmenize getirileri
+
+#### Zaman Tasarrufu
+
+Manuel defter kapanışına göre %90 hızlı süreç.
+
+#### Güvenli Saklama
+
+Mali mühür imzalı şifrelenmiş arşiv.
+
+#### Çevre Dostu
+
+Kağıt defter kullanımı sıfırlanır.
+
+#### Hızlı Raporlama
+
+Dönemsel raporlar saniyede hazırlanır.
+
+Sıkça Sorulan Sorular
+
+### e-Defter hakkında merak edilenler
+
+#### e-Defter beraatı nedir?
+
+Beraat, e-Defter'in mali mühürle imzalanmış, GİB tarafından kabul edilmiş özet dosyasıdır. Her dönem için ayrı beraat üretilir ve bu beraat defterin yasal geçerliliğini sağlar.
+
+#### e-Defter'i ne zaman GİB'e yüklemeliyim?
+
+e-Defter'ler aylık dönemlerde, ait olduğu dönemi takip eden 3. ayın sonuna kadar GİB sistemine yüklenmelidir. Programımız bu tarihleri otomatik takip eder.
+
+#### Geçmiş yıllar için e-Defter düzenleyebilir miyim?
+
+e-Defter yalnızca zorunluluk başlangıç döneminden itibaren elektronik olarak düzenlenir. Geçmiş dönemler kağıt defter olarak korunur.
+
+### e-Defter dönüşümünüzü bize bırakın
+
+Uzman ekibimiz geçiş sürecinizi A'dan Z'ye yönetsin. Ücretsiz demo ile başlayın.
+
+---
+
+## e-Dekont Programı
+Kaynak: https://www.e-devlethizmetleri.com/urunler/e-dekont
+Özet: e-Dekont programı ile bankacılık dekontlarınızı elektronik ortamda yönetin, otomatik eşleştirin, muhasebeye aktarın. Çoklu hesap desteği.
+
+e-Dekont Çözümü
+
+Banka dekontlarınızı elektronik ortamda yönetin, otomatik olarak muhasebe kayıtlarınızla eşleştirin. Çoklu banka hesabı, anlık kontrol ve takip.
+
+e-Dekont Nedir?
+
+### Elektronik Dekont Yönetimi
+
+e-Dekont, bankalardan ve finansal kurumlardan gelen ödeme ve tahsilat dekontlarının elektronik ortamda yönetilmesini sağlayan çözümdür. Bankaların API ve dosya formatlarıyla entegre çalışarak dekontları anlık olarak muhasebe kayıtlarınızla eşleştirir.
+
+Çoklu banka hesabı, anlık bakiye takibi, otomatik mutabakat ve detaylı raporlama sayesinde finansal yönetiminizi tek bir panelden yapabilirsiniz.
+
+Özellikler
+
+### e-Dekont programının öne çıkan özellikleri
+
+#### Anlık Banka Eşleştirme
+
+Banka hareketleri muhasebe kayıtlarıyla otomatik eşleşir.
+
+#### Çoklu Hesap
+
+Tüm banka hesaplarınızı tek panelden yönetin.
+
+#### Otomatik Mutabakat
+
+Aylık banka mutabakatları saniyede tamamlanır.
+
+#### Toplu İndirme
+
+Banka dekontlarını toplu PDF/Excel indirme.
+
+#### Gelişmiş Arama
+
+Tutar, tarih, açıklama bazlı detaylı arama.
+
+#### ERP Entegrasyonu
+
+Muhasebe yazılımınıza otomatik aktarım.
+
+Sıkça Sorulan Sorular
+
+### e-Dekont hakkında merak edilenler
+
+#### Hangi bankalarla entegrasyon mevcut?
+
+Türkiye'deki tüm büyük bankalar (Ziraat, İş Bankası, Garanti BBVA, Akbank, Yapı Kredi, QNB Finansbank, Halkbank, TEB, Vakıfbank vb.) ile entegrasyon mevcuttur.
+
+#### Otomatik eşleştirme nasıl çalışır?
+
+Tutar, tarih, açıklama ve müşteri bilgilerine göre yapay zeka destekli eşleştirme yapılır. Otomatik eşleşmeyen kayıtlar için kolay manuel onay imkanı bulunur.
+
+#### Geçmiş dekontları içe aktarabilir miyim?
+
+Evet. Banka ekstrelerini Excel veya MT940 formatında içe aktararak geçmiş dönemleri de sisteme dahil edebilirsiniz.
+
+### Mutabakat süresini saatten saniyeye indirin
+
+e-Dekont ile finansal süreçlerinizi otomatikleştirin, hatasız ve hızlı yönetin.
+
+---
+
+## GİB Onaylı e-Döviz Programı
+Kaynak: https://www.e-devlethizmetleri.com/urunler/e-doviz
+Özet: e-Döviz programı ile döviz büfeleri ve yetkili müesseseler için elektronik döviz alım-satım belgesi düzenleyin. MASAK uyumlu, anlık kur takibi.
+
+e-Döviz Belgesi
+
+Yetkili müesseseler ve döviz büfeleri için elektronik döviz alım-satım belgesi (e-DAS). MASAK uyumlu, anlık kur takibi, otomatik raporlama.
+
+e-Döviz Nedir?
+
+### Elektronik Döviz Alım Satım Belgesi
+
+e-Döviz, döviz büfeleri ve yetkili müesseselerin döviz alım-satım işlemlerini elektronik ortamda belgelendirme zorunluluğudur. 509 Sıra No.lu Vergi Usul Kanunu Genel Tebliği ile düzenlenmiştir. Hazine ve Maliye Bakanlığı'nca yetkilendirilmiş tüm döviz büfeleri için zorunludur.
+
+e-Döviz belgesi, her alım veya satım işleminde anında düzenlenir; müşteriye verilir ve GİB sistemine raporlanır. Aynı zamanda MASAK (Mali Suçları Araştırma Kurulu) gereksinimlerini de karşılar.
+
+Özellikler
+
+### e-Döviz programının öne çıkan özellikleri
+
+#### Anlık Kur Takibi
+
+TCMB ve serbest piyasa kurları otomatik güncellenir.
+
+#### MASAK Uyumu
+
+Mali suçları önleme regülasyonlarına tam uyum.
+
+#### Müşteri Tanıma
+
+KYC (Know Your Customer) süreçleri için kayıt tutma.
+
+#### Anlık Çıktı
+
+Müşteriye verilebilir basılı belge çıktısı.
+
+#### Detaylı Raporlama
+
+Günlük, haftalık, aylık döviz işlem raporları.
+
+#### Çok Dövizli
+
+USD, EUR, GBP, CHF ve diğer tüm dövizler.
+
+Sıkça Sorulan Sorular
+
+### e-Döviz hakkında merak edilenler
+
+#### e-Döviz tüm döviz büfeleri için zorunlu mu?
+
+Evet. Hazine ve Maliye Bakanlığı'nca yetkilendirilmiş tüm yetkili müesseseler (A ve B grubu döviz büroları) e-Döviz kullanmak zorundadır.
+
+#### İnternet bağlantısı kesilirse ne olur?
+
+Programımız offline modda da çalışır. İşlemler lokal olarak kaydedilir, internet bağlantısı sağlandığında GİB'e otomatik raporlanır.
+
+#### Birden fazla şubem var, hepsini yönetebilir miyim?
+
+Evet. Çoklu şube yönetimi desteklenir. Merkezi panelden tüm şubelerinizin işlemlerini, raporlarını ve stoğunuzu takip edebilirsiniz.
+
+### Döviz işlemlerinizi yasal güvence altında yönetin
+
+MASAK uyumlu, GİB onaylı çözümümüzü ücretsiz demo ile inceleyin.
+
+---
+
+## GİB Onaylı e-Fatura Programı
+Kaynak: https://www.e-devlethizmetleri.com/urunler/e-fatura
+Özet: GİB onaylı e-Fatura programı ile mükellef olan müşterilerinize hızlı, hatasız ve yasal e-fatura kesin. ERP entegrasyonu, toplu fatura, 7/24 destek.
+
+e-Fatura Çözümü
+
+Mükellef olan müşterilerinize saniyeler içinde elektronik fatura kesin. Toplu fatura, otomatik mali mühür ve ERP entegrasyonuyla iş yükünüzü %80'e varan oranda azaltın.
+
+e-Fatura Nedir?
+
+### Elektronik Fatura (e-Fatura)
+
+e-Fatura, kağıt fatura ile aynı hukuki niteliklere sahip olan, fakat tamamen elektronik ortamda düzenlenen, iletilen, saklanan ve sunulan fatura türüdür. 397 Sıra No.lu Vergi Usul Kanunu Genel Tebliği ile düzenlenmiş olup, Gelir İdaresi Başkanlığı (GİB) tarafından zorunlu hale getirilmiştir.
+
+e-Fatura sadece e-Fatura kullanıcısı olan (mükellef olan) firmalar arasında düzenlenebilir. Karşı taraf e-Fatura mükellefi değilse e-Arşiv Fatura kullanılır. e-Fatura, GİB'in özel bir mali mühür altyapısı üzerinden güvenli olarak iletilir.
+
+Kimler İçin Zorunlu?
+
+### e-Fatura zorunluluk kriterleri
+
+#### Ciro Bazlı Zorunluluk
+
+2026 itibarıyla brüt satış hasılatı 3 milyon TL ve üzeri olan mükellefler e-Fatura'ya geçmek zorundadır. Bu sınır her yıl GİB tarafından güncellenir.
+
+#### Sektörel Zorunluluk
+
+İhracat yapan firmalar, internet aracı hizmet sağlayıcıları, e-ticaret platformları ciro bakılmaksızın e-Fatura kullanmak zorundadır.
+
+#### Cezai Yaptırımlar
+
+Zorunluluğa rağmen e-Fatura'ya geçiş yapmayan mükelleflere VUK md. 353 uyarınca özel usulsüzlük cezası uygulanır.
+
+#### Gönüllü Geçiş
+
+Zorunluluk kriterlerine girmeseniz dahi, dijital muhasebeye geçiş için gönüllü olarak e-Fatura kullanıcısı olabilirsiniz.
+
+Özellikler
+
+### e-Fatura programımızın öne çıkan özellikleri
+
+#### Toplu Fatura
+
+Excel'den veya ERP'den binlerce faturayı tek seferde işleyin.
+
+#### Otomatik Mali Mühür
+
+Mali mühür imzalama süreci tamamen otomatik, kullanıcı müdahalesi gerektirmez.
+
+#### İptal & İade
+
+İptal, itiraz ve iade faturalarınızı kolayca düzenleyin.
+
+#### Bulut Depolama
+
+Tüm faturalar GİB zorunluluğu olan 10 yıl boyunca güvenle saklanır.
+
+#### Detaylı Raporlama
+
+Müşteri, ürün, dönem bazlı satış raporları ve analizler.
+
+#### Çoklu Kullanıcı
+
+Rol bazlı yetkilendirme ile birden fazla kullanıcı yönetimi.
+
+#### ERP Entegrasyonu
+
+DİA ERP, Logo, Mikro, Netsis, ETA, SAP ile sorunsuz entegrasyon.
+
+#### Mobil Erişim
+
+Mobil uyumlu arayüz ile her yerden fatura kesin ve takip edin.
+
+Faydalar
+
+### e-Fatura'ya geçişin işletmenize getirileri
+
+#### Zaman Tasarrufu
+
+Manuel fatura kesim sürecinden 10 kat daha hızlı işlem.
+
+#### Maliyet Azalır
+
+Kağıt, baskı, kargo ve arşivleme maliyetleri sıfıra iner.
+
+#### Çevre Dostu
+
+Kağıt kullanımını sıfıra indirir, sürdürülebilirliğe katkı sağlar.
+
+#### Hatasız Süreç
+
+Otomatik kontrol mekanizmaları sayesinde insan hatasını minimize eder.
+
+ERP Entegrasyonu
+
+### Mevcut yazılımınızla tam uyum
+
+Türkiye'de en çok kullanılan muhasebe ve ERP sistemleri ile native entegrasyon. Veri kaybı yok, çift girişe son.
+
+#### DİA ERP
+
+Çözüm Ortağı ★
+
+#### Logo
+
+Tiger, GO
+
+#### Mikro
+
+Jump, Fly
+
+#### Netsis
+
+3, Wings
+
+#### ETA
+
+SQL, V8
+
+#### SAP
+
+B1, ECC
+
+#### Wolvox
+
+AKINSOFT
+
+#### Zirve
+
+Müşavir
+
+★ Umay Bilişim, DİA ERP'nin Türkiye'deki en önemli çözüm ortaklarından biridir.
+
+Sıkça Sorulan Sorular
+
+### e-Fatura hakkında merak edilenler
+
+#### e-Fatura ile e-Arşiv arasındaki fark nedir?
+
+e-Fatura sadece e-Fatura mükellefi olan firmalar arasında düzenlenir. Karşı taraf mükellef değilse (örneğin son tüketici veya kayıt dışı bir firma) e-Arşiv Fatura kullanılır. İkisi de elektroniktir, ikisi de aynı hukuki geçerliliğe sahiptir.
+
+#### Mali mührü zaten var. Programa nasıl ekleyebilirim?
+
+Mevcut mali mührünüzü programa kolayca tanımlayabilirsiniz. Kurulum sırasında ekibimiz size adım adım yardımcı olur. Mali mührünüz yoksa, TÜBİTAK BİLGEM Kamu SM üzerinden başvurabilirsiniz.
+
+#### Geçiş ne kadar sürer?
+
+Standart bir geçiş 1-3 iş günü içinde tamamlanır. GİB başvuru süreci, mali mühür tanımlama ve sistem ayarları dahil. ERP entegrasyonu varsa süre değişebilir.
+
+#### Mevcut e-Fatura sağlayıcımdan size geçebilir miyim?
+
+Evet. Özel entegratör değişimi için GİB'e başvuru ile mevcut sağlayıcınızdan bize sorunsuz geçiş yapabilirsiniz. Tüm geçiş süreçlerini biz yönetiriz, kesintisiz çalışmanız sağlanır.
+
+### e-Fatura geçişine bugün başlayın
+
+Ekibimiz işletmenizi inceleyerek size özel kurulum planı sunsun. Demo tamamen ücretsizdir.
+
+---
+
+## GİB Onaylı e-Gider Pusulası
+Kaynak: https://www.e-devlethizmetleri.com/urunler/e-gider-pusulasi
+Özet: e-Gider Pusulası programı ile vergi mükellefi olmayan kişilere yapılan ödemeleri elektronik ortamda belgelendirin. Otomatik stopaj, KDV tevkifat.
+
+e-Gider Pusulası
+
+Vergi mükellefi olmayan kişilerden yapılan alımlar ve hizmet alımları için elektronik gider pusulası. Otomatik stopaj hesaplama, KDV tevkifat, yasal uyum.
+
+e-Gider Pusulası Nedir?
+
+### Elektronik Gider Pusulası
+
+e-Gider Pusulası, mükellef olmayan kişilerden veya işletmelerden satın alınan mal veya alınan hizmetlerin belgelendirilmesi amacıyla düzenlenen pusulanın elektronik biçimidir. 509 Sıra No.lu Vergi Usul Kanunu Genel Tebliği ile düzenlenmiştir.
+
+Vergi mükellefi olmayan gerçek kişilerden yapılan mal/hizmet alımlarında zorunlu olan bu belge, alıcı tarafından düzenlenir; stopaj ve gerektiğinde KDV tevkifatı yapılır.
+
+Özellikler
+
+### e-Gider Pusulası programının öne çıkan özellikleri
+
+#### Otomatik Stopaj
+
+Hizmet türüne göre stopaj oranları otomatik uygulanır.
+
+#### KDV Tevkifat
+
+Tevkifat oranları (2/10, 5/10, 9/10) otomatik hesaplanır.
+
+#### Tedarikçi Kaydı
+
+Sürekli alım yaptığınız kişilerin TCKN kayıtlı veritabanı.
+
+#### Raporlama
+
+Stopaj beyan dönemleri için hazır raporlar.
+
+#### Çıktı Desteği
+
+Tedarikçiye verilebilir basılı pusula çıktısı.
+
+#### ERP Entegrasyonu
+
+Muhasebe yazılımınıza otomatik aktarım.
+
+Sıkça Sorulan Sorular
+
+### e-Gider Pusulası hakkında merak edilenler
+
+#### Hangi durumlarda e-Gider Pusulası düzenlenir?
+
+Vergi mükellefi olmayan kişilerden mal veya hizmet alımlarında düzenlenir. Örneğin nakliyeci, terzi, tamirci, danışman gibi vergi mükellefi olmayan gerçek kişilere yapılan ödemeler.
+
+#### Stopaj nasıl hesaplanır?
+
+Stopaj oranları yapılan hizmetin niteliğine göre değişir. Programımız hizmet türünü seçtiğinizde doğru oranı otomatik uygular ve net/brüt hesaplaması yapar.
+
+#### e-Gider Pusulası beyan ne zaman yapılır?
+
+Stopaj tutarları muhtasar beyanname ile aylık (veya 3 aylık) olarak beyan edilir. Programımız beyan dönemleri için raporları hazır olarak sunar.
+
+### Gider pusulalarınızı dijitalleştirin
+
+Vergi yükümlülüklerinizde otomasyonla hatasız ve hızlı süreç.
+
+---
+
+## GİB Onaylı e-İrsaliye Programı
+Kaynak: https://www.e-devlethizmetleri.com/urunler/e-irsaliye
+Özet: e-İrsaliye programı ile mal sevkiyatlarınızı elektronik ortamda hızlıca düzenleyin. Şoför mobil uygulaması, anlık sevkiyat onayı, GİB uyumlu.
+
+e-İrsaliye Çözümü
+
+Mal sevkiyatlarınızı elektronik ortamda anında belgelendirin. Şoför mobil uygulaması, anlık onay sistemi ve tam GİB uyumu ile sevkiyat süreçleri sıfırlansın.
+
+e-İrsaliye Nedir?
+
+### Elektronik İrsaliye
+
+e-İrsaliye, kağıt sevk irsaliyesinin yerini alan ve mal hareketlerinin elektronik ortamda kayıt altına alındığı belgedir. 487 Sıra No.lu Vergi Usul Kanunu Genel Tebliği ile düzenlenmiştir. Sevk irsaliyesi düzenleme zorunluluğu olan mükellefler için kademeli olarak zorunlu hale getirilmiştir.
+
+e-İrsaliye, mal sevkiyatı sırasında düzenlenir ve mal hareketi GİB sistemine elektronik olarak raporlanır. Bu sayede yol kontrollerinde irsaliyenin doğruluğu anında teyit edilir; nakliye süreçleri hızlanır ve denetim daha şeffaf hale gelir.
+
+Zorunluluk
+
+### e-İrsaliye kullanmak zorunda olanlar
+
+#### Üretici & Toptancı
+
+İmalat, toptan satış ve ihracat yapan firmalar e-İrsaliye kullanmak zorundadır.
+
+#### Akaryakıt Sektörü
+
+EPDK lisanslı akaryakıt firmaları kategorik olarak e-İrsaliye'ye dahildir.
+
+#### Sebze & Meyve Komisyoncuları
+
+Hal komisyoncuları ve tüccarlar zorunlu olarak e-İrsaliye kullanır.
+
+#### Hurda & Metal
+
+Demir-çelik ve hurda metal ticareti yapan firmalar zorunluluğa dahildir.
+
+Özellikler
+
+### e-İrsaliye programının öne çıkan özellikleri
+
+#### Şoför Mobil Uygulaması
+
+Şoförler kendi telefonlarından irsaliye onaylayabilir.
+
+#### Sevkiyat Takibi
+
+Tüm sevkiyatlar tek panelden anlık takip edilir.
+
+#### QR Kod Doğrulama
+
+Yol kontrolünde QR kod taraması ile anında doğrulama.
+
+#### Kısmi Sevk
+
+Tek faturadan farklı tarihlerde kısmi sevkiyat yapma desteği.
+
+#### Depo Entegrasyonu
+
+Depo yönetim sistemleri ile sorunsuz entegrasyon.
+
+#### ERP Entegrasyonu
+
+DİA ERP, Logo, Mikro, Netsis ve diğer ERP'lerle uyumlu.
+
+Faydalar
+
+### İşletmenize getirileri
+
+#### Hızlı Sevkiyat
+
+Anlık irsaliye düzenleme ile sevkiyat süreleri %50 azalır.
+
+#### Yol Kontrolünde Sorunsuz
+
+Trafik denetimlerinde anlık doğrulama, gecikme yaşanmaz.
+
+#### Maliyet Düşer
+
+Kağıt, baskı, arşivleme giderleri sıfıra iner.
+
+#### Tam Şeffaflık
+
+Tüm sevkiyatlar dijital olarak izlenir, hata payı düşer.
+
+Sıkça Sorulan Sorular
+
+### e-İrsaliye hakkında merak edilenler
+
+#### Kağıt irsaliye ile e-İrsaliye birlikte kullanılabilir mi?
+
+Hayır. e-İrsaliye mükellefi olduktan sonra tüm sevkiyat irsaliyeleri elektronik olarak düzenlenmelidir. İstisnai durumlar için GİB özel düzenleme yapmıştır.
+
+#### Şoför mobil cihazsız sevkiyat yapabilir mi?
+
+Şoförler yola çıkmadan önce irsaliye yazıcıdan QR kodlu çıktısını alabilir. Bu çıktı yol kontrolünde geçerli sayılır. Mobil uygulama sadece anlık güncellemeler için kullanılır.
+
+#### İrsaliye yanlış kesilirse ne yapılır?
+
+Düzenlenmiş bir e-İrsaliye sevkiyat başlamadan iptal edilebilir. Sevkiyat başladıysa, alıcı taraf itiraz hakkını kullanabilir ve doğru bilgilerle yeni irsaliye düzenlenir.
+
+### Sevkiyat süreçlerinizi dijitalleştirin
+
+Ücretsiz demo ile e-İrsaliye sistemini deneyimleyin, ekibimizden detaylı bilgi alın.
+
+---
+
+## GİB Onaylı e-MM Programı
+Kaynak: https://www.e-devlethizmetleri.com/urunler/e-mm
+Özet: e-Müstahsil Makbuzu (e-MM) programı ile zirai ve hayvansal ürün alımlarınızı elektronik ortamda belgelendirin. Otomatik vergi hesaplama, mobil destek.
+
+e-Müstahsil Makbuzu
+
+Zirai ve hayvansal ürünlerin çiftçilerden alımında düzenlenmesi zorunlu olan müstahsil makbuzlarınızı elektronik ortamda hızlı ve hatasız hazırlayın.
+
+e-MM Nedir?
+
+### Elektronik Müstahsil Makbuzu
+
+e-Müstahsil Makbuzu, çiftçilerden veya gerçek usulde vergiye tabi olmayan üreticilerden alınan zirai ürünler ile hayvansal üretim ürünlerinin alımında düzenlenmesi zorunlu olan müstahsil makbuzunun elektronik versiyonudur. 487 ve 509 Sıra No.lu VUK Genel Tebliğleri ile düzenlenmiştir.
+
+Hal komisyoncuları, gıda ve tarım ürünleri toptancıları, et-süt sanayi firmaları, fındık-pamuk-tütün gibi tarım ürünleri alımcıları için zorunludur.
+
+Özellikler
+
+### e-MM programının öne çıkan özellikleri
+
+#### Otomatik Stopaj
+
+Gelir vergisi stopajı otomatik hesaplanır.
+
+#### Üretici Kayıt
+
+Sürekli alım yaptığınız çiftçilerin kayıtlı veritabanı.
+
+#### Toplu Makbuz
+
+Sezon dönemlerinde toplu makbuz düzenleme.
+
+#### Yazıcı Çıktısı
+
+Çiftçiye verilebilir basılı çıktı desteği.
+
+#### Sezonsal Raporlar
+
+Ürün, dönem, üretici bazlı raporlar.
+
+#### ERP Entegrasyonu
+
+Muhasebe yazılımınıza otomatik aktarım.
+
+Sıkça Sorulan Sorular
+
+### e-MM hakkında merak edilenler
+
+#### e-MM kimler için zorunlu?
+
+e-Fatura mükellefi olup çiftçilerden zirai ürün alımı yapan firmalar zorunludur. Hal komisyoncuları, et-süt-tahıl-meyve-sebze toptancıları kapsama dahildir.
+
+#### Çiftçinin kimlik bilgileri girilmek zorunda mı?
+
+Evet. TC kimlik numarası, ad-soyad, adres bilgileri makbuzda yer almalıdır. Sürekli alım yaptığınız çiftçileri sisteme tek seferde kaydedip, sonraki alımlarda otomatik kullanırsınız.
+
+#### e-MM ile e-İrsaliye arasındaki ilişki nedir?
+
+Bu iki belge farklıdır; ancak entegre çalışır. Çiftçiden alınan ürünün sevkiyatı sırasında e-İrsaliye, alım belgelendirmesi için e-MM düzenlenir. Programımız her ikisini tek panelden yönetir.
+
+### e-MM ile süreçlerinizi dijitalleştirin
+
+Sezonsal yoğunluğun olduğu dönemlerde bile hatasız müstahsil makbuzu düzenleyin.
+
+---
+
+## GİB Onaylı e-SMM Programı
+Kaynak: https://www.e-devlethizmetleri.com/urunler/e-smm
+Özet: e-SMM (e-Serbest Meslek Makbuzu) programı ile doktor, avukat, mali müşavir gibi serbest meslek erbabı için elektronik makbuz düzenleyin. Mobil destek.
+
+e-Serbest Meslek Makbuzu
+
+Doktor, avukat, mali müşavir, mühendis ve tüm serbest meslek erbabı için elektronik serbest meslek makbuzu. Mobil cihazınızdan, her yerden, anında kesin.
+
+e-SMM Nedir?
+
+### Elektronik Serbest Meslek Makbuzu
+
+e-SMM, serbest meslek erbabının verdikleri hizmet karşılığında düzenledikleri makbuzun elektronik versiyonudur. 509 Sıra No.lu Vergi Usul Kanunu Genel Tebliği ile düzenlenmiştir. Kağıt makbuzun yerini tam olarak alır ve aynı hukuki niteliklere sahiptir.
+
+e-SMM 1 Haziran 2020'den itibaren tüm serbest meslek erbabı için zorunludur. Doktor, avukat, mali müşavir, mühendis, mimar, danışman, tercüman, ressam, müzisyen gibi tüm meslek grupları kapsama dahildir.
+
+Kimler İçin?
+
+### e-SMM'nin hitap ettiği meslek grupları
+
+#### Doktorlar
+
+#### Avukatlar
+
+#### Mali Müşavirler
+
+#### Mühendisler
+
+#### Mimarlar
+
+#### Danışmanlar
+
+#### Tercümanlar
+
+#### Sanatçılar
+
+Özellikler
+
+### e-SMM programının özellikleri
+
+#### Mobil Cihazdan Kesim
+
+Telefon veya tablet üzerinden anında makbuz düzenleme.
+
+#### Otomatik Stopaj/KDV
+
+Gelir vergisi stopajı ve KDV otomatik hesaplanır.
+
+#### E-posta Gönderim
+
+Müşteriye otomatik PDF e-posta iletimi.
+
+#### Müşteri Yönetimi
+
+Hizmet verdiğiniz müşterilerin kayıtlı veritabanı.
+
+#### Aylık Raporlar
+
+Gelir ve KDV beyannamesi için hazır raporlar.
+
+#### Bulut Arşiv
+
+10 yıl yasal saklama dahil.
+
+Sıkça Sorulan Sorular
+
+### e-SMM hakkında merak edilenler
+
+#### Mali mühür mü, elektronik imza mı gerekli?
+
+Gerçek kişi serbest meslek erbabı için "e-imza" (NES) yeterlidir. Tüzel kişiler için mali mühür gerekir. Her ikisini de programa kolayca tanımlarsınız.
+
+#### Aylık ne kadar makbuz kesebilirim?
+
+Sınırsız. Paketimiz sınırsız makbuz düzenleme imkanı sunar; sınırlı sürümlerimiz de mevcuttur.
+
+#### İptal/iade işlemleri nasıl yapılır?
+
+e-SMM'de iptal makbuzu, iade makbuzu kolayca düzenlenebilir. Sistem otomatik olarak ilişkili makbuzları takip eder.
+
+### Mesleğinize odaklanın, makbuzlarınızı bize bırakın
+
+Kolay kullanımlı arayüzü ile e-SMM'yi hemen kullanmaya başlayın.
+
+---
+
+## GİB Btrans Çözümü
+Kaynak: https://www.e-devlethizmetleri.com/urunler/gib-btrans
+Özet: GİB Btrans (Bilgi Transfer Sistemi) entegrasyonu ile toplu belge gönderim, XML format dönüşüm ve otomatik hata raporlama. Hızlı, güvenli, yasal.
+
+GİB Bilgi Transfer Sistemi
+
+GİB Bilgi Transfer Sistemi üzerinden toplu e-belge gönderim, XML format dönüşüm, otomatik hata raporlama ve büyük hacimli veri aktarımı için profesyonel çözüm.
+
+GİB Btrans Nedir?
+
+### Bilgi Transfer Sistemi (Btrans)
+
+GİB Btrans, Gelir İdaresi Başkanlığı'nın belge alışverişi için sunduğu güvenli veri transfer altyapısıdır. Özel entegratörler ve büyük mükellefler bu kanal üzerinden e-Fatura, e-Arşiv ve diğer e-belge tiplerini toplu olarak gönderir ve alır.
+
+Btrans çözümümüz, web servisleri üzerinden yüksek hacimli işlemler yapabilen, otomatik retry, hata yönetimi, XML şema doğrulama ve detaylı log altyapısına sahip profesyonel bir köprü hizmetidir.
+
+Özellikler
+
+### Btrans çözümünün öne çıkan özellikleri
+
+#### Toplu Yükleme
+
+Binlerce belgeyi tek seferde GİB'e gönderim.
+
+#### Toplu İndirme
+
+Gelen kutusundaki belgeleri toplu indirme ve işleme.
+
+#### XML Dönüşüm
+
+UBL-TR formatına otomatik dönüşüm ve şema doğrulama.
+
+#### Otomatik Hata Raporlama
+
+Hatalı belgeler için detaylı hata mesajları.
+
+#### Otomatik Retry
+
+Geçici hatalarda otomatik tekrar gönderim.
+
+#### SSL Güvenli
+
+Tüm veri trafiği şifreli kanaldan iletilir.
+
+Sıkça Sorulan Sorular
+
+### Btrans hakkında merak edilenler
+
+#### Btrans entegrasyonu kimler için uygun?
+
+Aylık binlerce belge işleyen büyük şirketler, özel entegratörler ve yüksek hacimli ERP sistemleri kullanan firmalar için Btrans en uygun çözümdür.
+
+#### Hangi belge tipleri Btrans üzerinden gönderilebilir?
+
+e-Fatura, e-Arşiv, e-İrsaliye, e-SMM, e-Müstahsil Makbuzu dahil tüm UBL-TR uyumlu belge tipleri Btrans üzerinden iletilebilir.
+
+#### Mevcut ERP'ime nasıl entegre olur?
+
+REST API veya dosya tabanlı entegrasyon seçenekleriyle herhangi bir ERP'ye bağlanır. DİA ERP, Logo, Mikro, Netsis, SAP gibi sistemler için hazır konnektörlerimiz vardır.
+
+### Büyük hacimli belge süreçlerinizi profesyonel altyapıyla yönetin
+
+Btrans çözümümüz ile binlerce belgeyi saniyelerde gönderin.
+
+# Sıkça Sorulan Sorular
+
+---
+
+## Aklınızdaki tüm soruların yanıtları
+Kaynak: https://www.e-devlethizmetleri.com/sss
+Özet: e-Fatura, e-Arşiv, e-Defter, e-İrsaliye ve diğer e-belge çözümleri hakkında sıkça sorulan soruların yanıtları. Geçiş süreci, entegrasyon ve daha fazlası.
+
+Sıkça Sorulan Sorular
+
+e-Belge geçiş süreci, zorunluluklar, entegrasyon ve teknik destek hakkında en sık sorulan sorular ve detaylı yanıtları.
+
+### Genel Sorular
+
+#### e-Belge nedir?
+
+e-Belge, Vergi Usul Kanunu kapsamındaki belgelerin elektronik ortamda düzenlenmesi, iletilmesi ve saklanmasıdır. e-Fatura, e-Arşiv, e-Defter, e-İrsaliye, e-SMM gibi 11 farklı tip mevcuttur.
+
+#### e-Belge'ye geçmek zorunlu mu?
+
+Belirli ciro eşiklerini aşan ve belirli sektörlerde faaliyet gösteren mükellefler için zorunludur. Ciro şartı 2026 itibarıyla 3 milyon TL'dir. İhracat, e-ticaret ve internet aracı hizmet sağlayıcıları için ciro şartı aranmaz.
+
+#### Hangi e-belge çözümlerini sunuyorsunuz?
+
+11 GİB onaylı modülümüz var: e-Fatura, e-Arşiv Fatura, e-İrsaliye, e-Defter, e-SMM, e-Müstahsil Makbuzu, e-Döviz, e-Adisyon, e-Dekont, e-Gider Pusulası ve GİB Btrans.
+
+#### Ücretsiz demo nasıl alabilirim?
+
+İletişim sayfamızdan ya da WhatsApp/telefon hattımızdan bize ulaşmanız yeterli. 1 iş günü içinde size dönüş yapıp kişisel demo planlaması yapacağız.
+
+### e-Fatura ve e-Arşiv
+
+#### e-Fatura ile e-Arşiv arasındaki fark nedir?
+
+e-Fatura sadece e-Fatura mükellefi olan firmalar arasında düzenlenir. Karşı taraf e-Fatura mükellefi değilse e-Arşiv Fatura kullanılır. İkisi de elektroniktir, aynı hukuki niteliklere sahiptir.
+
+#### Mali mühür ne zaman gerekir?
+
+Mali mühür, e-Fatura ve e-Arşiv süreçlerinin temel taşıdır. TÜBİTAK BİLGEM Kamu SM üzerinden başvurulur. Başvuru süreciniz boyunca size destek oluruz.
+
+#### e-Fatura ve e-İrsaliye için e-İmza mı, Mali Mühür mü gerekir? Farkları nelerdir, nasıl yardımcı olabilirsiniz?
+
+Kısa yanıt: İşletmenizin hukuki yapısına göre değişir — yanlış sertifika seçimi geçiş sürecinizi geciktirebilir, hatta cezai yaptırıma yol açabilir.
+
+Mali Mühür — tüzel kişilikler için zorunlu: Anonim şirket, limited şirket ve kooperatif gibi tüzel kişilikler; e-Fatura, e-İrsaliye ve e-Defter belgelerini imzalamak için TÜBİTAK BİLGEM Kamu SM tarafından sağlanan Mali Mühür sertifikasını kullanmak zorundadır. Mali Mühür, şirkete özel kurumsal dijital kimliğinizdir ve GİB nezdinde belgelerinizin hukuki geçerliliğini güvence altına alır. e-Fatura mükelleflerinin büyük çoğunluğu bu yolu izler.
+
+Nitelikli e-İmza — gerçek kişiler ve özel durumlar için: Şahıs işletmeleri ile avukat, doktor, mali müşavir gibi serbest meslek erbabı; e-SMM ve e-Arşiv belgelerinde Nitelikli Elektronik İmza kullanabilir. Ayrıca tüzel kişi adına GİB Portal'a yetkili kişi olarak giriş yapılacaksa kişisel e-İmza da gerekmektedir.
+
+Pratik özet: Şirket iseniz → Mali Mühür zorunlu. Şahıs veya serbest meslek erbabı iseniz → e-İmza yeterli. GİB Portal'a yetkili olarak giriş yapacaksanız → e-İmza da gerekebilir.
+
+Umay Bilişim olarak size nasıl yardımcı oluruz? Yetkili e-İmza bayisiyiz. Mali mühür başvurusunda TÜBİTAK sürecini ve gerekli belgeleri birebir yönlendiriyor, e-İmza için ise Sakarya, İstanbul, Ankara veya Türkiye'nin herhangi bir ilinde olsanız dahi uzaktan kimlik doğrulama yöntemiyle video görüşme aracılığıyla hiçbir yere gitmeden e-İmzanızı temin ediyoruz. Sertifika seçiminden GİB aktivasyonuna kadar tüm süreç tek elden yönetilir.
+
+Hemen arayın: 0 850 777 11 45 — doğru sertifikayı seçin, e-belge geçişinizi sorunsuz tamamlayın.
+
+#### e-Arşiv faturada karekod zorunlu mu?
+
+Evet, GİB zorunluluğu olarak tüm e-Arşiv faturalarda QR kod (karekod) bulunmalıdır. Sistemimiz bunu otomatik üretir.
+
+### e-Defter
+
+#### e-Defter ne zaman GİB'e yüklenir?
+
+e-Defter'ler aylık dönemlerde, ait olduğu dönemi takip eden 3. ayın sonuna kadar GİB sistemine yüklenmelidir. Programımız bu tarihleri otomatik takip eder.
+
+#### e-Defter beraatı nedir?
+
+Beraat, e-Defter'in mali mühürle imzalanmış, GİB tarafından kabul edilmiş özet dosyasıdır. Her dönem için ayrı beraat üretilir ve defterin yasal geçerliliğini sağlar.
+
+#### e-Defter zorunluluk kriterleri neler?
+
+e-Fatura mükellefi olan tüm firmalar e-Defter'e de geçmek zorundadır. Ayrıca ciro bazlı zorunluluklar yıllık olarak GİB tarafından duyurulur.
+
+### e-İrsaliye
+
+#### e-İrsaliye kimler için zorunlu?
+
+İmalat, toptan satış, akaryakıt, hal komisyoncuları, hurda-metal ticareti yapan firmalar zorunluluğa dahildir. Ayrıca e-Fatura mükellefleri için kademeli zorunluluk vardır.
+
+#### Kağıt irsaliye ile e-İrsaliye birlikte kullanılabilir mi?
+
+Hayır. e-İrsaliye mükellefi olduktan sonra tüm sevkiyat irsaliyeleri elektronik olarak düzenlenmelidir.
+
+### Diğer Ürünler
+
+#### e-SMM kimler için?
+
+Doktor, avukat, mali müşavir, mühendis, mimar, danışman gibi serbest meslek erbabı için 1 Haziran 2020'den itibaren zorunludur.
+
+#### e-Müstahsil Makbuzu kimler için zorunlu?
+
+e-Fatura mükellefi olup çiftçilerden zirai ürün alımı yapan firmalar zorunludur. Hal komisyoncuları, et-süt-tahıl-meyve-sebze toptancıları kapsama dahildir.
+
+#### e-Adisyon hangi mekanlar için?
+
+Birinci sınıf restoran, lokanta, kafe ve benzeri yiyecek-içecek hizmeti veren işletmeler için zorunludur.
+
+### Entegrasyon ve Teknik
+
+#### Mevcut muhasebe programımla entegrasyon mümkün mü?
+
+DİA ERP, Logo, Mikro, Netsis, ETA, SAP, Wolvox, Zirve gibi yaygın muhasebe ve ERP yazılımlarıyla entegrasyon sağlıyoruz. API ve dosya bazlı entegrasyon seçenekleri mevcuttur.
+
+#### Geçiş süreci ne kadar sürer?
+
+Standart bir e-Fatura geçişi 1-3 iş günü içinde tamamlanır. Mali mührünüz hazırsa daha hızlıdır. ERP entegrasyonu varsa süre değişebilir.
+
+#### Veriler nerede saklanıyor?
+
+Tüm verileriniz Türkiye'de yerleşik, ISO 27001 sertifikalı veri merkezlerinde, şifreli olarak saklanır. GİB zorunluluğu olan 10 yıl boyunca güvenle korunur.
+
+#### Destek nasıl alıyorum?
+
+7/24 erişilebilir destek hattımız var. Telefon, WhatsApp, e-posta ve uzaktan bağlantı ile ekibimiz size yardımcı olur. Ayrıca canlı eğitim ve videolu eğitim içerikleri sunarız.
+
+### Sorunuzun yanıtı yok mu?
+
+Uzman ekibimize ulaşın, sorularınızı yanıtlayalım.
+
+# Hakkımızda, Kampanyalar ve İletişim
+
+---
+
+## Türkiye'nin e-Belge Uzmanı
+Kaynak: https://www.e-devlethizmetleri.com/hakkimizda
+Özet: Umay Bilişim, 15+ yıllık deneyimiyle Türkiye'nin e-belge çözümleri uzmanı. Misyonumuz, vizyonumuz ve değerlerimiz hakkında detaylı bilgi.
+
+Hakkımızda
+
+Umay Bilişim olarak, dijital dönüşümün öncülerinden olarak işletmelere e-belge çözümleri sunuyoruz. 15 yılı aşkın deneyimimiz, binlerce mutlu müşterimiz ve uzman ekibimizle yanınızdayız.
+
+Hikayemiz
+
+### Yazılımla başlayan 15 yıllık serüven
+
+Umay Tüm Bilişim ve Eğitim Danışmanlık Yazılım Ltd. Şti., 2011 yılında Sakarya'da bilişim, yazılım ve eğitim danışmanlığı alanlarında faaliyetlerine başladı. İlk yıllarımızda muhasebe yazılımları ve kurumsal eğitim hizmetleri sunduk.
+
+Türkiye'de e-Fatura zorunluluğunun başlamasıyla birlikte e-belge çözümlerine odaklandık. Bugün; e-Fatura, e-Arşiv, e-Defter, e-İrsaliye, e-SMM dahil 11 GİB onaylı modülü tek çatı altında sunan, Türkiye genelinde binlerce işletmenin tercihi olan bir çözüm ortağıyız.
+
+Misyonumuz; KOBİ'lerden büyük kurumsal firmalara kadar her ölçekteki işletmenin dijital muhasebe dönüşümünü hızlandırmak. Vizyonumuz; Türkiye'nin en güvenilir ve yenilikçi e-belge platformu olmak.
+
+Değerlerimiz
+
+### Bizi biz yapan ilkeler
+
+#### Güven
+
+Mali bilgileriniz bizimle güvende. Tüm verileriniz şifreli ve GİB standartlarında saklanır.
+
+#### Yenilikçilik
+
+Sektör trendlerini takip ediyor, müşterilerimize sürekli yeni özellikler sunuyoruz.
+
+#### Müşteri Odaklılık
+
+Her müşteri bizim için özeldir. İhtiyaçlarınızı anlar, size özel çözüm sunarız.
+
+#### Sürekli Gelişim
+
+Hem ürünlerimiz hem ekibimiz sürekli gelişir. Yarın bugünden daha iyi olmalıdır.
+
+0
+Aktif Müşteri
+0
+Yıllık Deneyim
+0
+e-Belge Ürünü
+0
+Uzman Personel
+
+Neden Biz?
+
+### Bizi seçmeniz için 5 sağlam neden
+
+#### GİB Onaylı Altyapı
+
+Tüm çözümlerimiz Gelir İdaresi Başkanlığı standartlarına %100 uyumludur. Yasal güvence altındasınız.
+
+#### 7/24 Uzman Destek
+
+Sorularınız ve sorunlarınız için her zaman ulaşılabilir bir destek ekibimiz var.
+
+#### Kolay Entegrasyon
+
+DİA ERP, Logo, Mikro, Netsis, ETA, SAP gibi tüm popüler ERP yazılımlarıyla sorunsuz çalışır.
+
+#### Uzman Ekip
+
+50+ kişilik uzman kadromuzla mali müşavirler, yazılımcılar ve müşteri temsilcileri yanınızda.
+
+#### Sektörel Deneyim
+
+15+ yıl boyunca üretimden hizmete, perakendeden e-ticarete tüm sektörlere hizmet verdik. Her sektörün ihtiyacını biliyoruz.
+
+### Sizin için neler yapabileceğimizi konuşalım
+
+İşletmenizin ihtiyaçlarına özel çözüm önerisi için bize ulaşın.
+
+---
+
+## Umay Kampanyaları
+Kaynak: https://www.e-devlethizmetleri.com/kampanyalar
+Özet: Umay e-Belge kampanyaları: e-Fatura ve e-İrsaliye'de %25 indirim, Mali Müşavirlere ücretsiz e-Defter, Veterinerlere özel e-SMM paketi ve daha fazlası.
+
+Özel Fırsatlar
+
+Yeni müşterilerimize ve özel segmentlere sunduğumuz indirim ve avantaj paketleri. Her kampanya sınırlı sürelidir, hemen başvurun.
+
+Yeni Müşteri
+%25 İndirim
+İlk yıl e-Fatura aboneliğinde
+
+### Yeni e-Fatura Müşterilerine Özel
+
+Umay'a ilk kez e-Fatura için başvuran işletmelere ilk yıl aboneliğinde %25 indirim fırsatı. GİB onaylı altyapı, kolay entegrasyon, 7/24 destek dahil.
+
+GİB Onaylı 7/24 Destek Kolay Kurulum
+
+Yeni Müşteri
+%25 İndirim
+İlk yıl e-İrsaliye aboneliğinde
+
+### Yeni e-İrsaliye Müşterilerine Özel
+
+Sevkiyat süreçlerinizi dijitalleştirin, Umay'a ilk kez e-İrsaliye için geçen müşterilerimize ilk yıl %25 indirim. Anında fatura, kağıtsız lojistik.
+
+Anlık Gönderim Kağıtsız Lojistik Mobil Uyumlu
+
+Mali Müşavirlere Özel
+ÜCRETSİZ
+e-Defter aktivasyonu ve kullanımı
+
+### Mali Müşavirlere Özel: e-Defter Ücretsiz
+
+Müşterilerinizi Umay'a yönlendiren mali müşavirler için e-Defter aktivasyonu ve ilk yıl kullanımı tamamen ücretsiz. Beraat süreçlerini kolaylaştırın.
+
+SMMM'lere Özel e-Defter Bedava Beraat Desteği
+
+Sınırlı Süre
+ÜCRETSİZ
+Tüm pazaryeri entegrasyonları
+
+### e-Ticaret Pazaryeri Entegrasyonları Ücretsiz
+
+Trendyol, Hepsiburada, n11, Çiçek Sepeti ve diğer pazaryerlerindeki satışlarınızı Umay ile otomatik faturalayın. Entegrasyon kurulumu tamamen ücretsiz.
+
+Trendyol Hepsiburada n11 Otomatik Fatura
+
+Veterinerlere Özel
+₺3.500 + KDV
+Yıllık 1.000 Kontör e-SMM
+
+### Veterinerlere Özel Yıllık e-SMM Paketi
+
+Yeni veteriner müşterilerimize özel: Yıllık 1.000 kontör e-Serbest Meslek Makbuzu yalnızca ₺3.500 + KDV. Hızlı aktivasyon, saha desteği dahil.
+
+1.000 Kontör Yıllık Paket Hızlı Aktivasyon
+
+Mali Müşavirlere Özel
+ÜCRETSİZ
+Yıllık sınırsız e-SMM kullanımı
+
+### Mali Müşavirlere Özel: Yıllık Sınırsız e-SMM
+
+Müşterilerini Umay'a yönlendiren mali müşavirler için yıllık sınırsız e-Serbest Meslek Makbuzu tamamen ücretsiz. Kontör sınırı yok, ek ücret yok.
+
+SMMM'lere Özel Sınırsız Kontör Ek Ücret Yok
+
+* Kampanyalar belirli koşullara tabidir ve sınırlı sürelidir. Detaylar için ekibimizle iletişime geçin.
+
+Kampanya Başvurusu
+
+### Hemen başvurun, size dönelim
+
+Uzman ekibimiz 1 iş saati içinde sizi arar, seçtiğiniz kampanyanın detaylarını ve aktivasyon adımlarını anlatır.
+
+Telefon
+0 850 777 11 45
+E-posta
+bilgi@umaybilisim.com.tr
+WhatsApp
+
+---
+
+## Sorularınızı yanıtlayalım
+Kaynak: https://www.e-devlethizmetleri.com/iletisim
+Özet: Umay Bilişim ile iletişime geçin. Telefon: 0 264 777 11 45 / 0 850 777 11 45 | WhatsApp | E-posta: bilgi@umaybilisim.com.tr | Sakarya merkez ofisimiz.
+
+Bize Ulaşın
+
+Demo talebi, fiyat bilgisi, teknik destek veya iş birliği — uzman ekibimiz size yardımcı olmak için hazır.
+
+### Telefon
+
+0 850 777 11 45
+0 264 777 11 45
+
+### WhatsApp
+
+wa.me/908507771145
+
+### E-posta
+
+bilgi@umaybilisim.com.tr
+
+### Adres
+
+Erenler Mah. 1193 Nolu Sk. No:4/1-213
+Meydan54 AVM B1 Blok K:2 D:84
+54200 Erenler / SAKARYA
+
+### Çalışma Saatleri
+
+Pazartesi - Cuma: 09:00 - 18:00
+Cumartesi - Pazar: Kapalı
+
+İletişim Formu
+
+### Bize yazın
+
+Formu doldurun, mesajınız WhatsApp veya e-posta ile ekibimize ulaşsın. Bilgileriniz sitemizde saklanmaz.
+
+Sosyal Medya
+
+### Bizi takip edin
+
+Güncel gelişmeler, e-belge mevzuat değişiklikleri ve dijital muhasebe haberleri için sosyal medya hesaplarımızı takip edin.
+
+#### Facebook
+
+@umaybilisimcom
+
+#### LinkedIn
+
+@umaybilisimcom
+
+#### Instagram
+
+@umaybilisim
+
+#### X (Twitter)
+
+@UmayBilisim
+
+### Demo talebiniz için tek tık yeterli
+
+WhatsApp veya telefon üzerinden bize ulaşın; uzman ekibimiz size en uygun çözümü sunsun.
+
+# Blog ve Rehberler
+
+---
+
+## 2026 GİB e-Belge Zorunluluk Takvimi: Hangi İşletme Ne Zaman Geçiyor?
+Kaynak: https://www.e-devlethizmetleri.com/blog/2026-gib-e-belge-zorunluluk-takvimi
+Özet: 2026 yılı GİB e-belge zorunluluk takvimi: e-Fatura, e-Defter, e-İrsaliye, e-SMM kimler için zorunlu? Ciro eşikleri, sektörel zorunluluklar ve ceza tablosu.
+
+19 Haziran 2026 7 dakika okuma Umay Bilişim
+
+### 1. Genel Zorunluluk Kriterleri
+
+Gelir İdaresi Başkanlığı (GİB), e-belge zorunluluklarını iki temel kriter üzerinden belirlemektedir: ciro eşiği ve sektörel kapsam. Bu iki kriterden herhangi birini karşılayan mükellef, ilgili e-belge türüne geçmek zorundadır.
+
+2026 yılı itibarıyla geçerli olan zorunluluk kriterleri aşağıda ürün bazında ele alınmıştır. GİB, her yıl yayımladığı tebliğlerle ciro eşiklerini güncelleyebilmektedir; bu nedenle güncel mevzuatın takibi büyük önem taşır.
+
+### 2. e-Fatura ve e-Arşiv Zorunluluğu
+
+#### Ciro Bazlı Zorunluluk
+
+2024 ve sonraki hesap dönemlerine ait brüt satış hasılatı 3 milyon TL ve üzerinde olan tüm mükellefler, bir sonraki yılın başından itibaren e-Fatura ve e-Arşiv Fatura kullanmak zorundadır.
+
+| Yıl | Ciro Eşiği | Zorunluluk Başlangıcı |
+|---|---|---|
+| 2024 cirosu | 3 milyon TL ve üzeri | 1 Ocak 2025'ten itibaren |
+| 2025 cirosu | 3 milyon TL ve üzeri | 1 Ocak 2026'dan itibaren |
+| 2026 cirosu | GİB güncellemesi beklenecek | 1 Ocak 2027'den itibaren |
+
+#### Sektörel Zorunluluk (Ciro Sınırı Aranmaz)
+
+- İhracat yapan firmalar — tüm ihracat faturaları e-Fatura ile düzenlenir
+- e-Ticaret platformları ve marketplace'ler — aracı hizmet sağlayıcılar dahil
+- İnternet üzerinden reklam yayınlayanlar — dijital reklam aracıları
+- Akaryakıt dağıtım ve bayi işletmeleri
+- Demir-çelik ürünleri imalat/ihracat/ithalatçıları
+- Gübre imalatçıları ve ithalatçıları
+- Hal kayıt sistemi kapsamındaki komisyoncular
+
+e-Fatura mükellefi olan her firma aynı zamanda e-Arşiv Fatura da kullanmak zorundadır. e-Arşiv; e-Fatura mükellefi olmayan alıcılara veya son tüketicilere düzenlenir.
+
+### 3. e-Defter Zorunluluğu
+
+e-Fatura mükellefi olan tüm firmalar aynı zamanda e-Defter tutmak zorundadır. Yevmiye defteri ve büyük defter, her ay GİB sistemine yüklenmeli; beraat dosyaları düzenli olarak arşivlenmelidir.
+
+#### e-Defter Yükleme Takvimi
+
+| Dönem | Son Yükleme Tarihi |
+|---|---|
+| Ocak 2026 | 30 Nisan 2026 |
+| Şubat 2026 | 31 Mayıs 2026 |
+| Mart 2026 | 30 Haziran 2026 |
+| Nisan 2026 | 31 Temmuz 2026 |
+| Mayıs 2026 | 31 Ağustos 2026 |
+| Haziran 2026 | 30 Eylül 2026 |
+
+Programımız bu tarihleri otomatik olarak takip eder ve yükleme öncesinde hatırlatma yapar. e-Defter çözümümüz hakkında detaylı bilgi alın.
+
+### 4. e-İrsaliye Zorunluluğu
+
+Mal sevkiyatı gerçekleştiren firmaların büyük bir bölümü e-İrsaliye kullanmak zorundadır. Zorunluluk kapsamındaki mükellefler şunlardır:
+
+- e-Fatura mükellefi olan imalatçılar ve toptan satış yapan firmalar
+- Akaryakıt dağıtım ve bayi işletmeleri
+- Hal komisyoncuları ve tüccarları
+- Demir, çelik ve hurda ticareti yapanlar
+- Çimento imalatçıları
+
+e-İrsaliye mükellefi olan firmalar, zorunluluk başladıktan sonra kağıt irsaliye düzenleyemez; tüm sevkiyatlar elektronik irsaliyeyle belgelenmelidir.
+
+### 5. Diğer e-Belge Türleri
+
+#### e-SMM — Serbest Meslek Makbuzu
+
+Doktor, avukat, mali müşavir, mühendis, mimar ve danışman gibi serbest meslek erbabının tamamı için 1 Haziran 2020'den itibaren zorunludur. Bugün itibarıyla geç kalan hiçbir serbest meslek erbabı kağıt SMM düzenleyemez.
+
+#### e-Müstahsil Makbuzu
+
+e-Fatura mükellefi olup çiftçilerden zirai ürün satın alan tüm firmalar zorunludur. Hal komisyoncuları, tahıl/meyve/sebze toptancıları ve et-süt sektöründe faaliyet gösterenler kapsama dahildir.
+
+#### e-Adisyon
+
+Birinci sınıf restoran, lokanta, kafe ve yiyecek-içecek işletmeleri için zorunludur. e-Adisyon, müşteriye sunulan hesap fişinin elektronik ortamda düzenlenmesidir.
+
+#### e-Dekont
+
+5411 sayılı Bankacılık Kanunu kapsamındaki bankalar için zorunludur. Banka dekontlarının elektronik ortamda düzenlenmesini ve iletilmesini kapsar.
+
+#### Hangi e-belge türüne geçmeniz gerektiğinden emin değil misiniz?
+
+Uzman ekibimiz durumunuzu değerlendirip size özel bir yol haritası çıkarsın.
+
+### 6. Geçmeyenlere Uygulanan Cezalar
+
+e-belge zorunluluğuna uymayan mükellefler, Vergi Usul Kanunu'nun 353. maddesi uyarınca özel usulsüzlük cezasıyla karşılaşır. 2026 yılında uygulanan ceza miktarları şu şekildedir:
+
+| İhlal Türü | Ceza (her belge için) | Üst Sınır |
+|---|---|---|
+| e-Fatura/e-Arşiv düzenlenmemesi | Belge bedelinin %10'u (min. 680 TL) | 11.200.000 TL/yıl |
+| e-Defter tutulmaması veya geç yüklenmesi | 11.200 TL (aylık) | Her ay ayrı ceza |
+| e-İrsaliye düzenlenmemesi | Belge bedelinin %10'u (min. 680 TL) | 11.200.000 TL/yıl |
+
+Önemli: Zorunluluk kapsamında olup e-belge düzenlemeyen mükellefler, düzenledikleri kağıt belgelerin hiç düzenlenmemiş sayıldığı riskiyle karşı karşıyadır. Bu durum alacakların tahsilini güçleştirebilir.
+
+### 7. Nasıl Geçilir?
+
+e-belge geçiş süreci beş adımdan oluşur ve deneyimli bir entegratör eşliğinde tüm süreç 1-3 iş günü içinde tamamlanabilir:
+
+1. Mali mühür başvurusu — TÜBİTAK BİLGEM Kamu SM (henüz yoksa)
+2. Entegratör seçimi — GİB Portal veya özel entegratör
+3. GİB başvurusu — mükellef kaydı ve aktivasyon
+4. Sistem kurulumu ve ERP entegrasyonu
+5. Eğitim ve canlı kullanım
+
+Umay e-Belge olarak GİB başvurusundan ERP entegrasyonuna, mali mühür sürecinden personel eğitimine kadar tüm adımları sizin adınıza yönetiyoruz. DİA ERP, Logo, Mikro, Netsis, SAP, ETA ve diğer tüm muhasebe programlarıyla entegrasyon sağlıyoruz.
+
+#### Hemen geçişe başlayın, ceza riskini ortadan kaldırın
+
+0 850 777 11 45 numaralı hattımızı arayın veya WhatsApp'tan ulaşın — aynı gün dönüş yapıyoruz.
+
+#### İlgili Yazılar
+
+e-Fatura Nedir? 2026 Tam Geçiş Rehberi · e-Defter Geçiş Süreci · e-İrsaliye Kimler İçin Zorunlu?
+
+---
+
+## e-Arşiv Fatura ile e-Fatura Arasındaki Farklar
+Kaynak: https://www.e-devlethizmetleri.com/blog/e-arsiv-fatura-ile-e-fatura-farki
+Özet: e-Arşiv Fatura ile e-Fatura arasındaki temel farklar nelerdir? Hangi durumda hangisi düzenlenir? Karşılaştırma tablosu ve örnek senaryolar.
+
+28 Şubat 2026 6 dakika okuma
+e-Fatura ve e-Arşiv Fatura, Türkiye'deki elektronik belge sisteminin iki temel bileşenidir. Her ikisi de elektronik fatura olmasına rağmen önemli farklar barındırırlar. Bu yazıda iki sistemin temel farklarını, hangi durumda hangisinin düzenleneceğini ve pratik örnekleri inceliyoruz.
+
+### Temel Tanımlar
+
+#### e-Fatura
+
+e-Fatura, sadece e-Fatura kullanıcısı olan firmalar arasında düzenlenen elektronik faturadır. Düzenlenen fatura GİB'in özel altyapısı (BIS) üzerinden alıcıya iletilir.
+
+#### e-Arşiv Fatura
+
+e-Arşiv Fatura, e-Fatura kullanıcısı olmayan kişi veya kurumlara düzenlenen elektronik faturadır. Müşteriye e-posta veya basılı şekilde iletilir, GİB'e raporlanır.
+
+### Karşılaştırma Tablosu
+
+| Kriter | e-Fatura | e-Arşiv Fatura |
+|---|---|---|
+| Alıcı Tipi | e-Fatura mükellefi | Mükellef olmayan kişi/kurum |
+| İletim Kanalı | GİB BIS sistemi | E-posta / yazıcı çıktısı |
+| Karşı Onay | Alıcı onaylar | Onay gerekmez |
+| İptal Süresi | 8 gün (red hakkı) | 8 gün (iptal) |
+| Karekod | Zorunlu değil | Zorunlu |
+| Format | UBL-TR XML | UBL-TR XML + PDF |
+| Hukuki Geçerlilik | Tam | Tam |
+
+### Hangi Durumda Hangisini Düzenlemeliyim?
+
+Karar mekanizması basit: Alıcı, e-Fatura sisteminde kayıtlı bir mükellef mi?
+
+- Evet: e-Fatura düzenleyin.
+- Hayır: e-Arşiv Fatura düzenleyin.
+
+Programımız alıcının VKN/TCKN bilgisini girdiğinizde otomatik olarak e-Fatura mükellefi olup olmadığını kontrol eder ve uygun fatura tipini önerir.
+
+### Pratik Senaryolar
+
+#### Senaryo 1: B2B Satış (Toptan Tekstil Firması)
+
+Müşteriniz ABC Konfeksiyon Ltd. Şti., e-Fatura mükellefi. Doğru tercih: e-Fatura. Mali mühürle imzalanır, GİB üzerinden iletilir.
+
+#### Senaryo 2: B2C Satış (e-Ticaret)
+
+Müşteriniz Ahmet Yılmaz (son tüketici), e-Fatura mükellefi değil. Doğru tercih: e-Arşiv Fatura. E-posta ile gönderilir, karekod ile doğrulanabilir.
+
+#### Senaryo 3: Karma Müşteri Portföyü
+
+Hem KOBİ'lere hem son tüketicilere satış yapıyorsunuz. e-Fatura mükellefi olduğunuzda, otomatik olarak her iki sistemi de kullanmak zorundasınız. Programımız doğru fatura tipini otomatik belirler.
+
+#### e-Fatura ve e-Arşiv ihtiyacınızı tek paketle karşılayalım
+
+Her iki çözüm de tek lisansla, GİB onaylı altyapımız üzerinde.
+
+### Sıkça Yapılan Hatalar
+
+- Yanlış tip seçimi: Mükellef olmayan birine e-Fatura kesilemez. Sistem otomatik olarak reddeder.
+- Karekod eksikliği: e-Arşiv faturada karekod zorunlu. Manuel hazırlanan faturalarda bu unutulur.
+- Geç iletim: e-Arşiv fatura ay sonuna kadar GİB'e raporlanmalı. Geç raporlama özel usulsüzlük cezası gerektirir.
+
+### Sonuç
+
+e-Fatura ve e-Arşiv Fatura, modern iş süreçlerinin ayrılmaz parçalarıdır. Hangisinin düzenleneceği alıcının e-Fatura mükellefi olup olmadığına bağlıdır. Profesyonel bir entegratör çözümü, bu kararı otomatik olarak verir ve hata yapmanızı engeller.
+
+---
+
+## e-Defter ile e-Fatura Arasındaki Bağlantı: Hangisi Zorunlu, Nasıl Çalışır?
+Kaynak: https://www.e-devlethizmetleri.com/blog/e-defter-e-fatura-baglantisi
+Özet: e-Fatura mükellefinin e-Defter tutma zorunluluğu var mı? Yevmiye defteri, büyük defter, berat dosyaları ve aylık GİB yükleme süreci hakkında tam rehber.
+
+27 Haziran 2026 7 dakika okuma Umay Bilişim
+
+### 1. e-Defter Nedir?
+
+e-Defter, Türk Ticaret Kanunu ve Vergi Usul Kanunu'nun tutulmasını zorunlu kıldığı yevmiye defteri ve büyük defterin elektronik ortamda oluşturulup, mali mühürle imzalanarak GİB onayına sunulduğu sistemdir. Kağıt ortamında noter tasdiki yapma yükümlülüğünün elektronik eşdeğeridir.
+
+Fiziksel defterlerde notere gidilerek yıl başında tasdik yaptırılır; e-Defterde ise bu işlem GİB'in elektronik altyapısı üzerinden her ay dijital olarak gerçekleştirilir.
+
+### 2. e-Fatura → e-Defter Zorunluluğu
+
+En sık sorulan sorulardan biri budur: "e-Fatura kullanıyorsam e-Defter de zorunlu mu?" Yanıt net: Evet.
+
+e-Fatura uygulamasına dahil olan mükellefler, aynı zamanda e-Defter uygulamasına da geçmek zorundadır (1 Sıra No.lu e-Defter Genel Tebliği).
+Bu zorunluluk tek yönlüdür: e-Fatura → e-Defter zorunlu; ancak e-Defter kullanan herkes e-Fatura kullanmak zorunda değildir (gönüllü e-Defter kullanımı da mümkündür).
+
+| Durum | e-Defter Zorunlu mu? |
+|---|---|
+| e-Fatura mükellefi | Evet, zorunlu |
+| e-Fatura mükellefi değil, ihtiyari e-Defter | Gönüllü kullanabilir |
+| e-Fatura yok, e-Defter yok | Kağıt defter geçerli |
+
+### 3. e-Defter Kapsamı ve Defter Türleri
+
+e-Defter kapsamında tutulması gereken defterler:
+
+- Yevmiye Defteri: Tüm muhasebe kayıtlarının tarih sırasıyla işlendiği defter. Her muhasebe fişi buraya yansır.
+- Büyük Defter (Kebir): Yevmiye kayıtlarının hesaplara göre sınıflandırıldığı defter. Hesap bazında bakiye takibine imkân tanır.
+
+Envanter defteri, karar defteri ve diğer defterler e-Defter kapsamına girmez; bunlar kağıt ortamında tutulmaya devam edilebilir.
+
+### 4. Aylık GİB Yükleme Süreci
+
+e-Defterde ay sonunda şu süreç işletilir:
+
+#### 1. Muhasebe Kayıtlarının Tamamlanması
+
+Ayın son günü itibarıyla tüm muhasebe fişleri kapatılır ve yevmiye defteri verisi hazır hale getirilir.
+
+#### 2. XML Dosyasının Oluşturulması
+
+e-Defter yazılımı, muhasebe verilerini GİB'in belirlediği XML formatına dönüştürür. Bu formatta her kayıt XBRL (eXtensible Business Reporting Language) standardına uygun şekilde yapılandırılır.
+
+#### 3. Mali Mühürle İmzalama
+
+XML dosyası, firmanın mali mührüyle elektronik olarak imzalanır. İmzalama sonrasında dosya içeriği değiştirilemez.
+
+#### 4. GİB'e Yükleme ve Berat Alma
+
+İmzalı dosya GİB'in e-Defter portalına yüklenir. GİB sistemi dosyayı doğrular ve onay belgesi olarak "berat dosyasını" geri gönderir.
+
+#### Yükleme Takvimi
+
+| Dönem | Son Yükleme Tarihi |
+|---|---|
+| Ocak ayı defterleri | Şubat ayı son günü |
+| Her ay | Bir sonraki ayın son günü |
+| Aralık ayı defterleri | Gelecek yılın Mart ayı son günü |
+
+### 5. Berat Dosyası Nedir?
+
+Berat dosyası, GİB'in e-Defteri onayladığını belgeleyen resmi elektronik belgedir. Kağıt defterlerdeki noter tasdik şerhinin dijital karşılığı olarak düşünülebilir.
+
+Berat dosyası şunları kanıtlar:
+
+- Defterin GİB'e zamanında iletildiğini
+- Defterin GİB tarafından kabul edildiğini
+- Defter içeriğinin imzalandıktan sonra değiştirilmediğini
+
+Berat dosyaları 10 yıl boyunca saklanmalıdır. Kaybolması durumunda GİB portalından yeniden indirilebilir; ancak yerel yedek tutulması önerilir.
+
+#### e-Defter sürecinizi otomatikleştirin
+
+Muhasebe yazılımınızdan GİB yüklemesine kadar tüm süreci bizim sistemimiz yönetir.
+
+### 6. e-Defter Olmadan Ne Olur?
+
+e-Fatura mükellefi olup e-Defter tutmayan işletmeler ciddi risklerle karşı karşıyadır:
+
+- Özel Usulsüzlük Cezası: VUK md. 353 kapsamında her dönem için ayrı ayrı ceza kesilir.
+- Defterlerin İptal Sayılması: Usulsüz tutulan kağıt defterler hukuken geçersiz kabul edilebilir.
+- Vergi İncelemesi Riski: GİB'in çapraz kontrol sistemi e-Fatura mükelleflerinin e-Defter yükleyip yüklemediğini takip eder.
+- KDV İndirim Reddi: Defterlerin usulsüz tutulduğu dönemlerde KDV indirimleri reddedilebilir.
+
+### 7. Geçiş Süreci
+
+e-Fatura'ya geçerken e-Defter kurulumunu aynı anda yapmanız hem pratik hem de zorunluluk gereğidir. Geçiş süreci:
+
+- 1. Adım: Mali mühür temini (e-Fatura ile aynı sertifika kullanılır).
+- 2. Adım: e-Defter yazılımının seçilmesi ve kurulumu.
+- 3. Adım: Muhasebe yazılımından (DİA ERP, Logo, Mikro, Netsis vb.) entegrasyonun sağlanması.
+- 4. Adım: GİB'e e-Defter başvurusu.
+- 5. Adım: İlk ayın defterlerinin yüklenmesi ve berat alınması.
+
+Tüm bu süreç Umay e-Belge ekibi tarafından 1-3 iş günü içinde tamamlanır.
+
+#### e-Defter ve e-Fatura'ya birlikte geçin
+
+Bize ulaşın, geçiş sürecinizi tek seferde tamamlayalım. Ayrıca e-Defter Geçiş Rehberi yazımıza göz atın.
+
+---
+
+## e-Defter Geçiş Süreci ve Zorunluluk Kriterleri
+Kaynak: https://www.e-devlethizmetleri.com/blog/e-defter-gecis-sureci-ve-zorunluluk
+Özet: e-Defter zorunluluğu kimler için? Geçiş süreci nasıl işler? Beraat dosyaları ve aylık GİB yükleme adımları hakkında detaylı rehber.
+
+15 Şubat 2026 7 dakika okuma
+e-Defter, kağıt yevmiye ve büyük defterlerin elektronik ortama taşınmasıdır. Mali açıdan sıkı standartlara tabi olan bu sürecin doğru yönetilmesi, hem yasal yükümlülüklerin yerine getirilmesi hem de muhasebe verimliliğinin artırılması açısından kritiktir. Bu yazıda e-Defter geçiş sürecini detaylı olarak inceliyoruz.
+
+### e-Defter Nedir?
+
+e-Defter, mükelleflerin ticari defterlerini (yevmiye defteri, büyük defter) elektronik ortamda oluşturup, mali mühürle imzalayıp GİB'e raporladığı sistemdir. 1 Sıra No.lu Elektronik Defter Genel Tebliği ile düzenlenmiştir. e-Defter, XBRL-GL formatında üretilir ve aylık dönemlerde GİB'e gönderilir.
+
+### Zorunluluk Kriterleri
+
+Aşağıdaki kriterleri sağlayan mükellefler için e-Defter zorunludur:
+
+- Ciro bazlı: Brüt satış hasılatı 3 milyon TL ve üzeri olan mükellefler.
+- e-Fatura mükellefleri: e-Fatura kullanan tüm firmalar otomatik olarak e-Defter zorunluluğuna girer.
+- Sektörel: İhracat, e-ticaret, akaryakıt, bazı lisanslı sektörler.
+
+e-Defter geçişi yıl sonu itibarıyla yapılır. Yıl içinde başvuru yapılırsa, takip eden yıl başında zorunluluk başlar. Yıl ortasında geçiş yapılmaz.
+
+### Geçiş Süreci — Adım Adım
+
+#### Adım 1: Mali Mühür
+
+Eğer e-Fatura için mali mühürünüz varsa, e-Defter için ayrı bir mühüre gerek yoktur. Aynı mühür kullanılır. Mali mühürünüz yoksa TÜBİTAK BİLGEM Kamu SM üzerinden başvurunuz.
+
+#### Adım 2: GİB Başvurusu
+
+GİB e-Defter portalı üzerinden başvurunuzu yaparsınız. Başvuru sırasında hangi entegratörü kullanacağınızı belirtmeniz gerekir.
+
+#### Adım 3: Yazılım Kurulumu
+
+Seçtiğiniz entegratörün e-Defter yazılımı kurulur ve mali mührünüz tanımlanır. Mevcut muhasebe yazılımınız ile entegrasyon yapılır.
+
+#### Adım 4: Test Dönemi
+
+İlk ay genellikle test amaçlı kullanılır. Defterler hazırlanır ancak GİB'e gönderilmeden önce kontrol edilir. Hata varsa düzeltilir.
+
+#### Adım 5: Canlı Kullanım
+
+Aylık dönemlerde defterler GİB'e yüklenir, beraat dosyaları oluşturulur.
+
+#### e-Defter geçişinizi sorunsuz yönetelim
+
+Mali mühür başvurusundan beraat dosyalarına kadar tüm süreci ekibimiz takip eder.
+
+### Beraat Dosyası Nedir?
+
+Beraat dosyası, e-Defter'in mali mühürle imzalanmış özet dosyasıdır. Her dönem (ay) için ayrı beraat üretilir ve bu beraat dosyası defterin yasal geçerliliğini sağlar. Beraat dosyası GİB tarafından kabul edildikten sonra defter o ay için "geçerli" sayılır.
+
+### Aylık Yükleme Takvimi
+
+| Defter Dönemi | GİB'e Son Yükleme |
+|---|---|
+| Ocak | 30 Nisan |
+| Şubat | 31 Mayıs |
+| Mart | 30 Haziran |
+| Diğer aylar | İlgili ayı takip eden 3. ayın sonu |
+
+### Geçişin Avantajları
+
+- Anlık raporlama: Mizan, gelir tablosu saniyede oluşur.
+- Hatasız kayıt: Otomatik denge kontrolü.
+- Güvenli arşiv: 10 yıl bulut saklama, kaybolma riski yok.
+- Yasal güvence: GİB onaylı beraat dosyaları.
+- Maliyet: Kağıt defter, noter onayı, fiziksel arşiv maliyetleri sıfır.
+
+### Sık Yapılan Hatalar
+
+- Beraat dosyalarını zamanında GİB'e yüklememek (özel usulsüzlük cezası riski)
+- Mali mühür süresi dolmadan yenilememek
+- Manuel kayıt girişlerinde tarih/dönem hatası
+- Geçmiş döneme yönelik kayıt değiştirme (yasak)
+
+### Sonuç
+
+e-Defter geçişi, zorunluluk olduğu kadar bir verimlilik fırsatıdır. Doğru entegratör seçimi ve profesyonel destek ile süreç sorunsuz tamamlanır. Bizimle çalışan firmalarımızın %99'u ilk dönemde herhangi bir hata yaşamadan beraat dosyalarını GİB'e iletmiştir.
+
+---
+
+## e-Fatura Cezaları 2026: Kaçınılması Gereken Hatalar
+Kaynak: https://www.e-devlethizmetleri.com/blog/e-fatura-cezalari-2026
+Özet: Zorunluluk kapsamındayken e-Fatura düzenlememenin cezası ne kadar? VUK md. 353 özel usulsüzlük cezaları, sık yapılan hatalar ve cezadan korunma yolları.
+
+27 Haziran 2026 6 dakika okuma Umay Bilişim
+
+### 1. Yasal Dayanak: VUK md. 353
+
+e-Fatura, e-Arşiv Fatura, e-İrsaliye ve diğer e-belge türlerine ilişkin yaptırımlar, 213 sayılı Vergi Usul Kanunu'nun 353. maddesi kapsamındaki özel usulsüzlük cezaları ile uygulanır. Bu cezalar, vergi incelemesi sırasında veya denetim raporları sonucunda tarhiyat yoluyla kesilir.
+
+Önemli bir nokta: e-Fatura zorunluluğu kapsamında olan bir mükellef, kağıt fatura düzenlese dahi bu fatura hiç düzenlenmemiş sayılır — yani vergi kaçakçılığı hükümlerine göre değil, usulsüzlük hükümlerine göre işlem yapılır. Ancak ek olarak KDV ve gelir/kurumlar vergisi yönünden de tarhiyat gündeme gelebilir.
+
+### 2. 2026 Ceza Tutarları
+
+VUK md. 353/1 ve 353/2 kapsamında uygulanan özel usulsüzlük cezaları her yıl yeniden değerleme oranında artırılmaktadır. 2026 yılı için geçerli tutarlar aşağıdaki gibidir:
+
+| Aykırılık | Ceza (Her Belge İçin) | Yıllık Üst Sınır |
+|---|---|---|
+| e-Fatura yerine kağıt fatura düzenleme | Belge bedelinin %10'u (min. 600 TL) | 1.200.000 TL |
+| e-Arşiv Fatura'yı geç/hatalı düzenleme | Belge bedelinin %10'u (min. 600 TL) | 1.200.000 TL |
+| e-İrsaliye yerine kağıt irsaliye | Belge bedelinin %10'u (min. 600 TL) | 1.200.000 TL |
+| e-Belge almak zorundayken almama (alıcı) | 600 TL (her belge) | 1.200.000 TL |
+| e-Defter yükleme gecikmesi | Dönem başına 12.000 TL | — |
+
+Tutarlar her yıl GİB tarafından yeniden değerleme oranında artırıldığından güncel limitleri GİB'in resmi sitesinden doğrulayınız.
+
+### 3. Fatura "Hiç Düzenlenmemiş" Sayılır mı?
+
+Evet. GİB'in yorumuna göre, e-Fatura zorunluluğu kapsamındaki bir mükellef tarafından kağıt ortamında düzenlenen fatura hukuki geçerliliğini yitirir ve hiç düzenlenmemiş kabul edilir. Bu durumun sonuçları şunlardır:
+
+- Alıcı, faturayı gider olarak göstemeyebilir — KDV indirimi reddedilebilir.
+- Satıcı, hasılatı gizlemiş sayılabilir ve vergi tarhiyatına muhatap olabilir.
+- Her iki taraf da ayrı ayrı özel usulsüzlük cezasına maruz kalabilir.
+
+Bu nedenle özellikle büyük tutarlı işlemlerde alıcı firmaların, tedarikçilerinin e-Fatura mükellefi olup olmadığını GİB'in "e-Fatura Kayıtlı Kullanıcılar Listesi" üzerinden teyit etmesi kritik öneme sahiptir.
+
+### 4. En Sık Yapılan Hatalar
+
+#### Hata 1 — Zorunluluk Tarihini Kaçırmak
+
+Birçok işletme zorunluluk kapsamına girdikten sonra aylarca kağıt fatura düzenlemeye devam eder. GİB'in BA/BS formları üzerinden çapraz kontrol yapmasıyla bu durum tespite açıktır.
+
+#### Hata 2 — e-Arşiv Fatura Saatine Uymamak
+
+e-Arşiv Fatura'da, aynı gün içinde oluşturulup GİB'e iletilmesi zorunludur. Sistem dışında oluşturulan faturalar için son yükleme saati 23:59'dur. Gecikme cezaya yol açar.
+
+#### Hata 3 — İptal-İade Faturasını Hatalı Düzenlemek
+
+e-Fatura iptali, kağıt faturadaki gibi arka yüze not yazmakla olmaz. GİB sistemi üzerinden resmi iptal ya da iade faturası düzenlenmesi gerekir. Aksi hâlde hem orijinal hem de iade fatura sorunlu hale gelir.
+
+#### Hata 4 — Posta Kutusunu İzlememek
+
+e-Fatura sisteminde gelen faturaları "reddedildi" veya "kabul edildi" olarak yanıtlamak yasal zorunluluktur. Yanıtsız bırakılan fatura otomatik kabul edilmiş sayılır; bu durum itiraz hakkını ortadan kaldırır.
+
+#### Hata 5 — Senaryo Seçim Hatası
+
+Temel ve Ticari senaryo arasındaki seçim önemlidir. Ticari senaryoda alıcının itiraz hakkı 8 gündür. Yanlış senaryo seçimi iş akışını bozar ve hukuki sorunlara yol açabilir.
+
+#### e-Fatura sistemini doğru kurun, ceza riskini sıfıra indirin
+
+Uzman ekibimiz GİB başvurusundan sistem kurulumuna kadar her adımda yanınızda.
+
+### 5. Cezayla Karşılaşmamak İçin
+
+- Zorunluluk takvimini takip edin: Cirosunuz 3 milyon TL'ye yaklaşıyorsa bir sonraki yılın zorunluluk listesini GİB'ten kontrol edin.
+- Tedarikçi listesini güncelleyin: Yeni tedarikçilerin e-Fatura kayıtlı olup olmadığını GİB kayıtlı kullanıcılar listesinden periyodik olarak kontrol edin.
+- Güvenilir yazılım kullanın: Senaryo seçimi, zaman damgası ve GİB iletimi gibi kritik süreçleri otomatikleştiren GİB onaylı entegratör yazılımı tercih edin.
+- Süreçleri dokümante edin: Olası bir vergi incelemesinde hangi faturaların hangi tarihte ve hangi senaryo ile düzenlendiğini kanıtlayabilmeniz gerekir.
+- Periyodik kontrol yapın: Mali müşavirinizle her çeyrek dönemde e-Belge süreçlerinizi gözden geçirin.
+
+### 6. Pişmanlıkla Beyan
+
+Zorunluluk kapsamına girdiğinizi geç fark ettiyseniz ya da hata yaptıysanız, VUK md. 371 kapsamında pişmanlıkla beyan yoluna gidebilirsiniz. Bu durumda özel usulsüzlük cezası yerine daha düşük pişmanlık zammı uygulanır. Ancak bu seçenek yalnızca vergi idaresi incelemeye başlamadan önce geçerlidir.
+
+Pişmanlık beyanı için mali müşaviriniz veya vergi avukatınızla vakit geçirmeksizin iletişime geçmenizi tavsiye ederiz.
+
+### 7. Sıkça Sorulan Sorular
+
+#### e-Fatura zorunluluğum var mı bilmiyorum, nasıl kontrol ederim?
+
+GİB'in e-Fatura Kayıtlı Kullanıcılar Listesi'nde VKN'nizi sorgulayabilirsiniz. Ayrıca son iki yılın brüt satış hasılatınız 3 milyon TL'nin üzerindeyse zorunluluk kapsamındasınızdır.
+
+#### Kağıt fatura düzenledim ama farkında değildim, ne yapmalıyım?
+
+Mali müşavirinizle birlikte pişmanlık beyanı seçeneğini değerlendirin. İnceleme başlamadan önce başvuru yapmanız durumunda ceza indirimi mümkündür.
+
+#### Alıcı firma e-Fatura mükellefiyse ben de zorunlu muyum?
+
+Hayır. Zorunluluk, satıcının (düzenleyicinin) durumuna bağlıdır. Siz zorunluluk kapsamında değilseniz e-Arşiv Fatura düzenleyebilirsiniz.
+
+#### Daha fazla bilgi için
+
+2026 Zorunluluk Takvimi, e-Fatura Nedir? Rehberi veya SSS sayfamıza göz atın.
+
+---
+
+## e-Fatura Nedir? 2026 Tam Geçiş Rehberi
+Kaynak: https://www.e-devlethizmetleri.com/blog/e-fatura-nedir-2026-rehberi
+Özet: e-Fatura nedir, kimler için zorunlu, geçiş süreci nasıl işler? 2026 mevzuatına göre güncellenmiş kapsamlı e-Fatura rehberi. Adım adım anlatım.
+
+12 Mart 2026 8 dakika okuma Umay Bilişim
+
+### 1. e-Fatura Nedir?
+
+e-Fatura, klasik kağıt faturanın tüm hukuki niteliklerini taşıyan, ancak elektronik ortamda düzenlenen, iletilen ve saklanan dijital bir faturadır. 397 Sıra No.lu Vergi Usul Kanunu Genel Tebliği ile 2010 yılında uygulamaya konulan e-Fatura sistemi, Gelir İdaresi Başkanlığı'nın (GİB) merkezi altyapısı üzerinden çalışır.
+
+e-Fatura, sadece e-Fatura kullanıcısı olan firmalar arasında düzenlenir. Karşı taraf e-Fatura mükellefi değilse e-Arşiv Fatura kullanılır. e-Fatura, mali mühürle elektronik olarak imzalanır ve GİB'in özel sistemi (BIS / Btrans) üzerinden iletilir.
+
+### 2. Kimler için Zorunlu?
+
+2026 mevzuatına göre e-Fatura zorunluluğu aşağıdaki gruplar için geçerlidir:
+
+#### Ciro Bazlı Zorunluluk
+
+Brüt satış hasılatı 2024 ve sonraki yıllar için 3 milyon TL ve üzeri olan tüm mükellefler e-Fatura ve e-Arşiv Fatura kullanmak zorundadır. Bu ciro eşiği her yıl GİB tarafından güncellenebilir.
+
+#### Sektörel Zorunluluk
+
+- İhracat yapan firmalar: Ciro bakılmaksızın zorunludur.
+- İnternet aracı hizmet sağlayıcıları: e-Ticaret platformları, marketplace'ler.
+- e-Ticaret yapan firmalar: Online satış yapan herkes.
+- İnternet reklam aracılığı: Reklam ajansları, dijital pazarlama firmaları.
+- Lisanslı sektörler: Akaryakıt, alkollü içecek, tütün, gazete-dergi, fındık-pamuk, gübre-tıbbi, hizmet üreten firmalar.
+
+Önemli: Zorunluluk kapsamına giren ancak e-Fatura'ya geçmeyen mükelleflere VUK md. 353 uyarınca özel usulsüzlük cezası uygulanır. Ayrıca düzenledikleri faturalar hiç düzenlenmemiş sayılır.
+
+### 3. Klasik Fatura ile Farkları
+
+| Özellik | Kağıt Fatura | e-Fatura |
+|---|---|---|
+| İletim Süresi | Kargo ile günlerce | Saniyeler içinde |
+| Maliyet | Kağıt, baskı, kargo | Sadece yazılım abonesi |
+| Arşivleme | Fiziksel klasör (10 yıl) | Bulut (10 yıl) |
+| Hata Kontrolü | Manuel | Otomatik |
+| GİB Bildirimi | Manuel BA/BS | Otomatik |
+| Aranabilirlik | Manuel | Saniyede |
+
+### 4. Geçiş Süreci Nasıl İşler?
+
+e-Fatura'ya geçiş aşağıdaki adımlardan oluşur:
+
+#### Adım 1 — Mali Mühür Başvurusu
+
+Eğer mali mührünüz yoksa TÜBİTAK BİLGEM Kamu SM üzerinden mali mühür başvurusu yapılır. Başvuru süreciniz 1-2 hafta sürebilir.
+
+#### Adım 2 — Entegratör Seçimi
+
+İki seçeneğiniz var: GİB Portal (ücretsiz ama sınırlı) veya özel entegratör (profesyonel çözüm). Çoğu işletme özel entegratör tercih eder; bu sayede ERP entegrasyonu, otomasyon ve uzman destek alır.
+
+#### Adım 3 — GİB Başvurusu
+
+Seçtiğiniz çözüm üzerinden GİB'e e-Fatura başvurusu yapılır. Bu süreç entegratörünüz tarafından yönetilir.
+
+#### Adım 4 — Sistem Kurulumu ve Entegrasyon
+
+Yazılımınız kurulur, mali mühürünüz tanımlanır ve mevcut ERP'iniz varsa entegre edilir.
+
+#### Adım 5 — Eğitim ve Canlı Kullanım
+
+Ekibinize eğitim verilir, ilk faturalar test edilir ve canlı kullanıma geçilir. Tüm süreç 1-3 iş günü içinde tamamlanır.
+
+#### e-Fatura'ya geçişinizi 1-3 günde tamamlayalım
+
+GİB başvurusundan ERP entegrasyonuna kadar tüm süreci bizim ekibimiz yönetir.
+
+### 5. Mali Mühür ve Önemi
+
+Mali mühür, e-Fatura ve e-Arşiv süreçlerinin temel taşıdır. Elektronik faturaların kim tarafından düzenlendiğini doğrulayan ve içeriğinin değiştirilmediğini garanti eden dijital sertifikadır. Tüzel kişiler için mali mühür, gerçek kişi serbest meslek erbabı için e-İmza (NES) gereklidir.
+
+Mali mühürünüz olmadan e-Fatura sistemini kullanamazsınız. TÜBİTAK BİLGEM Kamu SM, mali mühürün resmi düzenleyicisidir.
+
+### 6. e-Fatura'nın İşletmenize Yararları
+
+- Maliyet Tasarrufu: Kağıt, baskı, kargo ve arşivleme maliyetleri sıfıra iner.
+- Zaman Tasarrufu: Fatura düzenleme süresi 10 kat azalır.
+- Hatasız İşlem: Otomatik kontroller ile insan hatası minimize edilir.
+- Yasal Uyum: GİB zorunluluklarına otomatik uyum.
+- Anlık Erişim: Yıllar öncesine ait faturalara saniyede erişim.
+- Çevre Dostu: Kağıt kullanımı sıfırlanır.
+
+### 7. Sıkça Sorulan Sorular
+
+#### e-Fatura'ya geçmek zorunda değilim, yine de geçmeli miyim?
+
+Zorunluluk kapsamında olmasanız bile, e-Fatura'nın getirdiği maliyet tasarrufu ve süreç hızı düşünüldüğünde gönüllü geçiş şiddetle tavsiye edilir.
+
+#### GİB Portal mı, özel entegratör mü?
+
+Aylık 5 fatura düzenleyen mikro işletmeler GİB Portal'ı kullanabilir. 50+ fatura düzenleyen, ERP'si olan ya da otomasyon isteyen tüm işletmeler için özel entegratör daha doğru tercihtir.
+
+#### Mali mühürüm var, başka bir entegratörden size geçebilir miyim?
+
+Evet. Özel entegratör değişimi için GİB'e başvuru ile sorunsuz geçiş yapılabilir. Tüm süreci biz yönetiriz.
+
+#### Daha fazla rehbere mi ihtiyacınız var?
+
+e-Arşiv ile e-Fatura farkları, e-Defter geçiş süreci veya tüm blog yazılarımıza göz atın.
+
+---
+
+## e-Fatura Zorunluluğu Kimleri Kapsar? Mükellefler ve Sektörler (2026 Güncel Rehber)
+Kaynak: https://www.e-devlethizmetleri.com/blog/e-fatura-zorunluluk-mukellefler-sektorler
+Özet: 2025 cironuz 3 milyon TL'yi aştı mı? e-Fatura kullanımı kimlere zorunlu, hangi sektörler ciroya bakılmaksızın kapsama giriyor? 2026 güncel mevzuat rehberi.
+
+5 Temmuz 2026 10 dakika okuma Umay Bilişim
+
+### 1. e-Fatura Zorunluluğu Nedir?
+
+e-Fatura, Vergi Usul Kanunu (VUK) kapsamında düzenlenen faturaların kâğıt yerine elektronik ortamda oluşturulması, Gelir İdaresi Başkanlığı'nın (GİB) merkezi sistemi üzerinden iletilmesi ve saklanmasıdır. 2010 yılında ihtiyari olarak başlayan sistem, bugün milyonlarca mükellef için zorunlu hâle gelmiştir.
+
+GİB, e-Fatura zorunluluğunu iki temel ölçütle belirler: ciro eşiği ve sektörel kapsam. Bu iki ölçütten herhangi birine giren mükellefin, belirlenen tarihten itibaren tüm faturalarını elektronik olarak düzenlemesi yasal yükümlülüktür.
+
+2026 Özeti: 2025 takvim yılı brüt satış hasılatı 3 milyon TL ve üzerinde olan mükellefler, 1 Temmuz 2026 tarihinden itibaren e-Fatura kullanmak zorundadır. Bazı sektörler ise ciro eşiğine bakılmaksızın zorunluluk kapsamındadır.
+
+### 2. Ciro Bazlı Zorunluluk: 3 Milyon TL Eşiği
+
+Gelir İdaresi Başkanlığı'nın yayımladığı Vergi Usul Kanunu Genel Tebliğleri uyarınca ciro bazlı e-Fatura zorunluluğu şöyle işler:
+
+- Bir önceki takvim yılına ait brüt satış hasılatı 3 milyon TL ve üzerinde olan mükellefler, takip eden yılın belirlenen tarihinden itibaren e-Fatura kullanmak zorundadır.
+- 2025 yılı brüt satış hasılatı ≥ 3 milyon TL olan mükellefler → 1 Temmuz 2026'dan itibaren zorunlu.
+- Bu eşiği geçip geçmediğinizi, yıllık gelir vergisi veya kurumlar vergisi beyannamesindeki "brüt satışlar" satırından kontrol edebilirsiniz.
+
+#### Brüt Satış Hasılatı Nedir?
+
+Brüt satış hasılatı, vergi öncesi tüm satış gelirlerini kapsar; indirimler, iadeler veya net kâr değil, ham satış toplamıdır. Muhasebeceniz veya mali müşaviriniz bu rakamı kesin olarak hesaplayabilir.
+
+#### 3 Milyon TL Eşiğini Aştınız mı?
+
+Hesaplamak için zamana mı ihtiyacınız var? Uzmanlarımız ücretsiz ön değerlendirme yapıyor. Arayın, zorunlu olup olmadığınızı öğrenin.
+
+### 3. Sektörel Zorunluluk: Ciro Aranmayan Durumlar
+
+Aşağıdaki sektör ve faaliyet türlerinde ciroya bakılmaksızın e-Fatura zorunluluğu doğar. İşletmeniz aşağıdaki kategorilerden herhangi birine giriyorsa, ciro eşiğini tutturmamış olsanız dahi e-Fatura kullanmak zorunda olabilirsiniz.
+
+| Sektör / Faaliyet | Ciro Şartı | Zorunluluk Tarihi |
+|---|---|---|
+| İhracat ve transit ticaret yapanlar | Ciro şartı yok | 01.07.2017'den itibaren |
+| İnternet üzerinden mal/hizmet satışı (e-ticaret) | Ciro şartı yok | 01.07.2017'den itibaren |
+| İnternet reklam aracıları (dijital ajanslar, platformlar) | Ciro şartı yok | 01.01.2020'den itibaren |
+| Aracılık hizmeti sunan platformlar (marketplace, pazar yerleri) | Ciro şartı yok | 01.01.2020'den itibaren |
+| Akaryakıt dağıtım ve bayilik | Ciro şartı yok | 01.07.2017'den itibaren |
+| Demir-çelik piyasası (üretici, dağıtıcı, ihracatçı) | Ciro şartı yok | 01.07.2020'den itibaren |
+| Gübre üretim ve dağıtımı | Ciro şartı yok | 01.07.2020'den itibaren |
+| İlaç, tıbbi cihaz üretim/dağıtımı | Ciro şartı yok | 01.07.2020'den itibaren |
+| Alkollü içecek ve tütün ürünleri | Ciro şartı yok | 01.07.2017'den itibaren |
+| Hal komisyoncuları ve hal idareleri | Ciro şartı yok | 01.01.2020'den itibaren |
+| Şeker fabrikaları | Ciro şartı yok | 01.07.2020'den itibaren |
+| Gazete, dergi yayıncıları | Ciro şartı yok | 01.07.2017'den itibaren |
+| Çay işletmeleri (ÇAYKUR ve özel) | Ciro şartı yok | 01.07.2020'den itibaren |
+| Tarım ürünleri lisanslı depoculuk | Ciro şartı yok | Tescil tarihinden itibaren |
+
+Önemli Not: Yukarıdaki tabloda yer alan tarihler zorunluluğun başladığı tarihtir. Bu tarihe kadar geçiş yapmayan mükelleflere ceza işlemi uygulanmaya devam etmektedir.
+
+#### Özel Lisanslı Kurumlar
+
+Bankalar, sigorta şirketleri, leasing, faktoring ve finans şirketleri, BDDK ve TCMB tarafından yetkilendirilmiş kurumlar da e-Fatura uygulamasına dahil edilmiştir. Bu kurumlar için geçiş tarihleri ilgili kurum ve düzenleyici otoritelerle koordineli biçimde belirlenmiştir.
+
+### 4. e-Arşiv Fatura Zorunluluğu
+
+e-Arşiv Fatura, e-Fatura mükellefi olmayan alıcılara (son tüketiciler, küçük esnaf, bireyler) düzenlenen elektronik faturadır. e-Fatura ve e-Arşiv faturası birbirinin alternatifi değil, tamamlayıcısıdır.
+
+#### Kural Şudur:
+
+- Alıcı e-Fatura mükellefi ise → e-Fatura düzenlenmek zorundadır.
+- Alıcı e-Fatura mükellefi değilse (son tüketici, cirosu düşük esnaf) → e-Arşiv Fatura düzenlenebilir ya da zorunludur.
+- 5.000 TL ve üzerindeki tüm faturalar (e-Fatura mükellef olmayan alıcılara da dahil) zorunlu olarak elektronik ortamda düzenlenmelidir. Bu eşiğin altındaki faturalar isteğe bağlı kâğıt veya elektronik olabilir.
+
+Sonuç olarak: e-Fatura mükellefiyseniz hem e-Fatura hem de e-Arşiv Fatura sistemini kullanmanız gerekir. Mükellef olmayan alıcılara e-Arşiv, mükellef alıcılara ise e-Fatura kesersiniz.
+
+### 5. Cezalar: e-Fatura'ya Geçmezseniz Ne Olur?
+
+Zorunluluk kapsamına giren ancak e-Fatura'ya geçmeyen mükellefler ciddi yaptırımlarla karşılaşır. 213 Sayılı Vergi Usul Kanunu'nun Mükerrer 355. Maddesi uyarınca:
+
+| Durum | Yaptırım |
+|---|---|
+| Kâğıt fatura düzenleyip e-Fatura düzenlememe | Fatura başına özel usulsüzlük cezası |
+| e-Fatura yerine kâğıt fatura düzenlenmesi | Söz konusu faturalar hiç düzenlenmemiş sayılır |
+| "Hiç düzenlenmemiş" sayılan fatura | Ek vergi tarhiyatı ve kdv ceza riski |
+| Tekrarlayan ihlaller | Ceza miktarı katlanarak artabilir; vergi incelemesi riski doğar |
+
+2026 yılı için usulsüzlük cezası alt sınırı fatura başına 10.000 TL olarak belirlenmiştir. Büyük hacimli işlem yapan firmalar için bu cezalar kısa sürede çok yüksek rakamlara ulaşabilir.
+
+Pratik Uyarı: Ceza riskini ortadan kaldırmanın en kesin yolu, zorunluluk tarihinden önce geçişi tamamlamaktır. Geçiş 1-3 iş günü sürer; ertelemenin maliyeti çok daha yüksek olabilir.
+
+### 6. Zorunluluk Kontrol Tablosu: Ben Zorunlu muyum?
+
+Aşağıdaki soruları kendinize sorun. Herhangi bir soruya "Evet" yanıtı veriyorsanız e-Fatura zorunluluğunuz büyük olasılıkla vardır:
+
+| Soru | Evet → Ne Anlama Gelir? |
+|---|---|
+| 2025 yılı brüt satışlarım 3 milyon TL'yi aştı mı? | 1 Temmuz 2026'dan itibaren zorunlusun |
+| Yurt dışına ihracat yapıyor muyum? | Ciroya bakılmaksızın zorunlusun |
+| İnternetten satış yapıyor muyum (web sitesi, Trendyol, Hepsiburada vb.)? | Ciroya bakılmaksızın zorunlusun |
+| Dijital reklam veya aracılık hizmeti sunuyor muyum? | Ciroya bakılmaksızın zorunlusun |
+| Akaryakıt, gübre, ilaç, demir-çelik sektöründe miyim? | Ciroya bakılmaksızın zorunlusun |
+| Alkol veya tütün lisansı var mı? | Ciroya bakılmaksızın zorunlusun |
+| Hal komisyoncusu veya hal idaresimiyim? | Ciroya bakılmaksızın zorunlusun |
+
+Bu tablodaki sorulardan herhangi birine "Evet" yanıtı veriyorsanız, Umay Bilişim uzmanları ücretsiz olarak size özel durum değerlendirmesi yapabilir.
+
+#### Zorunlu Olup Olmadığınızdan Emin Değil misiniz?
+
+Ücretsiz ön değerlendirme için bizi arayın. 5 dakikalık görüşmeyle zorunluluk durumunuzu netleştirelim.
+
+### 7. Umay Bilişim ile e-Fatura Geçişi
+
+Umay Bilişim olarak 15 yılı aşkın süredir GİB onaylı e-belge çözümleri sunuyoruz. e-Fatura zorunluluğunu karşılamamanın getirdiği risk ve karmaşıklık ortamında, geçiş sürecinizi başından sonuna yönetiyoruz.
+
+#### Geçiş Sürecinde Neler Yapıyoruz?
+
+- Zorunluluk Analizi: İşletmenizin kapsama girip girmediğini ve hangi tarihte zorunlu olduğunu netleştiriyoruz.
+- Mali Mühür Danışmanlığı: TÜBİTAK BİLGEM Kamu SM üzerinden mali mühür başvurunuzu yönetiyor, süreci takip ediyoruz.
+- e-İmza Temini: Yetkili e-İmza bayisi olarak, Türkiye'nin herhangi bir ilinde uzaktan video görüşme aracılığıyla hiçbir yere gitmeden e-İmzanızı temin ediyoruz.
+- GİB Başvurusu: e-Fatura mükellefiyeti için GİB portal başvurusunu biz yapıyoruz.
+- ERP Entegrasyonu: DİA ERP, Logo, Mikro, Netsis, ETA, SAP ve tüm muhasebe yazılımlarıyla native entegrasyon sağlıyoruz. Çift veri girişi sona eriyor.
+- Eğitim ve Canlı Destek: Ekibinize çevrimiçi veya yerinde eğitim veriyoruz. 7/24 destek hattımız her an yanınızda.
+
+#### Ne Kadar Sürer?
+
+Mali mührünüz hazırsa standart e-Fatura geçişi 1-3 iş günü içinde tamamlanır. Mali mühür başvurusu gerekiyorsa bu süreç 5-10 iş günü eklenebilir. 1 Temmuz 2026 tarihine yaklaşıyorsanız hemen başlamak kritik önem taşır.
+
+### 8. Sıkça Sorulan Sorular
+
+#### e-Fatura zorunluluğu hangi ciro eşiğinde başlar?
+
+2025 takvim yılı brüt satış hasılatı 3 milyon TL ve üzeri olan tüm mükellefler, 1 Temmuz 2026 tarihinden itibaren e-Fatura ve e-Arşiv Fatura kullanmak zorundadır. Bu eşik bir önceki takvim yılı cirosuna göre belirlenir ve GİB tarafından her yıl güncellenebilir.
+
+#### Hangi sektörler ciroya bakılmaksızın e-Fatura kullanmak zorunda?
+
+İhracat yapan firmalar, e-ticaret satıcıları, internet reklam aracıları, akaryakıt dağıtımcıları, demir-çelik piyasası katılımcıları, gübre üreticileri ve dağıtıcıları, ilaç ve tıbbi cihaz sektörü, alkol ve tütün firmaları ile hal komisyoncuları ciro eşiğinden bağımsız olarak zorunluluk kapsamındadır.
+
+#### e-Fatura zorunluluğunu yerine getirmezsem ne olur?
+
+VUK Mükerrer Madde 355 uyarınca fatura başına özel usulsüzlük cezası kesilir. 2026 için alt sınır 10.000 TL'dir. Ayrıca kâğıt düzenlenen faturalar hukuken hiç düzenlenmemiş sayıldığından ek vergi tarhiyatı riski de doğar.
+
+#### e-Fatura ile e-Arşiv Fatura arasındaki fark nedir?
+
+e-Fatura yalnızca e-Fatura mükellef kayıtlı firmalar arasında düzenlenir. e-Arşiv Fatura ise e-Fatura mükellefi olmayan alıcılara (son tüketiciler) yönelik elektronik faturadır. 5.000 TL ve üzerindeki satışlarda e-Fatura mükellef olmayan alıcılara da e-Arşiv zorunludur. Detaylı karşılaştırma için tıklayın.
+
+#### Ciro eşiğini 2025'te geçtim ama henüz e-Fatura'ya geçmedim, ne yapmalıyım?
+
+1 Temmuz 2026 zorunluluk tarihinden önce geçişi tamamlamanız gerekiyor. Geçiş 1-3 iş günü sürdüğünden zaman kaybetmeden başlamanızı öneriyoruz. Umay Bilişim'i arayın: 0 850 777 11 45.
+
+#### e-Fatura için mali mühür mü, e-İmza mı gerekir?
+
+Tüzel kişiler (şirketler) için Mali Mühür zorunludur. Şahıs işletmeleri ve serbest meslek erbabı Nitelikli Elektronik İmza (e-İmza) kullanabilir. Umay Bilişim yetkili e-İmza bayisidir; uzaktan video görüşme ile Türkiye'nin herhangi bir ilinde e-İmza temin edilmektedir. Daha fazla bilgi için SSS sayfamıza bakın.
+
+#### e-Fatura'ya 1-3 Günde Geçin
+
+Mali mühür, GİB başvurusu, ERP entegrasyonu ve eğitim — tüm süreci biz yönetiyoruz. 2.500'den fazla işletme Umay Bilişim'e güvendi.
+
+#### İlgili Rehberler
+
+e-Fatura Nedir? Tam Geçiş Rehberi · e-Fatura'ya Nasıl Geçilir? · Mali Mühür Başvurusu Rehberi · 2026 GİB Zorunluluk Takvimi · e-Fatura Cezaları 2026
+
+---
+
+## e-Faturaya Nasıl Geçilir? Adım Adım Tam Rehber (2026)
+Kaynak: https://www.e-devlethizmetleri.com/blog/e-faturaya-nasil-gecilir
+Özet: e-Faturaya geçiş nasıl yapılır? Mali mühür, GİB başvurusu, entegratör seçimi ve ERP entegrasyonu dahil 6 adımda anahtar teslim geçiş rehberi. 15 yıllık uzman desteğiyle.
+
+28 Haziran 2026 10 dakika okuma Umay Bilişim — 15 Yıllık e-Belge Uzmanı
+Bu rehberi, on beş yılda binlerce işletmenin e-Fatura geçişine bizzat rehberlik etmiş bir ekip olarak yazdık. Süreçte karşılaşılan her engeli, her soruyu, her gecikmeyi yaşadık ve çözdük. Burada okuyacaklarınız teorik değil: sahadan gelen, test edilmiş, çalıştığı kanıtlanmış bilgidir.
+
+Amacımız tek: bu rehberi okuduktan sonra e-Fatura geçişinin ne kadar basit olduğunu görmeniz ve gerekirse bir randevu alarak tüm süreci 1-3 iş günü içinde, anahtar teslim tamamlamanız.
+
+Kısa cevap arayanlar için:
+e-Fatura geçişi 6 adımdan oluşur: Zorunluluk kontrolü → Mali mühür → Entegratör seçimi → GİB başvurusu → ERP entegrasyonu → Canlı kullanım. Mali mührünüz varsa tüm süreç 1-3 iş günü sürer. Umay Bilişim bu süreci sizin adınıza yönetir.
+
+### Zorunlu Musunuz? 60 Saniyede Kontrol Edin
+
+Önce şunu netleştirelim: e-Fatura zorunluluğu kapsamında mısınız? Aşağıdaki iki sorudan birine "evet" cevabı veriyorsanız zorunlusunuz:
+
+| Kriter | Açıklama |
+|---|---|
+| Ciro Eşiği | Son hesap dönemi brüt satış hasılatı 3 milyon TL ve üzeri |
+| İhracat | Mal veya hizmet ihracatı yapıyor olmanız |
+| e-Ticaret | İnternet üzerinden satış yapıyor olmanız |
+| Aracı Hizmet Sağlayıcı | İnternet reklam veya e-ticaret aracılığı hizmeti |
+| Lisanslı Sektörler | Akaryakıt, alkol, tütün, gübre, ilaç, çelik dağıtımı |
+| GİB Listesi | GİB'in belirlediği zorunluluk listesinde VKN'niz mevcut |
+
+Emin değilseniz GİB'in "e-Fatura Kayıtlı Kullanıcılar Listesi" sayfasından VKN'nizi sorgulayabilirsiniz. Ya da bize bir WhatsApp atın — 5 dakikada kontrol edelim.
+
+### Adım 1 — Zorunluluk ve Geçiş Tarihini Belirleyin
+
+Zorunluluk kapsamına girdiğinizi öğrendikten sonra yapılacak ilk iş, yasal geçiş tarihinizi tespit etmektir. GİB tebliğleri genellikle şu takvimi öngörür:
+
+- Ciro eşiğini aşan mükellefler, ilgili yılın 1 Temmuz'unda e-Fatura'ya geçmek zorundadır.
+- Sektörel zorunluluklar farklı tarihler içerebilir; tebliğleri takip edin.
+- Gönüllü geçiş her zaman mümkündür ve tavsiye edilir.
+
+Ne kadar erken başlarsanız o kadar iyi. Son güne bırakmak hem stres hem de hata riskini artırır. Umay Bilişim'in 15 yıllık deneyiminde gördüğümüz en büyük sorun, zorunluluk tarihine 1-2 gün kala arayanlardır. Geçiş mümkündür ama aceleyle yapılan kurulumlar hata üretir.
+
+### Adım 2 — Mali Mühür Başvurusu
+
+e-Fatura'nın temel taşı mali mühürdür. Mali mühür olmadan sisteme hiç giremezsiniz.
+
+#### Kim, ne almalı?
+
+- Şirketler (Ltd., A.Ş., Komandit vb.): Mali Mühür — TÜBİTAK BİLGEM Kamu SM'den alınır.
+- Serbest meslek erbabı ve şahıslar: e-İmza (NES) — e-Güven, TÜBİTAK veya Türktrust'tan alınır.
+
+#### Mali Mühür Başvurusu İçin Gerekenler
+
+- Ticaret Sicil Gazetesi (güncel)
+- Noterden onaylı imza sirküleri
+- Güncel vergi levhası (e-Devlet'ten alınabilir)
+- Yetkili kişinin kimlik fotokopisi
+
+#### Süre ve Maliyet
+
+Başvurudan token teslimine kadar ortalama 1-2 hafta. 3 yıllık USB token bedeli yaklaşık 1.500-2.000 TL. Bu süreyi beklemeden geçiş planınıza başlayabilirsiniz — entegratör seçimi ve GİB başvurusu hazırlığı paralel yürütülür.
+
+Umay Bilişim, TÜBİTAK BİLGEM başvurusunda size rehberlik eder; doküman kontrolünden başvuru takibine kadar her adımda yanınızdayız. Mali mühür başvurusu hakkında detaylı rehberimizi okuyun →
+
+#### Mali mühür sürecinizi başlatın, biz takip edelim
+
+Hangi belgeler gerekiyor, nereye başvuruluyor — hepsini adım adım yönetiyoruz.
+
+### Adım 3 — Entegratör Seçimi: En Kritik Karar
+
+e-Fatura'ya geçişte en hayati karar entegratör seçimidir. Yanlış seçim, sonraki yıllarda sizi yavaşlatır, hata üretir ve destek almak için saatlerce beklettir.
+
+#### GİB Portal mı, Özel Entegratör mü?
+
+| Özellik | GİB Portal (Ücretsiz) | Özel Entegratör |
+|---|---|---|
+| Ücret | Ücretsiz | Aylık abonelik |
+| ERP Entegrasyonu | Yok | Var (DİA ERP, Logo, Mikro, SAP vb.) |
+| Otomasyon | Manuel | Tam otomatik |
+| Teknik Destek | Sınırlı | 7/24 uzman destek |
+| Gelen Fatura Yönetimi | Temel | Gelişmiş |
+| Uygun Kullanıcı | Ayda <10 fatura | Tüm işletmeler |
+
+#### İyi Bir Entegratörde Olması Gerekenler
+
+- GİB Onaylı Olması: Entegratörün GİB'in resmi listesinde kayıtlı olduğunu teyit edin.
+- ERP Uyumluluğu: Mevcut muhasebe yazılımınızla entegre çalışabilmeli.
+- Aktif Destek: Sorun anında ulaşabileceğiniz gerçek bir destek hattı olmalı. "Bilet sistemi açın" cevabı yetmez.
+- Deneyim: Sektördeki yılı, referansları ve müşteri sayısı önemlidir.
+- Fiyat Şeffaflığı: Gizli ücret, kurulum bedeli, güncelleme ücreti gibi sürprizlere dikkat edin.
+
+Umay Bilişim, 2009'dan bu yana GİB onaylı e-Belge çözümleri sunmaktadır. 11 farklı e-Belge modülü, Logo'dan SAP'a tüm ERP entegrasyonları ve sınırsız ücretsiz destek — tek çatı altında.
+
+### Adım 4 — GİB Başvurusu ve Aktivasyon
+
+Entegratörünüz belirlendikten sonra GİB'e resmi e-Fatura başvurusu yapılır. Bu sürecin tamamı entegratörünüz tarafından yönetilir — sizin ayrıca GİB portalında işlem yapmanıza gerek kalmaz.
+
+GİB başvurusunda yapılan işlemler:
+
+- Mali mühür sertifikasının sisteme tanıtılması
+- Firma bilgilerinin GİB kayıt sistemine işlenmesi
+- Posta kutusu (inbox) oluşturulması — gelen e-Faturaların düştüğü adres
+- Senaryo tanımlaması (Temel / Ticari senaryo seçimi)
+
+Aktivasyon süresi genellikle 1 iş günü içinde tamamlanır. Umay Bilişim müşterileri için bu süreç çoğunlukla aynı gün içinde sonuçlanır.
+
+### Adım 5 — ERP ve Muhasebe Yazılımı Entegrasyonu
+
+e-Fatura'nın gerçek gücü ERP entegrasyonuyla ortaya çıkar. ERP'niz ile e-Fatura sistemi bağlandığında:
+
+- ERP'de oluşturduğunuz her fatura otomatik olarak GİB'e iletilir.
+- Tedarikçilerden gelen e-Faturalar ERP'ye otomatik düşer.
+- Muhasebe fişleri insan müdahalesi olmadan oluşur.
+- Çift veri girişi tamamen ortadan kalkar.
+
+#### Desteklenen Yazılımlar
+
+DİA ERP, Logo Tiger / Go / Start, Mikro, Netsis, ETA, Wolvox, Zirve, SAP, Microsoft Dynamics, Paraşüt ve özel/kurumsal yazılımlar dahil Türkiye'de kullanılan tüm muhasebe ve ERP sistemleriyle entegrasyon sağlanır.
+
+Entegrasyon kurulumu 1-2 iş günü içinde tamamlanır. ERP entegrasyonu hakkında detaylı rehberimizi okuyun →
+
+### Adım 6 — Test ve Canlı Kullanım
+
+Sistem kurulumu tamamlandıktan sonra GİB'in test ortamında deneme faturalar kesilir. Bu aşamada şunlar kontrol edilir:
+
+- Fatura XML formatının doğruluğu
+- GİB sistemine başarılı iletim
+- Alıcı tarafında doğru görüntüleme
+- ERP'de muhasebe fişinin doğru oluşması
+- İptal ve iade senaryoları
+
+Testler başarıyla tamamlandıktan sonra canlı ortama geçilir. Ekibinize 30-60 dakikalık pratik bir kullanım eğitimi verilir. İlk hafta Umay Bilişim ekibi yakın takipte olur — herhangi bir sorun anında müdahale edilir.
+
+### Umay Bilişim ile Anahtar Teslim e-Fatura Geçişi
+
+Bu rehberi okudunuz. Adımlar net, süreç anlaşılır. Ama şunu da biliyoruz: iş yükünüz var, zamanınız kısıtlı ve bu süreci takip etmek için ayrıca efor harcamak istemiyorsunuz.
+
+İşte tam burada devreye giriyoruz.
+
+🏆
+15 Yıllık Deneyim
+2009'dan bu yana binlerce işletmenin e-Belge geçişinde yanındayız.
+
+✅
+GİB Onaylı, 11 Modül
+e-Fatura'dan e-Defter'e, e-İrsaliye'den e-SMM'e tüm çözümler tek çatıda.
+
+⚡
+1-3 Günde Tamamlanır
+Mali mühürünüz varsa geçişiniz 1-3 iş günü içinde canlıya alınır.
+
+🔒
+Ömür Boyu Ücretsiz Destek
+Tek bir ücret ödersiniz, sınırsız ve ömür boyu destek alırsınız. Ek fatura yok.
+
+#### Siz Sadece "Evet" Deyin, Gerisini Biz Halledelim
+
+Umay Bilişim ile geçiş şöyle işliyor:
+
+1. Randevu alın — Telefon, WhatsApp veya form üzerinden bize ulaşın.
+2. Analiz yapıyoruz — Mevcut muhasebe yazılımınızı, fatura hacminizi ve ihtiyaçlarınızı değerlendiriyoruz. Ücretsiz.
+3. Mali mühür ve GİB işlemleri — Gerekli tüm başvuruları sizin adınıza takip ediyoruz.
+4. Yazılım kurulumu ve entegrasyon — Sistemleri bağlıyoruz, test ediyoruz.
+5. Eğitim — Ekibinize kullanımı öğretiyoruz.
+6. Canlı kullanım başlıyor — Siz işinize bakıyorsunuz, biz arkaplanda destek veriyoruz.
+
+Bundan sonra bir sorun yaşadığınızda telefonu açıyorsunuz, biz bakıyoruz. Süresiz. Ücretsiz. Sınırsız.
+
+#### Hemen Randevu Alın — Geçişinizi Birlikte Planlayalım
+
+Danışma görüşmesi ücretsizdir. Sizi zorunlu kılacak hiçbir şey yoktur.
+Sadece konuşalım; size en doğru yolu gösterelim.
+
+0 850 777 11 45 | Pzt-Cum 09:00-18:00 | 7/24 WhatsApp
+
+### Sıkça Sorulan Sorular
+
+#### e-Faturaya geçiş kaç günde tamamlanır?
+
+Mali mührünüz mevcutsa e-Fatura geçişi 1-3 iş günü içinde tamamlanır. Mali mühür başvurusu gerektiriyorsa toplam süre 2-3 haftaya uzayabilir (başvuru + kargo süresi). Umay Bilişim tüm süreci sizin adınıza yönetir; siz günlük işinize devam edersiniz.
+
+#### e-Faturaya geçmek için ne kadar para gerekir?
+
+GİB başvurusu tamamen ücretsizdir. Mali mühür bedeli yaklaşık 1.500-2.000 TL (3 yıllık geçerlilik). Entegratör yazılım aboneliği firmadan firmaya değişir. Umay Bilişim ile fiyatlandırma için ücretsiz teklif alabilirsiniz — telefon görüşmesi veya WhatsApp üzerinden.
+
+#### Mevcut muhasebe programımı değiştirmem gerekiyor mu?
+
+Hayır. DİA ERP, Logo, Mikro, Netsis, ETA, Wolvox, Zirve, SAP dahil Türkiye'de kullanılan tüm muhasebe ve ERP yazılımlarıyla entegrasyon sağlanır. Mevcut sisteminiz değişmeden çalışmaya devam eder; yalnızca e-Fatura katmanı eklenir.
+
+#### e-Faturaya geçmezsem ne olur?
+
+Zorunluluk kapsamındayken kağıt fatura düzenleyenler VUK md. 353 uyarınca her belge için min. 600 TL özel usulsüzlük cezasıyla karşılaşır (yıllık üst sınır 1.200.000 TL). Ayrıca düzenlenen kağıt faturalar hukuken hiç düzenlenmemiş sayılır — bu da KDV indirimi reddi ve ek tarhiyat anlamına gelir. Ceza tutarları hakkında detaylı bilgi →
+
+#### e-Fatura ile e-Defter aynı anda mı geçilmeli?
+
+Evet. Mevzuat gereği e-Fatura mükellefi olan firmalar aynı zamanda e-Defter tutmak zorundadır. Umay Bilişim her iki geçişi aynı süreçte tamamlar; ayrı bir işlem yapmanıza gerek kalmaz. e-Defter hakkında rehberimizi okuyun →
+
+#### Geçiş sonrası destek alabilir miyim?
+
+Umay Bilişim müşterilerine sınırsız ve ücretsiz destek sunar. Telefon, WhatsApp ve uzaktan bağlantı ile 7/24 ulaşabilirsiniz. Bu destek ömür boyu devam eder — ek ücret, bakım sözleşmesi veya sürpriz fatura yoktur. Bir kez geçiş yaparsınız, sonsuza kadar yanınızdayız.
+
+#### Başka şehirde/ilde iseniz destek veriyor musunuz?
+
+Evet. Sakarya merkezli olmakla birlikte Türkiye'nin tüm illerine uzaktan ve gerektiğinde yerinde destek veriyoruz. Uzaktan kurulum ve entegrasyon için fiziksel bulunma gerekmez; tüm işlemler ekran paylaşımı ile tamamlanır.
+
+#### Hâlâ aklınızda soru varsa sormaktan çekinmeyin
+
+15 yıldır aynı soruların cevabını veriyoruz. Sizinkini de cevaplarız — ücretsiz, koşulsuz.
+
+---
+
+## e-İrsaliye Kimler İçin Zorunlu?
+Kaynak: https://www.e-devlethizmetleri.com/blog/e-irsaliye-kimler-icin-zorunlu
+Özet: e-İrsaliye hangi sektörler için zorunlu? Akaryakıt, hurda, hal komisyoncuları, üreticiler için detaylı zorunluluk kriterleri ve geçiş tarihleri.
+
+5 Şubat 2026 5 dakika okuma
+e-İrsaliye, kağıt sevk irsaliyesinin yerini alan ve mal hareketlerinin elektronik ortamda kayıt altına alındığı belgedir. Hangi sektörlerin zorunluluk kapsamına girdiği sıkça merak edilir. Bu yazıda 2026 itibarıyla güncel zorunluluk kriterlerini detaylıca inceliyoruz.
+
+### Sektörel Zorunluluk
+
+Aşağıdaki sektörlerde faaliyet gösteren mükellefler için e-İrsaliye zorunludur:
+
+#### 1. Akaryakıt Sektörü
+
+EPDK lisansı bulunan tüm akaryakıt firmaları (rafineri, dağıtıcı, bayi, kullanıcı) e-İrsaliye kullanmak zorundadır. Akaryakıt taşımacılığında her sevkiyat anlık olarak GİB'e raporlanır.
+
+#### 2. Sebze ve Meyve Komisyoncuları
+
+Toptancı hal yer alan komisyoncular, tüccarlar ve üreticiler kategorik olarak e-İrsaliye kapsamına alınmıştır. Hal kantarlarının e-İrsaliye sistemine entegrasyonu zorunludur.
+
+#### 3. Demir-Çelik ve Hurda Sektörü
+
+Demir-çelik üretici, ithalatçı ve hurda metal ticareti yapan firmalar e-İrsaliye düzenlemek zorundadır. Bu sektörde her sevkiyat dijital olarak izlenir.
+
+#### 4. Tütün, Alkol ve Lisanslı Sektörler
+
+TAPDK lisanslı tütün ve alkol üreticileri/dağıtıcıları kapsama dahildir. Aynı şekilde gübre ve veteriner ilaç firmaları da yer alır.
+
+#### 5. Şeker Üretim ve Dağıtım
+
+Şeker üreticileri ve toptan satış yapan firmalar e-İrsaliye kullanır.
+
+### e-Fatura Mükellefleri
+
+Yukarıdaki sektörel zorunluluklara ek olarak, e-Fatura mükellefi olan tüm firmalar için kademeli olarak e-İrsaliye zorunluluğu gelmektedir. Ciro bazlı geçiş takvimi GİB tarafından duyurulur.
+
+Önemli: Sektörel zorunluluklara ek olarak, e-Fatura/e-Defter mükellefi olup mal sevkiyatı yapan tüm firmaların er ya da geç e-İrsaliye'ye geçmesi beklenmektedir.
+
+### İstisnalar
+
+Aşağıdaki durumlarda e-İrsaliye yerine kağıt irsaliye veya başka belgeler kullanılabilir:
+
+- Yurt dışı sevkiyatlarda gümrük belgeleri (ihracat irsaliyesi)
+- İç piyasada satışı olmayan numune ürünler
+- GİB'in özel düzenleme yaptığı dönemler (sistem arızası vb.)
+
+### e-İrsaliye Geçişinin Faydaları
+
+- Yol kontrolünde sorun yaşanmaz: Trafik denetimlerinde QR kod ile anlık doğrulama.
+- Sevkiyat hızlanır: Manuel irsaliye düzenleme süresi sıfırlanır.
+- Hata azalır: Adres, ürün, miktar bilgileri otomatik kontrol edilir.
+- Şoför kolaylığı: Mobil uygulamadan sevkiyat onayı.
+- Maliyet düşer: Kağıt, baskı, arşivleme maliyetleri sıfır.
+
+#### e-İrsaliye geçişinizi hızlandıralım
+
+Sektör uzmanı ekibimiz size özel çözüm sunsun. Ücretsiz demo!
+
+### Sonuç
+
+e-İrsaliye, sevkiyat süreçlerinin dijitalleşmesi için kritik bir adımdır. Sektörünüz zorunluluk kapsamında olsun veya olmasın, sevkiyat hacminiz yüksekse e-İrsaliye'ye gönüllü geçiş ciddi verimlilik sağlar.
+
+---
+
+## e-SMM Kullanım Rehberi: Serbest Meslek Erbabı İçin
+Kaynak: https://www.e-devlethizmetleri.com/blog/e-smm-kullanim-rehberi
+Özet: Doktor, avukat, mali müşavir gibi serbest meslek erbabı için e-SMM nasıl düzenlenir? Stopaj, KDV, mobil kullanım ve adım adım rehber.
+
+20 Ocak 2026 6 dakika okuma
+e-Serbest Meslek Makbuzu (e-SMM), 1 Haziran 2020 itibarıyla tüm serbest meslek erbabı için zorunlu hale getirildi. Doktor, avukat, mali müşavir, mühendis, mimar ve danışmanlar gibi geniş bir kitle bu sisteme dahil oldu. Bu yazıda e-SMM'nin nasıl kullanılacağını adım adım anlatıyoruz.
+
+### Kimler e-SMM Kullanmak Zorunda?
+
+193 sayılı Gelir Vergisi Kanunu'nun 65. maddesinde tanımlanan tüm serbest meslek erbabı e-SMM kullanmak zorundadır:
+
+- Doktorlar (özel muayene, danışmanlık)
+- Diş hekimleri
+- Avukatlar
+- Mali müşavirler ve YMM'ler
+- Mühendisler (serbest çalışan)
+- Mimarlar
+- Tercümanlar
+- Danışmanlar (yönetim, IT, iş)
+- Sanatçılar (ressam, müzisyen, yazar)
+- Veteriner hekimler
+- Psikologlar
+- Diyetisyenler
+
+### e-SMM Düzenlemek İçin Gerekenler
+
+1. Elektronik İmza (NES): TÜBİTAK BİLGEM veya yetkili kurumlardan alınır.
+2. GİB Başvurusu: e-SMM başvurusu online yapılır.
+3. e-SMM Yazılımı: Bizim gibi entegratörlerden bir çözüm satın alınır.
+4. Müşteri Veritabanı: Sürekli hizmet verdiğiniz müşterilerin TCKN/VKN bilgileri.
+
+### e-SMM Düzenleme Adımları
+
+#### Adım 1: Hizmet Bilgisi
+
+Verdiğiniz hizmetin tanımı (örn. "Avukatlık vekalet ücreti — A dosyası", "Genel muayene hizmeti") ve tutarı girilir.
+
+#### Adım 2: Müşteri Bilgisi
+
+Müşterinin TCKN (gerçek kişi) veya VKN (tüzel kişi) bilgileri girilir. Sürekli müşteri ise veritabanından seçilir.
+
+#### Adım 3: Stopaj ve KDV
+
+Hizmet tipine göre stopaj oranları (%20 GVS) ve KDV (%20 veya %10) otomatik hesaplanır. Net/brüt ayarlaması yapılır.
+
+#### Adım 4: İmzalama ve İletim
+
+Makbuz e-imza ile imzalanır, müşteriye e-posta ile gönderilir, GİB'e raporlanır. Tüm süreç 30 saniye sürer.
+
+### Stopaj Hesaplama Örneği
+
+Avukat olarak 10.000 TL brüt avukatlık ücreti aldığınızı varsayalım:
+
+- Brüt: 10.000 TL
+- Stopaj (%20): 2.000 TL (müşteri keser)
+- Net: 8.000 TL (size ödenir)
+- KDV (%20): 2.000 TL (müşteri ayrı öder veya brüte dahil)
+
+Programımız bu hesaplamaları otomatik yapar; hata payı sıfırdır.
+
+#### e-SMM'yi mobil cihazınızdan düzenleyin
+
+Telefon veya tablet üzerinden saniyeler içinde makbuz kesin.
+
+### İptal ve İade İşlemleri
+
+Yanlış kesilmiş bir e-SMM'yi iptal etmek için iptal makbuzu düzenlenir. İade için ise iade makbuzu kullanılır. Her iki işlem de kolayca programdan yapılır ve GİB'e otomatik raporlanır.
+
+### Aylık Beyan ve Raporlar
+
+Stopaj tutarları muhtasar beyanname ile aylık beyan edilir (veya 3 aylık dönemler için). Programımız beyan dönemleri için hazır raporlar üretir; mali müşavirinize tek tıkla iletebilirsiniz.
+
+### Sık Sorulan Sorular
+
+#### e-İmza mı, mali mühür mü?
+
+Gerçek kişi serbest meslek erbabı için e-imza (NES) yeterlidir. Mali mühür sadece tüzel kişiler için gerekir.
+
+#### Aylık sınır var mı?
+
+Hayır. Sınırsız makbuz düzenleyebilirsiniz.
+
+#### Müşteri makbuzu nasıl alır?
+
+E-posta ile otomatik gönderilir. İsterseniz SMS bildirimi de yapılır. Müşteri PDF olarak indirip saklayabilir.
+
+### Sonuç
+
+e-SMM, serbest meslek erbabının iş süreçlerini önemli ölçüde sadeleştirir. Doğru bir entegratör ile makbuz düzenleme süresi 5 dakikadan 30 saniyeye iner. Profesyonel müşteri imajınızı korurken yasal yükümlülüklerinizi de hatasız yerine getirirsiniz.
+
+---
+
+## ERP Entegrasyonu Nedir? e-Belge ve Muhasebe Yazılımı Nasıl Bağlanır?
+Kaynak: https://www.e-devlethizmetleri.com/blog/erp-entegrasyonu-nedir
+Özet: DİA ERP, Logo, Mikro, Netsis, SAP gibi ERP ve muhasebe yazılımlarını e-Fatura ve e-Belge sistemiyle nasıl entegre edersiniz? Entegrasyon yöntemleri, faydaları ve süreç.
+
+27 Haziran 2026 6 dakika okuma Umay Bilişim
+
+### 1. ERP Entegrasyonu Nedir?
+
+ERP entegrasyonu, işletmenizin kullandığı muhasebe veya ERP (Kurumsal Kaynak Planlama) yazılımı ile e-Fatura, e-İrsaliye, e-Arşiv gibi GİB e-Belge sistemleri arasında otomatik veri akışı sağlayan yapıdır. Kısaca: ERP'nizde fatura oluşturduğunuzda, bu fatura insan müdahalesi olmaksızın doğrudan GİB sistemine iletilir ve alıcıya ulaşır.
+
+Entegrasyonsuz çalışmak, her faturayı hem ERP'ye hem de e-Fatura sistemine ayrı ayrı girmek anlamına gelir — bu hem zaman kaybına hem de hata riskine yol açar.
+
+### 2. Neden Entegrasyon Gerekir?
+
+- Çift Veri Girişini Ortadan Kaldırır: Fatura bilgisi sadece bir kez ERP'ye girilir; e-Belge sistemine otomatik aktarılır.
+- İnsan Hatalarını Minimize Eder: Manuel aktarımda oluşan rakam veya müşteri bilgisi hataları entegrasyonla sıfıra iner.
+- Zaman ve Maliyet Tasarrufu: Günde 50 fatura düzenleyen bir işletme, entegrasyonla muhasebe personelinin iş yükünü önemli ölçüde azaltır.
+- Anlık Muhasebe Kaydı: e-Fatura gönderimi ile eş zamanlı muhasebe fişi otomatik oluşur.
+- Gelen Fatura Otomasyonu: Tedarikçilerden gelen e-Faturaların ERP'ye otomatik kaydedilmesi sağlanır.
+
+### 3. Desteklenen ERP ve Muhasebe Yazılımları
+
+Umay e-Belge, Türkiye'deki tüm yaygın muhasebe ve ERP yazılımlarıyla entegrasyon desteği sunmaktadır:
+
+| Yazılım | Entegrasyon Türü |
+|---|---|
+| DİA ERP (Çözüm Ortağı) | Yerleşik entegrasyon + doğrudan destek |
+| Logo Tiger / Go / Start | Yerleşik entegrasyon modülü |
+| Mikro | API + servis entegrasyonu |
+| Netsis | API entegrasyonu |
+| ETA | Dosya aktarımı + API |
+| Wolvox (Birikim) | API entegrasyonu |
+| Zirve | API entegrasyonu |
+| SAP | RFC / BAPI entegrasyonu |
+| Microsoft Dynamics | API entegrasyonu |
+| Paraşüt / Zoho Books | API entegrasyonu |
+| Özel / kurumsal yazılımlar | Web servis (REST/SOAP) API |
+
+### 4. Entegrasyon Yöntemleri
+
+#### Yöntem 1 — Yazılım İçi Modül (Plug-in)
+
+Logo, Netsis gibi büyük yazılımların kendi içinde e-Fatura modülleri bulunur. Entegratör sertifikanızı bu modüle tanıtarak doğrudan yazılım üzerinden e-Fatura gönderebilirsiniz. Kurulum basit, kullanıcı deneyimi sorunsuz.
+
+#### Yöntem 2 — API Entegrasyonu
+
+ERP'niz veya özel yazılımınız, e-Fatura sisteminin REST veya SOAP API'siyle doğrudan konuşur. Fatura oluşturulduğunda otomatik tetikleme ile GİB'e iletilir. Teknik altyapı gerektirmekle birlikte en esnek yöntemdir.
+
+#### Yöntem 3 — Dosya Aktarımı (CSV/XML)
+
+ERP'den belirli aralıklarla fatura verisi XML veya CSV formatında dışa aktarılır; e-Fatura sistemi bu dosyayı okuyarak toplu gönderim yapar. Büyük fatura hacimli işletmeler için uygun bir yöntemdir.
+
+#### Yöntem 4 — Web Portal Kullanımı
+
+Entegrasyon kurmak istemeyenler veya az sayıda fatura düzenleyenler için web tabanlı panel üzerinden manuel giriş yapılabilir. ERP entegrasyonu yoktur; fatura bilgileri tek tek girilir.
+
+#### Yazılımınızla entegrasyon için bizimle konuşun
+
+DİA ERP, Logo, Mikro, Netsis veya özel yazılımınız olsun — entegrasyonu 1-2 iş gününde kuruyoruz.
+
+### 5. Entegrasyon Süreci
+
+Tipik bir ERP–e-Fatura entegrasyonu şu adımları izler:
+
+- Analiz: Kullandığınız ERP yazılımı ve versiyonu belirlenir. Fatura akışı, gelen/giden fatura hacmi ve özel gereksinimler tespit edilir.
+- Bağlantı Kurulumu: API anahtarları ve sertifika bilgileri yapılandırılır. ERP'deki e-Fatura modülü veya bağlantı servisi aktive edilir.
+- Test: Gerçek fatura göndermeden önce test ortamında (GİB Test/Prod) denemeler yapılır. Hata senaryoları kontrol edilir.
+- Canlı Geçiş: Test başarılıysa canlı ortama alınır. İlk birkaç gün yakın takip yapılır.
+- Eğitim: Muhasebe ve satış ekiplerine kısa bir kullanım eğitimi verilir.
+
+Tüm bu süreç, yazılıma ve kurumun büyüklüğüne göre 1-5 iş günü arasında tamamlanır.
+
+### 6. Entegrasyon Olmadan Ne Olur?
+
+Entegrasyonsuz çalışmanın maliyeti hızla artar:
+
+- Her fatura için çift veri girişi yapılır (ERP + e-Fatura paneli).
+- İnsan hatası riski artar; yanlış VKN, tutar veya tarih girişi sorunlara yol açar.
+- Gelen e-Faturaların ERP'ye aktarımı manuel yapılmak zorunda kalınır.
+- Muhasebe fişleri gecikmeli oluşur; anlık mali tablo takibi zorlaşır.
+- Yoğun fatura dönemlerinde personel üzerinde ciddi iş yükü oluşur.
+
+Günde 20'den fazla fatura düzenleyen her işletme için entegrasyon, maliyetini ilk ayda çıkaran bir yatırımdır.
+
+### 7. Sıkça Sorulan Sorular
+
+#### ERP'mi değiştirmeden entegrasyon yapılabilir mi?
+
+Evet. Entegrasyon mevcut ERP'nize eklenti veya API bağlantısı şeklinde kurulur; yazılımı değiştirmeniz gerekmez.
+
+#### Birden fazla şirket için tek entegrasyon kurulabilir mi?
+
+Evet. Çok şirketli yapılarda (holding, grup şirketleri) merkezi bir entegrasyon mimarisi kurulabilir; her şirketin mali mühürü ayrı tanımlanır.
+
+#### Gelen e-Faturaları da otomatik işleyebilir miyim?
+
+Evet. Gelen e-Faturaların otomatik olarak ERP'ye kaydedilmesi, muhasebe fişine dönüştürülmesi ve onay sürecine alınması entegrasyon kapsamında sağlanabilir.
+
+#### Entegrasyon kurulduktan sonra bakım gerekir mi?
+
+GİB'in zaman zaman güncellediği teknik standartlar (UBL versiyonu, xslt şemaları vb.) nedeniyle entegratör firması güncelleme desteği sağlamalıdır. Umay e-Belge bu güncellemeleri müşterilerine otomatik iletir.
+
+#### Diğer blog yazılarımız
+
+e-Fatura Nedir? 2026 Rehberi, e-Defter ile e-Fatura Bağlantısı veya KOBİ'ler için e-Belge Faydaları yazılarına göz atın.
+
+---
+
+## KOBİ'ler için e-Belge'nin 7 Büyük Faydası
+Kaynak: https://www.e-devlethizmetleri.com/blog/kobi-icin-e-belge-faydalari
+Özet: Küçük ve orta ölçekli işletmelerin e-belge sistemlerine geçerek elde edebileceği somut faydalar. Maliyet, zaman, yasal uyum ve daha fazlası.
+
+8 Ocak 2026 5 dakika okuma
+Küçük ve orta ölçekli işletmeler (KOBİ'ler) için dijital dönüşüm artık bir lüks değil, zorunluluk. e-Belge sistemleri, sadece yasal yükümlülükleri yerine getirmek için değil; verimliliği artırmak, maliyetleri düşürmek ve büyüme potansiyelini açığa çıkarmak için de kritik. Bu yazıda KOBİ'lerin e-Belge sistemlerine geçerek elde edebileceği 7 somut faydayı inceliyoruz.
+
+### 1. Maliyet Tasarrufu — %85'e Varan Düşüş
+
+Kağıt fatura kesimi maliyetli bir süreçtir. Kağıt, baskı, yazıcı kartuşu, kargo, fiziksel arşiv kira, dosyalama personeli derken aylık binlerce TL'lik bir gider oluşur. e-Belge sistemleri tüm bu giderleri sıfıra indirir. Aylık 200 fatura kesen bir KOBİ için yıllık tasarruf 15.000-30.000 TL aralığındadır.
+
+### 2. Zaman Tasarrufu — 10 Kat Daha Hızlı
+
+Manuel fatura kesimi yaklaşık 5-10 dakika sürer (yazma + kontrol + arşivleme). e-Fatura ile bu süre 30 saniyeye iner. Aylık 100 fatura için tasarruf: 16 saat. Bu süre, müşteri ziyaretleri, satış görüşmeleri veya iş geliştirmeye ayrılabilir.
+
+### 3. Hatasız Süreç — Otomatik Kontrol
+
+Manuel fatura kesiminde matematik hataları, yanlış vergi oranı, hatalı müşteri bilgisi gibi sorunlar sık yaşanır. Programımız tüm bu kontrolleri otomatik yapar. Hata payı %1'in altına iner.
+
+### 4. Yasal Uyum — Cezalardan Korunma
+
+GİB zorunluluklarına uymayan işletmelere özel usulsüzlük cezası uygulanır. e-Belge sistemine geçmek bu riskleri ortadan kaldırır. Düzenlenen belgeler otomatik olarak yasal formatlarda üretilir.
+
+### 5. Anlık Erişim — Yıllar Öncesine Saniyede
+
+Müşteri bir yıl önceki faturasını arıyor mu? Fiziksel arşivde 30 dakika arama yerine, e-Belge sisteminde saniyede bulursunuz. Bu, müşteri memnuniyetini ve operasyonel verimliliği artırır.
+
+### 6. Müşteri Memnuniyeti — Profesyonel İmaj
+
+Müşteriler fatura PDF'lerini e-posta ile, anında alır. Daha hızlı tahsilat, daha profesyonel bir imaj. Özellikle B2B çalışan KOBİ'ler için bu fark, müşteri sadakatini etkiler.
+
+### 7. Veri Analitiği — Akıllı Karar
+
+e-Belge sistemleri sadece fatura kesim aracı değil; aynı zamanda detaylı analitik panellerdir. Hangi ürün en çok satıyor? Hangi müşteri en kârlı? Hangi ay ciro arttı? Bu sorulara saniyede yanıt alırsınız.
+
+#### KOBİ'niz için en uygun e-Belge paketini öğrenin
+
+Ücretsiz analiz ile size özel çözüm önerisi sunalım.
+
+### KOBİ'ler İçin Geçiş İpuçları
+
+- Önce zorunluluğunuzu kontrol edin: Cironuza ve sektörünüze göre hangi e-belge tipleri zorunlu?
+- Doğru entegratör seçin: Sadece fiyata bakmayın; destek kalitesi ve ERP entegrasyonu kritik.
+- Eğitime önem verin: Ekibinizin sistemi rahat kullanması, başarının %50'sidir.
+- Mali müşavirinizle koordineli olun: Mali müşaviriniz hem bilgi sahibi olmalı hem de süreçte size destek olmalı.
+
+### Sonuç
+
+KOBİ'ler için e-Belge'ye geçmek; sadece yasal bir zorunluluk değil, rekabet avantajı yaratan bir stratejik karardır. Doğru çözümle, küçük ölçekteyken büyük şirketlerin sahip olduğu verimliliğe ulaşabilirsiniz. Geçişi ertelemek yerine, bugün başlayın.
+
+e-Belge geçişinizi profesyonel bir ekiple yapmak ister misiniz? Bizimle iletişime geçin, KOBİ'nize özel çözüm önerelim.
+
+---
+
+## Mali Mühür Başvurusu Adım Adım: 2026 Güncel Rehber
+Kaynak: https://www.e-devlethizmetleri.com/blog/mali-muhur-basvurusu-rehberi
+Özet: e-Fatura ve e-Belge sistemleri için zorunlu olan mali mühür nasıl alınır? TÜBİTAK BİLGEM başvuru adımları, gerekli belgeler ve süreç hakkında tam rehber.
+
+27 Haziran 2026 7 dakika okuma Umay Bilişim
+
+### 1. Mali Mühür Nedir?
+
+Mali mühür, tüzel kişiliklere (şirketlere) verilen ve e-Fatura, e-Arşiv Fatura, e-İrsaliye, e-Defter gibi elektronik belgelerin imzalanmasında kullanılan elektronik sertifika (kriptografik anahtar çifti + sertifika) sistemidir. Bir nevi kuruluşun dijital mührü işlevi görür.
+
+Mali mühür, bireysel dijital imzadan (NES/e-İmza) farklıdır: e-İmza gerçek kişilere verilirken mali mühür tüzel kişilere (şirketlere, vakıf ve derneklere) verilir. Hem fiziksel USB token hem de sunucu sertifikası (HSM) formatında temin edilebilir.
+
+Mali mühür olmadan e-Fatura düzenleyemezsiniz. Geçiş sürecinin ilk ve en kritik adımıdır.
+
+### 2. Kimler Almalıdır?
+
+| Mükellef Türü | Gerekli Araç |
+|---|---|
+| Limited Şirket (Ltd. Şti.) | Mali Mühür |
+| Anonim Şirket (A.Ş.) | Mali Mühür |
+| Komandit Şirket | Mali Mühür |
+| Kooperatif | Mali Mühür |
+| Serbest Meslek Erbabı (gerçek kişi) | e-İmza (NES) |
+| Şahıs Şirketi (gerçek kişi) | e-İmza (NES) |
+
+Serbest meslek erbabı (doktor, avukat, mali müşavir) ve şahıs şirketi sahibi gerçek kişiler mali mühür değil, nitelikli elektronik sertifika (e-İmza/NES) kullanır. e-İmza, e-Güven, TÜBİTAK BİLGEM veya Türktrust gibi akredite sağlayıcılardan alınabilir.
+
+### 3. Gerekli Belgeler
+
+TÜBİTAK BİLGEM Kamu SM (Kamu Sertifikasyon Merkezi) üzerinden mali mühür başvurusu için şu belgeler gereklidir:
+
+- Ticaret Sicil Gazetesi — Şirketin tescil ilanı ve güncel unvan değişikliklerini içeren gazete
+- İmza Sirküleri — Noterden onaylı, yetkili imzacıları gösteren güncel sirküler
+- Vergi Levhası — Güncel dönem vergi levhası (e-Devlet üzerinden alınan geçerlidir)
+- Yetkili Kimlik Fotokopisi — Başvuruyu yapacak yetkilinin nüfus cüzdanı veya pasaport
+- Yetki Belgesi (Vekaletname) — Başvuru yetkili dışında biri tarafından yapılacaksa noter onaylı vekaletname
+
+### 4. Başvuru Adımları
+
+#### Adım 1 — TÜBİTAK BİLGEM Kamu SM Portalına Giriş
+
+TÜBİTAK BİLGEM Kamu SM'nin resmi web sitesine (kamusm.gov.tr) giderek "Mali Mühür Başvurusu" bölümüne ulaşın. Sisteme e-Devlet ile giriş yapabilirsiniz.
+
+#### Adım 2 — Başvuru Formunu Doldurun
+
+Şirket bilgilerinizi, VKN'nizi ve yetkili kişi bilgilerini sisteme girin. İstenen belgeler dijital olarak yüklenir.
+
+#### Adım 3 — Ödeme Yapın
+
+Mali mühür ücretli bir hizmettir. 2026 yılı için USB token üzerinde 3 yıllık mali mühür bedeli yaklaşık 1.500-2.000 TL aralığındadır (KDV dahil). Ödeme kredi kartı veya havale ile yapılabilir.
+
+#### Adım 4 — Kimlik Doğrulama
+
+TÜBİTAK BİLGEM bazı durumlarda yüz yüze kimlik doğrulama talep edebilir. Bu durumda en yakın yetkili kayıt merkezi (YKM) ziyaret edilir. Alternatif olarak noter onaylı belgelerle posta yoluyla da işlem yaptırılabilir.
+
+#### Adım 5 — Token Teslimi
+
+Başvurunuz onaylandıktan sonra USB token (mali mühür cihazı) kargo ile belirttiğiniz adrese gönderilir. Kargo süresi 3-7 iş günüdür.
+
+#### Mali mühür sürecinde yardım almak ister misiniz?
+
+Ekibimiz başvurudan GİB aktivasyonuna kadar tüm süreci sizin adınıza takip eder.
+
+### 5. Başvuru Sonrası Süreç
+
+USB token elinize geçtikten sonra yapmanız gerekenler:
+
+- Sürücü Kurulumu: Token ile birlikte gelen CD'deki veya TÜBİTAK BİLGEM sitesindeki sürücü yazılımı bilgisayara kurulur.
+- PIN Aktivasyonu: Token'ın varsayılan PIN'i değiştirilerek kişisel PIN oluşturulur. Bu PIN mali mühürü her kullanımda gerekir.
+- e-Fatura Entegratörüne Tanımlama: Mali mühür sertifikası bilgileri, kullandığınız e-Belge yazılımına tanıtılır. Bu adımı entegratör firmanız (Umay e-Belge gibi) sizin adınıza gerçekleştirir.
+- GİB Başvurusu: Mali mühür tanımlandıktan sonra GİB'e e-Fatura başvurusu yapılır. Bu süreç entegratör tarafından yönetilir.
+
+### 6. Mali Mühür Yenileme
+
+Standart mali mühür sertifikasının geçerlilik süresi 3 yıldır. Süre dolmadan en az 30-60 gün önce yenileme başvurusu yapılması önerilir. Sertifika süresi dolarsa:
+
+- e-Fatura ve tüm e-Belge işlemleri durur.
+- Geçmişe dönük imzalama yapılamaz.
+- Mevcut arşivlerin doğrulanması risk altına girer.
+
+Yenileme işlemi yeni başvuruyla benzer süreçte gerçekleşir; ancak belge yükü genellikle daha hafiftir.
+
+### 7. Sıkça Sorulan Sorular
+
+#### Mali mühür başvurusu ne kadar sürer?
+
+Belgelerin eksiksiz iletilmesi halinde başvuru onayı 2-5 iş günü, kargo teslimi ise 3-7 iş günüdür. Toplamda yaklaşık 1-2 haftayı hesaba katın.
+
+#### Her bilgisayarda kullanabilir miyim?
+
+USB token fiziksel olarak taşınabilir ve herhangi bir bilgisayarda sürücü kurulduktan sonra kullanılabilir. Ancak PIN bilgisinin güvenli tutulması zorunludur.
+
+#### Token kaybolursa ne olur?
+
+Hemen TÜBİTAK BİLGEM'e bildirin ve sertifikanın iptal edilmesini talep edin. Ardından yeni token başvurusu yapılır. İptal edilene kadar token'ı ele geçiren kişi imzalama yapabilir, bu nedenle PIN güvenliği kritiktir.
+
+#### Sunucu sertifikası (HSM) ne zaman tercih edilir?
+
+Yoğun belge trafiği olan işletmeler (günde yüzlerce-binlerce fatura) için USB token yerine HSM (Hardware Security Module) önerilir. Otomatik imzalama altyapısı kurmak isteyen büyük firmalar bu seçeneği tercih eder.
+
+#### e-Fatura geçişinin tüm adımlarını öğrenin
+
+e-Fatura Nedir? Rehberi ve 2026 Zorunluluk Takvimi yazılarımıza göz atın.
+
+# Hizmet Bölgeleri
+
+İl bazlı sayfalar (https://www.e-devlethizmetleri.com/iller/):
+
+- [Adana'da e-Fatura ve e-Belge Geçişi](https://www.e-devlethizmetleri.com/iller/adana): Adana'da e-Fatura, e-Arşiv, e-Defter ve e-İrsaliye geçişi. Çukurova tarımı, gıda ve tekstil firmalarına GİB onaylı e-belge çözümleri ve 7/24 destek.
+- [Ankara'da e-Fatura ve e-Belge Geçişi](https://www.e-devlethizmetleri.com/iller/ankara): Ankara'da e-Fatura, e-Arşiv, e-Defter geçişi. Kamu, savunma sanayi, OSTİM ve yazılım firmalarına GİB onaylı e-belge çözümleri ve 7/24 destek.
+- [Antalya'da e-Fatura ve e-Belge Geçişi](https://www.e-devlethizmetleri.com/iller/antalya): Antalya'da e-Fatura, e-Arşiv, e-Defter geçişi. Turizm, sera tarımı ve ihracat firmalarına GİB onaylı e-belge çözümleri ve 7/24 destek.
+- [Aydın'da e-Fatura ve e-Belge Geçişi](https://www.e-devlethizmetleri.com/iller/aydin): Aydın'da e-Fatura, e-Arşiv, e-Defter geçişi. İncir, zeytin, jeotermal ve tarım firmalarına GİB onaylı e-belge çözümleri ve 7/24 destek.
+- [Balıkesir'de e-Fatura ve e-Belge Geçişi](https://www.e-devlethizmetleri.com/iller/balikesir): Balıkesir'de e-Fatura, e-Arşiv, e-Defter geçişi. Süt-hayvancılık, zeytin ve Bandırma sanayi firmalarına GİB onaylı e-belge çözümleri.
+- [Bursa'da e-Fatura ve e-Belge Geçişi](https://www.e-devlethizmetleri.com/iller/bursa): Bursa'da e-Fatura, e-Arşiv, e-Defter ve e-İrsaliye geçişi. Otomotiv, tekstil ve mobilya sanayisine GİB onaylı e-belge çözümleri, yerinde destek.
+- [Denizli'de e-Fatura ve e-Belge Geçişi](https://www.e-devlethizmetleri.com/iller/denizli): Denizli'de e-Fatura, e-Arşiv, e-Defter geçişi. Ev tekstili, mermer ve ihracat firmalarına GİB onaylı e-belge çözümleri ve 7/24 destek.
+- [Diyarbakır'da e-Fatura ve e-Belge Geçişi](https://www.e-devlethizmetleri.com/iller/diyarbakir): Diyarbakır'da e-Fatura, e-Arşiv, e-Defter geçişi. Tarım, gıda ve bölgesel ticaret firmalarına GİB onaylı e-belge çözümleri ve 7/24 destek.
+- [Erzurum'da e-Fatura ve e-Belge Geçişi](https://www.e-devlethizmetleri.com/iller/erzurum): Erzurum'da e-Fatura, e-Arşiv, e-Defter geçişi. Hayvancılık, kış turizmi ve ticaret firmalarına GİB onaylı e-belge çözümleri ve 7/24 destek.
+- [Eskişehir'de e-Fatura ve e-Belge Geçişi](https://www.e-devlethizmetleri.com/iller/eskisehir): Eskişehir'de e-Fatura, e-Arşiv, e-Defter geçişi. Raylı sistem, seramik ve sanayi firmalarına GİB onaylı e-belge çözümleri ve 7/24 destek.
+- [Gaziantep'te e-Fatura ve e-Belge Geçişi](https://www.e-devlethizmetleri.com/iller/gaziantep): Gaziantep'te e-Fatura, e-Arşiv, e-Defter geçişi. Gıda, halı ve tekstil ihracatçılarına GİB onaylı e-belge çözümleri ve 7/24 destek.
+- [Hatay'da e-Fatura ve e-Belge Geçişi](https://www.e-devlethizmetleri.com/iller/hatay): Hatay'da e-Fatura, e-Arşiv, e-Defter geçişi. İskenderun demir-çelik, liman ve tarım firmalarına GİB onaylı e-belge çözümleri.
+- [İstanbul'da e-Fatura ve e-Belge Geçişi](https://www.e-devlethizmetleri.com/iller/istanbul): İstanbul'da e-Fatura, e-Arşiv, e-Defter ve e-İrsaliye geçişi. Her sektöre GİB onaylı e-belge çözümleri, hızlı kurulum ve 7/24 destek.
+- [İzmir'de e-Fatura ve e-Belge Geçişi](https://www.e-devlethizmetleri.com/iller/izmir): İzmir'de e-Fatura, e-Arşiv, e-Defter geçişi. Liman, ihracat, tarım ve Aliağa sanayisine GİB onaylı e-belge çözümleri ve 7/24 destek.
+- [Kahramanmaraş'ta e-Fatura ve e-Belge Geçişi](https://www.e-devlethizmetleri.com/iller/kahramanmaras): Kahramanmaraş'ta e-Fatura, e-Arşiv, e-Defter geçişi. Tekstil, dondurma ve gıda firmalarına GİB onaylı e-belge çözümleri ve 7/24 destek.
+- [Kayseri'de e-Fatura ve e-Belge Geçişi](https://www.e-devlethizmetleri.com/iller/kayseri): Kayseri'de e-Fatura, e-Arşiv, e-Defter geçişi. Mobilya, sanayi ve KOBİ firmalarına GİB onaylı e-belge çözümleri ve 7/24 destek.
+- [Kocaeli'nde e-Fatura ve e-Belge Geçişi](https://www.e-devlethizmetleri.com/iller/kocaeli): Kocaeli'nde e-Fatura, e-Arşiv, e-Defter ve e-İrsaliye geçişi. Petro-kimya, otomotiv ve Gebze sanayisine GİB onaylı e-belge çözümleri.
+- [Konya'da e-Fatura ve e-Belge Geçişi](https://www.e-devlethizmetleri.com/iller/konya): Konya'da e-Fatura, e-Arşiv, e-Defter geçişi. Tarım, otomotiv yan sanayi ve makine firmalarına GİB onaylı e-belge çözümleri ve 7/24 destek.
+- [Malatya'da e-Fatura ve e-Belge Geçişi](https://www.e-devlethizmetleri.com/iller/malatya): Malatya'da e-Fatura, e-Arşiv, e-Defter geçişi. Kayısı, tarım ve tekstil firmalarına GİB onaylı e-belge çözümleri ve 7/24 destek.
+- [Manisa'da e-Fatura ve e-Belge Geçişi](https://www.e-devlethizmetleri.com/iller/manisa): Manisa'da e-Fatura, e-Arşiv, e-Defter geçişi. Beyaz eşya, elektronik ve üzüm üreticilerine GİB onaylı e-belge çözümleri ve 7/24 destek.
+- [Mardin'de e-Fatura ve e-Belge Geçişi](https://www.e-devlethizmetleri.com/iller/mardin): Mardin'de e-Fatura, e-Arşiv, e-Defter geçişi. Turizm, sınır ticareti ve tarım firmalarına GİB onaylı e-belge çözümleri ve 7/24 destek.
+- [Mersin'de e-Fatura ve e-Belge Geçişi](https://www.e-devlethizmetleri.com/iller/mersin): Mersin'de e-Fatura, e-Arşiv, e-Defter geçişi. Liman, lojistik, narenciye ve serbest bölge firmalarına GİB onaylı e-belge çözümleri.
+- [Muğla'da e-Fatura ve e-Belge Geçişi](https://www.e-devlethizmetleri.com/iller/mugla): Muğla'da e-Fatura, e-Arşiv, e-Defter geçişi. Bodrum, Marmaris, Fethiye turizmi ve bal-mermer üreticilerine GİB onaylı e-belge çözümleri.
+- [Ordu'da e-Fatura ve e-Belge Geçişi](https://www.e-devlethizmetleri.com/iller/ordu): Ordu'da e-Fatura, e-Arşiv, e-Defter geçişi. Fındık, tarım ve balıkçılık firmalarına GİB onaylı e-belge çözümleri ve 7/24 destek.
+- [Sakarya'da e-Fatura ve e-Belge Geçişi](https://www.e-devlethizmetleri.com/iller/sakarya): Sakarya'da e-Fatura, e-Arşiv, e-Defter ve e-İrsaliye geçişi. Otomotiv, fındık ve OSB firmalarına GİB onaylı e-belge çözümleri, yerinde kurulum ve 7/24 destek.
+- [Samsun'da e-Fatura ve e-Belge Geçişi](https://www.e-devlethizmetleri.com/iller/samsun): Samsun'da e-Fatura, e-Arşiv, e-Defter geçişi. Tütün, tarım, liman ve ticaret firmalarına GİB onaylı e-belge çözümleri ve 7/24 destek.
+- [Şanlıurfa'da e-Fatura ve e-Belge Geçişi](https://www.e-devlethizmetleri.com/iller/sanliurfa): Şanlıurfa'da e-Fatura, e-Arşiv, e-Defter geçişi. GAP tarımı, gıda ve hayvancılık firmalarına GİB onaylı e-belge çözümleri ve 7/24 destek.
+- [Tekirdağ'da e-Fatura ve e-Belge Geçişi](https://www.e-devlethizmetleri.com/iller/tekirdag): Tekirdağ'da e-Fatura, e-Arşiv, e-Defter geçişi. Çorlu-Çerkezköy tekstil-deri sanayisi ve tarım firmalarına GİB onaylı e-belge çözümleri.
+- [Trabzon'da e-Fatura ve e-Belge Geçişi](https://www.e-devlethizmetleri.com/iller/trabzon): Trabzon'da e-Fatura, e-Arşiv, e-Defter geçişi. Fındık, çay, balıkçılık ve liman ticaretine GİB onaylı e-belge çözümleri ve 7/24 destek.
+- [Van'da e-Fatura ve e-Belge Geçişi](https://www.e-devlethizmetleri.com/iller/van): Van'da e-Fatura, e-Arşiv, e-Defter geçişi. Hayvancılık, sınır ticareti ve turizm firmalarına GİB onaylı e-belge çözümleri ve 7/24 destek.
+
+# Yasal Metinler
+
+- [KVKK Aydınlatma Metni](https://www.e-devlethizmetleri.com/kvkk)
+- [Gizlilik Politikası](https://www.e-devlethizmetleri.com/gizlilik-politikasi)

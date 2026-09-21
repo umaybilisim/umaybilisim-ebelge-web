@@ -68,6 +68,7 @@ Sakarya (merkez ofis), İstanbul, Ankara, İzmir, Bursa, Antalya, Adana, Konya, 
 - [SSS](https://www.e-devlethizmetleri.com/sss): Sıkça sorulan sorular (20 soru) — e-İmza vs Mali Mühür farkı, zorunluluk kriterleri, geçiş süreci dahil
 - [Hizmet Bölgeleri](https://www.e-devlethizmetleri.com/iller/): Türkiye geneli hizmet haritası
 - [İletişim](https://www.e-devlethizmetleri.com/iletisim): Teklif, demo talebi ve e-İmza başvurusu
+- [Tam içerik (llms-full.txt)](https://www.e-devlethizmetleri.com/llms-full.txt): Ürün, SSS, kampanya, iletişim ve blog sayfalarının tam metni (yapay zekâ için tek dosya)
 
 ## Blog & Rehberler
 
