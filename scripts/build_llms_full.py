@@ -18,12 +18,12 @@ BASE = 'https://www.e-devlethizmetleri.com'
 
 SKIP_TAGS = {'script', 'style', 'svg', 'form', 'iframe', 'noscript', 'footer', 'i', 'select', 'textarea', 'input'}
 SKIP_CLASSES = {'cookie-banner', 'fab-whatsapp', 'fab-whatsapp-bubble', 'fab-top', 'mobile-menu', 'bank-card',
-                'breadcrumb', 'toc', 'btn', 'hamburger', 'theme-toggle', 'skip-link', 'bant-ticker-wrap', 'bant-cta', 'bant'}
+                'breadcrumb', 'toc', 'btn', 'hamburger', 'theme-toggle', 'skip-link', 'bant-ticker-wrap', 'bant-cta', 'bant', 'eyebrow'}
 BLOCK = {'p', 'div', 'section', 'article', 'ul', 'ol', 'li', 'table', 'tr', 'thead', 'tbody', 'blockquote', 'details',
          'summary', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'main', 'dl', 'dt', 'dd', 'br', 'hr'}
 VOID = {'br', 'hr', 'img', 'input', 'meta', 'link'}
 # Sayfa -> (baslangic satiri, bitis basligi oneki): llms dosyasina alinmayacak bolumler
-DROP_SECTIONS = {'iletisim.html': [('Banka Hesap Bilgileri', '### Demo talebiniz')]}
+DROP_SECTIONS = {'iletisim.html': [('Ödeme ve iş birliği için', 'Demo talebiniz')]}
 
 
 class Extract(HTMLParser):
@@ -212,14 +212,14 @@ def convert(path, level_offset=1):
     # llms dosyasina alinmayacak bolumler (odeme/banka bilgisi)
     for start, stop in DROP_SECTIONS.get(path, []):
         try:
-            a = next(i for i, ln in enumerate(lines) if ln.strip() == start)
-            b = next(i for i, ln in enumerate(lines) if i > a and ln.startswith(stop))
+            a = next(i for i, ln in enumerate(lines) if re.fullmatch(r'#+ ' + re.escape(start), ln.strip()))
+            b = next(i for i, ln in enumerate(lines) if i > a and re.match(r'#+ ' + re.escape(stop), ln))
             del lines[a:b]
         except StopIteration:
             pass
     # sayfa H1'i ayrica "## baslik" olarak ekleniyor; govdedeki ilk H1 satirini at
     for i, ln in enumerate(lines):
-        if ln.startswith('## '):
+        if ln.startswith('#' * (1 + level_offset) + ' '):
             del lines[i]
             break
     body = '\n'.join(lines).strip()

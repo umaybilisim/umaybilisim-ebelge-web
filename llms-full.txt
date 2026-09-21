@@ -23,16 +23,12 @@
 Kaynak: https://www.e-devlethizmetleri.com/
 Özet: GİB onaylı e-Fatura, e-Arşiv, e-İrsaliye, e-Defter, e-SMM ve tüm e-belge çözümlerinde Türkiye'nin uzman firması. 7/24 destek, kolay entegrasyon, ücretsiz demo.
 
-GİB Onaylı · KVKK Uyumlu
-
 e-Fatura'dan e-Defter'e, e-İrsaliye'den e-SMM'ye 11 farklı elektronik belge çözümü. GİB onaylı altyapı, kolay entegrasyon, 7/24 uzman destek.
 
 GİB Onaylı Altyapı
 KVKK Uyumlu
 7/24 Uzman Destek
 Hızlı Entegrasyon
-
-Neden e-Belge?
 
 ### Geleceğin dijital muhasebesine bugünden geçin
 
@@ -49,8 +45,6 @@ GİB tarafından zorunlu kılınan tüm e-belge süreçlerine tam uyum. Cezai ya
 #### Süreç Hızı
 
 Fatura kesme, sevkiyat, makbuz düzenleme; her şey saniyeler içinde. Müşterinize anında, dijital olarak ulaşır.
-
-Ürünlerimiz
 
 ### Hangi e-belge çözümlerini sunuyoruz?
 
@@ -104,15 +98,11 @@ GİB Bilgi Transfer Sistemi üzerinden toplu belge gönderim çözümü.
 
 11 e-belge ürünü
 
-Hizmet Bölgeleri
-
 ### Hangi illerde hizmet veriyoruz?
 
 Sakarya merkez ofisimizden Türkiye'nin tüm büyükşehirlerine e-Fatura, e-Defter ve e-belge çözümleri sunuyoruz. Şehrinize özel sayfayı inceleyin.
 
 Sakarya İstanbul Ankara İzmir Bursa Kocaeli Antalya Konya Gaziantep Adana Kayseri Mersin Denizli Manisa Samsun Tüm İller →
-
-Nasıl Çalışır?
 
 ### e-Belge'ye 4 adımda nasıl geçilir?
 
@@ -151,8 +141,6 @@ e-Belge Ürünü
 0
 Sistem Uptime
 
-Müşteri Yorumları
-
 ### İşletmeler bizi neden tercih ediyor?
 
 "e-Faturaya geçişimizi 2 günde tamamladılar. Eski sisteme göre süreçlerimiz çok daha hızlı ve hatasız."
@@ -167,8 +155,6 @@ Kara Lojistik — Operasyon Md.
 SE
 Selin Erdem
 Erdem Yapı — Muhasebe Md.
-
-Entegratör Değişikliği
 
 ### Mevcut e-belge portalınızdan memnun değil misiniz?
 
@@ -189,8 +175,6 @@ Yavaş destek, karmaşık arayüz veya artan maliyetler mi? Umay e-Belge'ye geç
 - Şeffaf ve sabit fiyatlandırma
 - Sade arayüz — eğitim gerektirmez
 - Ücretsiz geçiş desteği ve veri aktarımı
-
-Sıkça Sorulan Sorular
 
 ### e-Belge hakkında en çok sorulan sorular nelerdir?
 
@@ -235,8 +219,6 @@ Uzman ekibimiz işletmeniz için en uygun e-belge çözümünü ücretsiz olarak
 ## Tüm e-Belge Ürünlerimiz
 Kaynak: https://www.e-devlethizmetleri.com/urunler
 Özet: GİB onaylı 11 e-belge çözümü: e-Fatura, e-Arşiv, e-İrsaliye, e-Defter, e-SMM, e-Müstahsil, e-Döviz, e-Adisyon, e-Dekont, e-Gider Pusulası, GİB Btrans.
-
-11 e-Belge Çözümü
 
 İhtiyacınız olan tüm GİB onaylı elektronik belge çözümleri tek bir platformda. Hızlı entegrasyon, kolay kullanım, 7/24 destek.
 
@@ -338,19 +320,13 @@ Uzman ekibimiz işletmenizin ciro, sektör ve süreçlerine göre size en uygun 
 Kaynak: https://www.e-devlethizmetleri.com/urunler/e-adisyon
 Özet: e-Adisyon programı ile restoran, kafe, bar ve eğlence mekanları için elektronik adisyon. POS entegrasyonu, tablet desteği, GİB onaylı altyapı.
 
-e-Adisyon Çözümü
-
 Restoran, kafe, bar, otel ve eğlence mekanları için elektronik adisyon sistemi. Tablet/telefon desteği, POS entegrasyonu, hesap dökümü çıktısı.
-
-e-Adisyon Nedir?
 
 ### e-Adisyon nedir?
 
 e-Adisyon, restoran, kafe, bar, lokanta gibi yiyecek-içecek hizmeti sunan işletmelerde müşteri masalarına ait sipariş ve hesap bilgilerinin elektronik ortamda tutulduğu adisyondur. 509 Sıra No.lu Vergi Usul Kanunu Genel Tebliği ile düzenlenmiştir.
 
 e-Adisyon, kağıt adisyonun yerini alır; her sipariş anlık olarak elektronik kayda alınır, mutfağa iletilir ve son ödeme aşamasında e-Fatura veya e-Arşiv'e dönüştürülür.
-
-Özellikler
 
 ### e-Adisyon programının öne çıkan özellikleri nelerdir?
 
@@ -378,8 +354,6 @@ Tüm büyük POS terminalleri ile uyumlu.
 
 Günlük z raporu, ürün satış analizi, ciro raporları.
 
-Sıkça Sorulan Sorular
-
 ### e-Adisyon hakkında sık sorulan sorular nelerdir?
 
 #### e-Adisyon kimler için zorunlu?
@@ -404,19 +378,13 @@ e-Adisyon ile siparişlerinizi hızlandırın, müşteri memnuniyetini artırın
 Kaynak: https://www.e-devlethizmetleri.com/urunler/e-arsiv-fatura
 Özet: e-Arşiv Fatura programı ile mükellef olmayan müşterilerinize hızlı, yasal ve dijital fatura kesin. E-posta gönderim, PDF arşivleme, ERP entegrasyonu.
 
-e-Arşiv Fatura Çözümü
-
 e-Fatura mükellefi olmayan bireysel müşteri ve firmalarınıza elektronik arşiv faturası kesin. Otomatik PDF, e-posta gönderim, 10 yıl güvenli arşiv.
-
-e-Arşiv Fatura Nedir?
 
 ### e-Arşiv Fatura nedir?
 
 e-Arşiv Fatura, e-Fatura kullanıcısı olmayan kişi veya firmalara düzenlenmek üzere oluşturulan elektronik faturadır. 433 Sıra No.lu Vergi Usul Kanunu Genel Tebliği ile düzenlenmiştir. Faturalar, GİB sistemine raporlanır ve müşteriye PDF/elektronik posta olarak iletilir.
 
 e-Arşiv Fatura, son tüketicilere, vergi mükellefi olmayan kurumlara veya e-Fatura sistemine henüz dahil olmamış mükelleflere düzenlenir. e-Fatura ile aynı hukuki niteliklere sahiptir; sadece iletim biçimi farklıdır.
-
-Zorunluluk
 
 ### Kimler için zorunlu?
 
@@ -435,8 +403,6 @@ e-Fatura'ya geçmiş tüm mükellefler aynı anda e-Arşiv Fatura'ya da geçmek 
 #### 5.000 TL Sınırı
 
 e-Fatura/e-Arşiv mükellefi olmayanlar bile, 5.000 TL (vergi mükellefi olmayanlara 30.000 TL) üzeri satışlar için e-Arşiv kullanmak zorundadır.
-
-Özellikler
 
 ### e-Arşiv Fatura programının öne çıkan özellikleri nelerdir?
 
@@ -472,8 +438,6 @@ DİA ERP, Logo, Mikro, Netsis, ETA ile native uyum.
 
 Her yerden, her cihazdan fatura kesin.
 
-Faydalar
-
 ### e-Arşiv Fatura ile hangi avantajlar sağlanır?
 
 #### Anlık İletim
@@ -491,8 +455,6 @@ GİB onaylı altyapı ile mevzuata tam uyum.
 #### Kolay Arama
 
 Yıllar öncesine ait faturaları saniyede bulun.
-
-Sıkça Sorulan Sorular
 
 ### e-Arşiv Fatura hakkında sık sorulan sorular nelerdir?
 
@@ -522,19 +484,13 @@ e-Arşiv Fatura mükellefi olduktan sonra kağıt fatura kesmeniz yasaktır. Tü
 Kaynak: https://www.e-devlethizmetleri.com/urunler/e-defter
 Özet: e-Defter programı ile yevmiye ve büyük defterlerinizi elektronik ortamda oluşturun, beraat alın, 10 yıl güvenle saklayın. Otomatik GİB gönderim.
 
-e-Defter Çözümü
-
 Yevmiye ve büyük defterlerinizi elektronik ortamda oluşturun. Otomatik mali mühür, beraat hazırlama, GİB'e tek tıkla aylık yükleme.
-
-e-Defter Nedir?
 
 ### e-Defter nedir?
 
 e-Defter, ticari işlemlerin kaydedildiği yevmiye ve büyük defterlerin elektronik ortamda oluşturulup mali mühürle imzalanan ve XBRL-GL formatında GİB'e raporlanan dijital muhasebe defterleridir. 1 Sıra No.lu Elektronik Defter Genel Tebliği ile düzenlenmiştir.
 
 e-Defter, kağıt defterin yerini tam anlamıyla alır ve hukuken eşdeğerdir. Aylık dönemlerde GİB'e yüklenir, beraat dosyaları oluşturulur ve 10 yıl saklanır.
-
-Zorunluluk
 
 ### e-Defter zorunluluk kriterleri nelerdir?
 
@@ -553,8 +509,6 @@ e-Defter'e geçiş yılın sonunda yapılır; mali yılın başında zorunluluk 
 #### Cezai Yaptırım
 
 Zorunluluğa uymamak özel usulsüzlük cezasına neden olur.
-
-Özellikler
 
 ### e-Defter programının öne çıkan özellikleri nelerdir?
 
@@ -582,8 +536,6 @@ Yasal saklama süresince güvenli bulut arşivi.
 
 Tüm büyük ERP'ler ile native uyum.
 
-Faydalar
-
 ### e-Defter işletmenize ne gibi faydalar sağlar?
 
 #### Zaman Tasarrufu
@@ -601,8 +553,6 @@ Kağıt defter kullanımı sıfırlanır.
 #### Hızlı Raporlama
 
 Dönemsel raporlar saniyede hazırlanır.
-
-Sıkça Sorulan Sorular
 
 ### e-Defter hakkında sık sorulan sorular nelerdir?
 
@@ -628,19 +578,13 @@ Uzman ekibimiz geçiş sürecinizi A'dan Z'ye yönetsin. Ücretsiz demo ile baş
 Kaynak: https://www.e-devlethizmetleri.com/urunler/e-dekont
 Özet: e-Dekont programı ile bankacılık dekontlarınızı elektronik ortamda yönetin, otomatik eşleştirin, muhasebeye aktarın. Çoklu hesap desteği.
 
-e-Dekont Çözümü
-
 Banka dekontlarınızı elektronik ortamda yönetin, otomatik olarak muhasebe kayıtlarınızla eşleştirin. Çoklu banka hesabı, anlık kontrol ve takip.
-
-e-Dekont Nedir?
 
 ### e-Dekont nedir?
 
 e-Dekont, bankalardan ve finansal kurumlardan gelen ödeme ve tahsilat dekontlarının elektronik ortamda yönetilmesini sağlayan çözümdür. Bankaların API ve dosya formatlarıyla entegre çalışarak dekontları anlık olarak muhasebe kayıtlarınızla eşleştirir.
 
 Çoklu banka hesabı, anlık bakiye takibi, otomatik mutabakat ve detaylı raporlama sayesinde finansal yönetiminizi tek bir panelden yapabilirsiniz.
-
-Özellikler
 
 ### e-Dekont programının öne çıkan özellikleri nelerdir?
 
@@ -668,8 +612,6 @@ Tutar, tarih, açıklama bazlı detaylı arama.
 
 Muhasebe yazılımınıza otomatik aktarım.
 
-Sıkça Sorulan Sorular
-
 ### e-Dekont hakkında sık sorulan sorular nelerdir?
 
 #### Hangi bankalarla entegrasyon mevcut?
@@ -694,19 +636,13 @@ e-Dekont ile finansal süreçlerinizi otomatikleştirin, hatasız ve hızlı yö
 Kaynak: https://www.e-devlethizmetleri.com/urunler/e-doviz
 Özet: e-Döviz programı ile döviz büfeleri ve yetkili müesseseler için elektronik döviz alım-satım belgesi düzenleyin. MASAK uyumlu, anlık kur takibi.
 
-e-Döviz Belgesi
-
 Yetkili müesseseler ve döviz büfeleri için elektronik döviz alım-satım belgesi (e-DAS). MASAK uyumlu, anlık kur takibi, otomatik raporlama.
-
-e-Döviz Nedir?
 
 ### e-Döviz nedir?
 
 e-Döviz, döviz büfeleri ve yetkili müesseselerin döviz alım-satım işlemlerini elektronik ortamda belgelendirme zorunluluğudur. 509 Sıra No.lu Vergi Usul Kanunu Genel Tebliği ile düzenlenmiştir. Hazine ve Maliye Bakanlığı'nca yetkilendirilmiş tüm döviz büfeleri için zorunludur.
 
 e-Döviz belgesi, her alım veya satım işleminde anında düzenlenir; müşteriye verilir ve GİB sistemine raporlanır. Aynı zamanda MASAK (Mali Suçları Araştırma Kurulu) gereksinimlerini de karşılar.
-
-Özellikler
 
 ### e-Döviz programının öne çıkan özellikleri nelerdir?
 
@@ -734,8 +670,6 @@ Günlük, haftalık, aylık döviz işlem raporları.
 
 USD, EUR, GBP, CHF ve diğer tüm dövizler.
 
-Sıkça Sorulan Sorular
-
 ### e-Döviz hakkında sık sorulan sorular nelerdir?
 
 #### e-Döviz tüm döviz büfeleri için zorunlu mu?
@@ -760,19 +694,13 @@ MASAK uyumlu, GİB onaylı çözümümüzü ücretsiz demo ile inceleyin.
 Kaynak: https://www.e-devlethizmetleri.com/urunler/e-fatura
 Özet: GİB onaylı e-Fatura programı ile mükellef olan müşterilerinize hızlı, hatasız ve yasal e-fatura kesin. ERP entegrasyonu, toplu fatura, 7/24 destek.
 
-e-Fatura Çözümü
-
 Mükellef olan müşterilerinize saniyeler içinde elektronik fatura kesin. Toplu fatura, otomatik mali mühür ve ERP entegrasyonuyla iş yükünüzü %80'e varan oranda azaltın.
-
-e-Fatura Nedir?
 
 ### e-Fatura (Elektronik Fatura) nedir?
 
 e-Fatura, kağıt fatura ile aynı hukuki niteliklere sahip olan, fakat tamamen elektronik ortamda düzenlenen, iletilen, saklanan ve sunulan fatura türüdür. 397 Sıra No.lu Vergi Usul Kanunu Genel Tebliği ile düzenlenmiş olup, Gelir İdaresi Başkanlığı (GİB) tarafından zorunlu hale getirilmiştir.
 
 e-Fatura sadece e-Fatura kullanıcısı olan (mükellef olan) firmalar arasında düzenlenebilir. Karşı taraf e-Fatura mükellefi değilse e-Arşiv Fatura kullanılır. e-Fatura, GİB'in özel bir mali mühür altyapısı üzerinden güvenli olarak iletilir.
-
-Kimler İçin Zorunlu?
 
 ### e-Fatura zorunluluk kriterleri nelerdir?
 
@@ -791,8 +719,6 @@ Zorunluluğa rağmen e-Fatura'ya geçiş yapmayan mükelleflere VUK md. 353 uyar
 #### Gönüllü Geçiş
 
 Zorunluluk kriterlerine girmeseniz dahi, dijital muhasebeye geçiş için gönüllü olarak e-Fatura kullanıcısı olabilirsiniz.
-
-Özellikler
 
 ### e-Fatura programımızın öne çıkan özellikleri nelerdir?
 
@@ -828,8 +754,6 @@ DİA ERP, Logo, Mikro, Netsis, ETA, SAP ile sorunsuz entegrasyon.
 
 Mobil uyumlu arayüz ile her yerden fatura kesin ve takip edin.
 
-Faydalar
-
 ### e-Fatura'ya geçişin işletmenize getirileri nelerdir?
 
 #### Zaman Tasarrufu
@@ -847,8 +771,6 @@ Kağıt kullanımını sıfıra indirir, sürdürülebilirliğe katkı sağlar.
 #### Hatasız Süreç
 
 Otomatik kontrol mekanizmaları sayesinde insan hatasını minimize eder.
-
-ERP Entegrasyonu
 
 ### e-Fatura mevcut yazılımınızla uyumlu çalışır mı?
 
@@ -888,8 +810,6 @@ Müşavir
 
 ★ Umay Bilişim, DİA ERP'nin Türkiye'deki en önemli çözüm ortaklarından biridir.
 
-Sıkça Sorulan Sorular
-
 ### e-Fatura hakkında sık sorulan sorular nelerdir?
 
 #### e-Fatura ile e-Arşiv arasındaki fark nedir?
@@ -918,19 +838,13 @@ Ekibimiz işletmenizi inceleyerek size özel kurulum planı sunsun. Demo tamamen
 Kaynak: https://www.e-devlethizmetleri.com/urunler/e-gider-pusulasi
 Özet: e-Gider Pusulası programı ile vergi mükellefi olmayan kişilere yapılan ödemeleri elektronik ortamda belgelendirin. Otomatik stopaj, KDV tevkifat.
 
-e-Gider Pusulası
-
 Vergi mükellefi olmayan kişilerden yapılan alımlar ve hizmet alımları için elektronik gider pusulası. Otomatik stopaj hesaplama, KDV tevkifat, yasal uyum.
-
-e-Gider Pusulası Nedir?
 
 ### e-Gider Pusulası nedir?
 
 e-Gider Pusulası, mükellef olmayan kişilerden veya işletmelerden satın alınan mal veya alınan hizmetlerin belgelendirilmesi amacıyla düzenlenen pusulanın elektronik biçimidir. 509 Sıra No.lu Vergi Usul Kanunu Genel Tebliği ile düzenlenmiştir.
 
 Vergi mükellefi olmayan gerçek kişilerden yapılan mal/hizmet alımlarında zorunlu olan bu belge, alıcı tarafından düzenlenir; stopaj ve gerektiğinde KDV tevkifatı yapılır.
-
-Özellikler
 
 ### e-Gider Pusulası programının öne çıkan özellikleri nelerdir?
 
@@ -958,8 +872,6 @@ Tedarikçiye verilebilir basılı pusula çıktısı.
 
 Muhasebe yazılımınıza otomatik aktarım.
 
-Sıkça Sorulan Sorular
-
 ### e-Gider Pusulası hakkında sık sorulan sorular nelerdir?
 
 #### Hangi durumlarda e-Gider Pusulası düzenlenir?
@@ -984,19 +896,13 @@ Vergi yükümlülüklerinizde otomasyonla hatasız ve hızlı süreç.
 Kaynak: https://www.e-devlethizmetleri.com/urunler/e-irsaliye
 Özet: e-İrsaliye programı ile mal sevkiyatlarınızı elektronik ortamda hızlıca düzenleyin. Şoför mobil uygulaması, anlık sevkiyat onayı, GİB uyumlu.
 
-e-İrsaliye Çözümü
-
 Mal sevkiyatlarınızı elektronik ortamda anında belgelendirin. Şoför mobil uygulaması, anlık onay sistemi ve tam GİB uyumu ile sevkiyat süreçleri sıfırlansın.
-
-e-İrsaliye Nedir?
 
 ### e-İrsaliye nedir?
 
 e-İrsaliye, kağıt sevk irsaliyesinin yerini alan ve mal hareketlerinin elektronik ortamda kayıt altına alındığı belgedir. 487 Sıra No.lu Vergi Usul Kanunu Genel Tebliği ile düzenlenmiştir. Sevk irsaliyesi düzenleme zorunluluğu olan mükellefler için kademeli olarak zorunlu hale getirilmiştir.
 
 e-İrsaliye, mal sevkiyatı sırasında düzenlenir ve mal hareketi GİB sistemine elektronik olarak raporlanır. Bu sayede yol kontrollerinde irsaliyenin doğruluğu anında teyit edilir; nakliye süreçleri hızlanır ve denetim daha şeffaf hale gelir.
-
-Zorunluluk
 
 ### e-İrsaliye kullanmak kimler için zorunludur?
 
@@ -1015,8 +921,6 @@ Hal komisyoncuları ve tüccarlar zorunlu olarak e-İrsaliye kullanır.
 #### Hurda & Metal
 
 Demir-çelik ve hurda metal ticareti yapan firmalar zorunluluğa dahildir.
-
-Özellikler
 
 ### e-İrsaliye programının öne çıkan özellikleri nelerdir?
 
@@ -1044,8 +948,6 @@ Depo yönetim sistemleri ile sorunsuz entegrasyon.
 
 DİA ERP, Logo, Mikro, Netsis ve diğer ERP'lerle uyumlu.
 
-Faydalar
-
 ### e-İrsaliye işletmenize ne gibi faydalar sağlar?
 
 #### Hızlı Sevkiyat
@@ -1063,8 +965,6 @@ Kağıt, baskı, arşivleme giderleri sıfıra iner.
 #### Tam Şeffaflık
 
 Tüm sevkiyatlar dijital olarak izlenir, hata payı düşer.
-
-Sıkça Sorulan Sorular
 
 ### e-İrsaliye hakkında sık sorulan sorular nelerdir?
 
@@ -1090,19 +990,13 @@ Düzenlenmiş bir e-İrsaliye sevkiyat başlamadan iptal edilebilir. Sevkiyat ba
 Kaynak: https://www.e-devlethizmetleri.com/urunler/e-mm
 Özet: e-Müstahsil Makbuzu (e-MM) programı ile zirai ve hayvansal ürün alımlarınızı elektronik ortamda belgelendirin. Otomatik vergi hesaplama, mobil destek.
 
-e-Müstahsil Makbuzu
-
 Zirai ve hayvansal ürünlerin çiftçilerden alımında düzenlenmesi zorunlu olan müstahsil makbuzlarınızı elektronik ortamda hızlı ve hatasız hazırlayın.
-
-e-MM Nedir?
 
 ### e-Müstahsil Makbuzu (e-MM) nedir?
 
 e-Müstahsil Makbuzu, çiftçilerden veya gerçek usulde vergiye tabi olmayan üreticilerden alınan zirai ürünler ile hayvansal üretim ürünlerinin alımında düzenlenmesi zorunlu olan müstahsil makbuzunun elektronik versiyonudur. 487 ve 509 Sıra No.lu VUK Genel Tebliğleri ile düzenlenmiştir.
 
 Hal komisyoncuları, gıda ve tarım ürünleri toptancıları, et-süt sanayi firmaları, fındık-pamuk-tütün gibi tarım ürünleri alımcıları için zorunludur.
-
-Özellikler
 
 ### e-MM programının öne çıkan özellikleri nelerdir?
 
@@ -1130,8 +1024,6 @@ Sezon dönemlerinde toplu makbuz düzenleme.
 
 Muhasebe yazılımınıza otomatik aktarım.
 
-Sıkça Sorulan Sorular
-
 ### e-MM hakkında sık sorulan sorular nelerdir?
 
 #### e-MM kimler için zorunlu?
@@ -1156,19 +1048,13 @@ Sezonsal yoğunluğun olduğu dönemlerde bile hatasız müstahsil makbuzu düze
 Kaynak: https://www.e-devlethizmetleri.com/urunler/e-smm
 Özet: e-SMM (e-Serbest Meslek Makbuzu) programı ile doktor, avukat, mali müşavir gibi serbest meslek erbabı için elektronik makbuz düzenleyin. Mobil destek.
 
-e-Serbest Meslek Makbuzu
-
 Doktor, avukat, mali müşavir, mühendis ve tüm serbest meslek erbabı için elektronik serbest meslek makbuzu. Mobil cihazınızdan, her yerden, anında kesin.
-
-e-SMM Nedir?
 
 ### e-SMM (Elektronik Serbest Meslek Makbuzu) nedir?
 
 e-SMM, serbest meslek erbabının verdikleri hizmet karşılığında düzenledikleri makbuzun elektronik versiyonudur. 509 Sıra No.lu Vergi Usul Kanunu Genel Tebliği ile düzenlenmiştir. Kağıt makbuzun yerini tam olarak alır ve aynı hukuki niteliklere sahiptir.
 
 e-SMM 1 Haziran 2020'den itibaren tüm serbest meslek erbabı için zorunludur. Doktor, avukat, mali müşavir, mühendis, mimar, danışman, tercüman, ressam, müzisyen gibi tüm meslek grupları kapsama dahildir.
-
-Kimler İçin?
 
 ### e-SMM hangi meslek gruplarına hitap eder?
 
@@ -1187,8 +1073,6 @@ Kimler İçin?
 #### Tercümanlar
 
 #### Sanatçılar
-
-Özellikler
 
 ### e-SMM programının özellikleri nelerdir?
 
@@ -1216,8 +1100,6 @@ Gelir ve KDV beyannamesi için hazır raporlar.
 
 10 yıl yasal saklama dahil.
 
-Sıkça Sorulan Sorular
-
 ### e-SMM hakkında sık sorulan sorular nelerdir?
 
 #### Mali mühür mü, elektronik imza mı gerekli?
@@ -1242,19 +1124,13 @@ Kolay kullanımlı arayüzü ile e-SMM'yi hemen kullanmaya başlayın.
 Kaynak: https://www.e-devlethizmetleri.com/urunler/gib-btrans
 Özet: GİB Btrans (Bilgi Transfer Sistemi) entegrasyonu ile toplu belge gönderim, XML format dönüşüm ve otomatik hata raporlama. Hızlı, güvenli, yasal.
 
-GİB Bilgi Transfer Sistemi
-
 GİB Bilgi Transfer Sistemi üzerinden toplu e-belge gönderim, XML format dönüşüm, otomatik hata raporlama ve büyük hacimli veri aktarımı için profesyonel çözüm.
-
-GİB Btrans Nedir?
 
 ### GİB Btrans (Bilgi Transfer Sistemi) nedir?
 
 GİB Btrans, Gelir İdaresi Başkanlığı'nın belge alışverişi için sunduğu güvenli veri transfer altyapısıdır. Özel entegratörler ve büyük mükellefler bu kanal üzerinden e-Fatura, e-Arşiv ve diğer e-belge tiplerini toplu olarak gönderir ve alır.
 
 Btrans çözümümüz, web servisleri üzerinden yüksek hacimli işlemler yapabilen, otomatik retry, hata yönetimi, XML şema doğrulama ve detaylı log altyapısına sahip profesyonel bir köprü hizmetidir.
-
-Özellikler
 
 ### Btrans çözümünün öne çıkan özellikleri nelerdir?
 
@@ -1282,8 +1158,6 @@ Geçici hatalarda otomatik tekrar gönderim.
 
 Tüm veri trafiği şifreli kanaldan iletilir.
 
-Sıkça Sorulan Sorular
-
 ### Btrans hakkında sık sorulan sorular nelerdir?
 
 #### Btrans entegrasyonu kimler için uygun?
@@ -1309,8 +1183,6 @@ Btrans çözümümüz ile binlerce belgeyi saniyelerde gönderin.
 ## Aklınızdaki tüm soruların yanıtları
 Kaynak: https://www.e-devlethizmetleri.com/sss
 Özet: e-Fatura, e-Arşiv, e-Defter, e-İrsaliye ve diğer e-belge çözümleri hakkında sıkça sorulan soruların yanıtları. Geçiş süreci, entegrasyon ve daha fazlası.
-
-Sıkça Sorulan Sorular
 
 e-Belge geçiş süreci, zorunluluklar, entegrasyon ve teknik destek hakkında en sık sorulan sorular ve detaylı yanıtları.
 
@@ -1428,11 +1300,7 @@ Uzman ekibimize ulaşın, sorularınızı yanıtlayalım.
 Kaynak: https://www.e-devlethizmetleri.com/hakkimizda
 Özet: Umay Bilişim, 15+ yıllık deneyimiyle Türkiye'nin e-belge çözümleri uzmanı. Misyonumuz, vizyonumuz ve değerlerimiz hakkında detaylı bilgi.
 
-Hakkımızda
-
 Umay Bilişim olarak, dijital dönüşümün öncülerinden olarak işletmelere e-belge çözümleri sunuyoruz. 15 yılı aşkın deneyimimiz, binlerce mutlu müşterimiz ve uzman ekibimizle yanınızdayız.
-
-Hikayemiz
 
 ### Umay Bilişim'in hikâyesi nedir?
 
@@ -1441,8 +1309,6 @@ Umay Tüm Bilişim ve Eğitim Danışmanlık Yazılım Ltd. Şti., 2011 yılınd
 Türkiye'de e-Fatura zorunluluğunun başlamasıyla birlikte e-belge çözümlerine odaklandık. Bugün; e-Fatura, e-Arşiv, e-Defter, e-İrsaliye, e-SMM dahil 11 GİB onaylı modülü tek çatı altında sunan, Türkiye genelinde binlerce işletmenin tercihi olan bir çözüm ortağıyız.
 
 Misyonumuz; KOBİ'lerden büyük kurumsal firmalara kadar her ölçekteki işletmenin dijital muhasebe dönüşümünü hızlandırmak. Vizyonumuz; Türkiye'nin en güvenilir ve yenilikçi e-belge platformu olmak.
-
-Değerlerimiz
 
 ### Umay Bilişim hangi ilkelerle çalışır?
 
@@ -1470,8 +1336,6 @@ Yıllık Deneyim
 e-Belge Ürünü
 0
 Uzman Personel
-
-Neden Biz?
 
 ### Neden Umay Bilişim'i seçmelisiniz?
 
@@ -1504,8 +1368,6 @@ DİA ERP, Logo, Mikro, Netsis, ETA, SAP gibi tüm popüler ERP yazılımlarıyla
 ## Umay Kampanyaları
 Kaynak: https://www.e-devlethizmetleri.com/kampanyalar
 Özet: Umay e-Belge kampanyaları: e-Fatura ve e-İrsaliye'de %25 indirim, Mali Müşavirlere ücretsiz e-Defter, Veterinerlere özel e-SMM paketi ve daha fazlası.
-
-Özel Fırsatlar
 
 Yeni müşterilerimize ve özel segmentlere sunduğumuz indirim ve avantaj paketleri. Her kampanya sınırlı sürelidir, hemen başvurun.
 
@@ -1571,8 +1433,6 @@ SMMM'lere Özel Sınırsız Kontör Ek Ücret Yok
 
 * Kampanyalar belirli koşullara tabidir ve sınırlı sürelidir. Detaylar için ekibimizle iletişime geçin.
 
-Kampanya Başvurusu
-
 ### Hemen başvurun, size dönelim
 
 Uzman ekibimiz 1 iş saati içinde sizi arar, seçtiğiniz kampanyanın detaylarını ve aktivasyon adımlarını anlatır.
@@ -1588,8 +1448,6 @@ WhatsApp
 ## Sorularınızı yanıtlayalım
 Kaynak: https://www.e-devlethizmetleri.com/iletisim
 Özet: Umay Bilişim ile iletişime geçin. Telefon: 0 264 777 11 45 / 0 850 777 11 45 | WhatsApp | E-posta: bilgi@umaybilisim.com.tr | Sakarya merkez ofisimiz.
-
-Bize Ulaşın
 
 Demo talebi, fiyat bilgisi, teknik destek veya iş birliği — uzman ekibimiz size yardımcı olmak için hazır.
 
@@ -1617,13 +1475,9 @@ Meydan54 AVM B1 Blok K:2 D:84
 Pazartesi - Cuma: 09:00 - 18:00
 Cumartesi - Pazar: Kapalı
 
-İletişim Formu
-
 ### Bize yazın
 
 Formu doldurun, mesajınız WhatsApp veya e-posta ile ekibimize ulaşsın. Bilgileriniz sitemizde saklanmaz.
-
-Sosyal Medya
 
 ### Bizi takip edin
 
