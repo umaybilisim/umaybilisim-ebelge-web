@@ -29,10 +29,10 @@ Sıradaki oturumda birlikte yapılacak:
 - [ ] Madde 56: OG etiketleri/görseli sunucu tarafında doğrula; WhatsApp önizlemesini kullanıcı kendi telefonundan dener
 - [ ] Madde 41: Bing Site Diagnostics tarama sonrası yeniden bak (tarama verisi gelince)
 
-### GSC "Keşfedildi - şu anda dizine eklenmiş değil" (28 sayfa) — 25.09.2026'da başlandı
-GSC Sayfa dizine ekleme raporunda gerçek/geçerli 28 sayfa Google tarafından keşfedilmiş ama hiç taranmamıştı (Son tarama: Yok). URL Inspection > "Dizine eklenmesini iste" ile öncelikli tarama sırasına eklendi. Günlük kota ~11 istekte doldu ("Kota Aşıldı" hatası), kalanlar yarına kaldı.
-- [x] hakkimizda, gizlilik-politikasi, kvkk (zaten dizine eklenmişti, istek gerekmedi), sss (zaten dizine eklenmişti), urunler, urunler/e-adisyon, urunler/e-arsiv-fatura, urunler/e-defter, urunler/e-dekont, urunler/e-doviz, urunler/e-fatura, urunler/e-gider-pusulasi, urunler/e-smm
-- [ ] **Yarın devam:** urunler/gib-btrans, iller/adana, iller/ankara, iller/antalya, iller/bursa, iller/denizli, iller/gaziantep, iller/istanbul, iller/izmir, iller/kocaeli, iller/konya, iller/manisa, iller/mersin, iller/sakarya, iller/samsun (GSC > URL denetimi kutusuna tam URL yaz, Enter, "Dizine eklenmesini iste" düğmesine bas; günde ~11 istekle sınırlı, birkaç güne yayılabilir)
+### GSC "Keşfedildi - şu anda dizine eklenmiş değil" (28 sayfa) — 25.09.2026'da başlandı, 02.10.2026'da sürdürüldü
+GSC Sayfa dizine ekleme raporunda gerçek/geçerli 28 sayfa Google tarafından keşfedilmiş ama hiç taranmamıştı (Son tarama: Yok). URL Inspection > "Dizine eklenmesini iste" ile öncelikli tarama sırasına eklendi. Günlük kota ~11-13 istekte doluyor ("Kota Aşıldı" hatası). 02.10.2026'da `/hakkimizda` dahil 25.09'da gönderilenlerin dizine eklendiği doğrulandı.
+- [x] hakkimizda, gizlilik-politikasi, kvkk, sss (son 2'si zaten dizine eklenmişti), urunler, urunler/e-adisyon, urunler/e-arsiv-fatura, urunler/e-defter, urunler/e-dekont, urunler/e-doviz, urunler/e-fatura, urunler/e-gider-pusulasi, urunler/e-smm, urunler/gib-btrans, iller/adana, iller/ankara, iller/antalya, iller/bursa, iller/denizli, iller/gaziantep, iller/istanbul, iller/izmir, iller/kocaeli, iller/konya (son 2'si zaten dizine eklenmişti), iller/mersin
+- [ ] **Devam (kota 02.10.2026'da doldu):** iller/sakarya, iller/samsun — GSC > URL denetimi kutusuna tam URL yaz, Enter, "Dizine eklenmesini iste" düğmesine bas
 
 Müşteri tarafı (benden bağımsız):
 - [ ] 52 Google İşletme Profili (önce Maps'te mevcut kaydı ara/sahiplen), 53 Yandex Business, 55 müşteri yorumları, 58 yasal metinlerin avukat kontrolü, 59 stok görsellerin kendi fotoğraflarla değiştirilmesi
