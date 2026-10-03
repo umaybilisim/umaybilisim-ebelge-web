@@ -1,5 +1,26 @@
 # Yapılacaklar
 
+## ▶ NEREDE KALDIK (son güncelleme: 03.10.2026)
+
+**Son oturumda yapılanlar (02-03.10.2026):**
+- GSC "Keşfedildi – dizine eklenmedi" 28 sayfanın 26'sı için dizine ekleme istendi; `/hakkimizda` dizine girdi.
+- GSC Satıcı girişleri uyarısı: 11 ürün sayfasına `validFrom` + PNG `image` eklendi.
+- Bing Site Scan: 0 hata; 6 uzun title kısaltıldı (madde 41 ✓). IndexNow doğrulandı (madde 38 ✓). GA4 `generate_lead` önemli etkinlik yapıldı (madde 50 ✓).
+- Microsoft Clarity kuruldu (çerez onayına bağlı, proje `yrt2ho1mkm`).
+- Şehir sayfaları: 30 LocalBusiness → Service şeması; yerinde destek yalnızca Sakarya, Kocaeli, Düzce, Bolu, Bilecik, İstanbul, Bursa; diğerleri uzaktan.
+- Genel kullanım şablonu: `site-yayin-kontrol-sablonu.xlsx` (172 madde, yapay zekâ talimatlı).
+
+**Sıradaki işler:**
+1. [ ] **GSC:** `iller/sakarya` ve `iller/samsun` için dizine ekleme iste (kota iki gün dolu çıktı; GSC > URL denetimi).
+2. [ ] **4 Ekim kontrol turu:** GSC dizine ekleme + Satıcı girişleri raporu (validFrom/image düzeldi mi), Bing, Yandex, GA4, IndexNow (ayrıntı aşağıda).
+3. [ ] **Puan şeması riski:** Ürün sayfalarındaki `aggregateRating` (ör. e-Fatura 4.9 / 184 yorum) gerçek, doğrulanabilir yorumlara dayanıyor mu? Değilse kaldırılmalı (uydurma puan = manuel işlem riski). Müşteriye sorulacak.
+4. [ ] **Clarity:** Panelde kayıt geliyor mu kontrol et (https://clarity.microsoft.com/projects/view/yrt2ho1mkm).
+5. [ ] **WhatsApp önizlemesi (madde 56):** Siteyi kendi telefonunda WhatsApp'tan kendine gönder; görsel/başlık doğru mu.
+6. [ ] **Şehir referansları:** Müşteriden Kocaeli, İstanbul, Bursa ve büyük sanayi şehirleri için gerçek referans iste (ayrıntı aşağıda).
+7. [ ] **Müşteri tarafı:** Google İşletme Profili, Yandex Business, müşteri yorumları, avukat kontrolü, gerçek fotoğraflar; sonra NAP karşılaştırması.
+
+---
+
 ## Mobil LCP İyileştirmesi (PageSpeed Insights - Mobil 85/100)
 - LCP şu an: 3,3 sn (hedef: <2,5 sn)
 - Muhtemel nedenler:
@@ -23,11 +44,10 @@
 - GA4 Etkinlikler → Son etkinlikler listesinde generate_lead görününce (birkaç saat) yıldızına basıp önemli etkinlik yap (mülk 555135547)
 
 ## Excel Kalan Maddeler (yeni-site-kontrol-listesi.xlsx, 21.09.2026 itibarıyla)
-Sıradaki oturumda birlikte yapılacak:
-- [ ] Madde 38: Bing Webmaster > IndexNow sekmesinde gönderimlerin göründüğünü doğrula
-- [ ] Madde 50: generate_lead GA4 Etkinlikler listesinde mi bak; varsa önemli etkinlik (yıldız) yap
-- [ ] Madde 56: OG etiketleri/görseli sunucu tarafında doğrula; WhatsApp önizlemesini kullanıcı kendi telefonundan dener
-- [ ] Madde 41: Bing Site Diagnostics tarama sonrası yeniden bak (tarama verisi gelince)
+- [x] Madde 38: IndexNow gönderimleri Bing'de görünüyor (03.10.2026)
+- [x] Madde 50: generate_lead önemli etkinlik yapıldı (03.10.2026)
+- [ ] Madde 56: OG sunucu tarafı doğrulandı; WhatsApp önizlemesini kullanıcı kendi telefonundan dener
+- [x] Madde 41: Bing Site Scan 0 hata, 6 title uyarısı giderildi (03.10.2026)
 
 ### GSC "Keşfedildi - şu anda dizine eklenmiş değil" (28 sayfa) — 25.09.2026'da başlandı, 02.10.2026'da sürdürüldü
 GSC Sayfa dizine ekleme raporunda gerçek/geçerli 28 sayfa Google tarafından keşfedilmiş ama hiç taranmamıştı (Son tarama: Yok). URL Inspection > "Dizine eklenmesini iste" ile öncelikli tarama sırasına eklendi. Günlük kota ~11-13 istekte doluyor ("Kota Aşıldı" hatası). 02.10.2026'da `/hakkimizda` dahil 25.09'da gönderilenlerin dizine eklendiği doğrulandı.
