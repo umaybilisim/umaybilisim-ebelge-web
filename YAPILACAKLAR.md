@@ -34,6 +34,11 @@ GSC Sayfa dizine ekleme raporunda gerçek/geçerli 28 sayfa Google tarafından k
 - [x] hakkimizda, gizlilik-politikasi, kvkk, sss (son 2'si zaten dizine eklenmişti), urunler, urunler/e-adisyon, urunler/e-arsiv-fatura, urunler/e-defter, urunler/e-dekont, urunler/e-doviz, urunler/e-fatura, urunler/e-gider-pusulasi, urunler/e-smm, urunler/gib-btrans, iller/adana, iller/ankara, iller/antalya, iller/bursa, iller/denizli, iller/gaziantep, iller/istanbul, iller/izmir, iller/kocaeli, iller/konya (son 2'si zaten dizine eklenmişti), iller/mersin
 - [ ] **Devam (kota 02.10.2026'da doldu):** iller/sakarya, iller/samsun — GSC > URL denetimi kutusuna tam URL yaz, Enter, "Dizine eklenmesini iste" düğmesine bas
 
+### Şehir sayfalarını güçlendirme (03.10.2026 analizi)
+Şehir sayfaları doorway spam değil ama zayıf: ortalama ~450 kelime, sayfaya özgü içerik ~%44 (en zayıf: Samsun, Tekirdağ, Diyarbakır, Van, Malatya %36-39). Şema ve yerinde/uzaktan destek ifadeleri düzeltildi (commit b5b35ff).
+- [ ] Müşteriden şehir bazlı gerçek referans/müşteri örnekleri iste (izinli firma adı, sektör, yapılan iş) ve ilgili şehir sayfalarına ekle; önce yerinde destek illeri (Kocaeli, İstanbul, Bursa) ve büyük sanayi şehirleri.
+- [ ] Referans gelmeyen zayıf şehirler için karar: içerik genişletme mi, tek "Hizmet bölgeleri" sayfasında birleştirme mi.
+
 Müşteri tarafı (benden bağımsız):
 - [ ] 52 Google İşletme Profili (önce Maps'te mevcut kaydı ara/sahiplen), 53 Yandex Business, 55 müşteri yorumları, 58 yasal metinlerin avukat kontrolü, 59 stok görsellerin kendi fotoğraflarla değiştirilmesi
 - [ ] Madde 54: NAP tutarlılığı; 52 ve 53 açılınca Google/Yandex/sosyal medya ile karşılaştır
