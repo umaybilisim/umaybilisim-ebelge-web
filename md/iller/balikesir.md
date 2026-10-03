@@ -52,9 +52,9 @@ Detay
 
 ## Neden Balıkesir işletmeleri bizi tercih ediyor?
 
-### Bölgesel Destek
+### Uzaktan Kurulum
 
-Karesi, Altıeylül, Bandırma ve Edremit başta olmak üzere Balıkesir genelinde hızlı kurulum ve eğitim.
+Karesi, Altıeylül, Bandırma ve Edremit başta olmak üzere Balıkesir genelinde uzaktan hızlı kurulum ve online eğitim; zorunlu durumlarda yerinde destek planlanır.
 
 ### Sektöre Özel
 

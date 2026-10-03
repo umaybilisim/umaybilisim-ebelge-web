@@ -52,9 +52,9 @@ Detay
 
 ## Neden Adana işletmeleri bizi tercih ediyor?
 
-### Bölgesel Destek
+### Uzaktan Kurulum
 
-Seyhan, Çukurova, Yüreğir ve Ceyhan başta olmak üzere Adana genelinde hızlı kurulum ve eğitim.
+Seyhan, Çukurova, Yüreğir ve Ceyhan başta olmak üzere Adana genelinde uzaktan hızlı kurulum ve online eğitim; zorunlu durumlarda yerinde destek planlanır.
 
 ### Sektöre Özel
 

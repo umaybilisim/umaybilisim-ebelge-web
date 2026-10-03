@@ -52,9 +52,9 @@ Detay
 
 ## Neden Erzurum işletmeleri bizi tercih ediyor?
 
-### Bölgesel Destek
+### Uzaktan Kurulum
 
-Yakutiye, Palandöken, Aziziye ve Oltu başta olmak üzere Erzurum genelinde hızlı kurulum ve eğitim.
+Yakutiye, Palandöken, Aziziye ve Oltu başta olmak üzere Erzurum genelinde uzaktan hızlı kurulum ve online eğitim; zorunlu durumlarda yerinde destek planlanır.
 
 ### Sektöre Özel
 
@@ -80,7 +80,7 @@ Evet. Kış sezonunda yoğunlaşan konaklama işletmelerine e-Arşiv Fatura kuru
 
 ### Erzurum'da yerinde destek alıyor muyum?
 
-Bulut altyapımızla uzaktan hızlı kurulum sağlıyoruz; 7/24 Türkçe destek hattımız her aşamada yanınızda.
+Bulut altyapımızla uzaktan hızlı kurulum sağlıyoruz; 7/24 Türkçe destek hattımız her aşamada yanınızda. Zorunlu durumlarda yerinde destek planlanır.
 
 ## Erzurum'da e-belge geçişinizi bugün başlatın
 

@@ -52,9 +52,9 @@ Detay
 
 ## Neden Eskişehir işletmeleri bizi tercih ediyor?
 
-### Bölgesel Destek
+### Uzaktan Kurulum
 
-Odunpazarı, Tepebaşı ve Sivrihisar başta olmak üzere Eskişehir genelinde hızlı kurulum ve eğitim.
+Odunpazarı, Tepebaşı ve Sivrihisar başta olmak üzere Eskişehir genelinde uzaktan hızlı kurulum ve online eğitim; zorunlu durumlarda yerinde destek planlanır.
 
 ### Sektöre Özel
 

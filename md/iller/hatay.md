@@ -52,9 +52,9 @@ Detay
 
 ## Neden Hatay işletmeleri bizi tercih ediyor?
 
-### Bölgesel Destek
+### Uzaktan Kurulum
 
-Antakya, İskenderun, Dörtyol ve Defne başta olmak üzere Hatay genelinde hızlı kurulum ve eğitim.
+Antakya, İskenderun, Dörtyol ve Defne başta olmak üzere Hatay genelinde uzaktan hızlı kurulum ve online eğitim; zorunlu durumlarda yerinde destek planlanır.
 
 ### Sektöre Özel
 

@@ -52,9 +52,9 @@ Detay
 
 ## Neden Denizli işletmeleri bizi tercih ediyor?
 
-### Bölgesel Destek
+### Uzaktan Kurulum
 
-Pamukkale, Merkezefendi, Çivril ve Sarayköy başta olmak üzere Denizli genelinde hızlı kurulum ve eğitim.
+Pamukkale, Merkezefendi, Çivril ve Sarayköy başta olmak üzere Denizli genelinde uzaktan hızlı kurulum ve online eğitim; zorunlu durumlarda yerinde destek planlanır.
 
 ### Sektöre Özel
 
@@ -80,7 +80,7 @@ Ağır yük sevkiyatında e-İrsaliye, yol kontrollerinde QR kod ile anlık doğ
 
 ### OSB'deki fabrikam için yerinde kurulum var mı?
 
-Evet. Denizli OSB ve çevre ilçelerdeki firmalara kurulum ve eğitim desteği sağlıyoruz; uzaktan da hızlı geçiş mümkündür.
+Kurulum ve eğitimi uzaktan yapıyoruz; işlerimizin %95'i fabrikaya gitmeden bu şekilde tamamlanır. Zorunlu durumlarda Denizli OSB'deki tesisinize yerinde destek planlanır.
 
 ## Denizli'de e-belge geçişinizi bugün başlatın
 

@@ -52,9 +52,9 @@ Detay
 
 ## Neden Konya işletmeleri bizi tercih ediyor?
 
-### Bölgesel Destek
+### Uzaktan Kurulum
 
-Selçuklu, Meram, Karatay ve Ereğli başta olmak üzere Konya genelinde hızlı kurulum ve eğitim.
+Selçuklu, Meram, Karatay ve Ereğli başta olmak üzere Konya genelinde uzaktan hızlı kurulum ve online eğitim; zorunlu durumlarda yerinde destek planlanır.
 
 ### Sektöre Özel
 

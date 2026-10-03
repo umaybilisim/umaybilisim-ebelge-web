@@ -52,9 +52,9 @@ Detay
 
 ## Neden Kahramanmaraş işletmeleri bizi tercih ediyor?
 
-### Bölgesel Destek
+### Uzaktan Kurulum
 
-Onikişubat, Dulkadiroğlu ve Elbistan başta olmak üzere Kahramanmaraş genelinde hızlı kurulum ve eğitim.
+Onikişubat, Dulkadiroğlu ve Elbistan başta olmak üzere Kahramanmaraş genelinde uzaktan hızlı kurulum ve online eğitim; zorunlu durumlarda yerinde destek planlanır.
 
 ### Sektöre Özel
 

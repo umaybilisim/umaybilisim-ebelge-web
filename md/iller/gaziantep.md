@@ -52,9 +52,9 @@ Detay
 
 ## Neden Gaziantep işletmeleri bizi tercih ediyor?
 
-### Bölgesel Destek
+### Uzaktan Kurulum
 
-Şahinbey, Şehitkamil ve Nizip başta olmak üzere Gaziantep genelinde hızlı kurulum ve eğitim.
+Şahinbey, Şehitkamil ve Nizip başta olmak üzere Gaziantep genelinde uzaktan hızlı kurulum ve online eğitim; zorunlu durumlarda yerinde destek planlanır.
 
 ### Sektöre Özel
 

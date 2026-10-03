@@ -52,9 +52,9 @@ Detay
 
 ## Neden Trabzon işletmeleri bizi tercih ediyor?
 
-### Bölgesel Destek
+### Uzaktan Kurulum
 
-Ortahisar, Akçaabat, Of ve Vakfıkebir başta olmak üzere Trabzon genelinde hızlı kurulum ve eğitim.
+Ortahisar, Akçaabat, Of ve Vakfıkebir başta olmak üzere Trabzon genelinde uzaktan hızlı kurulum ve online eğitim; zorunlu durumlarda yerinde destek planlanır.
 
 ### Sektöre Özel
 

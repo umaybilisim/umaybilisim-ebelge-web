@@ -52,9 +52,9 @@ Detay
 
 ## Neden Mardin işletmeleri bizi tercih ediyor?
 
-### Bölgesel Destek
+### Uzaktan Kurulum
 
-Artuklu, Kızıltepe, Midyat ve Nusaybin başta olmak üzere Mardin genelinde hızlı kurulum ve eğitim.
+Artuklu, Kızıltepe, Midyat ve Nusaybin başta olmak üzere Mardin genelinde uzaktan hızlı kurulum ve online eğitim; zorunlu durumlarda yerinde destek planlanır.
 
 ### Sektöre Özel
 

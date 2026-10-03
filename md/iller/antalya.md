@@ -52,9 +52,9 @@ Detay
 
 ## Neden Antalya işletmeleri bizi tercih ediyor?
 
-### Bölgesel Destek
+### Uzaktan Kurulum
 
-Muratpaşa, Kepez, Konyaaltı ve Alanya başta olmak üzere Antalya genelinde hızlı kurulum ve eğitim.
+Muratpaşa, Kepez, Konyaaltı ve Alanya başta olmak üzere Antalya genelinde uzaktan hızlı kurulum ve online eğitim; zorunlu durumlarda yerinde destek planlanır.
 
 ### Sektöre Özel
 

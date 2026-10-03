@@ -52,9 +52,9 @@ Detay
 
 ## Neden Van işletmeleri bizi tercih ediyor?
 
-### Bölgesel Destek
+### Uzaktan Kurulum
 
-İpekyolu, Tuşba, Edremit ve Erciş başta olmak üzere Van genelinde hızlı kurulum ve eğitim.
+İpekyolu, Tuşba, Edremit ve Erciş başta olmak üzere Van genelinde uzaktan hızlı kurulum ve online eğitim; zorunlu durumlarda yerinde destek planlanır.
 
 ### Sektöre Özel
 

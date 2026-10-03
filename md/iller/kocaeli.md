@@ -52,9 +52,9 @@ Detay
 
 ## Neden Kocaeli işletmeleri bizi tercih ediyor?
 
-### Bölgesel Destek
+### Yerinde Destek
 
-İzmit, Gebze, Çayırova, Darıca ve Körfez başta olmak üzere Kocaeli genelinde hızlı kurulum ve eğitim.
+İzmit, Gebze, Çayırova, Darıca ve Körfez başta olmak üzere Kocaeli genelinde yerinde ve uzaktan kurulum, eğitim.
 
 ### Sektöre Özel
 

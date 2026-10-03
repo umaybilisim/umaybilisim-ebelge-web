@@ -4,7 +4,7 @@
 
 Kaynak: https://www.e-devlethizmetleri.com/iller/
 
-Sakarya merkez ofisimizden Türkiye'nin tüm büyükşehirlerine e-Fatura, e-Arşiv, e-Defter ve e-İrsaliye hizmeti veriyoruz. Bulut tabanlı altyapımız sayesinde kurulum ve destek uzaktan, hızlı ve kesintisiz yapılır. Şehrinizi seçin, o ile özel çözümlerimizi inceleyin.
+Sakarya merkez ofisimizden Türkiye'nin tüm büyükşehirlerine e-Fatura, e-Arşiv, e-Defter ve e-İrsaliye hizmeti veriyoruz. Sakarya, Kocaeli, Düzce, Bolu, Bilecik, İstanbul ve Bursa'da yerinde; diğer illerde bulut tabanlı altyapımızla uzaktan destek veriyoruz (işlerimizin %95'i uzaktan tamamlanır). Şehrinizi seçin, o ile özel çözümlerimizi inceleyin.
 
 ## Adana
 

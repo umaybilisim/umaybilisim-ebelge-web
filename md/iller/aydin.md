@@ -52,9 +52,9 @@ Detay
 
 ## Neden Aydın işletmeleri bizi tercih ediyor?
 
-### Bölgesel Destek
+### Uzaktan Kurulum
 
-Efeler, Nazilli, Söke ve Kuşadası başta olmak üzere Aydın genelinde hızlı kurulum ve eğitim.
+Efeler, Nazilli, Söke ve Kuşadası başta olmak üzere Aydın genelinde uzaktan hızlı kurulum ve online eğitim; zorunlu durumlarda yerinde destek planlanır.
 
 ### Sektöre Özel
 

@@ -52,9 +52,9 @@ Detay
 
 ## Neden Muğla işletmeleri bizi tercih ediyor?
 
-### Bölgesel Destek
+### Uzaktan Kurulum
 
-Menteşe, Bodrum, Marmaris, Fethiye ve Milas başta olmak üzere Muğla genelinde hızlı kurulum ve eğitim.
+Menteşe, Bodrum, Marmaris, Fethiye ve Milas başta olmak üzere Muğla genelinde uzaktan hızlı kurulum ve online eğitim; zorunlu durumlarda yerinde destek planlanır.
 
 ### Sektöre Özel
 

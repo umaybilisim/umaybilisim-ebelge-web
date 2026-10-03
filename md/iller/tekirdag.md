@@ -52,9 +52,9 @@ Detay
 
 ## Neden Tekirdağ işletmeleri bizi tercih ediyor?
 
-### Bölgesel Destek
+### Uzaktan Kurulum
 
-Süleymanpaşa, Çorlu, Çerkezköy ve Kapaklı başta olmak üzere Tekirdağ genelinde hızlı kurulum ve eğitim.
+Süleymanpaşa, Çorlu, Çerkezköy ve Kapaklı başta olmak üzere Tekirdağ genelinde uzaktan hızlı kurulum ve online eğitim; zorunlu durumlarda yerinde destek planlanır.
 
 ### Sektöre Özel
 

@@ -54,7 +54,7 @@ Detay
 
 ### Yerinde Destek
 
-Adapazarı, Erenler, Serdivan ve OSB bölgelerine yerinde kurulum ve eğitim imkânı.
+Adapazarı, Erenler, Serdivan ve OSB bölgeleriyle Kocaeli, Düzce, Bolu, Bilecik, İstanbul ve Bursa'ya yerinde kurulum ve eğitim.
 
 ### Sanayiye Özel
 

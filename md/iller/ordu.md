@@ -52,9 +52,9 @@ Detay
 
 ## Neden Ordu işletmeleri bizi tercih ediyor?
 
-### Bölgesel Destek
+### Uzaktan Kurulum
 
-Altınordu, Fatsa, Ünye ve Perşembe başta olmak üzere Ordu genelinde hızlı kurulum ve eğitim.
+Altınordu, Fatsa, Ünye ve Perşembe başta olmak üzere Ordu genelinde uzaktan hızlı kurulum ve online eğitim; zorunlu durumlarda yerinde destek planlanır.
 
 ### Sektöre Özel
 
@@ -80,7 +80,7 @@ Evet. İhracat nedeniyle e-Fatura ve e-Defter zorunludur. İhracat faturaların�
 
 ### Fatsa/Ünye'deki işletmeme yerinde destek var mı?
 
-Bulut altyapımızla uzaktan hızlı kurulum yapıyor, sezon öncesi yoğunluğa hazır şekilde kuruyoruz; 7/24 destek sağlıyoruz.
+Bulut altyapımızla uzaktan hızlı kurulum yapıyor, sezon öncesi yoğunluğa hazır şekilde kuruyoruz; 7/24 destek sağlıyoruz. Zorunlu durumlarda yerinde destek planlanır.
 
 ## Ordu'da e-belge geçişinizi bugün başlatın
 

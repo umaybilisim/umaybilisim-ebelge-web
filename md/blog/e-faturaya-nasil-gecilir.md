@@ -198,7 +198,7 @@ Umay Bilişim müşterilerine sınırsız ve ücretsiz destek sunar. Telefon, Wh
 
 ### Başka şehirde/ilde iseniz destek veriyor musunuz?
 
-Evet. Sakarya merkezli olmakla birlikte Türkiye'nin tüm illerine uzaktan ve gerektiğinde yerinde destek veriyoruz. Uzaktan kurulum ve entegrasyon için fiziksel bulunma gerekmez; tüm işlemler ekran paylaşımı ile tamamlanır.
+Evet. Sakarya merkezli olarak Sakarya, Kocaeli, Düzce, Bolu, Bilecik, İstanbul ve Bursa'ya yerinde; diğer illere uzaktan (zorunlu durumlarda yerinde) destek veriyoruz. Uzaktan kurulum ve entegrasyon için fiziksel bulunma gerekmez; tüm işlemler ekran paylaşımı ile tamamlanır.
 
 ### Hâlâ aklınızda soru varsa sormaktan çekinmeyin
 

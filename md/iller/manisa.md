@@ -52,9 +52,9 @@ Detay
 
 ## Neden Manisa işletmeleri bizi tercih ediyor?
 
-### Bölgesel Destek
+### Uzaktan Kurulum
 
-Yunusemre, Şehzadeler, Akhisar ve Salihli başta olmak üzere Manisa genelinde hızlı kurulum ve eğitim.
+Yunusemre, Şehzadeler, Akhisar ve Salihli başta olmak üzere Manisa genelinde uzaktan hızlı kurulum ve online eğitim; zorunlu durumlarda yerinde destek planlanır.
 
 ### Sektöre Özel
 

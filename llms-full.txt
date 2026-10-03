@@ -13,7 +13,7 @@
 - **Web:** https://www.e-devlethizmetleri.com
 - **Kurumsal site:** https://www.umaybilisim.com.tr
 
-> Bu dosya llms.txt'in tam içerik sürümüdür: sitenin ürün, SSS, kampanya, iletişim ve blog sayfalarının metni. Özet için: https://www.e-devlethizmetleri.com/llms.txt. Kaynak sayfalardan otomatik üretilmiştir (2026-09-21).
+> Bu dosya llms.txt'in tam içerik sürümüdür: sitenin ürün, SSS, kampanya, iletişim ve blog sayfalarının metni. Özet için: https://www.e-devlethizmetleri.com/llms.txt. Kaynak sayfalardan otomatik üretilmiştir (2026-10-03).
 
 # Ana Sayfa
 
@@ -2583,7 +2583,7 @@ Umay Bilişim müşterilerine sınırsız ve ücretsiz destek sunar. Telefon, Wh
 
 #### Başka şehirde/ilde iseniz destek veriyor musunuz?
 
-Evet. Sakarya merkezli olmakla birlikte Türkiye'nin tüm illerine uzaktan ve gerektiğinde yerinde destek veriyoruz. Uzaktan kurulum ve entegrasyon için fiziksel bulunma gerekmez; tüm işlemler ekran paylaşımı ile tamamlanır.
+Evet. Sakarya merkezli olarak Sakarya, Kocaeli, Düzce, Bolu, Bilecik, İstanbul ve Bursa'ya yerinde; diğer illere uzaktan (zorunlu durumlarda yerinde) destek veriyoruz. Uzaktan kurulum ve entegrasyon için fiziksel bulunma gerekmez; tüm işlemler ekran paylaşımı ile tamamlanır.
 
 #### Hâlâ aklınızda soru varsa sormaktan çekinmeyin
 

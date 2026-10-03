@@ -52,9 +52,9 @@ Detay
 
 ## Neden Mersin işletmeleri bizi tercih ediyor?
 
-### Bölgesel Destek
+### Uzaktan Kurulum
 
-Akdeniz, Yenişehir, Toroslar, Mezitli ve Tarsus başta olmak üzere Mersin genelinde hızlı kurulum ve eğitim.
+Akdeniz, Yenişehir, Toroslar, Mezitli ve Tarsus başta olmak üzere Mersin genelinde uzaktan hızlı kurulum ve online eğitim; zorunlu durumlarda yerinde destek planlanır.
 
 ### Sektöre Özel
 

@@ -52,9 +52,9 @@ Detay
 
 ## Neden Bursa işletmeleri bizi tercih ediyor?
 
-### Bölgesel Destek
+### Yerinde Destek
 
-Nilüfer, Osmangazi, Yıldırım, İnegöl ve Gemlik başta olmak üzere Bursa genelinde hızlı kurulum ve eğitim.
+Nilüfer, Osmangazi, Yıldırım, İnegöl ve Gemlik başta olmak üzere Bursa genelinde yerinde ve uzaktan kurulum, eğitim.
 
 ### Sektöre Özel
 

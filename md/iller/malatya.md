@@ -52,9 +52,9 @@ Detay
 
 ## Neden Malatya işletmeleri bizi tercih ediyor?
 
-### Bölgesel Destek
+### Uzaktan Kurulum
 
-Battalgazi, Yeşilyurt ve Akçadağ başta olmak üzere Malatya genelinde hızlı kurulum ve eğitim.
+Battalgazi, Yeşilyurt ve Akçadağ başta olmak üzere Malatya genelinde uzaktan hızlı kurulum ve online eğitim; zorunlu durumlarda yerinde destek planlanır.
 
 ### Sektöre Özel
 
@@ -80,7 +80,7 @@ Vergi mükellefi olmayan üreticilerden alımda e-Müstahsil Makbuzu düzenlenir
 
 ### Malatya'da uzaktan kurulum yapılıyor mu?
 
-Evet. Bulut altyapımızla hızlı uzaktan kurulum ve 7/24 Türkçe destek sağlıyoruz; yerinde destek de mümkündür.
+Evet. Bulut altyapımızla hızlı uzaktan kurulum ve 7/24 Türkçe destek sağlıyoruz. Zorunlu durumlarda yerinde destek planlanır.
 
 ## Malatya'da e-belge geçişinizi bugün başlatın
 

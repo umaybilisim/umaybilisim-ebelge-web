@@ -52,9 +52,9 @@ Detay
 
 ## Neden İstanbul işletmeleri bizi tercih ediyor?
 
-### Bölgesel Destek
+### Yerinde Destek
 
-Avrupa ve Anadolu yakası tüm ilçeler başta olmak üzere İstanbul genelinde hızlı kurulum ve eğitim.
+Avrupa ve Anadolu yakası tüm ilçeler başta olmak üzere İstanbul genelinde yerinde ve uzaktan kurulum, eğitim.
 
 ### Sektöre Özel
 

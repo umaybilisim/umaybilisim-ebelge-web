@@ -52,9 +52,9 @@ Detay
 
 ## Neden Ankara işletmeleri bizi tercih ediyor?
 
-### Bölgesel Destek
+### Uzaktan Kurulum
 
-Çankaya, Yenimahalle, Keçiören ve Sincan başta olmak üzere Ankara genelinde hızlı kurulum ve eğitim.
+Çankaya, Yenimahalle, Keçiören ve Sincan başta olmak üzere Ankara genelinde uzaktan hızlı kurulum ve online eğitim; zorunlu durumlarda yerinde destek planlanır.
 
 ### Sektöre Özel
 

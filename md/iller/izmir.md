@@ -52,9 +52,9 @@ Detay
 
 ## Neden İzmir işletmeleri bizi tercih ediyor?
 
-### Bölgesel Destek
+### Uzaktan Kurulum
 
-Konak, Bornova, Karşıyaka, Buca ve Aliağa başta olmak üzere İzmir genelinde hızlı kurulum ve eğitim.
+Konak, Bornova, Karşıyaka, Buca ve Aliağa başta olmak üzere İzmir genelinde uzaktan hızlı kurulum ve online eğitim; zorunlu durumlarda yerinde destek planlanır.
 
 ### Sektöre Özel
 

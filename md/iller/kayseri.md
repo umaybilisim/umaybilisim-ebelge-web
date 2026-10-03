@@ -52,9 +52,9 @@ Detay
 
 ## Neden Kayseri işletmeleri bizi tercih ediyor?
 
-### Bölgesel Destek
+### Uzaktan Kurulum
 
-Melikgazi, Kocasinan ve Talas başta olmak üzere Kayseri genelinde hızlı kurulum ve eğitim.
+Melikgazi, Kocasinan ve Talas başta olmak üzere Kayseri genelinde uzaktan hızlı kurulum ve online eğitim; zorunlu durumlarda yerinde destek planlanır.
 
 ### Sektöre Özel
 

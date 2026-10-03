@@ -52,9 +52,9 @@ Detay
 
 ## Neden Samsun işletmeleri bizi tercih ediyor?
 
-### Bölgesel Destek
+### Uzaktan Kurulum
 
-İlkadım, Atakum, Canik ve Bafra başta olmak üzere Samsun genelinde hızlı kurulum ve eğitim.
+İlkadım, Atakum, Canik ve Bafra başta olmak üzere Samsun genelinde uzaktan hızlı kurulum ve online eğitim; zorunlu durumlarda yerinde destek planlanır.
 
 ### Sektöre Özel
 

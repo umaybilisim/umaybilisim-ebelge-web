@@ -52,9 +52,9 @@ Detay
 
 ## Neden Şanlıurfa işletmeleri bizi tercih ediyor?
 
-### Bölgesel Destek
+### Uzaktan Kurulum
 
-Haliliye, Eyyübiye, Karaköprü ve Viranşehir başta olmak üzere Şanlıurfa genelinde hızlı kurulum ve eğitim.
+Haliliye, Eyyübiye, Karaköprü ve Viranşehir başta olmak üzere Şanlıurfa genelinde uzaktan hızlı kurulum ve online eğitim; zorunlu durumlarda yerinde destek planlanır.
 
 ### Sektöre Özel
 
@@ -80,7 +80,7 @@ Kesintisiz, hızlı ve Türkçe teknik destek hattı her aşamada yanınızda.
 
 ### Şanlıurfa'da yerinde destek alabilir miyim?
 
-Bulut altyapımızla uzaktan hızlı kurulum sağlıyoruz; 7/24 Türkçe destek hattımız her aşamada yanınızda.
+Bulut altyapımızla uzaktan hızlı kurulum sağlıyoruz; 7/24 Türkçe destek hattımız her aşamada yanınızda. Zorunlu durumlarda yerinde destek planlanır.
 
 ## Şanlıurfa'da e-belge geçişinizi bugün başlatın
 

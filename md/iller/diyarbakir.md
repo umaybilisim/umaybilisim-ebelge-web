@@ -52,9 +52,9 @@ Detay
 
 ## Neden Diyarbakır işletmeleri bizi tercih ediyor?
 
-### Bölgesel Destek
+### Uzaktan Kurulum
 
-Bağlar, Kayapınar, Yenişehir ve Sur başta olmak üzere Diyarbakır genelinde hızlı kurulum ve eğitim.
+Bağlar, Kayapınar, Yenişehir ve Sur başta olmak üzere Diyarbakır genelinde uzaktan hızlı kurulum ve online eğitim; zorunlu durumlarda yerinde destek planlanır.
 
 ### Sektöre Özel
 
