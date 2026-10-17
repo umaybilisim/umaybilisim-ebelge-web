@@ -4,6 +4,10 @@
 
 > İçerik/sayfa değişikliğinden sonra sıra: commit → `python scripts/update_sitemap_lastmod.py` → `python scripts/build_llms_full.py` → `python scripts/build_md.py` → commit + push.
 
+**▶ Bir sonraki oturumda ilk iş:** ~31.10.2026 GSC kontrolü (madde 2). Açık kalanlar: 2, 5, 6, 8. Bugün kapananlar: 1, 3, 4, 7.
+
+**17.10.2026 – özet:** GSC 69 dizinde olmayan adres incelendi (sorun yok) · `/sss` ve `/urunler/e-arsiv-fatura` için dizine ekleme istendi · ürün şeması Product → Service · sitemap lastmod betiği · eski `/cozumler/` yönlendirmeleri ilgili sayfalara · CF root→WWW kuralı http'yi de kapsıyor · Clarity doğrulandı, localhost kaydı engellendi.
+
 **17.10.2026 – GSC kontrolü:**
 - Dizine eklenen sayfa 39 → **65**; "Keşfedildi – dizine eklenmedi" 28 → 1. `iller/sakarya` ve `iller/samsun` dizinde (madde 1 ✓). 404 ve Soft 404 doğrulamaları **Başarılı**.
 - Yönlendirmeli sayfa (55), Tarandı-dizine eklenmedi (2, eski `/cozumler/` ve `http://…/iletisim/`), Yeniden yönlendirme hatası (4, Temmuz'dan kalma `/iletisim` verisi): canlıda hepsi doğru yönleniyor/200 → **normal, işlem gerekmez**.
