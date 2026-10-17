@@ -30,7 +30,7 @@
 4. [ ] **Clarity:** Panelde kayıt geliyor mu kontrol et (https://clarity.microsoft.com/projects/view/yrt2ho1mkm).
 5. [ ] **WhatsApp önizlemesi (madde 56):** Siteyi kendi telefonunda WhatsApp'tan kendine gönder; görsel/başlık doğru mu.
 6. [ ] **Şehir referansları:** Müşteriden Kocaeli, İstanbul, Bursa ve büyük sanayi şehirleri için gerçek referans iste (ayrıntı aşağıda).
-7. [ ] **(İsteğe bağlı, kullanıcı) Cloudflare http→www tek adım:** `http://e-devlethizmetleri.com/...` adresleri 3 adımda gidiyor (http→https, apex→www, sayfa). Cloudflare → e-devlethizmetleri.com → Rules → Redirect Rules → "root to WWW" kuralını düzenle: eşleşme `http.host eq "e-devlethizmetleri.com"` (şema şartı olmadan), hedef `concat("https://www.e-devlethizmetleri.com", http.request.uri.path)`, 301, query korunsun. Önemsiz, Google takip ediyor.
+7. [x] ~~Cloudflare http→www tek adım~~ — 17.10.2026: "Redirect from root to WWW" kuralı `*://e-devlethizmetleri.com/*` → `https://www.e-devlethizmetleri.com/${2}` yapıldı; `http://` apex artık tek adımda www'ye gidiyor (eski 3 adım → 1-2).
 8. [ ] **Müşteri tarafı:** Google İşletme Profili, Yandex Business, müşteri yorumları, avukat kontrolü, gerçek fotoğraflar; sonra NAP karşılaştırması.
 
 ---
