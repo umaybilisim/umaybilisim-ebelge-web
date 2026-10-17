@@ -2,7 +2,15 @@
 
 ## ▶ NEREDE KALDIK (son güncelleme: 17.10.2026)
 
-**17.10.2026:**
+> İçerik/sayfa değişikliğinden sonra sıra: commit → `python scripts/update_sitemap_lastmod.py` → `python scripts/build_llms_full.py` → `python scripts/build_md.py` → commit + push.
+
+**17.10.2026 – GSC kontrolü:**
+- Dizine eklenen sayfa 39 → **65**; "Keşfedildi – dizine eklenmedi" 28 → 1. `iller/sakarya` ve `iller/samsun` dizinde (madde 1 ✓). 404 ve Soft 404 doğrulamaları **Başarılı**.
+- Yönlendirmeli sayfa (55), Tarandı-dizine eklenmedi (2, eski `/cozumler/` ve `http://…/iletisim/`), Yeniden yönlendirme hatası (4, Temmuz'dan kalma `/iletisim` verisi): canlıda hepsi doğru yönleniyor/200 → **normal, işlem gerekmez**.
+- **Düzeltilen gerçek sorunlar:** `/sss` Google'da "bilinmiyor" çıktı; `/urunler/e-arsiv-fatura` için Google eski taramadan www'suz sürümü kanonik seçmişti → ikisi için dizine ekleme istendi. Sitemap `lastmod`'ları 20.09'da donmuştu → `scripts/update_sitemap_lastmod.py` ile git tarihlerinden üretildi (commit 8540dd8), sitemap GSC'ye yeniden gönderildi (aynı gün okundu, 64 sayfa).
+- Satıcı girişleri (2 geçersiz "image eksik"), Ürün/Yorum snippet'leri: veri 15.10 tarihli, Product → Service geçişinden önce. Yeniden taramayla raporlar boşalacak.
+
+**17.10.2026 – ürün şeması:**
 - GSC Satıcı girişleri uyarısı ("validThrough/priceValidUntil eksik") geldi. Kök neden: 11 ürün sayfası Product şemasında `price: "0"` (ücretsiz) bildiriyordu, sitede gerçek fiyat yok.
 - Kullanıcı kararıyla 11 ürün sayfasında Product → **Service** şeması (commit 1c9816d): Offer/fiyat ve doğrulanamayan `aggregateRating` kaldırıldı, `og:type` product → website. Satıcı girişleri / Ürün snippet'leri uyarıları bu sayfalar için sona erer.
 
@@ -15,8 +23,8 @@
 - Genel kullanım şablonu: `site-yayin-kontrol-sablonu.xlsx` (172 madde, yapay zekâ talimatlı).
 
 **Sıradaki işler:**
-1. [ ] **GSC:** `iller/sakarya` ve `iller/samsun` için dizine ekleme iste (kota iki gün dolu çıktı; GSC > URL denetimi).
-2. [ ] **Kontrol turu (gecikti, 4 Ekim'di):** GSC dizine ekleme raporu; Satıcı girişleri ve Ürün snippet'leri raporlarının birkaç hafta içinde boşaldığını doğrula (artık Product şeması yok); Bing, Yandex, GA4, IndexNow (ayrıntı aşağıda).
+1. [x] ~~`iller/sakarya` ve `iller/samsun` dizine ekleme~~ — 17.10.2026'da ikisi de dizinde.
+2. [ ] **~31.10.2026 GSC kontrolü:** `/sss` ve `/urunler/e-arsiv-fatura` dizine girdi mi (URL denetimi); Satıcı girişleri, Ürün snippet'leri ve Yorum snippet'leri raporları boşaldı mı (artık Product şeması yok). GSC dışında: Bing, Yandex, GA4, IndexNow kontrolü (ayrıntı aşağıda) hâlâ yapılmadı.
 3. [x] ~~Puan şeması riski~~ — 17.10.2026'da Product → Service ile `aggregateRating` kaldırıldı.
 4. [ ] **Clarity:** Panelde kayıt geliyor mu kontrol et (https://clarity.microsoft.com/projects/view/yrt2ho1mkm).
 5. [ ] **WhatsApp önizlemesi (madde 56):** Siteyi kendi telefonunda WhatsApp'tan kendine gönder; görsel/başlık doğru mu.
