@@ -6,6 +6,8 @@
   let scriptAdded = false;
 
   function load() {
+    // Yalnızca canlı alan adında kaydet (localhost/önizleme testleri panele düşmesin)
+    if (!/(^|\.)e-devlethizmetleri\.com$/.test(location.hostname)) return;
     if (scriptAdded) return;
     scriptAdded = true;
     (function (c, l, a, r, i, t, y) {

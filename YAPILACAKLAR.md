@@ -27,7 +27,7 @@
 1. [x] ~~`iller/sakarya` ve `iller/samsun` dizine ekleme~~ — 17.10.2026'da ikisi de dizinde.
 2. [ ] **~31.10.2026 GSC kontrolü:** `/sss` ve `/urunler/e-arsiv-fatura` dizine girdi mi (URL denetimi); Satıcı girişleri, Ürün snippet'leri ve Yorum snippet'leri raporları boşaldı mı (artık Product şeması yok). GSC dışında: Bing, Yandex, GA4, IndexNow kontrolü (ayrıntı aşağıda) hâlâ yapılmadı.
 3. [x] ~~Puan şeması riski~~ — 17.10.2026'da Product → Service ile `aggregateRating` kaldırıldı.
-4. [ ] **Clarity:** Site tarafı 17.10.2026'da doğrulandı (onaysız/reddet → 0 istek, kabul → `e.clarity.ms/collect` + `_clck/_clsk`). Kalan: panelde kayıt görünüyor mu (Chrome'da Clarity oturumu kapalıydı; kullanıcı Microsoft hesabıyla girmeli) → https://clarity.microsoft.com/projects/view/yrt2ho1mkm.
+4. [x] ~~Clarity~~ — 17.10.2026: site tarafı doğrulandı (onaysız/reddet → 0 istek, kabul → kayıt); panelde son 30 günde 6 oturum (Google'dan gelen dahil), JS hatası 0, performans 91/100. Panele `bilgi@umaybilisim.com.tr` iş hesabıyla girilir. localhost kayıtları `js/clarity.js`'te alan adı kontrolüyle engellendi. Trafik düşük çünkü yalnızca çerez kabul edenler kaydediliyor.
 5. [ ] **WhatsApp önizlemesi (madde 56):** Siteyi kendi telefonunda WhatsApp'tan kendine gönder; görsel/başlık doğru mu.
 6. [ ] **Şehir referansları:** Müşteriden Kocaeli, İstanbul, Bursa ve büyük sanayi şehirleri için gerçek referans iste (ayrıntı aşağıda).
 7. [x] ~~Cloudflare http→www tek adım~~ — 17.10.2026: "Redirect from root to WWW" kuralı `*://e-devlethizmetleri.com/*` → `https://www.e-devlethizmetleri.com/${2}` yapıldı; `http://` apex artık tek adımda www'ye gidiyor (eski 3 adım → 1-2).
