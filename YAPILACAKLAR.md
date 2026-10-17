@@ -1,8 +1,12 @@
 # Yapılacaklar
 
-## ▶ NEREDE KALDIK (son güncelleme: 03.10.2026)
+## ▶ NEREDE KALDIK (son güncelleme: 17.10.2026)
 
-**Son oturumda yapılanlar (02-03.10.2026):**
+**17.10.2026:**
+- GSC Satıcı girişleri uyarısı ("validThrough/priceValidUntil eksik") geldi. Kök neden: 11 ürün sayfası Product şemasında `price: "0"` (ücretsiz) bildiriyordu, sitede gerçek fiyat yok.
+- Kullanıcı kararıyla 11 ürün sayfasında Product → **Service** şeması (commit 1c9816d): Offer/fiyat ve doğrulanamayan `aggregateRating` kaldırıldı, `og:type` product → website. Satıcı girişleri / Ürün snippet'leri uyarıları bu sayfalar için sona erer.
+
+**02-03.10.2026:**
 - GSC "Keşfedildi – dizine eklenmedi" 28 sayfanın 26'sı için dizine ekleme istendi; `/hakkimizda` dizine girdi.
 - GSC Satıcı girişleri uyarısı: 11 ürün sayfasına `validFrom` + PNG `image` eklendi.
 - Bing Site Scan: 0 hata; 6 uzun title kısaltıldı (madde 41 ✓). IndexNow doğrulandı (madde 38 ✓). GA4 `generate_lead` önemli etkinlik yapıldı (madde 50 ✓).
@@ -12,13 +16,11 @@
 
 **Sıradaki işler:**
 1. [ ] **GSC:** `iller/sakarya` ve `iller/samsun` için dizine ekleme iste (kota iki gün dolu çıktı; GSC > URL denetimi).
-2. [ ] **4 Ekim kontrol turu:** GSC dizine ekleme + Satıcı girişleri raporu (validFrom/image düzeldi mi), Bing, Yandex, GA4, IndexNow (ayrıntı aşağıda).
-3. [ ] **Puan şeması riski:** Ürün sayfalarındaki `aggregateRating` (ör. e-Fatura 4.9 / 184 yorum) gerçek, doğrulanabilir yorumlara dayanıyor mu? Değilse kaldırılmalı (uydurma puan = manuel işlem riski). Müşteriye sorulacak.
+2. [ ] **Kontrol turu (gecikti, 4 Ekim'di):** GSC dizine ekleme raporu; Satıcı girişleri ve Ürün snippet'leri raporlarının birkaç hafta içinde boşaldığını doğrula (artık Product şeması yok); Bing, Yandex, GA4, IndexNow (ayrıntı aşağıda).
+3. [x] ~~Puan şeması riski~~ — 17.10.2026'da Product → Service ile `aggregateRating` kaldırıldı.
 4. [ ] **Clarity:** Panelde kayıt geliyor mu kontrol et (https://clarity.microsoft.com/projects/view/yrt2ho1mkm).
 5. [ ] **WhatsApp önizlemesi (madde 56):** Siteyi kendi telefonunda WhatsApp'tan kendine gönder; görsel/başlık doğru mu.
 6. [ ] **Şehir referansları:** Müşteriden Kocaeli, İstanbul, Bursa ve büyük sanayi şehirleri için gerçek referans iste (ayrıntı aşağıda).
-8. [ ] **Ürün şemasında fiyat "0":** 11 ürün sayfasının Offer'ında `price: "0"` var; Google bunu "ücretsiz ürün" olarak okur. Gerçek başlangıç fiyatı yazılmalı ya da Product+Offer yerine Service şemasına geçilmeli (müşteriyle karar).
-9. [ ] **Kasım 2027:** Ürün şemalarındaki `priceValidUntil` 2027-12-31'de sona eriyor; dolmadan bir yıl uzat (17.10.2026'da eklendi, GSC Satıcı girişleri uyarısı).
 7. [ ] **Müşteri tarafı:** Google İşletme Profili, Yandex Business, müşteri yorumları, avukat kontrolü, gerçek fotoğraflar; sonra NAP karşılaştırması.
 
 ---
