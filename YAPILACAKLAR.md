@@ -17,6 +17,8 @@
 4. [ ] **Clarity:** Panelde kayıt geliyor mu kontrol et (https://clarity.microsoft.com/projects/view/yrt2ho1mkm).
 5. [ ] **WhatsApp önizlemesi (madde 56):** Siteyi kendi telefonunda WhatsApp'tan kendine gönder; görsel/başlık doğru mu.
 6. [ ] **Şehir referansları:** Müşteriden Kocaeli, İstanbul, Bursa ve büyük sanayi şehirleri için gerçek referans iste (ayrıntı aşağıda).
+8. [ ] **Ürün şemasında fiyat "0":** 11 ürün sayfasının Offer'ında `price: "0"` var; Google bunu "ücretsiz ürün" olarak okur. Gerçek başlangıç fiyatı yazılmalı ya da Product+Offer yerine Service şemasına geçilmeli (müşteriyle karar).
+9. [ ] **Kasım 2027:** Ürün şemalarındaki `priceValidUntil` 2027-12-31'de sona eriyor; dolmadan bir yıl uzat (17.10.2026'da eklendi, GSC Satıcı girişleri uyarısı).
 7. [ ] **Müşteri tarafı:** Google İşletme Profili, Yandex Business, müşteri yorumları, avukat kontrolü, gerçek fotoğraflar; sonra NAP karşılaştırması.
 
 ---
