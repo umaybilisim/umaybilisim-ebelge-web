@@ -8,6 +8,7 @@
 - Dizine eklenen sayfa 39 → **65**; "Keşfedildi – dizine eklenmedi" 28 → 1. `iller/sakarya` ve `iller/samsun` dizinde (madde 1 ✓). 404 ve Soft 404 doğrulamaları **Başarılı**.
 - Yönlendirmeli sayfa (55), Tarandı-dizine eklenmedi (2, eski `/cozumler/` ve `http://…/iletisim/`), Yeniden yönlendirme hatası (4, Temmuz'dan kalma `/iletisim` verisi): canlıda hepsi doğru yönleniyor/200 → **normal, işlem gerekmez**.
 - **Düzeltilen gerçek sorunlar:** `/sss` Google'da "bilinmiyor" çıktı; `/urunler/e-arsiv-fatura` için Google eski taramadan www'suz sürümü kanonik seçmişti → ikisi için dizine ekleme istendi. Sitemap `lastmod`'ları 20.09'da donmuştu → `scripts/update_sitemap_lastmod.py` ile git tarihlerinden üretildi (commit 8540dd8), sitemap GSC'ye yeniden gönderildi (aynı gün okundu, 64 sayfa).
+- 69 dizinde olmayan adresin (8 neden) hepsi canlıda test edildi; sorun yok. Eski `/cozumler/` e-imza → mali mühür yazısı, e-mutabakat → e-dekont, e-yedekleme/kep/diğerleri → `/urunler` (önce ana sayfaydı; commit d8a45f8).
 - Satıcı girişleri (2 geçersiz "image eksik"), Ürün/Yorum snippet'leri: veri 15.10 tarihli, Product → Service geçişinden önce. Yeniden taramayla raporlar boşalacak.
 
 **17.10.2026 – ürün şeması:**
@@ -29,7 +30,8 @@
 4. [ ] **Clarity:** Panelde kayıt geliyor mu kontrol et (https://clarity.microsoft.com/projects/view/yrt2ho1mkm).
 5. [ ] **WhatsApp önizlemesi (madde 56):** Siteyi kendi telefonunda WhatsApp'tan kendine gönder; görsel/başlık doğru mu.
 6. [ ] **Şehir referansları:** Müşteriden Kocaeli, İstanbul, Bursa ve büyük sanayi şehirleri için gerçek referans iste (ayrıntı aşağıda).
-7. [ ] **Müşteri tarafı:** Google İşletme Profili, Yandex Business, müşteri yorumları, avukat kontrolü, gerçek fotoğraflar; sonra NAP karşılaştırması.
+7. [ ] **(İsteğe bağlı, kullanıcı) Cloudflare http→www tek adım:** `http://e-devlethizmetleri.com/...` adresleri 3 adımda gidiyor (http→https, apex→www, sayfa). Cloudflare → e-devlethizmetleri.com → Rules → Redirect Rules → "root to WWW" kuralını düzenle: eşleşme `http.host eq "e-devlethizmetleri.com"` (şema şartı olmadan), hedef `concat("https://www.e-devlethizmetleri.com", http.request.uri.path)`, 301, query korunsun. Önemsiz, Google takip ediyor.
+8. [ ] **Müşteri tarafı:** Google İşletme Profili, Yandex Business, müşteri yorumları, avukat kontrolü, gerçek fotoğraflar; sonra NAP karşılaştırması.
 
 ---
 
