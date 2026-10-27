@@ -19,10 +19,10 @@ e-Fatura geçişi 6 adımdan oluşur: Zorunluluk kontrolü → Mali mühür → 
 | Kriter | Açıklama |
 |---|---|
 | Ciro Eşiği | Son hesap dönemi brüt satış hasılatı 3 milyon TL ve üzeri |
-| İhracat | Mal veya hizmet ihracatı yapıyor olmanız |
-| e-Ticaret | İnternet üzerinden satış yapıyor olmanız |
-| Aracı Hizmet Sağlayıcı | İnternet reklam veya e-ticaret aracılığı hizmeti |
-| Lisanslı Sektörler | Akaryakıt, alkol, tütün, gübre, ilaç, çelik dağıtımı |
+| Gayrimenkul / Motorlu Taşıt | Bu işlerde brüt satış hasılatı 500 bin TL ve üzeri |
+| e-Ticaret | İnternet üzerinden satışta brüt satış hasılatı 500 bin TL ve üzeri |
+| Aracı Hizmet Sağlayıcı | Pazar yeri, internet ilan sitesi veya internet reklam aracılığı (ciro şartı yok) |
+| Diğer Sektörler | Akaryakıt (EPDK lisansı), alkol/tütün imal-ithal, sebze-meyve hali, SGK sözleşmeli sağlık ve ilaç, belgeli oteller, şarj ağı işletmecileri |
 | GİB Listesi | GİB'in belirlediği zorunluluk listesinde VKN'niz mevcut |
 
 Emin değilseniz GİB'in "e-Fatura Kayıtlı Kullanıcılar Listesi" sayfasından VKN'nizi sorgulayabilirsiniz. Ya da bize bir WhatsApp atın — 5 dakikada kontrol edelim.

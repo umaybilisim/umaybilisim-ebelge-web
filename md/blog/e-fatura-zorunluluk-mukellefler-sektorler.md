@@ -32,26 +32,21 @@ Hesaplamak için zamana mı ihtiyacınız var? Uzmanlarımız ücretsiz ön değ
 
 ## 3. Hangi sektörlerde ciro aranmaz? (Sektörel zorunluluk)
 
-Aşağıdaki sektör ve faaliyet türlerinde ciroya bakılmaksızın e-Fatura zorunluluğu doğar. İşletmeniz aşağıdaki kategorilerden herhangi birine giriyorsa, ciro eşiğini tutturmamış olsanız dahi e-Fatura kullanmak zorunda olabilirsiniz.
+509 Sıra No.lu VUK Genel Tebliği'ne göre aşağıdaki mükellefler, 3 milyon TL ciro eşiğinden bağımsız olarak (bazıları daha düşük bir eşikle) e-Fatura uygulamasına geçmek zorundadır:
 
-| Sektör / Faaliyet | Ciro Şartı | Zorunluluk Tarihi |
+| Sektör / Faaliyet | Ciro Şartı | Geçiş Süresi |
 |---|---|---|
-| İhracat ve transit ticaret yapanlar | Ciro şartı yok | 01.07.2017'den itibaren |
-| İnternet üzerinden mal/hizmet satışı (e-ticaret) | Ciro şartı yok | 01.07.2017'den itibaren |
-| İnternet reklam aracıları (dijital ajanslar, platformlar) | Ciro şartı yok | 01.01.2020'den itibaren |
-| Aracılık hizmeti sunan platformlar (marketplace, pazar yerleri) | Ciro şartı yok | 01.01.2020'den itibaren |
-| Akaryakıt dağıtım ve bayilik | Ciro şartı yok | 01.07.2017'den itibaren |
-| Demir-çelik piyasası (üretici, dağıtıcı, ihracatçı) | Ciro şartı yok | 01.07.2020'den itibaren |
-| Gübre üretim ve dağıtımı | Ciro şartı yok | 01.07.2020'den itibaren |
-| İlaç, tıbbi cihaz üretim/dağıtımı | Ciro şartı yok | 01.07.2020'den itibaren |
-| Alkollü içecek ve tütün ürünleri | Ciro şartı yok | 01.07.2017'den itibaren |
-| Hal komisyoncuları ve hal idareleri | Ciro şartı yok | 01.01.2020'den itibaren |
-| Şeker fabrikaları | Ciro şartı yok | 01.07.2020'den itibaren |
-| Gazete, dergi yayıncıları | Ciro şartı yok | 01.07.2017'den itibaren |
-| Çay işletmeleri (ÇAYKUR ve özel) | Ciro şartı yok | 01.07.2020'den itibaren |
-| Tarım ürünleri lisanslı depoculuk | Ciro şartı yok | Tescil tarihinden itibaren |
+| Akaryakıt: ÖTV (I) sayılı liste nedeniyle EPDK'dan lisans alanlar (bayilik dahil) | Yok | Lisans alımını izleyen 4. ayın başından itibaren |
+| ÖTV (III) sayılı liste: alkollü içecek, tütün ürünleri vb. imal, inşa veya ithal edenler | Yok | İmal/ithal ayını izleyen 4. ayın başından itibaren |
+| Aracı hizmet sağlayıcılar (pazar yerleri), internet ilan siteleri, internet reklamcılığı aracıları | Yok | İşe başlamadan itibaren 3 ay içinde |
+| e-Ticaret: kendi sitesinde veya pazar yerinde mal/hizmet satanlar | 500 bin TL | Eşiği aşılan yılı izleyen yılın 1 Temmuz'u |
+| Gayrimenkul ve motorlu taşıt: inşa, imal, alım, satım, kiralama ve aracılık | 500 bin TL | Eşiği aşılan yılı izleyen yılın 1 Temmuz'u |
+| Hal: sebze ve meyve komisyoncu ve tüccarları | Yok | İşe başlamadan itibaren 3 ay içinde |
+| Sağlık: SGK ile sözleşmeli sağlık hizmeti sunucuları, ilaç ve medikal malzeme tedarikçileri (hastane, eczane, optisyen vb.) | Yok | SGK'ya fatura düzenlemeye başlamadan önce |
+| Konaklama: Kültür ve Turizm Bakanlığı veya belediyeden belgeli otel işletmeleri | Yok | Faaliyete başlanan ayı izleyen 4. ayın başına kadar |
+| Elektrikli araç şarj: şarj ağı işletmecisi lisansı alanlar ve sertifikalı şarj istasyonu işletmecileri | Yok | Tebliğde belirtilen sürede |
 
-Önemli Not: Yukarıdaki tabloda yer alan tarihler zorunluluğun başladığı tarihtir. Bu tarihe kadar geçiş yapmayan mükelleflere ceza işlemi uygulanmaya devam etmektedir.
+İhracat: İhracat yapmak tek başına e-Fatura zorunluluğu doğurmaz. e-Fatura kullanıcısı olan ihracatçılar ise mal ihracatı faturalarını e-Fatura olarak düzenler. Ayrıca GİB, riskli bulduğu mükelleflere yazılı bildirimle ve en az 3 ay süre vererek e-Fatura zorunluluğu getirebilir.
 
 ### Özel Lisanslı Kurumlar
 
@@ -91,12 +86,12 @@ Aşağıdaki soruları kendinize sorun. Herhangi bir soruya "Evet" yanıtı veri
 | Soru | Evet → Ne Anlama Gelir? |
 |---|---|
 | 2025 yılı brüt satışlarım 3 milyon TL'yi aştı mı? | 1 Temmuz 2026'dan itibaren zorunlusun |
-| Yurt dışına ihracat yapıyor muyum? | Ciroya bakılmaksızın zorunlusun |
-| İnternetten satış yapıyor muyum (web sitesi, Trendyol, Hepsiburada vb.)? | Ciroya bakılmaksızın zorunlusun |
-| Dijital reklam veya aracılık hizmeti sunuyor muyum? | Ciroya bakılmaksızın zorunlusun |
-| Akaryakıt, gübre, ilaç, demir-çelik sektöründe miyim? | Ciroya bakılmaksızın zorunlusun |
-| Alkol veya tütün lisansı var mı? | Ciroya bakılmaksızın zorunlusun |
-| Hal komisyoncusu veya hal idaresimiyim? | Ciroya bakılmaksızın zorunlusun |
+| Gayrimenkul veya motorlu taşıt işi yapıyorum, cirom 500 bin TL'yi aştı mı? | İzleyen yılın 1 Temmuz'undan itibaren zorunlusun |
+| İnternetten satış yapıyor muyum (web sitesi, Trendyol, Hepsiburada vb.) ve cirom 500 bin TL'yi aştı mı? | İzleyen yılın 1 Temmuz'undan itibaren zorunlusun |
+| Pazar yeri, ilan sitesi veya internet reklam aracısı mıyım? | Ciroya bakılmaksızın zorunlusun |
+| EPDK akaryakıt lisansım var mı, SGK ile sözleşmeli sağlık/ilaç işletmesi miyim veya belgeli otel miyim? | Ciroya bakılmaksızın zorunlusun |
+| Alkollü içecek veya tütün ürünleri (ÖTV III) imal ya da ithal ediyor muyum? | Ciroya bakılmaksızın zorunlusun |
+| Sebze-meyve komisyoncusu veya tüccarı mıyım? | Ciroya bakılmaksızın zorunlusun |
 
 Bu tablodaki sorulardan herhangi birine "Evet" yanıtı veriyorsanız, Umay Bilişim uzmanları ücretsiz olarak size özel durum değerlendirmesi yapabilir.
 
@@ -129,7 +124,7 @@ Mali mührünüz hazırsa standart e-Fatura geçişi 1-3 iş günü içinde tama
 
 ### Hangi sektörler ciroya bakılmaksızın e-Fatura kullanmak zorunda?
 
-İhracat yapan firmalar, e-ticaret satıcıları, internet reklam aracıları, akaryakıt dağıtımcıları, demir-çelik piyasası katılımcıları, gübre üreticileri ve dağıtıcıları, ilaç ve tıbbi cihaz sektörü, alkol ve tütün firmaları ile hal komisyoncuları ciro eşiğinden bağımsız olarak zorunluluk kapsamındadır.
+Akaryakıt (EPDK lisanslı), ÖTV (III) listesindeki alkol ve tütün ürünlerini imal/ithal edenler, sebze-meyve komisyoncu ve tüccarları, SGK ile sözleşmeli sağlık işletmeleri ve ilaç/medikal tedarikçileri, belgeli oteller, şarj ağı işletmecileri ile pazar yerleri, ilan siteleri ve internet reklam aracıları ciro eşiğinden bağımsız olarak zorunludur. e-Ticaret satıcıları ile gayrimenkul ve motorlu taşıt işi yapanlarda eşik 500 bin TL'dir. İhracat tek başına zorunluluk doğurmaz.
 
 ### e-Fatura zorunluluğunu yerine getirmezsem ne olur?
 
@@ -141,7 +136,7 @@ e-Fatura yalnızca e-Fatura mükellef kayıtlı firmalar arasında düzenlenir. 
 
 ### Ciro eşiğini 2025'te geçtim ama henüz e-Fatura'ya geçmedim, ne yapmalıyım?
 
-1 Temmuz 2026 zorunluluk tarihinden önce geçişi tamamlamanız gerekiyor. Geçiş 1-3 iş günü sürdüğünden zaman kaybetmeden başlamanızı öneriyoruz. Umay Bilişim'i arayın: 0 850 777 11 45.
+2025 cirosu 3 milyon TL'yi aşanlar için zorunluluk 1 Temmuz 2026'da başladı. Henüz geçmediyseniz bu tarihten sonra düzenlediğiniz kâğıt faturalar ceza riski taşır; geçişi hemen tamamlayın. Umay Bilişim'i arayın: 0 850 777 11 45.
 
 ### e-Fatura için mali mühür mü, e-İmza mı gerekir?
 

@@ -20,11 +20,11 @@ e-Fatura'ya geçmiş tüm mükellefler aynı anda e-Arşiv Fatura'ya da geçmek 
 
 ### e-Ticaret Firmaları
 
-İnternet üzerinden satış yapan tüm firmalar, ciro şartı aranmaksızın e-Arşiv kullanmak zorundadır.
+İnternet üzerinden yapılan satışlarda fatura e-Arşiv olarak düzenlenir; brüt satış hasılatı 500 bin TL'yi aşan e-ticaret satıcıları e-Fatura'ya da geçmek zorundadır.
 
-### İhracatçılar
+### Mikro İhracat ve Hizmet İhracatı
 
-İhracat işlemi yapan firmalar e-Arşiv ile fatura kesmek zorundadır.
+ETGB ile yapılan mikro ihracat ve hizmet ihracatı faturaları e-Arşiv olarak düzenlenir. Gümrük beyannameli mal ihracatında e-Fatura kullanıcıları ihracat e-Faturası keser.
 
 ### Kâğıt Fatura Kullananlar
 

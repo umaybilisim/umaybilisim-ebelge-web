@@ -72,7 +72,7 @@ Kesintisiz, hızlı ve Türkçe teknik destek hattı her aşamada yanınızda.
 
 ### İhracatçıyım, e-Fatura ve e-Defter şart mı?
 
-Evet. İhracat yapan firmalar için her ikisi de zorunludur. İzmirli ihracatçılara GİB ve gümrük süreçlerine uygun kurulum yapıyoruz.
+Cironuza bağlı. İhracat tek başına e-Fatura zorunluluğu doğurmaz; brüt satış hasılatı 3 milyon TL'yi aşınca e-Fatura, e-Fatura ile birlikte e-Defter zorunlu olur. İzmirli ihracatçılara GİB ve gümrük süreçlerine uygun kurulum yapıyoruz.
 
 ### Aliağa sanayi firmamız için ne öneriyorsunuz?
 

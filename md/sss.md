@@ -20,7 +20,7 @@ e-Fatura, e-Arşiv, e-Defter, e-İrsaliye, e-SMM gibi 11 farklı tip mevcuttur.
 Kısa cevap: Belirli ciro eşiklerini aşan ve belirli sektörlerde faaliyet gösteren mükellefler için zorunludur.
 
 Detay
-Ciro şartı 2026 itibarıyla 3 milyon TL'dir. İhracat, e-ticaret ve internet aracı hizmet sağlayıcıları için ciro şartı aranmaz.
+Ciro şartı 2026 itibarıyla 3 milyon TL'dir. Pazar yerleri, internet ilan siteleri, internet reklam aracıları ve akaryakıt lisanslıları gibi bazı sektörlerde ciro şartı aranmaz; e-ticaret satıcılarında eşik 500 bin TL'dir. İhracat tek başına zorunluluk doğurmaz.
 
 ### Hangi e-belge çözümlerini sunuyorsunuz?
 

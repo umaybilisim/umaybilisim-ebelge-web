@@ -8,7 +8,7 @@ Dünya kayısı başkenti Malatya'nın kayısı ihracatçıları, tarım ticaret
 
 ## Malatya ekonomisinde e-belge ihtiyacı nedir?
 
-Malatya, dünya kuru kayısı üretiminin büyük bölümünü karşılayan bir tarım ve ihracat merkezidir. Kayısı işleyip ihraç eden firmalar için e-Fatura ihracat nedeniyle zorunludur ve bu firmalar düzenli e-Defter tutar.
+Malatya, dünya kuru kayısı üretiminin büyük bölümünü karşılayan bir tarım ve ihracat merkezidir. Kayısı işleyip ihraç eden firmalar için e-Fatura ciro eşiği aşıldığında zorunludur ve bu firmalar düzenli e-Defter tutar.
 
 Üreticiden kayısı ve diğer tarım ürünü alan tüccarlar e-Müstahsil Makbuzu düzenler; bu, sezonsal yoğun alımlarda kritik bir belgedir. Kentin gelişen tekstil sanayisi ve perakende ticareti ise e-Arşiv Fatura kullanır.
 
@@ -72,7 +72,7 @@ Kesintisiz, hızlı ve Türkçe teknik destek hattı her aşamada yanınızda.
 
 ### Kayısı ihracatçısıyım, hangi belgeler gerekli?
 
-İhracat nedeniyle e-Fatura ve e-Defter zorunludur. İhracat faturalarınızı GİB uyumlu düzenler, sezonsal yoğunluğa hazır altyapı kurarız.
+İhracat tek başına e-Fatura zorunluluğu doğurmaz; brüt satış hasılatı 3 milyon TL'yi aşınca e-Fatura, e-Fatura ile birlikte e-Defter zorunlu olur. İhracat faturalarınızı GİB uyumlu düzenler, sezonsal yoğunluğa hazır altyapı kurarız.
 
 ### Üreticiden kayısı alıyorum, ne kesmeliyim?
 

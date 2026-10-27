@@ -17,7 +17,7 @@ Aşağıdaki kriterleri sağlayan mükellefler için e-Defter zorunludur:
 
 - Ciro bazlı: Brüt satış hasılatı 3 milyon TL ve üzeri olan mükellefler.
 - e-Fatura mükellefleri: e-Fatura kullanan tüm firmalar otomatik olarak e-Defter zorunluluğuna girer.
-- Sektörel: İhracat, e-ticaret, akaryakıt, bazı lisanslı sektörler.
+- Sektörel: Sektörü nedeniyle e-Fatura'ya geçmek zorunda olanlar (akaryakıt lisanslıları, 500 bin TL'yi aşan e-ticaret satıcıları, pazar yerleri vb.).
 
 e-Defter geçişi yıl sonu itibarıyla yapılır. Yıl içinde başvuru yapılırsa, takip eden yıl başında zorunluluk başlar. Yıl ortasında geçiş yapılmaz.
 

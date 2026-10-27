@@ -76,7 +76,7 @@ Kesintisiz, hızlı ve Türkçe teknik destek hattı her aşamada yanınızda.
 
 ### Fındık ihracatçısıyım, e-Fatura şart mı?
 
-Evet. İhracat nedeniyle e-Fatura ve e-Defter zorunludur. İhracat faturalarınızı GİB uyumlu düzenleriz.
+Cironuza bağlı. İhracat tek başına e-Fatura zorunluluğu doğurmaz; brüt satış hasılatı 3 milyon TL'yi aşınca e-Fatura, e-Fatura ile birlikte e-Defter zorunlu olur. İhracat faturalarınızı GİB uyumlu düzenleriz.
 
 ### Fatsa/Ünye'deki işletmeme yerinde destek var mı?
 

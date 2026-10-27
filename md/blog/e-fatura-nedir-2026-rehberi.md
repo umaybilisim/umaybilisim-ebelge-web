@@ -22,11 +22,10 @@ Brüt satış hasılatı 2024 ve sonraki yıllar için 3 milyon TL ve üzeri ola
 
 ### Sektörel zorunluluk nedir?
 
-- İhracat yapan firmalar: Ciro bakılmaksızın zorunludur.
 - İnternet aracı hizmet sağlayıcıları: e-Ticaret platformları, marketplace'ler.
-- e-Ticaret yapan firmalar: Online satış yapan herkes.
-- İnternet reklam aracılığı: Reklam ajansları, dijital pazarlama firmaları.
-- Lisanslı sektörler: Akaryakıt, alkollü içecek, tütün, gazete-dergi, fındık-pamuk, gübre-tıbbi, hizmet üreten firmalar.
+- e-Ticaret yapan firmalar: Online satışta brüt satış hasılatı 500 bin TL ve üzeri olanlar.
+- İnternet reklam aracılığı ve ilan siteleri: İnternet reklamcılığı hizmet aracıları ile gayrimenkul/taşıt ilan siteleri.
+- Diğer sektörler: Akaryakıt (EPDK lisansı), alkollü içecek ve tütün imal/ithal edenler, sebze-meyve komisyoncu ve tüccarları, SGK ile sözleşmeli sağlık işletmeleri ve ilaç/medikal tedarikçileri, belgeli oteller, şarj ağı işletmecileri; gayrimenkul ve motorlu taşıt işinde 500 bin TL ciro.
 
 Önemli: Zorunluluk kapsamına girip faturalarını kâğıt olarak düzenlemeye devam eden mükelleflere VUK md. 353/1 uyarınca, belgede yazması gereken tutarın %10'u oranında özel usulsüzlük cezası uygulanır (2026'da ilk tespitte en az 17.000 TL). Ceza her belge için ayrı kesilir. Ayrıntılar: e-Fatura cezaları 2026.
 

@@ -76,7 +76,7 @@ Konaklayan bireysel misafirlere e-Arşiv Fatura, kurumsal/acente müşterilere e
 
 ### İhracat yapıyorum, e-Fatura zorunlu mu?
 
-Evet. İhracat yapan firmalar ciro şartı aranmaksızın e-Fatura kullanmak zorundadır. Antalyalı ihracatçılara hızlı geçiş sağlıyoruz.
+Cironuza bağlı. İhracat tek başına e-Fatura zorunluluğu doğurmaz; brüt satış hasılatı 3 milyon TL'yi aşınca zorunlu olur. e-Fatura kullanıcısıysanız mal ihracatı faturalarınızı e-Fatura olarak düzenlersiniz. Antalyalı ihracatçılara hızlı geçiş sağlıyoruz.
 
 ### Restoranım için e-Adisyon nasıl çalışır?
 

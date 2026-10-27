@@ -183,7 +183,7 @@ Yavaş destek, karmaşık arayüz veya artan maliyetler mi? Umay e-Belge'ye geç
 Kısa cevap: 2026 yılı itibarıyla brüt satış hasılatı 3 milyon TL ve üzerinde olan tüm mükellefler e-Fatura ve e-Arşiv'e geçmek zorundadır.
 
 Detay
-Ayrıca sektörel zorunluluklar (e-ticaret, ihracat, internet reklam aracılığı vb.) ciroya bakılmaksızın geçerlidir.
+Ayrıca bazı sektörlerde (akaryakıt lisansı, pazar yerleri, internet reklam aracılığı vb.) ciro aranmaz; e-ticaret satıcılarında eşik 500 bin TL'dir.
 
 #### Mevcut muhasebe programımla entegrasyon mümkün mü?
 
@@ -416,11 +416,11 @@ e-Fatura'ya geçmiş tüm mükellefler aynı anda e-Arşiv Fatura'ya da geçmek 
 
 #### e-Ticaret Firmaları
 
-İnternet üzerinden satış yapan tüm firmalar, ciro şartı aranmaksızın e-Arşiv kullanmak zorundadır.
+İnternet üzerinden yapılan satışlarda fatura e-Arşiv olarak düzenlenir; brüt satış hasılatı 500 bin TL'yi aşan e-ticaret satıcıları e-Fatura'ya da geçmek zorundadır.
 
-#### İhracatçılar
+#### Mikro İhracat ve Hizmet İhracatı
 
-İhracat işlemi yapan firmalar e-Arşiv ile fatura kesmek zorundadır.
+ETGB ile yapılan mikro ihracat ve hizmet ihracatı faturaları e-Arşiv olarak düzenlenir. Gümrük beyannameli mal ihracatında e-Fatura kullanıcıları ihracat e-Faturası keser.
 
 #### Kâğıt Fatura Kullananlar
 
@@ -1300,7 +1300,7 @@ e-Fatura, e-Arşiv, e-Defter, e-İrsaliye, e-SMM gibi 11 farklı tip mevcuttur.
 Kısa cevap: Belirli ciro eşiklerini aşan ve belirli sektörlerde faaliyet gösteren mükellefler için zorunludur.
 
 Detay
-Ciro şartı 2026 itibarıyla 3 milyon TL'dir. İhracat, e-ticaret ve internet aracı hizmet sağlayıcıları için ciro şartı aranmaz.
+Ciro şartı 2026 itibarıyla 3 milyon TL'dir. Pazar yerleri, internet ilan siteleri, internet reklam aracıları ve akaryakıt lisanslıları gibi bazı sektörlerde ciro şartı aranmaz; e-ticaret satıcılarında eşik 500 bin TL'dir. İhracat tek başına zorunluluk doğurmaz.
 
 #### Hangi e-belge çözümlerini sunuyorsunuz?
 
@@ -1669,23 +1669,26 @@ Gelir İdaresi Başkanlığı (GİB), e-belge zorunluluklarını iki temel krite
 
 #### Ciro bazlı zorunluluk nedir?
 
-2024 ve sonraki hesap dönemlerine ait brüt satış hasılatı 3 milyon TL ve üzerinde olan tüm mükellefler, bir sonraki yılın başından itibaren e-Fatura ve e-Arşiv Fatura kullanmak zorundadır.
+509 Sıra No.lu VUK Genel Tebliği'ne göre 2022 ve sonraki hesap dönemlerinde brüt satış hasılatı 3 milyon TL ve üzerinde olan mükellefler, ilgili hesap dönemini izleyen yılın yedinci ayının başından (1 Temmuz) itibaren e-Fatura uygulamasına geçmek zorundadır.
 
-| Yıl | Ciro Eşiği | Zorunluluk Başlangıcı |
+| Hesap Dönemi | Ciro Eşiği | Zorunluluk Başlangıcı |
 |---|---|---|
-| 2024 cirosu | 3 milyon TL ve üzeri | 1 Ocak 2025'ten itibaren |
-| 2025 cirosu | 3 milyon TL ve üzeri | 1 Ocak 2026'dan itibaren |
-| 2026 cirosu | GİB güncellemesi beklenecek | 1 Ocak 2027'den itibaren |
+| 2024 cirosu | 3 milyon TL ve üzeri | 1 Temmuz 2025 |
+| 2025 cirosu | 3 milyon TL ve üzeri | 1 Temmuz 2026 |
+| 2026 cirosu | 3 milyon TL ve üzeri (tebliğ değişmedikçe) | 1 Temmuz 2027 |
 
-#### Ciro sınırı aranmayan sektörel zorunluluk nedir?
+#### Ciro dışında hangi mükellefler e-Fatura'ya geçmek zorunda?
 
-- İhracat yapan firmalar — tüm ihracat faturaları e-Fatura ile düzenlenir
-- e-Ticaret platformları ve marketplace'ler — aracı hizmet sağlayıcılar dahil
-- İnternet üzerinden reklam yayınlayanlar — dijital reklam aracıları
-- Akaryakıt dağıtım ve bayi işletmeleri
-- Demir-çelik ürünleri imalat/ihracat/ithalatçıları
-- Gübre imalatçıları ve ithalatçıları
-- Hal kayıt sistemi kapsamındaki komisyoncular
+- e-Ticaret: Kendi sitelerinde veya pazar yerlerinde mal/hizmet satanlardan brüt satış hasılatı 500 bin TL ve üzeri olanlar; aracı hizmet sağlayıcılar (pazar yerleri), internet ilan siteleri ve internet reklamcılığı aracıları
+- Gayrimenkul ve motorlu taşıt: İnşa, imal, alım, satım, kiralama veya aracılık yapanlardan brüt satış hasılatı 500 bin TL ve üzeri olanlar
+- Akaryakıt: ÖTV (I) sayılı listedeki mallar nedeniyle EPDK'dan lisans alanlar (bayilik dahil)
+- Alkol, tütün ve benzeri: ÖTV (III) sayılı listedeki malları imal, inşa veya ithal edenler
+- Hal: Sebze ve meyve ticaretiyle uğraşan komisyoncu ve tüccarlar
+- Sağlık: SGK ile sözleşmeli sağlık hizmeti sunucuları ile medikal malzeme ve ilaç temin edenler (hastane, eczane, optisyen vb.)
+- Konaklama: Kültür ve Turizm Bakanlığı veya belediyeden belge almış otel işletmeleri
+- Elektrikli araç şarj: EPDK'dan şarj ağı işletmeci lisansı alanlar ve sertifikalı şarj istasyonu işletmecileri
+
+İhracat yapmak tek başına e-Fatura zorunluluğu doğurmaz; ancak e-Fatura kullanıcısı olan ihracatçılar ihracat faturalarını e-Fatura olarak düzenler.
 
 e-Fatura mükellefi olan her firma aynı zamanda e-Arşiv Fatura da kullanmak zorundadır. e-Arşiv; e-Fatura mükellefi olmayan alıcılara veya son tüketicilere düzenlenir.
 
@@ -1708,33 +1711,37 @@ Programımız bu tarihleri otomatik olarak takip eder ve yükleme öncesinde hat
 
 ### 4. e-İrsaliye kimler için zorunludur?
 
-Mal sevkiyatı gerçekleştiren firmaların büyük bir bölümü e-İrsaliye kullanmak zorundadır. Zorunluluk kapsamındaki mükellefler şunlardır:
+509 Sıra No.lu VUK Genel Tebliği'ne göre e-İrsaliye zorunluluğu kapsamındaki başlıca mükellefler şunlardır:
 
-- e-Fatura mükellefi olan imalatçılar ve toptan satış yapan firmalar
-- Akaryakıt dağıtım ve bayi işletmeleri
-- Hal komisyoncuları ve tüccarları
-- Demir, çelik ve hurda ticareti yapanlar
-- Çimento imalatçıları
+- e-Fatura kullanıcısı olup 2021 ve sonraki hesap dönemlerinde brüt satış hasılatı 10 milyon TL ve üzeri olanlar (izleyen yılın 1 Temmuz'undan itibaren; 2026 cirosu için 1 Temmuz 2027)
+- ÖTV (I) sayılı listedeki mallar nedeniyle EPDK'dan lisans alanlar (akaryakıt, bayilik dahil)
+- ÖTV (III) sayılı listedeki malları imal, inşa, ithal eden ve ana bayi/distribütör olarak pazarlayanlar
+- Maden işletme ruhsatı/sertifikası sahipleri ve onlarla sözleşmeli üretim yapanlar
+- Şeker imalatçıları
+- Demir-çelik (GTİP 72) ve demir-çelikten eşya (GTİP 73) imal, ithal veya ihraç edenler (basit usul hariç)
+- Gübre Takip Sistemi'ne kayıtlı kullanıcılar
+- Sebze ve meyve ticaretiyle uğraşan komisyoncu ve tüccarlar
+- İnşaat Demiri İzleme Sistemi'ne tabi olup brüt satış hasılatı 1 milyon TL ve üzeri olanlar
 
-e-İrsaliye mükellefi olan firmalar, zorunluluk başladıktan sonra kağıt irsaliye düzenleyemez; tüm sevkiyatlar elektronik irsaliyeyle belgelenmelidir.
+e-İrsaliye mükellefi olan firmalar, zorunluluk başladıktan sonra kâğıt irsaliye düzenleyemez; tüm sevkiyatlar elektronik irsaliyeyle belgelenmelidir.
 
 ### 5. Diğer e-belge türleri nelerdir?
 
 #### e-SMM — Serbest Meslek Makbuzu
 
-Doktor, avukat, mali müşavir, mühendis, mimar ve danışman gibi serbest meslek erbabının tamamı için 1 Haziran 2020'den itibaren zorunludur. Bugün itibarıyla geç kalan hiçbir serbest meslek erbabı kağıt SMM düzenleyemez.
+Doktor, avukat, mali müşavir, mühendis, mimar ve danışman gibi serbest meslek erbabı için 1 Haziran 2020'den itibaren zorunludur; bu tarihten sonra işe başlayanlar, işe başladıkları ayı izleyen 3. ayın sonuna kadar uygulamaya dahil olmalıdır.
 
 #### e-Müstahsil Makbuzu
 
-e-Fatura mükellefi olup çiftçilerden zirai ürün satın alan tüm firmalar zorunludur. Hal komisyoncuları, tahıl/meyve/sebze toptancıları ve et-süt sektöründe faaliyet gösterenler kapsama dahildir.
+e-Fatura uygulamasına geçmek zorunda olup faaliyeti gereği müstahsil makbuzu düzenleyen mükellefler, sebze ve meyve ticaretiyle uğraşan komisyoncu ve tüccarlar ile GİB'in yazılı bildirim yaptığı mükellefler için zorunludur.
 
 #### e-Adisyon
 
-Birinci sınıf restoran, lokanta, kafe ve yiyecek-içecek işletmeleri için zorunludur. e-Adisyon, müşteriye sunulan hesap fişinin elektronik ortamda düzenlenmesidir.
+e-Adisyon, masada servis yapan ve gerçek usulde vergilendirilen yiyecek-içecek işletmelerinin (lokanta, kafeterya, pastane, bar vb.) kullandığı adisyonun elektronik halidir. GİB'in yazılı bildirim veya duyuru yaptığı işletmeler için, bildirimde belirtilen süreden itibaren zorunludur.
 
 #### e-Dekont
 
-5411 sayılı Bankacılık Kanunu kapsamındaki bankalar için zorunludur. Banka dekontlarının elektronik ortamda düzenlenmesini ve iletilmesini kapsar.
+Banka dekontlarının elektronik ortamda düzenlenmesini kapsar. Şu an zorunlu değildir; bankalar (2020'den) ve 435 Sıra No.lu Tebliğ'de sayılan kuruluşlar (2025'ten) isteğe bağlı olarak dahil olabilir. GİB, en az 3 ay süre vererek zorunluluk getirmeye yetkilidir.
 
 #### Hangi e-belge türüne geçmeniz gerektiğinden emin değil misiniz?
 
@@ -1963,7 +1970,7 @@ Aşağıdaki kriterleri sağlayan mükellefler için e-Defter zorunludur:
 
 - Ciro bazlı: Brüt satış hasılatı 3 milyon TL ve üzeri olan mükellefler.
 - e-Fatura mükellefleri: e-Fatura kullanan tüm firmalar otomatik olarak e-Defter zorunluluğuna girer.
-- Sektörel: İhracat, e-ticaret, akaryakıt, bazı lisanslı sektörler.
+- Sektörel: Sektörü nedeniyle e-Fatura'ya geçmek zorunda olanlar (akaryakıt lisanslıları, 500 bin TL'yi aşan e-ticaret satıcıları, pazar yerleri vb.).
 
 e-Defter geçişi yıl sonu itibarıyla yapılır. Yıl içinde başvuru yapılırsa, takip eden yıl başında zorunluluk başlar. Yıl ortasında geçiş yapılmaz.
 
@@ -2070,9 +2077,9 @@ Bu nedenle özellikle büyük tutarlı işlemlerde alıcı firmaların, tedarik�
 
 Birçok işletme zorunluluk kapsamına girdikten sonra aylarca kağıt fatura düzenlemeye devam eder. GİB'in BA/BS formları üzerinden çapraz kontrol yapmasıyla bu durum tespite açıktır.
 
-#### Hata 2 — e-Arşiv Fatura Saatine Uymamak
+#### Hata 2 — Faturayı 7 Gün İçinde Düzenlememek
 
-e-Arşiv Fatura'da, aynı gün içinde oluşturulup GİB'e iletilmesi zorunludur. Sistem dışında oluşturulan faturalar için son yükleme saati 23:59'dur. Gecikme cezaya yol açar.
+e-Fatura ve e-Arşiv Fatura da kâğıt fatura gibi VUK md. 231/5'e tabidir: fatura, malın teslimi veya hizmetin yapıldığı tarihten itibaren azami 7 gün içinde düzenlenmelidir. Bu süre içinde düzenlenmeyen fatura hiç düzenlenmemiş sayılır ve VUK md. 353/1 cezası gündeme gelir.
 
 #### Hata 3 — İptal-İade Faturasını Hatalı Düzenlemek
 
@@ -2098,21 +2105,24 @@ Uzman ekibimiz GİB başvurusundan sistem kurulumuna kadar her adımda yanınız
 - Süreçleri dokümante edin: Olası bir vergi incelemesinde hangi faturaların hangi tarihte ve hangi senaryo ile düzenlendiğini kanıtlayabilmeniz gerekir.
 - Periyodik kontrol yapın: Mali müşavirinizle her çeyrek dönemde e-Belge süreçlerinizi gözden geçirin.
 
-### 6. Pişmanlıkla beyan nedir?
+### 6. Pişmanlık, ceza indirimi ve uzlaşma
 
-Zorunluluk kapsamına girdiğinizi geç fark ettiyseniz ya da hata yaptıysanız, VUK md. 371 kapsamında pişmanlıkla beyan yoluna gidebilirsiniz. Bu durumda özel usulsüzlük cezası yerine daha düşük pişmanlık zammı uygulanır. Ancak bu seçenek yalnızca vergi idaresi incelemeye başlamadan önce geçerlidir.
+Pişmanlıkla beyan (VUK md. 371) kâğıt fatura cezasını kaldırmaz. Pişmanlık hükümleri vergi ziyaına yöneliktir; kâğıt fatura düzenleme gibi özel usulsüzlük fiillerinde pişmanlıkla ceza ortadan kalkmaz. Ceza kesildiğinde ise şu yollar değerlendirilebilir:
 
-Pişmanlık beyanı için mali müşaviriniz veya vergi avukatınızla vakit geçirmeksizin iletişime geçmenizi tavsiye ederiz.
+- Ceza indirimi (VUK md. 376): İhbarnamenin tebliğinden itibaren 30 gün içinde başvurulup indirimli tutar süresinde ödenirse cezada indirim uygulanır.
+- Uzlaşma: Belirli tutarın üzerindeki usulsüzlük ve özel usulsüzlük cezaları uzlaşmaya konu edilebilir.
+
+Hangi yolun uygun olduğuna, ihbarname geldiğinde mali müşaviriniz veya vergi avukatınızla birlikte karar verin. Hatayı fark ettiğiniz andan itibaren faturalarınızı elektronik düzenlemeye başlamak, yeni tespitleri ve artan asgari tutarları önler.
 
 ### 7. Sıkça Sorulan Sorular
 
 #### e-Fatura zorunluluğum var mı bilmiyorum, nasıl kontrol ederim?
 
-GİB'in e-Fatura Kayıtlı Kullanıcılar Listesi'nde VKN'nizi sorgulayabilirsiniz. Ayrıca son iki yılın brüt satış hasılatınız 3 milyon TL'nin üzerindeyse zorunluluk kapsamındasınızdır.
+GİB'in e-Fatura Kayıtlı Kullanıcılar Listesi'nde VKN'nizi sorgulayabilirsiniz. Bir hesap dönemindeki brüt satış hasılatınız 3 milyon TL ve üzerindeyse izleyen yılın 1 Temmuz'undan itibaren zorunlusunuz (2025 cirosu için 1 Temmuz 2026, 2026 cirosu için 1 Temmuz 2027). e-Ticaret, gayrimenkul ve motorlu taşıt işlerinde eşik 500 bin TL'dir; bazı sektörlerde ciro şartı aranmaz.
 
 #### Kağıt fatura düzenledim ama farkında değildim, ne yapmalıyım?
 
-Mali müşavirinizle birlikte pişmanlık beyanı seçeneğini değerlendirin. İnceleme başlamadan önce başvuru yapmanız durumunda ceza indirimi mümkündür.
+Hemen e-Fatura'ya geçip faturalarınızı elektronik düzenlemeye başlayın; pişmanlıkla beyan bu cezayı kaldırmaz. İhbarname gelirse 30 gün içinde ceza indirimi veya uzlaşma seçeneklerini mali müşavirinizle değerlendirin.
 
 #### Alıcı firma e-Fatura mükellefiyse ben de zorunlu muyum?
 
@@ -2146,11 +2156,10 @@ Brüt satış hasılatı 2024 ve sonraki yıllar için 3 milyon TL ve üzeri ola
 
 #### Sektörel zorunluluk nedir?
 
-- İhracat yapan firmalar: Ciro bakılmaksızın zorunludur.
 - İnternet aracı hizmet sağlayıcıları: e-Ticaret platformları, marketplace'ler.
-- e-Ticaret yapan firmalar: Online satış yapan herkes.
-- İnternet reklam aracılığı: Reklam ajansları, dijital pazarlama firmaları.
-- Lisanslı sektörler: Akaryakıt, alkollü içecek, tütün, gazete-dergi, fındık-pamuk, gübre-tıbbi, hizmet üreten firmalar.
+- e-Ticaret yapan firmalar: Online satışta brüt satış hasılatı 500 bin TL ve üzeri olanlar.
+- İnternet reklam aracılığı ve ilan siteleri: İnternet reklamcılığı hizmet aracıları ile gayrimenkul/taşıt ilan siteleri.
+- Diğer sektörler: Akaryakıt (EPDK lisansı), alkollü içecek ve tütün imal/ithal edenler, sebze-meyve komisyoncu ve tüccarları, SGK ile sözleşmeli sağlık işletmeleri ve ilaç/medikal tedarikçileri, belgeli oteller, şarj ağı işletmecileri; gayrimenkul ve motorlu taşıt işinde 500 bin TL ciro.
 
 Önemli: Zorunluluk kapsamına girip faturalarını kâğıt olarak düzenlemeye devam eden mükelleflere VUK md. 353/1 uyarınca, belgede yazması gereken tutarın %10'u oranında özel usulsüzlük cezası uygulanır (2026'da ilk tespitte en az 17.000 TL). Ceza her belge için ayrı kesilir. Ayrıntılar: e-Fatura cezaları 2026.
 
@@ -2260,26 +2269,21 @@ Hesaplamak için zamana mı ihtiyacınız var? Uzmanlarımız ücretsiz ön değ
 
 ### 3. Hangi sektörlerde ciro aranmaz? (Sektörel zorunluluk)
 
-Aşağıdaki sektör ve faaliyet türlerinde ciroya bakılmaksızın e-Fatura zorunluluğu doğar. İşletmeniz aşağıdaki kategorilerden herhangi birine giriyorsa, ciro eşiğini tutturmamış olsanız dahi e-Fatura kullanmak zorunda olabilirsiniz.
+509 Sıra No.lu VUK Genel Tebliği'ne göre aşağıdaki mükellefler, 3 milyon TL ciro eşiğinden bağımsız olarak (bazıları daha düşük bir eşikle) e-Fatura uygulamasına geçmek zorundadır:
 
-| Sektör / Faaliyet | Ciro Şartı | Zorunluluk Tarihi |
+| Sektör / Faaliyet | Ciro Şartı | Geçiş Süresi |
 |---|---|---|
-| İhracat ve transit ticaret yapanlar | Ciro şartı yok | 01.07.2017'den itibaren |
-| İnternet üzerinden mal/hizmet satışı (e-ticaret) | Ciro şartı yok | 01.07.2017'den itibaren |
-| İnternet reklam aracıları (dijital ajanslar, platformlar) | Ciro şartı yok | 01.01.2020'den itibaren |
-| Aracılık hizmeti sunan platformlar (marketplace, pazar yerleri) | Ciro şartı yok | 01.01.2020'den itibaren |
-| Akaryakıt dağıtım ve bayilik | Ciro şartı yok | 01.07.2017'den itibaren |
-| Demir-çelik piyasası (üretici, dağıtıcı, ihracatçı) | Ciro şartı yok | 01.07.2020'den itibaren |
-| Gübre üretim ve dağıtımı | Ciro şartı yok | 01.07.2020'den itibaren |
-| İlaç, tıbbi cihaz üretim/dağıtımı | Ciro şartı yok | 01.07.2020'den itibaren |
-| Alkollü içecek ve tütün ürünleri | Ciro şartı yok | 01.07.2017'den itibaren |
-| Hal komisyoncuları ve hal idareleri | Ciro şartı yok | 01.01.2020'den itibaren |
-| Şeker fabrikaları | Ciro şartı yok | 01.07.2020'den itibaren |
-| Gazete, dergi yayıncıları | Ciro şartı yok | 01.07.2017'den itibaren |
-| Çay işletmeleri (ÇAYKUR ve özel) | Ciro şartı yok | 01.07.2020'den itibaren |
-| Tarım ürünleri lisanslı depoculuk | Ciro şartı yok | Tescil tarihinden itibaren |
+| Akaryakıt: ÖTV (I) sayılı liste nedeniyle EPDK'dan lisans alanlar (bayilik dahil) | Yok | Lisans alımını izleyen 4. ayın başından itibaren |
+| ÖTV (III) sayılı liste: alkollü içecek, tütün ürünleri vb. imal, inşa veya ithal edenler | Yok | İmal/ithal ayını izleyen 4. ayın başından itibaren |
+| Aracı hizmet sağlayıcılar (pazar yerleri), internet ilan siteleri, internet reklamcılığı aracıları | Yok | İşe başlamadan itibaren 3 ay içinde |
+| e-Ticaret: kendi sitesinde veya pazar yerinde mal/hizmet satanlar | 500 bin TL | Eşiği aşılan yılı izleyen yılın 1 Temmuz'u |
+| Gayrimenkul ve motorlu taşıt: inşa, imal, alım, satım, kiralama ve aracılık | 500 bin TL | Eşiği aşılan yılı izleyen yılın 1 Temmuz'u |
+| Hal: sebze ve meyve komisyoncu ve tüccarları | Yok | İşe başlamadan itibaren 3 ay içinde |
+| Sağlık: SGK ile sözleşmeli sağlık hizmeti sunucuları, ilaç ve medikal malzeme tedarikçileri (hastane, eczane, optisyen vb.) | Yok | SGK'ya fatura düzenlemeye başlamadan önce |
+| Konaklama: Kültür ve Turizm Bakanlığı veya belediyeden belgeli otel işletmeleri | Yok | Faaliyete başlanan ayı izleyen 4. ayın başına kadar |
+| Elektrikli araç şarj: şarj ağı işletmecisi lisansı alanlar ve sertifikalı şarj istasyonu işletmecileri | Yok | Tebliğde belirtilen sürede |
 
-Önemli Not: Yukarıdaki tabloda yer alan tarihler zorunluluğun başladığı tarihtir. Bu tarihe kadar geçiş yapmayan mükelleflere ceza işlemi uygulanmaya devam etmektedir.
+İhracat: İhracat yapmak tek başına e-Fatura zorunluluğu doğurmaz. e-Fatura kullanıcısı olan ihracatçılar ise mal ihracatı faturalarını e-Fatura olarak düzenler. Ayrıca GİB, riskli bulduğu mükelleflere yazılı bildirimle ve en az 3 ay süre vererek e-Fatura zorunluluğu getirebilir.
 
 #### Özel Lisanslı Kurumlar
 
@@ -2319,12 +2323,12 @@ Aşağıdaki soruları kendinize sorun. Herhangi bir soruya "Evet" yanıtı veri
 | Soru | Evet → Ne Anlama Gelir? |
 |---|---|
 | 2025 yılı brüt satışlarım 3 milyon TL'yi aştı mı? | 1 Temmuz 2026'dan itibaren zorunlusun |
-| Yurt dışına ihracat yapıyor muyum? | Ciroya bakılmaksızın zorunlusun |
-| İnternetten satış yapıyor muyum (web sitesi, Trendyol, Hepsiburada vb.)? | Ciroya bakılmaksızın zorunlusun |
-| Dijital reklam veya aracılık hizmeti sunuyor muyum? | Ciroya bakılmaksızın zorunlusun |
-| Akaryakıt, gübre, ilaç, demir-çelik sektöründe miyim? | Ciroya bakılmaksızın zorunlusun |
-| Alkol veya tütün lisansı var mı? | Ciroya bakılmaksızın zorunlusun |
-| Hal komisyoncusu veya hal idaresimiyim? | Ciroya bakılmaksızın zorunlusun |
+| Gayrimenkul veya motorlu taşıt işi yapıyorum, cirom 500 bin TL'yi aştı mı? | İzleyen yılın 1 Temmuz'undan itibaren zorunlusun |
+| İnternetten satış yapıyor muyum (web sitesi, Trendyol, Hepsiburada vb.) ve cirom 500 bin TL'yi aştı mı? | İzleyen yılın 1 Temmuz'undan itibaren zorunlusun |
+| Pazar yeri, ilan sitesi veya internet reklam aracısı mıyım? | Ciroya bakılmaksızın zorunlusun |
+| EPDK akaryakıt lisansım var mı, SGK ile sözleşmeli sağlık/ilaç işletmesi miyim veya belgeli otel miyim? | Ciroya bakılmaksızın zorunlusun |
+| Alkollü içecek veya tütün ürünleri (ÖTV III) imal ya da ithal ediyor muyum? | Ciroya bakılmaksızın zorunlusun |
+| Sebze-meyve komisyoncusu veya tüccarı mıyım? | Ciroya bakılmaksızın zorunlusun |
 
 Bu tablodaki sorulardan herhangi birine "Evet" yanıtı veriyorsanız, Umay Bilişim uzmanları ücretsiz olarak size özel durum değerlendirmesi yapabilir.
 
@@ -2357,7 +2361,7 @@ Mali mührünüz hazırsa standart e-Fatura geçişi 1-3 iş günü içinde tama
 
 #### Hangi sektörler ciroya bakılmaksızın e-Fatura kullanmak zorunda?
 
-İhracat yapan firmalar, e-ticaret satıcıları, internet reklam aracıları, akaryakıt dağıtımcıları, demir-çelik piyasası katılımcıları, gübre üreticileri ve dağıtıcıları, ilaç ve tıbbi cihaz sektörü, alkol ve tütün firmaları ile hal komisyoncuları ciro eşiğinden bağımsız olarak zorunluluk kapsamındadır.
+Akaryakıt (EPDK lisanslı), ÖTV (III) listesindeki alkol ve tütün ürünlerini imal/ithal edenler, sebze-meyve komisyoncu ve tüccarları, SGK ile sözleşmeli sağlık işletmeleri ve ilaç/medikal tedarikçileri, belgeli oteller, şarj ağı işletmecileri ile pazar yerleri, ilan siteleri ve internet reklam aracıları ciro eşiğinden bağımsız olarak zorunludur. e-Ticaret satıcıları ile gayrimenkul ve motorlu taşıt işi yapanlarda eşik 500 bin TL'dir. İhracat tek başına zorunluluk doğurmaz.
 
 #### e-Fatura zorunluluğunu yerine getirmezsem ne olur?
 
@@ -2369,7 +2373,7 @@ e-Fatura yalnızca e-Fatura mükellef kayıtlı firmalar arasında düzenlenir. 
 
 #### Ciro eşiğini 2025'te geçtim ama henüz e-Fatura'ya geçmedim, ne yapmalıyım?
 
-1 Temmuz 2026 zorunluluk tarihinden önce geçişi tamamlamanız gerekiyor. Geçiş 1-3 iş günü sürdüğünden zaman kaybetmeden başlamanızı öneriyoruz. Umay Bilişim'i arayın: 0 850 777 11 45.
+2025 cirosu 3 milyon TL'yi aşanlar için zorunluluk 1 Temmuz 2026'da başladı. Henüz geçmediyseniz bu tarihten sonra düzenlediğiniz kâğıt faturalar ceza riski taşır; geçişi hemen tamamlayın. Umay Bilişim'i arayın: 0 850 777 11 45.
 
 #### e-Fatura için mali mühür mü, e-İmza mı gerekir?
 
@@ -2404,10 +2408,10 @@ e-Fatura geçişi 6 adımdan oluşur: Zorunluluk kontrolü → Mali mühür → 
 | Kriter | Açıklama |
 |---|---|
 | Ciro Eşiği | Son hesap dönemi brüt satış hasılatı 3 milyon TL ve üzeri |
-| İhracat | Mal veya hizmet ihracatı yapıyor olmanız |
-| e-Ticaret | İnternet üzerinden satış yapıyor olmanız |
-| Aracı Hizmet Sağlayıcı | İnternet reklam veya e-ticaret aracılığı hizmeti |
-| Lisanslı Sektörler | Akaryakıt, alkol, tütün, gübre, ilaç, çelik dağıtımı |
+| Gayrimenkul / Motorlu Taşıt | Bu işlerde brüt satış hasılatı 500 bin TL ve üzeri |
+| e-Ticaret | İnternet üzerinden satışta brüt satış hasılatı 500 bin TL ve üzeri |
+| Aracı Hizmet Sağlayıcı | Pazar yeri, internet ilan sitesi veya internet reklam aracılığı (ciro şartı yok) |
+| Diğer Sektörler | Akaryakıt (EPDK lisansı), alkol/tütün imal-ithal, sebze-meyve hali, SGK sözleşmeli sağlık ve ilaç, belgeli oteller, şarj ağı işletmecileri |
 | GİB Listesi | GİB'in belirlediği zorunluluk listesinde VKN'niz mevcut |
 
 Emin değilseniz GİB'in "e-Fatura Kayıtlı Kullanıcılar Listesi" sayfasından VKN'nizi sorgulayabilirsiniz. Ya da bize bir WhatsApp atın — 5 dakikada kontrol edelim.

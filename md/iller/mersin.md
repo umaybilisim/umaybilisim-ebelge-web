@@ -76,7 +76,7 @@ Kesintisiz, hızlı ve Türkçe teknik destek hattı her aşamada yanınızda.
 
 ### Narenciye ihracatçısıyım, hangi belgeler?
 
-İhracat nedeniyle e-Fatura ve e-Defter zorunludur; üreticiden alımda e-Müstahsil Makbuzu düzenlenir.
+İhracat tek başına zorunluluk doğurmaz; ciro 3 milyon TL'yi aşınca e-Fatura ve e-Defter zorunlu olur; üreticiden alımda e-Müstahsil Makbuzu düzenlenir.
 
 ### Serbest bölgede faaliyetim var, çözüm uygun mu?
 

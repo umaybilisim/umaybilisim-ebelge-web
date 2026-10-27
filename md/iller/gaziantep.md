@@ -72,7 +72,7 @@ Kesintisiz, hızlı ve Türkçe teknik destek hattı her aşamada yanınızda.
 
 ### İhracat yapan Antep firmasıyım, hangi belgeler gerekli?
 
-İhracat nedeniyle e-Fatura ve e-Defter zorunludur. Yüksek hacimli ihracat faturalarınızı GİB uyumlu, toplu biçimde düzenleriz.
+İhracat tek başına e-Fatura zorunluluğu doğurmaz; brüt satış hasılatı 3 milyon TL'yi aşınca e-Fatura, e-Fatura ile birlikte e-Defter zorunlu olur. Yüksek hacimli ihracat faturalarınızı GİB uyumlu, toplu biçimde düzenleriz.
 
 ### Halı/tekstil fabrikam için e-İrsaliye gerekli mi?
 

@@ -72,7 +72,7 @@ Kesintisiz, hızlı ve Türkçe teknik destek hattı her aşamada yanınızda.
 
 ### Sınır ticareti yapıyorum, hangi belgeler gerekli?
 
-İthalat-ihracat ve e-Fatura mükellefi ticaret için e-Fatura ve e-Defter zorunludur; GİB uyumlu kurulum sağlıyoruz.
+e-Fatura mükellefiyseniz (ör. ciro 3 milyon TL'yi aştıysa) e-Fatura ve e-Defter zorunludur; ithalat-ihracat tek başına zorunluluk doğurmaz; GİB uyumlu kurulum sağlıyoruz.
 
 ### Besici/hayvancılık işletmesiyim, ne kesmeliyim?
 

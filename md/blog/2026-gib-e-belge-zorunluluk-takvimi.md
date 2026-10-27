@@ -16,23 +16,26 @@ Gelir İdaresi Başkanlığı (GİB), e-belge zorunluluklarını iki temel krite
 
 ### Ciro bazlı zorunluluk nedir?
 
-2024 ve sonraki hesap dönemlerine ait brüt satış hasılatı 3 milyon TL ve üzerinde olan tüm mükellefler, bir sonraki yılın başından itibaren e-Fatura ve e-Arşiv Fatura kullanmak zorundadır.
+509 Sıra No.lu VUK Genel Tebliği'ne göre 2022 ve sonraki hesap dönemlerinde brüt satış hasılatı 3 milyon TL ve üzerinde olan mükellefler, ilgili hesap dönemini izleyen yılın yedinci ayının başından (1 Temmuz) itibaren e-Fatura uygulamasına geçmek zorundadır.
 
-| Yıl | Ciro Eşiği | Zorunluluk Başlangıcı |
+| Hesap Dönemi | Ciro Eşiği | Zorunluluk Başlangıcı |
 |---|---|---|
-| 2024 cirosu | 3 milyon TL ve üzeri | 1 Ocak 2025'ten itibaren |
-| 2025 cirosu | 3 milyon TL ve üzeri | 1 Ocak 2026'dan itibaren |
-| 2026 cirosu | GİB güncellemesi beklenecek | 1 Ocak 2027'den itibaren |
+| 2024 cirosu | 3 milyon TL ve üzeri | 1 Temmuz 2025 |
+| 2025 cirosu | 3 milyon TL ve üzeri | 1 Temmuz 2026 |
+| 2026 cirosu | 3 milyon TL ve üzeri (tebliğ değişmedikçe) | 1 Temmuz 2027 |
 
-### Ciro sınırı aranmayan sektörel zorunluluk nedir?
+### Ciro dışında hangi mükellefler e-Fatura'ya geçmek zorunda?
 
-- İhracat yapan firmalar — tüm ihracat faturaları e-Fatura ile düzenlenir
-- e-Ticaret platformları ve marketplace'ler — aracı hizmet sağlayıcılar dahil
-- İnternet üzerinden reklam yayınlayanlar — dijital reklam aracıları
-- Akaryakıt dağıtım ve bayi işletmeleri
-- Demir-çelik ürünleri imalat/ihracat/ithalatçıları
-- Gübre imalatçıları ve ithalatçıları
-- Hal kayıt sistemi kapsamındaki komisyoncular
+- e-Ticaret: Kendi sitelerinde veya pazar yerlerinde mal/hizmet satanlardan brüt satış hasılatı 500 bin TL ve üzeri olanlar; aracı hizmet sağlayıcılar (pazar yerleri), internet ilan siteleri ve internet reklamcılığı aracıları
+- Gayrimenkul ve motorlu taşıt: İnşa, imal, alım, satım, kiralama veya aracılık yapanlardan brüt satış hasılatı 500 bin TL ve üzeri olanlar
+- Akaryakıt: ÖTV (I) sayılı listedeki mallar nedeniyle EPDK'dan lisans alanlar (bayilik dahil)
+- Alkol, tütün ve benzeri: ÖTV (III) sayılı listedeki malları imal, inşa veya ithal edenler
+- Hal: Sebze ve meyve ticaretiyle uğraşan komisyoncu ve tüccarlar
+- Sağlık: SGK ile sözleşmeli sağlık hizmeti sunucuları ile medikal malzeme ve ilaç temin edenler (hastane, eczane, optisyen vb.)
+- Konaklama: Kültür ve Turizm Bakanlığı veya belediyeden belge almış otel işletmeleri
+- Elektrikli araç şarj: EPDK'dan şarj ağı işletmeci lisansı alanlar ve sertifikalı şarj istasyonu işletmecileri
+
+İhracat yapmak tek başına e-Fatura zorunluluğu doğurmaz; ancak e-Fatura kullanıcısı olan ihracatçılar ihracat faturalarını e-Fatura olarak düzenler.
 
 e-Fatura mükellefi olan her firma aynı zamanda e-Arşiv Fatura da kullanmak zorundadır. e-Arşiv; e-Fatura mükellefi olmayan alıcılara veya son tüketicilere düzenlenir.
 
@@ -55,33 +58,37 @@ Programımız bu tarihleri otomatik olarak takip eder ve yükleme öncesinde hat
 
 ## 4. e-İrsaliye kimler için zorunludur?
 
-Mal sevkiyatı gerçekleştiren firmaların büyük bir bölümü e-İrsaliye kullanmak zorundadır. Zorunluluk kapsamındaki mükellefler şunlardır:
+509 Sıra No.lu VUK Genel Tebliği'ne göre e-İrsaliye zorunluluğu kapsamındaki başlıca mükellefler şunlardır:
 
-- e-Fatura mükellefi olan imalatçılar ve toptan satış yapan firmalar
-- Akaryakıt dağıtım ve bayi işletmeleri
-- Hal komisyoncuları ve tüccarları
-- Demir, çelik ve hurda ticareti yapanlar
-- Çimento imalatçıları
+- e-Fatura kullanıcısı olup 2021 ve sonraki hesap dönemlerinde brüt satış hasılatı 10 milyon TL ve üzeri olanlar (izleyen yılın 1 Temmuz'undan itibaren; 2026 cirosu için 1 Temmuz 2027)
+- ÖTV (I) sayılı listedeki mallar nedeniyle EPDK'dan lisans alanlar (akaryakıt, bayilik dahil)
+- ÖTV (III) sayılı listedeki malları imal, inşa, ithal eden ve ana bayi/distribütör olarak pazarlayanlar
+- Maden işletme ruhsatı/sertifikası sahipleri ve onlarla sözleşmeli üretim yapanlar
+- Şeker imalatçıları
+- Demir-çelik (GTİP 72) ve demir-çelikten eşya (GTİP 73) imal, ithal veya ihraç edenler (basit usul hariç)
+- Gübre Takip Sistemi'ne kayıtlı kullanıcılar
+- Sebze ve meyve ticaretiyle uğraşan komisyoncu ve tüccarlar
+- İnşaat Demiri İzleme Sistemi'ne tabi olup brüt satış hasılatı 1 milyon TL ve üzeri olanlar
 
-e-İrsaliye mükellefi olan firmalar, zorunluluk başladıktan sonra kağıt irsaliye düzenleyemez; tüm sevkiyatlar elektronik irsaliyeyle belgelenmelidir.
+e-İrsaliye mükellefi olan firmalar, zorunluluk başladıktan sonra kâğıt irsaliye düzenleyemez; tüm sevkiyatlar elektronik irsaliyeyle belgelenmelidir.
 
 ## 5. Diğer e-belge türleri nelerdir?
 
 ### e-SMM — Serbest Meslek Makbuzu
 
-Doktor, avukat, mali müşavir, mühendis, mimar ve danışman gibi serbest meslek erbabının tamamı için 1 Haziran 2020'den itibaren zorunludur. Bugün itibarıyla geç kalan hiçbir serbest meslek erbabı kağıt SMM düzenleyemez.
+Doktor, avukat, mali müşavir, mühendis, mimar ve danışman gibi serbest meslek erbabı için 1 Haziran 2020'den itibaren zorunludur; bu tarihten sonra işe başlayanlar, işe başladıkları ayı izleyen 3. ayın sonuna kadar uygulamaya dahil olmalıdır.
 
 ### e-Müstahsil Makbuzu
 
-e-Fatura mükellefi olup çiftçilerden zirai ürün satın alan tüm firmalar zorunludur. Hal komisyoncuları, tahıl/meyve/sebze toptancıları ve et-süt sektöründe faaliyet gösterenler kapsama dahildir.
+e-Fatura uygulamasına geçmek zorunda olup faaliyeti gereği müstahsil makbuzu düzenleyen mükellefler, sebze ve meyve ticaretiyle uğraşan komisyoncu ve tüccarlar ile GİB'in yazılı bildirim yaptığı mükellefler için zorunludur.
 
 ### e-Adisyon
 
-Birinci sınıf restoran, lokanta, kafe ve yiyecek-içecek işletmeleri için zorunludur. e-Adisyon, müşteriye sunulan hesap fişinin elektronik ortamda düzenlenmesidir.
+e-Adisyon, masada servis yapan ve gerçek usulde vergilendirilen yiyecek-içecek işletmelerinin (lokanta, kafeterya, pastane, bar vb.) kullandığı adisyonun elektronik halidir. GİB'in yazılı bildirim veya duyuru yaptığı işletmeler için, bildirimde belirtilen süreden itibaren zorunludur.
 
 ### e-Dekont
 
-5411 sayılı Bankacılık Kanunu kapsamındaki bankalar için zorunludur. Banka dekontlarının elektronik ortamda düzenlenmesini ve iletilmesini kapsar.
+Banka dekontlarının elektronik ortamda düzenlenmesini kapsar. Şu an zorunlu değildir; bankalar (2020'den) ve 435 Sıra No.lu Tebliğ'de sayılan kuruluşlar (2025'ten) isteğe bağlı olarak dahil olabilir. GİB, en az 3 ay süre vererek zorunluluk getirmeye yetkilidir.
 
 ### Hangi e-belge türüne geçmeniz gerektiğinden emin değil misiniz?
 

@@ -43,9 +43,9 @@ Bu nedenle özellikle büyük tutarlı işlemlerde alıcı firmaların, tedarik�
 
 Birçok işletme zorunluluk kapsamına girdikten sonra aylarca kağıt fatura düzenlemeye devam eder. GİB'in BA/BS formları üzerinden çapraz kontrol yapmasıyla bu durum tespite açıktır.
 
-### Hata 2 — e-Arşiv Fatura Saatine Uymamak
+### Hata 2 — Faturayı 7 Gün İçinde Düzenlememek
 
-e-Arşiv Fatura'da, aynı gün içinde oluşturulup GİB'e iletilmesi zorunludur. Sistem dışında oluşturulan faturalar için son yükleme saati 23:59'dur. Gecikme cezaya yol açar.
+e-Fatura ve e-Arşiv Fatura da kâğıt fatura gibi VUK md. 231/5'e tabidir: fatura, malın teslimi veya hizmetin yapıldığı tarihten itibaren azami 7 gün içinde düzenlenmelidir. Bu süre içinde düzenlenmeyen fatura hiç düzenlenmemiş sayılır ve VUK md. 353/1 cezası gündeme gelir.
 
 ### Hata 3 — İptal-İade Faturasını Hatalı Düzenlemek
 
@@ -71,21 +71,24 @@ Uzman ekibimiz GİB başvurusundan sistem kurulumuna kadar her adımda yanınız
 - Süreçleri dokümante edin: Olası bir vergi incelemesinde hangi faturaların hangi tarihte ve hangi senaryo ile düzenlendiğini kanıtlayabilmeniz gerekir.
 - Periyodik kontrol yapın: Mali müşavirinizle her çeyrek dönemde e-Belge süreçlerinizi gözden geçirin.
 
-## 6. Pişmanlıkla beyan nedir?
+## 6. Pişmanlık, ceza indirimi ve uzlaşma
 
-Zorunluluk kapsamına girdiğinizi geç fark ettiyseniz ya da hata yaptıysanız, VUK md. 371 kapsamında pişmanlıkla beyan yoluna gidebilirsiniz. Bu durumda özel usulsüzlük cezası yerine daha düşük pişmanlık zammı uygulanır. Ancak bu seçenek yalnızca vergi idaresi incelemeye başlamadan önce geçerlidir.
+Pişmanlıkla beyan (VUK md. 371) kâğıt fatura cezasını kaldırmaz. Pişmanlık hükümleri vergi ziyaına yöneliktir; kâğıt fatura düzenleme gibi özel usulsüzlük fiillerinde pişmanlıkla ceza ortadan kalkmaz. Ceza kesildiğinde ise şu yollar değerlendirilebilir:
 
-Pişmanlık beyanı için mali müşaviriniz veya vergi avukatınızla vakit geçirmeksizin iletişime geçmenizi tavsiye ederiz.
+- Ceza indirimi (VUK md. 376): İhbarnamenin tebliğinden itibaren 30 gün içinde başvurulup indirimli tutar süresinde ödenirse cezada indirim uygulanır.
+- Uzlaşma: Belirli tutarın üzerindeki usulsüzlük ve özel usulsüzlük cezaları uzlaşmaya konu edilebilir.
+
+Hangi yolun uygun olduğuna, ihbarname geldiğinde mali müşaviriniz veya vergi avukatınızla birlikte karar verin. Hatayı fark ettiğiniz andan itibaren faturalarınızı elektronik düzenlemeye başlamak, yeni tespitleri ve artan asgari tutarları önler.
 
 ## 7. Sıkça Sorulan Sorular
 
 ### e-Fatura zorunluluğum var mı bilmiyorum, nasıl kontrol ederim?
 
-GİB'in e-Fatura Kayıtlı Kullanıcılar Listesi'nde VKN'nizi sorgulayabilirsiniz. Ayrıca son iki yılın brüt satış hasılatınız 3 milyon TL'nin üzerindeyse zorunluluk kapsamındasınızdır.
+GİB'in e-Fatura Kayıtlı Kullanıcılar Listesi'nde VKN'nizi sorgulayabilirsiniz. Bir hesap dönemindeki brüt satış hasılatınız 3 milyon TL ve üzerindeyse izleyen yılın 1 Temmuz'undan itibaren zorunlusunuz (2025 cirosu için 1 Temmuz 2026, 2026 cirosu için 1 Temmuz 2027). e-Ticaret, gayrimenkul ve motorlu taşıt işlerinde eşik 500 bin TL'dir; bazı sektörlerde ciro şartı aranmaz.
 
 ### Kağıt fatura düzenledim ama farkında değildim, ne yapmalıyım?
 
-Mali müşavirinizle birlikte pişmanlık beyanı seçeneğini değerlendirin. İnceleme başlamadan önce başvuru yapmanız durumunda ceza indirimi mümkündür.
+Hemen e-Fatura'ya geçip faturalarınızı elektronik düzenlemeye başlayın; pişmanlıkla beyan bu cezayı kaldırmaz. İhbarname gelirse 30 gün içinde ceza indirimi veya uzlaşma seçeneklerini mali müşavirinizle değerlendirin.
 
 ### Alıcı firma e-Fatura mükellefiyse ben de zorunlu muyum?
 

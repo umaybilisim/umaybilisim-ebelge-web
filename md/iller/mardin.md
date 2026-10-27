@@ -76,7 +76,7 @@ Bireysel misafirlere e-Arşiv Fatura, restoran hizmetinde e-Adisyon uygundur. Ma
 
 ### Sınır ticareti yapıyorum, e-Fatura şart mı?
 
-İhracat ve e-Fatura mükellefi ticaret için e-Fatura ve e-Defter zorunludur; GİB uyumlu kurulum sağlıyoruz.
+e-Fatura mükellefiyseniz (ör. ciro 3 milyon TL'yi aştıysa) e-Fatura ve e-Defter zorunludur; ihracat tek başına zorunluluk doğurmaz; GİB uyumlu kurulum sağlıyoruz.
 
 ### Mardin'de uzaktan kurulum mümkün mü?
 

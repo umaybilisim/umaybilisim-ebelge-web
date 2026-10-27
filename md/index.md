@@ -164,7 +164,7 @@ Yavaş destek, karmaşık arayüz veya artan maliyetler mi? Umay e-Belge'ye geç
 Kısa cevap: 2026 yılı itibarıyla brüt satış hasılatı 3 milyon TL ve üzerinde olan tüm mükellefler e-Fatura ve e-Arşiv'e geçmek zorundadır.
 
 Detay
-Ayrıca sektörel zorunluluklar (e-ticaret, ihracat, internet reklam aracılığı vb.) ciroya bakılmaksızın geçerlidir.
+Ayrıca bazı sektörlerde (akaryakıt lisansı, pazar yerleri, internet reklam aracılığı vb.) ciro aranmaz; e-ticaret satıcılarında eşik 500 bin TL'dir.
 
 ### Mevcut muhasebe programımla entegrasyon mümkün mü?
 

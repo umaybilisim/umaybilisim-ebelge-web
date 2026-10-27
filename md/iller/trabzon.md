@@ -76,7 +76,7 @@ Kesintisiz, hızlı ve Türkçe teknik destek hattı her aşamada yanınızda.
 
 ### Liman üzerinden ihracat yapıyorum, ne gerekli?
 
-İhracat için e-Fatura ve e-Defter zorunludur; sevkiyatta e-İrsaliye ile yol kontrolünde anlık doğrulama sağlanır.
+Ciro 3 milyon TL'yi aşınca e-Fatura ve e-Defter zorunlu olur (ihracat tek başına zorunluluk doğurmaz); sevkiyatta e-İrsaliye ile yol kontrolünde anlık doğrulama sağlanır.
 
 ### Trabzon'da uzaktan kurulum mümkün mü?
 

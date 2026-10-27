@@ -8,7 +8,7 @@ Havlu-bornoz ve ev tekstili ihracatçıları, mermer-traverten üreticileri ve O
 
 ## Denizli ekonomisinde e-belge ihtiyacı nedir?
 
-Denizli; havlu, bornoz ve ev tekstili ihracatında Türkiye'nin lider illerinden biri olup Avrupa pazarına yoğun sevkiyat yapan yüzlerce dokuma ve konfeksiyon firmasına ev sahipliği yapar. İhracat nedeniyle bu firmalar için e-Fatura zorunludur ve düzenli e-Defter tutarlar.
+Denizli; havlu, bornoz ve ev tekstili ihracatında Türkiye'nin lider illerinden biri olup Avrupa pazarına yoğun sevkiyat yapan yüzlerce dokuma ve konfeksiyon firmasına ev sahipliği yapar. Ciro eşiğini aşan bu firmalar için e-Fatura zorunludur ve düzenli e-Defter tutarlar.
 
 Kentin ikinci güçlü sektörü mermer ve travertendir; ocaktan ihracata uzanan bu zincirde yoğun yük sevkiyatı e-İrsaliye ile yönetilir. Organize Sanayi Bölgesi'ndeki üreticiler de e-belge ekosistemini tam kullanır.
 
@@ -72,7 +72,7 @@ Kesintisiz, hızlı ve Türkçe teknik destek hattı her aşamada yanınızda.
 
 ### Tekstil ihracatçısıyım, hangi belgeler gerekli?
 
-İhracat nedeniyle e-Fatura ve e-Defter zorunludur. İhracat faturalarınızı GİB ve gümrük süreçlerine uygun düzenleriz.
+İhracat tek başına e-Fatura zorunluluğu doğurmaz; brüt satış hasılatı 3 milyon TL'yi aşınca e-Fatura, e-Fatura ile birlikte e-Defter zorunlu olur. İhracat faturalarınızı GİB ve gümrük süreçlerine uygun düzenleriz.
 
 ### Mermer sevkiyatımda e-İrsaliye avantajı nedir?
 

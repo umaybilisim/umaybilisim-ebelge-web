@@ -72,7 +72,7 @@ Kesintisiz, hızlı ve Türkçe teknik destek hattı her aşamada yanınızda.
 
 ### İncir/zeytin ihracatçısıyım, hangi belgeler gerekli?
 
-İhracat nedeniyle e-Fatura zorunludur; ayrıca e-Defter tutmanız gerekir. İhracat faturalarınızı GİB uyumlu biçimde düzenleriz.
+İhracat tek başına e-Fatura zorunluluğu doğurmaz; brüt satış hasılatı 3 milyon TL'yi aşınca e-Fatura, e-Fatura ile birlikte e-Defter zorunlu olur. İhracat faturalarınızı GİB uyumlu biçimde düzenleriz.
 
 ### Söke'de tarım ürünü alıyorum, ne kesmeliyim?
 

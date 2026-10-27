@@ -18,7 +18,7 @@ e-Fatura Zorunluluk
 
 ## e-Fatura Zorunluluğu Kimleri Kapsar? Mükellefler ve Sektörler (2026)
 
-2025 cironuz 3 milyon TL'yi aştıysa veya e-ticaret, ihracat, akaryakıt gibi zorunlu sektörlerdeyseniz e-Fatura kullanmak yasal yükümlülüğünüz. Kapsamda olup olmadığınızı öğrenin.
+2025 cironuz 3 milyon TL'yi aştıysa veya akaryakıt, pazar yeri, sağlık gibi zorunlu sektörlerdeyseniz e-Fatura kullanmak yasal yükümlülüğünüz. Kapsamda olup olmadığınızı öğrenin.
 
 e-Fatura Geçişi
 28 Haziran 2026 10 dk okuma
