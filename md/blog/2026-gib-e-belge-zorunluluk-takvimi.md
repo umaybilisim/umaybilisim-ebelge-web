@@ -93,11 +93,10 @@ e-belge zorunluluğuna uymayan mükellefler, Vergi Usul Kanunu'nun 353. maddesi 
 
 | İhlal Türü | Ceza (her belge için) | Üst Sınır |
 |---|---|---|
-| e-Fatura/e-Arşiv düzenlenmemesi | Belge bedelinin %10'u (min. 680 TL) | 11.200.000 TL/yıl |
-| e-Defter tutulmaması veya geç yüklenmesi | 11.200 TL (aylık) | Her ay ayrı ceza |
-| e-İrsaliye düzenlenmemesi | Belge bedelinin %10'u (min. 680 TL) | 11.200.000 TL/yıl |
+| e-Fatura/e-Arşiv düzenlenmemesi veya kâğıt düzenlenmesi (353/1) | Belgede yazması gereken tutarın %10'u; ilk tespitte en az 17.000 TL | Her belge türü için 17.000.000 TL/yıl |
+| e-İrsaliye düzenlenmemesi veya kâğıt düzenlenmesi (353/2) | İlk tespitte 17.000 TL | Tespit başına 1.700.000 TL; yıllık 17.000.000 TL |
 
-Önemli: Zorunluluk kapsamında olup e-belge düzenlemeyen mükellefler, düzenledikleri kağıt belgelerin hiç düzenlenmemiş sayıldığı riskiyle karşı karşıyadır. Bu durum alacakların tahsilini güçleştirebilir.
+Önemli: Ceza her belge için ayrı kesilir ve aynı mükellef hakkındaki tespit sayısı arttıkça asgari tutar yükselir (2026'da 6. tespitten itibaren 170.000 TL). Vergi ziyaı doğmuşsa vergi ziyaı cezası ayrıca uygulanır. Tutarlar 588 Sıra No.lu VUK Genel Tebliği'ne göredir; ayrıntılar e-Fatura cezaları 2026 yazısında.
 
 ## 7. Nasıl Geçilir?
 

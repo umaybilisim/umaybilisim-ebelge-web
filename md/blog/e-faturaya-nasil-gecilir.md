@@ -186,7 +186,7 @@ Hayır. DİA ERP, Logo, Mikro, Netsis, ETA, Wolvox, Zirve, SAP dahil Türkiye'de
 
 ### e-Faturaya geçmezsem ne olur?
 
-Zorunluluk kapsamındayken kağıt fatura düzenleyenler VUK md. 353 uyarınca her belge için min. 600 TL özel usulsüzlük cezasıyla karşılaşır (yıllık üst sınır 1.200.000 TL). Ayrıca düzenlenen kağıt faturalar hukuken hiç düzenlenmemiş sayılır — bu da KDV indirimi reddi ve ek tarhiyat anlamına gelir. Ceza tutarları hakkında detaylı bilgi →
+Zorunluluk kapsamındayken kâğıt fatura düzenleyenler VUK md. 353/1 uyarınca belgede yazması gereken tutarın %10'u oranında özel usulsüzlük cezasıyla karşılaşır. 2026'da asgari tutar ilk tespitte 17.000 TL'dir; tespit sayısı arttıkça 170.000 TL'ye kadar yükselir (her belge türü için yıllık üst sınır 17.000.000 TL). Vergi ziyaı doğmuşsa vergi ziyaı cezası ayrıca kesilir. Ceza tutarları hakkında detaylı bilgi →
 
 ### e-Fatura ile e-Defter aynı anda mı geçilmeli?
 

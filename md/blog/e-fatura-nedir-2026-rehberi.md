@@ -28,7 +28,7 @@ Brüt satış hasılatı 2024 ve sonraki yıllar için 3 milyon TL ve üzeri ola
 - İnternet reklam aracılığı: Reklam ajansları, dijital pazarlama firmaları.
 - Lisanslı sektörler: Akaryakıt, alkollü içecek, tütün, gazete-dergi, fındık-pamuk, gübre-tıbbi, hizmet üreten firmalar.
 
-Önemli: Zorunluluk kapsamına giren ancak e-Fatura'ya geçmeyen mükelleflere VUK md. 353 uyarınca özel usulsüzlük cezası uygulanır. Ayrıca düzenledikleri faturalar hiç düzenlenmemiş sayılır.
+Önemli: Zorunluluk kapsamına girip faturalarını kâğıt olarak düzenlemeye devam eden mükelleflere VUK md. 353/1 uyarınca, belgede yazması gereken tutarın %10'u oranında özel usulsüzlük cezası uygulanır (2026'da ilk tespitte en az 17.000 TL). Ceza her belge için ayrı kesilir. Ayrıntılar: e-Fatura cezaları 2026.
 
 ## 3. e-Fatura klasik faturadan nasıl ayrılır?
 

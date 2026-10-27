@@ -10,29 +10,30 @@ Kaynak: https://www.e-devlethizmetleri.com/blog/e-fatura-cezalari-2026
 
 e-Fatura, e-Arşiv Fatura, e-İrsaliye ve diğer e-belge türlerine ilişkin yaptırımlar, 213 sayılı Vergi Usul Kanunu'nun 353. maddesi kapsamındaki özel usulsüzlük cezaları ile uygulanır. Bu cezalar, vergi incelemesi sırasında veya denetim raporları sonucunda tarhiyat yoluyla kesilir.
 
-Önemli bir nokta: e-Fatura zorunluluğu kapsamında olan bir mükellef, kağıt fatura düzenlese dahi bu fatura hiç düzenlenmemiş sayılır — yani vergi kaçakçılığı hükümlerine göre değil, usulsüzlük hükümlerine göre işlem yapılır. Ancak ek olarak KDV ve gelir/kurumlar vergisi yönünden de tarhiyat gündeme gelebilir.
+Önemli bir nokta: e-Fatura veya e-Arşiv olarak düzenlenmesi gereken bir faturanın kâğıt olarak düzenlenmesi, VUK md. 353/1'de faturanın hiç verilmemesiyle aynı bentte ayrıca sayılan bir özel usulsüzlük fiilidir ve aynı oranda cezalandırılır. Vergi ziyaı da doğmuşsa vergi ziyaı cezası ayrıca kesilir.
 
 ## 2. 2026 yılı ceza tutarları nelerdir?
 
-VUK md. 353/1 ve 353/2 kapsamında uygulanan özel usulsüzlük cezaları her yıl yeniden değerleme oranında artırılmaktadır. 2026 yılı için geçerli tutarlar aşağıdaki gibidir:
+VUK md. 353 kapsamındaki özel usulsüzlük cezalarının 2026 tutarları, 31 Aralık 2025 tarihli Resmî Gazete'de (5. Mükerrer) yayımlanan 588 Sıra No.lu VUK Genel Tebliği ile belirlendi. Asgari tutar, aynı mükellef hakkındaki tespit sayısı arttıkça yükselir:
 
-| Aykırılık | Ceza (Her Belge İçin) | Yıllık Üst Sınır |
+| Aykırılık | Ceza | Üst Sınır |
 |---|---|---|
-| e-Fatura yerine kağıt fatura düzenleme | Belge bedelinin %10'u (min. 600 TL) | 1.200.000 TL |
-| e-Arşiv Fatura'yı geç/hatalı düzenleme | Belge bedelinin %10'u (min. 600 TL) | 1.200.000 TL |
-| e-İrsaliye yerine kağıt irsaliye | Belge bedelinin %10'u (min. 600 TL) | 1.200.000 TL |
-| e-Belge almak zorundayken almama (alıcı) | 600 TL (her belge) | 1.200.000 TL |
-| e-Defter yükleme gecikmesi | Dönem başına 12.000 TL | — |
+| Faturanın hiç verilmemesi / alınmaması (353/1) | Belgede yazması gereken tutarın %10'u; ilk tespitte en az 17.000 TL | Her belge türü için yıllık 17.000.000 TL |
+| e-Fatura / e-Arşiv yerine kâğıt fatura düzenlenmesi (353/1) | Belgede yazması gereken tutarın %10'u; ilk tespitte en az 17.000 TL | Her belge türü için yıllık 17.000.000 TL |
+| İrsaliyenin düzenlenmemesi veya e-İrsaliye yerine kâğıt irsaliye (353/2) | İlk tespitte 17.000 TL | Tespit başına 1.700.000 TL; yıllık 17.000.000 TL |
+| Nihai tüketicinin fatura/fiş almaması | Her belge için 8.700 TL | Yıllık 87.000 TL |
 
-Tutarlar her yıl GİB tarafından yeniden değerleme oranında artırıldığından güncel limitleri GİB'in resmi sitesinden doğrulayınız.
+Tespit sayısına göre asgari tutar (2026): ilk tespit 17.000 TL · 2. tespit 35.000 TL · 3. tespit 53.000 TL · 4. tespit 70.000 TL · 5. tespit 87.000 TL · 6. ve sonraki tespitler 170.000 TL.
 
-## 3. Fatura "Hiç Düzenlenmemiş" Sayılır mı?
+Tutarlar her yıl yeniden değerleme oranında güncellenir. Güncel tutarları ilgili yılın VUK Genel Tebliği'nden veya mali müşavirinizden doğrulayın. e-Defter yükümlülüklerine ilişkin ayrıntılar için e-Defter rehberimize bakın.
 
-Evet. GİB'in yorumuna göre, e-Fatura zorunluluğu kapsamındaki bir mükellef tarafından kağıt ortamında düzenlenen fatura hukuki geçerliliğini yitirir ve hiç düzenlenmemiş kabul edilir. Bu durumun sonuçları şunlardır:
+## 3. Kâğıt fatura "hiç düzenlenmemiş" sayılır mı?
 
-- Alıcı, faturayı gider olarak göstemeyebilir — KDV indirimi reddedilebilir.
-- Satıcı, hasılatı gizlemiş sayılabilir ve vergi tarhiyatına muhatap olabilir.
-- Her iki taraf da ayrı ayrı özel usulsüzlük cezasına maruz kalabilir.
+Doğrudan hayır. VUK md. 353/1, elektronik düzenlenmesi gereken faturanın kâğıt olarak düzenlenmesini ayrı bir fiil olarak sayar ve faturanın hiç verilmemesiyle aynı oranda cezalandırır. "Hiç düzenlenmemiş sayılma" ise VUK'un 227. ve 231. maddelerindeki şartlara uyulmadığında söz konusu olur; örneğin faturanın zorunlu bilgileri içermemesi veya malın teslimi ya da hizmetin yapılmasından itibaren azami 7 gün içinde düzenlenmemesi. Kâğıt faturanın pratik sonuçları:
+
+- Ceza her belge için ayrı ayrı kesilir ve tespit sayısı arttıkça asgari tutar yükselir.
+- Kâğıt faturayı düzenleyen kadar kabul eden alıcı için de ceza söz konusu olabilir.
+- Vergi ziyaı doğmuşsa vergi ziyaı cezası ayrıca uygulanır.
 
 Bu nedenle özellikle büyük tutarlı işlemlerde alıcı firmaların, tedarikçilerinin e-Fatura mükellefi olup olmadığını GİB'in "e-Fatura Kayıtlı Kullanıcılar Listesi" üzerinden teyit etmesi kritik öneme sahiptir.
 
