@@ -26,9 +26,9 @@ e-Fatura'ya geçmiş tüm mükellefler aynı anda e-Arşiv Fatura'ya da geçmek 
 
 İhracat işlemi yapan firmalar e-Arşiv ile fatura kesmek zorundadır.
 
-### 5.000 TL Sınırı
+### Kâğıt Fatura Kullananlar
 
-e-Fatura/e-Arşiv mükellefi olmayanlar bile, 5.000 TL (vergi mükellefi olmayanlara 30.000 TL) üzeri satışlar için e-Arşiv kullanmak zorundadır.
+e-Fatura/e-Arşiv kullanıcısı olmayan mükellefler 2026'dan itibaren tüm faturalarını e-Arşiv düzenlemek zorunda. Basit usul ve işletme hesabı mükellefleri için tarih 1 Ocak 2027 (2026'da 3.000 TL üzeri). Ayrıntılar
 
 ## e-Arşiv Fatura programının öne çıkan özellikleri nelerdir?
 
