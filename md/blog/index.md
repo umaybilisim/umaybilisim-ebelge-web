@@ -6,6 +6,13 @@ Kaynak: https://www.e-devlethizmetleri.com/blog/
 
 Mevzuat güncellemeleri, geçiş rehberleri, sektörel ipuçları ve dijital muhasebe haberleri.
 
+2027 e-Arşiv
+27 Ekim 2026 8 dk okuma
+
+## 2027'de Kâğıt Fatura Bitiyor: Esnafa e-Arşiv Rehberi
+
+Basit usul ve işletme hesabı mükellefleri 1 Ocak 2027'den itibaren tüm faturalarını e-Arşiv düzenleyecek. Kimler kapsamda, takvim ve hazırlık adımları.
+
 e-Fatura Zorunluluk
 5 Temmuz 2026 10 dk okuma
 
