@@ -1,10 +1,12 @@
 # Yapılacaklar
 
-## ▶ NEREDE KALDIK (son güncelleme: 17.10.2026)
+## ▶ NEREDE KALDIK (son güncelleme: 27.10.2026)
 
 > İçerik/sayfa değişikliğinden sonra sıra: commit → `python scripts/update_sitemap_lastmod.py` → `python scripts/build_llms_full.py` → `python scripts/build_md.py` → commit + push.
 
 **▶ Bir sonraki oturumda ilk iş:** ~31.10.2026 GSC kontrolü (madde 2). Açık kalanlar: 2, 5, 6, 8. Bugün kapananlar: 1, 3, 4, 7.
+
+**27.10.2026 – yeni blog yazısı:** `/blog/kagit-fatura-bitiyor-2027-e-arsiv` (589 Sıra No.lu VUK Tebliği: basit usul + işletme hesabı mükellefleri için 1.1.2027'den itibaren tüm faturalar e-Arşiv). Blog listesi, sitemap, llms.txt, llms-full, md güncellendi; IndexNow 200. GSC "Dizine eklenmesini iste" → **Kota Aşıldı**; 31.10 kontrolünde bu URL için tekrar iste. Not: eski yazılarda tutarsızlık var (e-fatura-zorunluluk yazısında e-Arşiv için "5.000 TL" ve ceza için "Mükerrer 355"; mevzuatta e-Arşiv sınırı 3.000 TL, kâğıt fatura cezası VUK 353) → kullanıcı onayıyla düzeltilecek.
 
 **17.10.2026 – özet:** GSC 69 dizinde olmayan adres incelendi (sorun yok) · `/sss` ve `/urunler/e-arsiv-fatura` için dizine ekleme istendi · ürün şeması Product → Service · sitemap lastmod betiği · eski `/cozumler/` yönlendirmeleri ilgili sayfalara · CF root→WWW kuralı http'yi de kapsıyor · Clarity doğrulandı, localhost kaydı engellendi.
 
@@ -29,7 +31,7 @@
 
 **Sıradaki işler:**
 1. [x] ~~`iller/sakarya` ve `iller/samsun` dizine ekleme~~ — 17.10.2026'da ikisi de dizinde.
-2. [ ] **~31.10.2026 GSC kontrolü:** `/sss` ve `/urunler/e-arsiv-fatura` dizine girdi mi (URL denetimi); Satıcı girişleri, Ürün snippet'leri ve Yorum snippet'leri raporları boşaldı mı (artık Product şeması yok). GSC dışında: Bing, Yandex, GA4, IndexNow kontrolü (ayrıntı aşağıda) hâlâ yapılmadı.
+2. [ ] **~31.10.2026 GSC kontrolü:** `/sss`, `/urunler/e-arsiv-fatura` ve yeni `/blog/kagit-fatura-bitiyor-2027-e-arsiv` dizine girdi mi (yenisi için dizine ekleme iste) (URL denetimi); Satıcı girişleri, Ürün snippet'leri ve Yorum snippet'leri raporları boşaldı mı (artık Product şeması yok). GSC dışında: Bing, Yandex, GA4, IndexNow kontrolü (ayrıntı aşağıda) hâlâ yapılmadı.
 3. [x] ~~Puan şeması riski~~ — 17.10.2026'da Product → Service ile `aggregateRating` kaldırıldı.
 4. [x] ~~Clarity~~ — 17.10.2026: site tarafı doğrulandı (onaysız/reddet → 0 istek, kabul → kayıt); panelde son 30 günde 6 oturum (Google'dan gelen dahil), JS hatası 0, performans 91/100. Panele `bilgi@umaybilisim.com.tr` iş hesabıyla girilir. localhost kayıtları `js/clarity.js`'te alan adı kontrolüyle engellendi. Trafik düşük çünkü yalnızca çerez kabul edenler kaydediliyor.
 5. [ ] **WhatsApp önizlemesi (madde 56):** Siteyi kendi telefonunda WhatsApp'tan kendine gönder; görsel/başlık doğru mu.
