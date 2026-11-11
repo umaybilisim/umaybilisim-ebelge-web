@@ -1,10 +1,12 @@
 # Yapılacaklar
 
-## ▶ NEREDE KALDIK (son güncelleme: 27.10.2026)
+## ▶ NEREDE KALDIK (son güncelleme: 12.11.2026)
 
 > İçerik/sayfa değişikliğinden sonra sıra: commit → `python scripts/update_sitemap_lastmod.py` → `python scripts/build_llms_full.py` → `python scripts/build_md.py` → commit + push.
 
-**▶ Bir sonraki oturumda ilk iş:** ~31.10.2026 GSC kontrolü (madde 2) — 3 URL için dizine ekleme iste: `/sss`, `/urunler/e-arsiv-fatura`, `/blog/kagit-fatura-bitiyor-2027-e-arsiv`. Açık kalanlar: 2, 5, 6, 8, 9.
+**▶ Bir sonraki oturumda ilk iş:** GSC kontrolü (madde 2) — dizine ekleme iste: `/sss`, `/urunler/e-arsiv-fatura`, `/blog/kagit-fatura-bitiyor-2027-e-arsiv`, `/blog/sahis-sirketi-e-fatura-mali-muhur-mu-e-imza-mi`. GitHub Actions durumunu kontrol et (madde 10). Açık kalanlar: 2, 5, 6, 8, 9, 10.
+
+**11-12.11.2026 – yeni blog yazısı:** `/blog/sahis-sirketi-e-fatura-mali-muhur-mu-e-imza-mi` (gerçek kişi NES / tüzel kişi + adi ortaklık mali mühür; 509 Tebliğ ve TÜRMOB ile doğrulandı). Kullanıcı brifi: madde no/tarih/ücret/limit yazılmadı, tek dış bağlantı `https://e-imzakepsakarya.com/e-imza` (adım 2), yazı sonunda başka bağlantı/CTA yok. **Yayın sorunu:** GitHub Actions çalışmadı (push run'ı kuyrukta takıldı, 2 elle başlatma "startup_failure – unexpected error"); site yerelden `wrangler pages deploy` ile yayınlandı (temiz `git archive HEAD` kopyası, sürüm etiketi eklenerek). Ayrıca bu bilgisayarda `gh` etkin hesabı AYCANGH olmuş ve depoya yazma izni yok; push umaybilisim token'ıyla tek seferlik yapıldı.
 
 **27.10.2026 – özet:** Yeni blog yazısı (2027'de kâğıt fatura bitiyor) yayında · resmî 509 metnine göre 22 sayfada mevzuat hataları düzeltildi (e-Arşiv 3.000 TL, e-Fatura 1 Temmuz kuralı, sektör listeleri, ihracat iddiası, 2026 ceza tutarları) · ana sayfa kayan bandı güncellendi · doğrulanmış kurallar hafızada (reference_mevzuat_509). İçerik yazarken rakam/tarihleri resmî metinden kontrol et.
 
@@ -40,6 +42,7 @@
 6. [ ] **Şehir referansları:** Müşteriden Kocaeli, İstanbul, Bursa ve büyük sanayi şehirleri için gerçek referans iste (ayrıntı aşağıda).
 7. [x] ~~Cloudflare http→www tek adım~~ — 17.10.2026: "Redirect from root to WWW" kuralı `*://e-devlethizmetleri.com/*` → `https://www.e-devlethizmetleri.com/${2}` yapıldı; `http://` apex artık tek adımda www'ye gidiyor (eski 3 adım → 1-2).
 8. [ ] **Ana sayfa bandı (Aralık 2026 sonu):** 30.11 e-Tebligat ve 1.1.2027 mesajları geçince bandı yenile (index.html `.bant-ticker`).
+10. [ ] **GitHub Actions:** Otomatik yayın (push → deploy.yml) 11.11.2026'da çalışmadı. Bir sonraki push'ta çalışıyor mu bak; çalışmıyorsa yerelden yayın: `git archive HEAD` → geçici klasör → `npx wrangler pages deploy <klasör> --project-name=umaybilisim-ebelge-web --branch=main`. `gh` etkin hesabı AYCANGH; kullanıcıya hangi hesabın etkin olacağını sor.
 9. [ ] **Müşteri tarafı:** Google İşletme Profili, Yandex Business, müşteri yorumları, avukat kontrolü, gerçek fotoğraflar; sonra NAP karşılaştırması.
 
 ---
