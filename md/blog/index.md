@@ -6,6 +6,13 @@ Kaynak: https://www.e-devlethizmetleri.com/blog/
 
 Mevzuat güncellemeleri, geçiş rehberleri, sektörel ipuçları ve dijital muhasebe haberleri.
 
+Mali Mühür mü e-İmza mı?
+11 Kasım 2026 7 dk okuma
+
+## Şahıs Şirketi e-Fatura'ya Geçerken Mali Mühür mü e-İmza mı?
+
+Şahıs şirketi sahibi ve serbest meslek erbabı için hangi sertifika gerekir? Mali mühür ile e-imza farkı, meslek gruplarına göre liste ve adım adım geçiş.
+
 2027 e-Arşiv
 27 Ekim 2026 8 dk okuma
 
