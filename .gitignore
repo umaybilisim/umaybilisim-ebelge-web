@@ -32,3 +32,4 @@ __pycache__/
 yeni-site-kontrol-listesi.xlsx
 site-yayin-kontrol-sablonu.xlsx
 ~$*
+.wrangler/
