@@ -4,7 +4,7 @@
 
 > İçerik/sayfa değişikliğinden sonra sıra: commit → `python scripts/update_sitemap_lastmod.py` → `python scripts/build_llms_full.py` → `python scripts/build_md.py` → commit + push.
 
-**▶ Bir sonraki oturumda ilk iş:** GSC kontrolü (madde 2) — dizine ekleme iste: `/sss`, `/urunler/e-arsiv-fatura`, `/blog/kagit-fatura-bitiyor-2027-e-arsiv`, `/blog/sahis-sirketi-e-fatura-mali-muhur-mu-e-imza-mi`. GitHub Actions durumunu kontrol et (madde 10). Açık kalanlar: 2, 5, 6, 8, 9, 10.
+**▶ Bir sonraki oturumda ilk iş:** GSC kontrolü (madde 2) — `/sss` ve `/urunler/e-arsiv-fatura` için dizine ekleme iste; `/blog/kagit-fatura-bitiyor-2027-e-arsiv` ve `/blog/sahis-sirketi-e-fatura-mali-muhur-mu-e-imza-mi` için 11.11.2026'da istendi → dizine girdi mi bak. GitHub Actions durumunu kontrol et (madde 10). Açık kalanlar: 2, 5, 6, 8, 9, 10.
 
 **11-12.11.2026 – yeni blog yazısı:** `/blog/sahis-sirketi-e-fatura-mali-muhur-mu-e-imza-mi` (gerçek kişi NES / tüzel kişi + adi ortaklık mali mühür; 509 Tebliğ ve TÜRMOB ile doğrulandı). Kullanıcı brifi: madde no/tarih/ücret/limit yazılmadı, tek dış bağlantı `https://e-imzakepsakarya.com/e-imza` (adım 2), yazı sonunda başka bağlantı/CTA yok. **Yayın sorunu:** GitHub Actions çalışmadı (push run'ı kuyrukta takıldı, 2 elle başlatma "startup_failure – unexpected error"); site yerelden `wrangler pages deploy` ile yayınlandı (temiz `git archive HEAD` kopyası, sürüm etiketi eklenerek). Ayrıca bu bilgisayarda `gh` etkin hesabı AYCANGH olmuş ve depoya yazma izni yok; push umaybilisim token'ıyla tek seferlik yapıldı.
 
