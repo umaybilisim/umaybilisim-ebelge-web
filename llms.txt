@@ -74,6 +74,7 @@ Standart bir e-Fatura geçişi 1-3 iş günü içinde tamamlanır. DİA ERP, Log
 
 ## Blog & Rehberler
 
+- [Şahıs Şirketi e-Fatura'ya Geçerken Mali Mühür mü e-İmza mı?](https://www.e-devlethizmetleri.com/blog/sahis-sirketi-e-fatura-mali-muhur-mu-e-imza-mi) — Gerçek kişi mükellefler (şahıs şirketi, serbest meslek erbabı) e-belgeleri kendi nitelikli elektronik sertifikasıyla (e-imza) imzalayabilir; tüzel kişiler ve adi ortaklıklar mali mühür kullanır. Karşılaştırma tablosu, meslek gruplarına göre liste, geçiş adımları ve sık hatalar.
 - [2027'de Kâğıt Fatura Bitiyor: Esnafa e-Arşiv Rehberi](https://www.e-devlethizmetleri.com/blog/kagit-fatura-bitiyor-2027-e-arsiv) — Basit usul ve işletme hesabı mükellefleri için 1 Ocak 2027'den itibaren tutar sınırı olmadan e-Arşiv zorunluluğu (589 Sıra No.lu VUK Tebliği), 2025–2027 takvimi, portal ve entegratör karşılaştırması.
 - [e-Fatura Nedir? 2026 Tam Geçiş Rehberi](https://www.e-devlethizmetleri.com/blog/e-fatura-nedir-2026-rehberi) — e-Fatura'nın tanımı, zorunluluk kriterleri, başvuru adımları ve geçiş süreci hakkında kapsamlı rehber.
 - [e-Faturaya Nasıl Geçilir? Adım Adım Tam Rehber 2026](https://www.e-devlethizmetleri.com/blog/e-faturaya-nasil-gecilir) — Mali mühür başvurusundan GİB aktivasyonuna kadar e-Fatura geçişinin adım adım anlatımı.
