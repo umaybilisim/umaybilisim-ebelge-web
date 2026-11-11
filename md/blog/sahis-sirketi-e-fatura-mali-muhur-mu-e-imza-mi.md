@@ -4,7 +4,7 @@
 
 Kaynak: https://www.e-devlethizmetleri.com/blog/sahis-sirketi-e-fatura-mali-muhur-mu-e-imza-mi
 
-11 Kasım 2026 7 dakika okuma Umay Bilişim
+12 Kasım 2026 7 dakika okuma Umay Bilişim
 Şirketlerin e-Fatura için mali mühür kullandığını çoğu kişi bilir. Peki şahıs şirketi sahibiyseniz ya da mali müşavir, avukat, doktor veya mimar olarak serbest meslek faaliyeti yürütüyorsanız ne yapacaksınız? Bu yazıda gerçek kişi mükellefin e-Fatura'ya geçerken hangi elektronik sertifikaya ihtiyaç duyduğunu, mali mühür ile e-imza arasındaki farkı ve geçişe nereden başlayacağınızı adım adım öğreneceksiniz.
 
 ## Gerçek kişi mükellef kimdir, neden mali mühür almak zorunda değildir?
@@ -29,7 +29,7 @@ Bir örnekle düşünelim: Ayşe Hanım kendi adına bir kırtasiye dükkânı i
 | Kime verilir? | Tüzel kişilere, adi ortaklıklara ve kurumlara; isteyen gerçek kişi mükelleflere | Yalnızca gerçek kişilere (kişinin kendi adına) |
 | Neyi temsil eder? | Şirketin veya kurumun kendisini | Sertifika sahibi kişiyi |
 | Hangi işlemlerde kullanılır? | e-Fatura, e-Arşiv, e-Defter, e-İrsaliye gibi e-belge uygulamaları | Gerçek kişi mükellef olarak e-belgeler; ayrıca kişinin kendi adına yaptığı diğer elektronik işlemler (ör. e-Devlet girişi, KEP) |
-| Nereden alınır? | TÜBİTAK BİLGEM Kamu SM ve GİB'in yetkilendirdiği sertifika sağlayıcıları | BTK tarafından yetkilendirilmiş elektronik sertifika hizmet sağlayıcıları |
+| Nereden alınır? | TÜBİTAK BİLGEM Kamu Sertifikasyon Merkezi'nden (kamusm.gov.tr). | BTK tarafından yetkilendirilmiş birden fazla elektronik sertifika hizmet sağlayıcısından; sağlayıcıyı siz seçersiniz. |
 | Geçerlilik | Sertifikada yazılı süre boyunca; süre bitmeden yenilenmelidir | Sertifikada yazılı süre boyunca; süre bitmeden yenilenmelidir |
 | Hukuki niteliği | Şirketin yetkililerinin kontrolünde kullanılan kurumsal mühür | Elle atılan imza ile aynı hukuki sonucu doğuran kişisel imza |
 

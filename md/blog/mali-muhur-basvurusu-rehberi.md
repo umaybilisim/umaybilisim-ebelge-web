@@ -25,7 +25,7 @@ Mali mühür olmadan e-Fatura düzenleyemezsiniz. Geçiş sürecinin ilk ve en k
 | Serbest Meslek Erbabı (gerçek kişi) | e-İmza (NES) |
 | Şahıs Şirketi (gerçek kişi) | e-İmza (NES) |
 
-Serbest meslek erbabı (doktor, avukat, mali müşavir) ve şahıs şirketi sahibi gerçek kişiler mali mühür değil, nitelikli elektronik sertifika (e-İmza/NES) kullanır. e-İmza, e-Güven, TÜBİTAK BİLGEM veya Türktrust gibi akredite sağlayıcılardan alınabilir.
+Serbest meslek erbabı (doktor, avukat, mali müşavir) ve şahıs şirketi sahibi gerçek kişiler mali mühür değil, nitelikli elektronik sertifika (e-İmza/NES) kullanır. e-İmza, e-Güven, TÜBİTAK BİLGEM veya Türktrust gibi akredite sağlayıcılardan alınabilir. Sakarya ve çevresinde nitelikli elektronik sertifika başvurusu için e-imza hizmetimizden destek alabilirsiniz. Gerçek kişi mükellefin mali mühür yerine e-imza ile nasıl geçiş yapacağını ayrı bir yazıda adım adım anlattık.
 
 ## 3. Mali mühür başvurusu için hangi belgeler gerekir?
 

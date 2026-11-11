@@ -7,7 +7,7 @@ Kaynak: https://www.e-devlethizmetleri.com/blog/
 Mevzuat güncellemeleri, geçiş rehberleri, sektörel ipuçları ve dijital muhasebe haberleri.
 
 Mali Mühür mü e-İmza mı?
-11 Kasım 2026 7 dk okuma
+12 Kasım 2026 7 dk okuma
 
 ## Şahıs Şirketi e-Fatura'ya Geçerken Mali Mühür mü e-İmza mı?
 
